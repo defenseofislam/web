@@ -26,11 +26,11 @@ function IslamComponent1() {
           transmitted to the Prophet Muhammad (peace be upon him) through the
           Angel Gabriel. Critics, however, argue that it is a human-authored
           text influenced by historical, cultural, and religious contexts. This
-          article examines the Quran's divine claims, its linguistic and literary
-          uniqueness, historical transmission, scientific and prophecies, and
-          responses to criticisms. Through a multidisciplinary approach, this
-          study evaluates the evidence for and against the Quran's divine
-          origin.
+          article examines the Quran's divine claims, its linguistic and
+          literary uniqueness, historical transmission, scientific and
+          prophecies, and responses to criticisms. Through a multidisciplinary
+          approach, this study evaluates the evidence for and against the
+          Quran's divine origin.
         </Paragraph>
 
         <hr />
@@ -72,7 +72,38 @@ function IslamComponent1() {
           direct revelation.
         </Paragraph>
 
-        <Title level={4}>3. Linguistic and Literary Uniqueness</Title>
+        <Title level={4}>3. Qur'an’s Unmatched Challenge</Title>
+        <Paragraph>
+          The Qur'an boldly issues a challenge unlike any other in religious
+          history:{" "}
+          <Text mark>
+            “If you are in doubt about what We have revealed to Our servant,
+            then produce a chapter like it.” (Qur'an 2:23)
+          </Text>{" "}
+          This is not poetic flair — it's a direct intellectual confrontation.
+          For over 1,400 years, critics, linguists, and enemies of Islam have
+          failed to meet this challenge. Despite possessing mastery in Arabic,
+          vast literary resources, and even political motivation to disprove
+          Islam,{" "}
+          <Text strong>
+            no one — not a scholar, not an empire — has succeeded in imitating
+            its linguistic precision, unparalleled eloquence, prophetic depth,
+            and cohesive message.
+          </Text>{" "}
+          Orientalists, Arab poets, and modern skeptics have either ignored the
+          challenge or made feeble attempts that collapse under scrutiny.
+          {"\n\n"}This failure is not just poetic—it’s empirical. The Qur’an is
+          not a book born of Muhammad's (PBUH) imagination or human culture; it
+          speaks with a voice that transcends time, politics, and geography.
+          <Text underline>
+            If this were man-made, why has no one matched it — even with modern
+            AI, literary academies, and centuries of opposition?
+          </Text>{" "}
+          The challenge still stands — and their silence is louder than any
+          verse.
+        </Paragraph>
+
+        <Title level={4}>4. Linguistic and Literary Uniqueness</Title>
         <Paragraph>
           The Quran's linguistic structure has been described as unparalleled in
           Arabic literature. Key aspects include:
@@ -90,7 +121,7 @@ function IslamComponent1() {
           clearly shows the truth."* — *Tafsir Ibn Kathir*
         </Paragraph>
 
-        <Title level={4}>4. Historical Preservation & Textual Integrity</Title>
+        <Title level={4}>5. Historical Preservation & Textual Integrity</Title>
         <Paragraph>
           Unlike other scriptures, the Quran has been preserved with minimal
           variation:
@@ -106,7 +137,7 @@ function IslamComponent1() {
           meticulous care."* — *Dr. Bart Ehrman (Textual Scholar)*
         </Paragraph>
 
-        <Title level={4}>5. Scientific and Prophetic Accuracy</Title>
+        <Title level={4}>6. Scientific and Prophetic Accuracy</Title>
         <Paragraph>
           The Quran contains statements that align with modern science, despite
           being revealed in the 7th century:
@@ -121,7 +152,7 @@ function IslamComponent1() {
           "The Bible, The Quran, and Science")*
         </Paragraph>
 
-        <Title level={4}>6. Counterarguments and Responses</Title>
+        <Title level={4}>7. Counterarguments and Responses</Title>
         <Paragraph>
           Critics raise objections, including:
           {"\n\n"} - <Text mark>Alleged Borrowing:</Text> Some claim the Quran
@@ -136,45 +167,7 @@ function IslamComponent1() {
           would contain contradictions (Quran 4:82), yet none exist.*
         </Paragraph>
 
-        <Title level={4}>2. The Age of Aisha and Historical Context</Title>
-        <Paragraph>
-          One of the frequently cited criticisms against the Prophet Muhammad
-          (peace be upon him) involves his marriage to Aisha (may Allah be
-          pleased with her), who is traditionally believed to have been young at
-          the time of marriage. According to most Hadith sources, she was six at
-          the time of the marriage contract and nine when the marriage was
-          consummated.
-        </Paragraph>
-        <Paragraph>
-          <Text strong>Historical context is crucial</Text> in understanding
-          this matter. In 7th-century Arabia, social norms, including age of
-          maturity and marital customs, differed significantly from those of the
-          modern world. Puberty marked the beginning of adulthood, and it was
-          common for marriages to be arranged soon after.
-        </Paragraph>
-        <Paragraph>
-          <Text underline>Islamic scholars</Text> and historians emphasize that
-          this marriage was not considered immoral or inappropriate in that time
-          and culture. Furthermore, Aisha grew up to be one of the most
-          influential scholars of Islam, narrating over 2,000 hadiths and
-          playing a vital role in the preservation of Islamic knowledge.
-        </Paragraph>
-        <Paragraph>
-          Critics often impose <Text italic>modern ethical standards</Text> onto
-          historical events without considering the socio-cultural environment.
-          Many societies throughout history, including in Europe and Asia,
-          practiced similar customs. The focus should be on the moral framework
-          within which the Prophet lived and the profound impact Aisha had on
-          Islamic civilization.
-        </Paragraph>
-        <Paragraph>
-          Ultimately, this discussion underscores the importance of{" "}
-          <Text mark>historical literacy</Text> when interpreting events from
-          ancient societies. Judging ancient figures by contemporary standards
-          can lead to distorted conclusions.
-        </Paragraph>
-
-        <Title level={4}>7. Conclusion</Title>
+        <Title level={4}>8. Conclusion</Title>
         <Paragraph>
           The Quran’s divine claims, linguistic brilliance, historical
           preservation, scientific insights, and fulfilled prophecies present a
