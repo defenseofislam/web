@@ -86,7 +86,7 @@ const About = () => {
           </Paragraph>
           <Paragraph>
             We aim to equip Muslims with knowledge to confidently represent
-            Islam in interfaith dialogues. city
+            Islam in interfaith dialogues. 
           </Paragraph>
         </div>
       ),
@@ -96,9 +96,7 @@ const About = () => {
       title: "Contact Information",
       content: (
         <div>
-          <Paragraph>Email: contact@srdefense.com</Paragraph>
-          <Paragraph>Phone: +1 (234) 567-8900</Paragraph>
-          <Paragraph>Address: 123 Islamic Way, Knowledge City</Paragraph>
+          <Paragraph>Email: defenseofislam.kk@gmail.com</Paragraph>
         </div>
       ),
     },
@@ -234,7 +232,7 @@ const About = () => {
   return (
     <div style={{ padding: "0 16px" }}>
       <Title level={2} style={{ textAlign: "center", marginBottom: "24px" }}>
-        About SR Defense
+        About Defense Of Islam
       </Title>
 
       <div style={{ marginBottom: 24, maxWidth: 500, margin: "0 auto 24px" }}>

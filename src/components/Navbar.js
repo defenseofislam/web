@@ -174,7 +174,7 @@ const Navbar = () => {
             whiteSpace: "nowrap",
           }}
         >
-          SR Defense
+          Defense Of Islam
         </Title>
       </Link>
 

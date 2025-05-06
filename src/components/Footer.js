@@ -24,7 +24,7 @@ function AppFooter() {
       <Space direction="vertical" size="middle" style={{ width: "100%" }}>
         <div>
           <Text strong style={{ color: "white", fontSize: "1.2rem" }}>
-            SR Defense
+            Defense Of Islam
           </Text>
           <Divider
             style={{
@@ -54,7 +54,7 @@ function AppFooter() {
 
         <Space size="large" style={{ marginTop: "8px" }}>
           <Link
-            href="/sr-defense/about"
+            href="/web/about"
             style={{ color: "rgba(255,255,255,0.8)" }}
           >
             About Us
