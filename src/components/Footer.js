@@ -66,13 +66,13 @@ function AppFooter() {
           <Link href="/web/privacy-policy" style={{ color: "rgba(255,255,255,0.8)" }}>
             Privacy Policy
           </Link>
-          <Link href="#" style={{ color: "rgba(255,255,255,0.8)" }}>
+          <Link href="/web/terms-of-service" style={{ color: "rgba(255,255,255,0.8)" }}>
             Terms of Service
           </Link>
         </Space>
 
         <Text style={{ color: "rgba(255,255,255,0.6)", fontSize: "0.8rem" }}>
-          © {new Date().getFullYear()} SR Defense. All rights reserved.
+          © {new Date().getFullYear()} Defense Of Islam. All rights reserved.
         </Text>
       </Space>
     </Footer>

@@ -15,6 +15,7 @@ import Hinduism from "./pages/Hinduism";
 import AppFooter from "./components/Footer";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
 import Contact from "./pages/Contact";
+import TermsOfService from "./pages/Tos";
 
 const { Content } = Layout;
 
@@ -36,6 +37,7 @@ function App() {
             <Route path="/hinduism" element={<Hinduism />} />
             <Route path="/privacy-policy" element={<PrivacyPolicy />} />
             <Route path="/contact-us" element={<Contact />} />
+            <Route path="/terms-of-service" element={<TermsOfService />} />
             <Route path="*" element={<Home />} />
           </Routes>
         </Content>
