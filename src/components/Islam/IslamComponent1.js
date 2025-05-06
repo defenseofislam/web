@@ -1,16 +1,11 @@
-import React, { useEffect, useRef } from "react";
+import React, { useEffect} from "react";
 import { Layout, Typography } from "antd";
 
 const { Content } = Layout;
 const { Title, Paragraph } = Typography;
 
 function IslamComponent1() {
-  const topRef = useRef(null);
-
   useEffect(() => {
-    // Scroll to top when component mounts
-
-    // Alternative if scrollIntoView doesn't work in your environment:
     window.scrollTo(0, 0);
   }, []);
   return (
