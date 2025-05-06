@@ -5,7 +5,7 @@ const { Content } = Layout;
 function Islam() {
   return (
     <Content style={{ padding: "24px" }}>
-      <h2>Islam Content Coming soon..</h2>
+      <h2>Islamic Content Coming soon..</h2>
     </Content>
   );
 }
