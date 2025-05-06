@@ -71,6 +71,45 @@ const Islam = () => {
           <Paragraph>
            2. Second topic - <Link to="/islam/1">Visit article</Link>
           </Paragraph>
+          <Paragraph>
+           2. Second topic - <Link to="/islam/1">Visit article</Link>
+          </Paragraph>
+          <Paragraph>
+           2. Second topic - <Link to="/islam/1">Visit article</Link>
+          </Paragraph>
+          <Paragraph>
+           2. Second topic - <Link to="/islam/1">Visit article</Link>
+          </Paragraph>
+          <Paragraph>
+           2. Second topic - <Link to="/islam/1">Visit article</Link>
+          </Paragraph>
+          <Paragraph>
+           2. Second topic - <Link to="/islam/1">Visit article</Link>
+          </Paragraph>
+          <Paragraph>
+           2. Second topic - <Link to="/islam/1">Visit article</Link>
+          </Paragraph>
+          <Paragraph>
+           2. Second topic - <Link to="/islam/1">Visit article</Link>
+          </Paragraph>
+          <Paragraph>
+           2. Second topic - <Link to="/islam/1">Visit article</Link>
+          </Paragraph>
+          <Paragraph>
+           2. Second topic - <Link to="/islam/1">Visit article</Link>
+          </Paragraph>
+          <Paragraph>
+           2. Second topic - <Link to="/islam/1">Visit article</Link>
+          </Paragraph>
+          <Paragraph>
+           2. Second topic - <Link to="/islam/1">Visit article</Link>
+          </Paragraph>
+          <Paragraph>
+           2. Second topic - <Link to="/islam/1">Visit article</Link>
+          </Paragraph>
+          <Paragraph>
+           2. Second topic - <Link to="/islam/1">Visit article</Link>
+          </Paragraph>
         </div>
       ),
     },
@@ -156,6 +195,7 @@ const Islam = () => {
       ),
     },
   ];
+
 
   // Process data for search and highlighting
   useEffect(() => {
