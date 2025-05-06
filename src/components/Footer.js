@@ -7,9 +7,9 @@ import {
   InstagramOutlined,
   YoutubeOutlined,
 } from "@ant-design/icons";
-
+import { Link } from "react-router-dom";
 const { Footer } = Layout;
-const { Text, Link } = Typography;
+const { Text } = Typography;
 
 function AppFooter() {
   return (
@@ -55,18 +55,18 @@ function AppFooter() {
 
         <Space size="large" style={{ marginTop: "8px" }}>
           <Link
-            href="/about"
+            to="/about"
             style={{ color: "rgba(255,255,255,0.8)" }}
           >
             About Us
           </Link>
-          <Link href="/contact-us" style={{ color: "rgba(255,255,255,0.8)" }}>
+          <Link to="/contact-us" style={{ color: "rgba(255,255,255,0.8)" }}>
             Contact
           </Link>
-          <Link href="/privacy-policy" style={{ color: "rgba(255,255,255,0.8)" }}>
+          <Link to="/privacy-policy" style={{ color: "rgba(255,255,255,0.8)" }}>
             Privacy Policy
           </Link>
-          <Link href="/terms-of-service" style={{ color: "rgba(255,255,255,0.8)" }}>
+          <Link to="/terms-of-service" style={{ color: "rgba(255,255,255,0.8)" }}>
             Terms of Service
           </Link>
         </Space>
