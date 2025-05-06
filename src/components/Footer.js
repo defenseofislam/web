@@ -3,7 +3,6 @@ import { Layout } from "antd";
 import { Typography, Space, Divider } from "antd";
 import {
   FacebookOutlined,
-  TwitterOutlined,
   InstagramOutlined,
   YoutubeOutlined,
 } from "@ant-design/icons";
