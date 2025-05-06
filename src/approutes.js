@@ -5,6 +5,7 @@ import Islam from "./pages/Islam";
 import Christianity from "./pages/Christianity";
 import Judaism from "./pages/Judaism";
 import Atheism from "./pages/Atheism";
+import Buddhism from "./pages/Buddhism";
 import Agnosticism from "./pages/Agnosticism";
 import Darwinism from "./pages/Darwinism";
 import Hinduism from "./pages/Hinduism";
@@ -22,6 +23,7 @@ const routes = [
   { path: "/islam", element: <Islam /> },
   { path: "/christianity", element: <Christianity /> },
   { path: "/judaism", element: <Judaism /> },
+  { path: "/buddhism", element: <Buddhism /> },
   { path: "/atheism", element: <Atheism /> },
   { path: "/agnosticism", element: <Agnosticism /> },
   { path: "/darwinism", element: <Darwinism /> },

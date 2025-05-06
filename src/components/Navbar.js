@@ -14,6 +14,7 @@ import AtheismIcon from "../assets/atheism.jpeg";
 import AgnosticismIcon from "../assets/agnosticism-4163376-3448916.png";
 import DarwinismIcon from "../assets/darwin.png";
 import HinduismIcon from "../assets/pngtree-hindu-om-symbol-vector-icon-png-image_1872496.jpg";
+import BuddhismIcon from "../assets/buddha-statue-icon-simple-social-600nw-2525229493.webp"
 
 const { Header } = Layout;
 const { Title } = Typography;
@@ -91,6 +92,21 @@ const Navbar = () => {
       label: (
         <Link to="/judaism" onClick={() => setDrawerVisible(false)}>
           Judaism
+        </Link>
+      ),
+    },
+    {
+      key: "5.1",
+      icon: (
+        <img
+          src={BuddhismIcon}
+          alt="Placeholder"
+          style={{ width: 32, height: 32, position: "relative", top: 8 }}
+        />
+      ),
+      label: (
+        <Link to="/buddhism" onClick={() => setDrawerVisible(false)}>
+          Buddhism
         </Link>
       ),
     },
