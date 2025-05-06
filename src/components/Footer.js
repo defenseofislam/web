@@ -18,6 +18,7 @@ function AppFooter() {
         backgroundColor: "#001529",
         color: "white",
         padding: "24px 0",
+        marginTop:30,
         textAlign: "center",
       }}
     >

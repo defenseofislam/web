@@ -61,7 +61,7 @@ const Islam = () => {
   const tableData = [
     {
       key: "1",
-      title: "Our Mission",
+      title: "Qur'an",
       content: (
         <div>
           <Paragraph>
@@ -77,26 +77,82 @@ const Islam = () => {
     },
     {
       key: "2",
-      title: "Our Vision",
+      title: "Hadiths",
       content: (
         <div>
-          <Paragraph>
-            To become the most trusted online platform for Islamic defense and
-            dawah materials.
-          </Paragraph>
-          <Paragraph>
-            We aim to equip Muslims with knowledge to confidently represent
-            Islam in interfaith dialogues. 
-          </Paragraph>
+          <Paragraph>coming soon..</Paragraph>
+        </div>
+      ),
+    },
+    {
+      key: "3",
+      title: "Prophethood",
+      content: (
+        <div>
+          <Paragraph>coming soon..</Paragraph>
         </div>
       ),
     },
     {
       key: "4",
-      title: "Contact Information",
+      title: "Islam & Science",
       content: (
         <div>
-          <Paragraph>Email: defenseofislam.kk@gmail.com</Paragraph>
+          <Paragraph>coming soon..</Paragraph>
+        </div>
+      ),
+    },
+    {
+      key: "5",
+      title: "Islamic Jurisprudence",
+      content: (
+        <div>
+          <Paragraph>coming soon..</Paragraph>
+        </div>
+      ),
+    },
+    {
+      key: "6",
+      title: "Women in Islam",
+      content: (
+        <div>
+          <Paragraph>coming soon..</Paragraph>
+        </div>
+      ),
+    },
+    {
+      key: "7",
+      title: "Non Muslims & Islam",
+      content: (
+        <div>
+          <Paragraph>coming soon..</Paragraph>
+        </div>
+      ),
+    },
+    {
+      key: "8",
+      title: "Violence & Jihad",
+      content: (
+        <div>
+          <Paragraph>coming soon..</Paragraph>
+        </div>
+      ),
+    },
+    {
+      key: "9",
+      title: "Islamic History",
+      content: (
+        <div>
+          <Paragraph>coming soon..</Paragraph>
+        </div>
+      ),
+    },
+    {
+      key: "10",
+      title: "Islamic Theology",
+      content: (
+        <div>
+          <Paragraph>coming soon..</Paragraph>
         </div>
       ),
     },
