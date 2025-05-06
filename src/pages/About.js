@@ -1,284 +1,52 @@
-import React, { useState, useEffect } from "react";
-import { Table, Typography, Input, Button, Empty } from "antd";
-import {
-  CaretRightOutlined,
-  CaretDownOutlined,
-  MailOutlined,
-} from "@ant-design/icons";
+import React from "react";
+import { Layout, Typography, Divider } from "antd";
 
-const { Title, Paragraph, Text } = Typography;
-const { Search } = Input;
+const { Content } = Layout;
+const { Title, Paragraph } = Typography;
 
-// Helper component to highlight matched text
-const HighlightText = ({ text, search }) => {
-  if (!search || !text) return text;
-
-  const regex = new RegExp(`(${search})`, "gi");
-  return text.split(regex).map((part, i) =>
-    part.toLowerCase() === search.toLowerCase() ? (
-      <Text mark key={i}>
-        {part}
-      </Text>
-    ) : (
-      part
-    )
-  );
-};
-
-// Recursive function to highlight text in React elements
-const highlightContent = (node, search) => {
-  if (!node || !search) return node;
-
-  if (typeof node === "string") {
-    return <HighlightText text={node} search={search} />;
-  }
-
-  if (React.isValidElement(node)) {
-    return React.cloneElement(
-      node,
-      {},
-      React.Children.map(node.props.children, (child) =>
-        highlightContent(child, search)
-      )
-    );
-  }
-
-  return node;
-};
-
-const About = () => {
-  const [expandedRow, setExpandedRow] = useState(null);
-  const [searchText, setSearchText] = useState("");
-  const [processedData, setProcessedData] = useState([]);
-
-  const handleExpand = (record) => {
-    if (record.content) {
-      setExpandedRow(expandedRow === record.key ? null : record.key);
-    }
-  };
-
-  // Original table data
-  const tableData = [
-    {
-      key: "1",
-      title: "Our Mission",
-      content: (
-        <div>
-          <Paragraph>
-            To provide authentic Islamic knowledge and defend Islam against
-            misconceptions through evidence-based responses.
-          </Paragraph>
-          <Paragraph>
-            We rely on Quranic verses and authentic Hadith to address modern
-            challenges facing Muslims worldwide.
-          </Paragraph>
-        </div>
-      ),
-    },
-    {
-      key: "2",
-      title: "Our Vision",
-      content: (
-        <div>
-          <Paragraph>
-            To become the most trusted online platform for Islamic defense and
-            dawah materials.
-          </Paragraph>
-          <Paragraph>
-            We aim to equip Muslims with knowledge to confidently represent
-            Islam in interfaith dialogues. 
-          </Paragraph>
-        </div>
-      ),
-    },
-  ];
-
-  // Process data for search and highlighting
-  useEffect(() => {
-    if (!searchText) {
-      setProcessedData(tableData);
-      setExpandedRow(null);
-      return;
-    }
-
-    const lowerSearch = searchText.toLowerCase();
-    const newData = tableData.map((item) => {
-      // Check for matches in title
-      const titleMatch = item.title.toLowerCase().includes(lowerSearch);
-      let contentMatch = false;
-      let highlightedContent = item.content;
-
-      // Check for matches in content
-      if (item.content) {
-        // Convert content to plain text for matching
-        const contentString = React.Children.toArray(
-          item.content.props.children
-        )
-          .map((child) => {
-            if (typeof child === "string") return child;
-            if (child.props?.children)
-              return React.Children.toArray(child.props.children).join(" ");
-            return "";
-          })
-          .join(" ")
-          .toLowerCase();
-
-        contentMatch = contentString.includes(lowerSearch);
-
-        // Highlight content if matched
-        if (contentMatch) {
-          highlightedContent = React.cloneElement(
-            item.content,
-            {},
-            highlightContent(item.content, searchText)
-          );
-        }
-      }
-
-      // Highlight title if matched
-      const highlightedTitle = titleMatch ? (
-        <HighlightText text={item.title} search={searchText} />
-      ) : (
-        item.title
-      );
-
-      return {
-        ...item,
-        highlightedTitle,
-        highlightedContent,
-        shouldExpand: titleMatch || contentMatch,
-      };
-    });
-
-    setProcessedData(newData);
-
-    // Auto-expand first matching row
-    const firstMatch = newData.find((item) => item.shouldExpand);
-    setExpandedRow(firstMatch?.key || null);
-    //eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [searchText]);
-
-  // Filter data based on search
-  const filteredData = processedData.filter(
-    (item) => item.shouldExpand || !searchText
-  );
-
-  const handleSearch = (value) => {
-    setSearchText(value);
-  };
-
-  const handleSubmitTopic = () => {
-    alert(
-      "Thank you for considering to contribute in this website. Please feel free to suggest this topic. May Allah reward you!"
-    );
-    const subject = "Topic Suggestion for SR Defense";
-    const body = `Assalamu Alaikum,\n\nI would like to suggest the following topic for inclusion on your website:\n\n[Please describe your topic here (You searched for "${searchText}"). Kindly Explain from below this line about this "${searchText}" topic. This topic will be added in future In Sha Allah]\n\nJazakAllah Khair`;
-
-    // Check if mobile device
-    const isMobile =
-      /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
-        navigator.userAgent
-      );
-
-    if (isMobile) {
-      // For mobile, use simple mailto link
-      window.location.href = `mailto:defenseofislam.kk@gmail.com?subject=${encodeURIComponent(
-        subject
-      )}&body=${encodeURIComponent(body)}`;
-    } else {
-      // For desktop, try to open Gmail directly
-      const mailtoLink = `https://mail.google.com/mail/?view=cm&fs=1&to=defenseofislam.kk@gmail.com&su=${encodeURIComponent(
-        subject
-      )}&body=${encodeURIComponent(body)}`;
-      window.open(mailtoLink, "_blank", "noopener,noreferrer");
-    }
-  };
-
-  const columns = [
-    {
-      title: "About SR Defense",
-      dataIndex: "title",
-      key: "title",
-      render: (text, record) => (
-        <div
-          style={{
-            display: "flex",
-            alignItems: "center",
-            cursor: record.content ? "pointer" : "default",
-          }}
-          onClick={() => handleExpand(record)}
-        >
-          {record.content &&
-            (expandedRow === record.key ? (
-              <CaretDownOutlined style={{ marginRight: 8 }} />
-            ) : (
-              <CaretRightOutlined style={{ marginRight: 8 }} />
-            ))}
-          {record.highlightedTitle || text}
-        </div>
-      ),
-    },
-  ];
-
+function AboutUs() {
   return (
-    <div style={{ padding: "0 16px" }}>
-      <Title level={2} style={{ textAlign: "center", marginBottom: "24px" }}>
-        About Defense Of Islam
-      </Title>
+    <Content style={{ padding: "24px", maxWidth: "900px", margin: "auto" }}>
+      <Typography>
+        <Title level={2}>About Us</Title>
+        <Divider />
 
-      <div style={{ marginBottom: 24, maxWidth: 500, margin: "0 auto 24px" }}>
-        <Search
-          placeholder="Search about topics..."
-          allowClear
-          enterButton
-          size="large"
-          onChange={(e) => handleSearch(e.target.value)}
-          onSearch={handleSearch}
-        />
-      </div>
+        <Paragraph>
+          <strong>Defense of Islam</strong> is an independent initiative aimed at presenting the true teachings of Islam
+          as conveyed through the Qur’an, authentic Hadiths, and scholarly understanding. In a time of misinformation and
+          rising hostility toward Islam, our goal is to educate, clarify, and respond to misconceptions with knowledge and dignity.
+        </Paragraph>
 
-      <Table
-        columns={columns}
-        dataSource={filteredData.length > 0 ? filteredData : []}
-        pagination={false}
-        bordered
-        showHeader={false}
-        expandable={{
-          expandedRowRender: (record) =>
-            record.highlightedContent || record.content,
-          expandedRowKeys: expandedRow ? [expandedRow] : [],
-          expandIcon: () => null,
-          rowExpandable: (record) => !!record.content,
-        }}
-        style={{
-          width: "95%",
-          margin: "0 auto",
-          boxShadow: "0 2px 8px rgba(0, 0, 0, 0.15)",
-        }}
-        locale={{
-          emptyText: (
-            <Empty
-              description={
-                <span>
-                  No results matched. Would you like to submit this "
-                  {searchText}"" topic to me?
-                </span>
-              }
-            >
-              <Button
-                type="primary"
-                icon={<MailOutlined />}
-                onClick={handleSubmitTopic}
-                style={{ marginTop: 16 }}
-              >
-                Suggest This Topic Via Email
-              </Button>
-            </Empty>
-          ),
-        }}
-      />
-    </div>
+        <Paragraph>
+          Our platform publishes in-depth articles, evidence-based refutations, and thoughtful analysis on various
+          theological and philosophical topics. We do not promote hatred or intolerance—rather, we aim to build
+          understanding by engaging with arguments sincerely and intellectually.
+        </Paragraph>
+
+        <Paragraph>
+          Topics we cover include:
+          <ul>
+            <li>Qur’anic science and interpretation</li>
+            <li>Authenticity of Hadiths</li>
+            <li>Life and Prophethood of Muhammad ﷺ</li>
+            <li>Islamic law and jurisprudence</li>
+            <li>Responses to criticisms of Islam</li>
+            <li>Critiques of atheism, Christianity, Hinduism, and other worldviews</li>
+          </ul>
+        </Paragraph>
+
+        <Paragraph>
+          We welcome respectful discussion and feedback. Our commitment is to remain truthful, intellectually honest, and
+          grounded in the Islamic scholarly tradition.
+        </Paragraph>
+
+        <Paragraph type="secondary">
+          This site is maintained voluntarily. All views expressed represent the Islamic perspective unless otherwise
+          noted.
+        </Paragraph>
+      </Typography>
+    </Content>
   );
-};
+}
 
-export default About;
+export default AboutUs;
