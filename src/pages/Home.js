@@ -20,7 +20,7 @@ const updates = [
   },
   {
     title:
-      "3. New Aricle on Islam: Is Qur'an word of God & Plagiarism Claims Refutation ",
+      "3. New Aricle on Islam: Is Qur'an word of God?",
     date: "Published on 19:33:12 IST May 6, 2025",
     link: "/islam/quran/1",
   },
