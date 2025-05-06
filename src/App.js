@@ -17,6 +17,7 @@ import AppFooter from "./components/Footer";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
 import Contact from "./pages/Contact";
 import TermsOfService from "./pages/Tos";
+import IslamComponent2 from "./components/Islam/IslamComponent2";
 
 const { Content } = Layout;
 
@@ -40,6 +41,7 @@ function App() {
             <Route path="/contact-us" element={<Contact />} />
             <Route path="/terms-of-service" element={<TermsOfService />} />
             <Route path="/islam/1" element={<IslamComponent1 />} />
+            <Route path="/islam/2" element={<IslamComponent2 />} />
             <Route path="*" element={<Home />} />
           </Routes>
         </Content>

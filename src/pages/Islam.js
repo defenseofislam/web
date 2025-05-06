@@ -69,46 +69,7 @@ const Islam = () => {
             1. Is Qur'an word of God? - <Link to="/islam/1">Visit article</Link>
           </Paragraph>
           <Paragraph>
-           2. Second topic - <Link to="/islam/1">Visit article</Link>
-          </Paragraph>
-          <Paragraph>
-           2. Second topic - <Link to="/islam/1">Visit article</Link>
-          </Paragraph>
-          <Paragraph>
-           2. Second topic - <Link to="/islam/1">Visit article</Link>
-          </Paragraph>
-          <Paragraph>
-           2. Second topic - <Link to="/islam/1">Visit article</Link>
-          </Paragraph>
-          <Paragraph>
-           2. Second topic - <Link to="/islam/1">Visit article</Link>
-          </Paragraph>
-          <Paragraph>
-           2. Second topic - <Link to="/islam/1">Visit article</Link>
-          </Paragraph>
-          <Paragraph>
-           2. Second topic - <Link to="/islam/1">Visit article</Link>
-          </Paragraph>
-          <Paragraph>
-           2. Second topic - <Link to="/islam/1">Visit article</Link>
-          </Paragraph>
-          <Paragraph>
-           2. Second topic - <Link to="/islam/1">Visit article</Link>
-          </Paragraph>
-          <Paragraph>
-           2. Second topic - <Link to="/islam/1">Visit article</Link>
-          </Paragraph>
-          <Paragraph>
-           2. Second topic - <Link to="/islam/1">Visit article</Link>
-          </Paragraph>
-          <Paragraph>
-           2. Second topic - <Link to="/islam/1">Visit article</Link>
-          </Paragraph>
-          <Paragraph>
-           2. Second topic - <Link to="/islam/1">Visit article</Link>
-          </Paragraph>
-          <Paragraph>
-           2. Second topic - <Link to="/islam/1">Visit article</Link>
+           2. Allegation of Plagiarism  - <Link to="/islam/2">Visit article</Link>
           </Paragraph>
         </div>
       ),
