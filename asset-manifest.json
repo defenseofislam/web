@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/web/static/css/main.e6c13ad2.css",
+    "main.js": "/web/static/js/main.f8d5690d.js",
+    "static/js/453.c5eaf93b.chunk.js": "/web/static/js/453.c5eaf93b.chunk.js",
+    "static/media/darwin.png": "/web/static/media/darwin.8007cf29c231ac443982.png",
+    "static/media/agnosticism-4163376-3448916.png": "/web/static/media/agnosticism-4163376-3448916.5aa79573fcb2b5f1b340.png",
+    "static/media/judaism.jpg": "/web/static/media/judaism.f7f5e8acc8cdaa6cc3c9.jpg",
+    "static/media/islam.png": "/web/static/media/islam.704086ec02d555a9373c.png",
+    "static/media/pngtree-hindu-om-symbol-vector-icon-png-image_1872496.jpg": "/web/static/media/pngtree-hindu-om-symbol-vector-icon-png-image_1872496.412155d8f42a281a677a.jpg",
+    "index.html": "/web/index.html",
+    "main.e6c13ad2.css.map": "/web/static/css/main.e6c13ad2.css.map",
+    "main.f8d5690d.js.map": "/web/static/js/main.f8d5690d.js.map",
+    "453.c5eaf93b.chunk.js.map": "/web/static/js/453.c5eaf93b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f8d5690d.js"
+  ]
+}
