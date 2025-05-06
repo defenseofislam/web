@@ -3,23 +3,8 @@ import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { Layout } from "antd";
 import Navbar from "./components/Navbar";
-import Home from "./pages/Home";
-import About from "./pages/About";
-import Islam from "./pages/Islam";
-import Christianity from "./pages/Christianity";
-import Judaism from "./pages/Judaism";
-import Atheism from "./pages/Atheism";
-import Agnosticism from "./pages/Agnosticism";
-import Darwinism from "./pages/Darwinism";
-import Hinduism from "./pages/Hinduism";
 import AppFooter from "./components/Footer";
-import PrivacyPolicy from "./pages/PrivacyPolicy";
-import Contact from "./pages/Contact";
-import TermsOfService from "./pages/Tos";
-import IslamComponent1 from "./components/Islam/quran/IslamComponent1";
-import IslamComponent2 from "./components/Islam/quran/IslamComponent2";
-import IslamComponent3 from "./components/Islam/hadith/IslamComponent3";
-import DarwinComponent1 from "./components/Darwinism/DarwinComponent1";
+import routes from "./approutes";
 const { Content } = Layout;
 
 function App() {
@@ -29,23 +14,9 @@ function App() {
         <Navbar />
         <Content>
           <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="/about" element={<About />} />
-            <Route path="/islam" element={<Islam />} />
-            <Route path="/christianity" element={<Christianity />} />
-            <Route path="/judaism" element={<Judaism />} />
-            <Route path="/atheism" element={<Atheism />} />
-            <Route path="/agnosticism" element={<Agnosticism />} />
-            <Route path="/darwinism" element={<Darwinism />} />
-            <Route path="/hinduism" element={<Hinduism />} />
-            <Route path="/privacy-policy" element={<PrivacyPolicy />} />
-            <Route path="/contact-us" element={<Contact />} />
-            <Route path="/terms-of-service" element={<TermsOfService />} />
-            <Route path="/islam/quran/1" element={<IslamComponent1 />} />
-            <Route path="/islam/quran/2" element={<IslamComponent2 />} />
-            <Route path="/islam/hadith/1" element={<IslamComponent3 />} />
-            <Route path="/darwinism/dn-vs-ct/1" element={<DarwinComponent1 />} />
-            <Route path="*" element={<Home />} />
+            {routes.map(({ path, element }, index) => (
+              <Route key={index} path={path} element={element} />
+            ))}
           </Routes>
         </Content>
         <AppFooter />
