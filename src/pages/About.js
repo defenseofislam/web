@@ -14,7 +14,8 @@ function AboutUs() {
         <Paragraph>
           <strong>Defense of Islam</strong> is an independent initiative aimed at presenting the true teachings of Islam
           as conveyed through the Qur’an, authentic Hadiths, and scholarly understanding. In a time of misinformation and
-          rising hostility toward Islam, our goal is to educate, clarify, and respond to misconceptions with knowledge and dignity.
+          rising hostility toward Islam, our goal is to educate, clarify, and respond to misconceptions with knowledge and dignity. Our mission is also to make this website a universal central hub for the knowledge on Islam and other religions.
+          Surely, it will take a lot of time and effort to commit this goal, but as we all know the proverb : "small drops of water makes a mighty ocean"!
         </Paragraph>
 
         <Paragraph>
