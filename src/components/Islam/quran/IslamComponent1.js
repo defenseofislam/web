@@ -26,7 +26,7 @@ function IslamComponent1() {
           transmitted to the Prophet Muhammad (peace be upon him) through the
           Angel Gabriel. Critics, however, argue that it is a human-authored
           text influenced by historical, cultural, and religious contexts. This
-          paper examines the Quran's divine claims, its linguistic and literary
+          article examines the Quran's divine claims, its linguistic and literary
           uniqueness, historical transmission, scientific and prophecies, and
           responses to criticisms. Through a multidisciplinary approach, this
           study evaluates the evidence for and against the Quran's divine

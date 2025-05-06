@@ -19,6 +19,7 @@ import TermsOfService from "./pages/Tos";
 import IslamComponent1 from "./components/Islam/quran/IslamComponent1";
 import IslamComponent2 from "./components/Islam/quran/IslamComponent2";
 import IslamComponent3 from "./components/Islam/hadith/IslamComponent3";
+import DarwinComponent1 from "./components/Darwinism/DarwinComponent1";
 const { Content } = Layout;
 
 function App() {
@@ -43,6 +44,7 @@ function App() {
             <Route path="/islam/quran/1" element={<IslamComponent1 />} />
             <Route path="/islam/quran/2" element={<IslamComponent2 />} />
             <Route path="/islam/hadith/1" element={<IslamComponent3 />} />
+            <Route path="/darwinism/dn-vs-ct/1" element={<DarwinComponent1 />} />
             <Route path="*" element={<Home />} />
           </Routes>
         </Content>
