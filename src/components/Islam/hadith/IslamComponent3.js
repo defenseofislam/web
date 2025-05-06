@@ -236,16 +236,55 @@ function IslamComponent3() {
 
         <Title level={4}>6. Conclusion</Title>
         <Paragraph>
-          The age of Ayesha (R.A.) at marriage is well-documented in Islamic
-          tradition and must be understood within its historical context. While
-          modern sensibilities may find this difficult to reconcile,{" "}
+          The age of Aisha (R.A.) at marriage is extensively documented in
+          Islamic tradition and supported by the strongest hadith collections.
+          Rather than being an anomaly, her marriage to the Prophet Muhammad
+          (PBUH) aligned with the cultural, biological, and societal norms of
+          7th-century Arabia. The obsession with this topic by modern critics is
+          not grounded in sincere historical inquiry but often stems from
+          ideological hostility, cultural superiority complexes, and a refusal
+          to understand Islam on its own terms.
+        </Paragraph>
+        <Paragraph>
           <Text mark>
-            Islamic scholarship maintains that the Prophet’s (PBUH) actions were
-            in accordance with divine wisdom and the norms of his time.
+            Islamic scholarship affirms that the Prophet’s (PBUH) actions were
+            guided by revelation, not desire.
           </Text>{" "}
-          For Muslims, the focus remains on Ayesha’s (R.A.) immense
-          contributions to Islam as a scholar and spiritual leader, rather than
-          contemporary debates that impose modern values on the past.
+          His marriage to Aisha (R.A.) was neither exploitative nor deviant—it
+          was divinely sanctioned, socially accepted, and personally empowering
+          for Aisha herself, who emerged as one of the most formidable
+          intellectuals in Islamic history.
+        </Paragraph>
+        <Paragraph>
+          Yet critics remain selectively outraged. Why is there no equal
+          scrutiny of Biblical patriarchs like Isaac, who married Rebecca when
+          she was a young girl? Or the Catholic Church, which sanctioned child
+          marriages well into the 20th century? Or Hindu texts that describe
+          marriages at even younger ages? If concern for ethics were genuine,
+          these traditions would be held to the same standard. But they’re
+          not—because the target is not child marriage, it's Islam.
+        </Paragraph>
+        <Paragraph>
+          <Text strong>
+            This is not about protecting children. It’s about demonizing Islam.
+          </Text>{" "}
+          Critics do not seek clarity—they seek to weaponize discomfort and
+          ignorance. The real intellectual dishonesty lies in cherry-picking
+          Islamic traditions while giving other religions and cultures a pass.
+        </Paragraph>
+        <Paragraph>
+          Aisha’s (R.A.) legacy speaks for itself: a scholar, teacher, jurist,
+          and leader whose influence outlasted empires. Muslims see her not
+          through the lens of modern Western bias, but as a figure of immense
+          wisdom, strength, and piety. Those who reduce her to a statistic do
+          injustice not only to her legacy but to the truth itself.
+        </Paragraph>
+        <Paragraph>
+          <Text italic>
+            “If your outrage is only ever aimed at Islam while you stay silent
+            about similar practices in other traditions, then your problem isn’t
+            with the practice—it’s with the religion.”
+          </Text>
         </Paragraph>
 
         <hr />
