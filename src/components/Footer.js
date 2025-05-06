@@ -55,18 +55,18 @@ function AppFooter() {
 
         <Space size="large" style={{ marginTop: "8px" }}>
           <Link
-            href="/web/about"
+            href="/about"
             style={{ color: "rgba(255,255,255,0.8)" }}
           >
             About Us
           </Link>
-          <Link href="/web/contact-us" style={{ color: "rgba(255,255,255,0.8)" }}>
+          <Link href="/contact-us" style={{ color: "rgba(255,255,255,0.8)" }}>
             Contact
           </Link>
-          <Link href="/web/privacy-policy" style={{ color: "rgba(255,255,255,0.8)" }}>
+          <Link href="/privacy-policy" style={{ color: "rgba(255,255,255,0.8)" }}>
             Privacy Policy
           </Link>
-          <Link href="/web/terms-of-service" style={{ color: "rgba(255,255,255,0.8)" }}>
+          <Link href="/terms-of-service" style={{ color: "rgba(255,255,255,0.8)" }}>
             Terms of Service
           </Link>
         </Space>
