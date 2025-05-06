@@ -36,15 +36,6 @@ const Navbar = () => {
       ),
     },
     {
-      key: "2",
-      icon: <InfoCircleOutlined />,
-      label: (
-        <Link to="/about" onClick={() => setDrawerVisible(false)}>
-          About
-        </Link>
-      ),
-    },
-    {
       key: "3",
       icon: (
         <img

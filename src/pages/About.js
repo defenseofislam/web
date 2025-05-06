@@ -91,15 +91,6 @@ const About = () => {
         </div>
       ),
     },
-    {
-      key: "4",
-      title: "Contact Information",
-      content: (
-        <div>
-          <Paragraph>Email: defenseofislam.kk@gmail.com</Paragraph>
-        </div>
-      ),
-    },
   ];
 
   // Process data for search and highlighting

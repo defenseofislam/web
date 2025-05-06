@@ -60,10 +60,10 @@ function AppFooter() {
           >
             About Us
           </Link>
-          <Link href="#" style={{ color: "rgba(255,255,255,0.8)" }}>
+          <Link href="/web/contact-us" style={{ color: "rgba(255,255,255,0.8)" }}>
             Contact
           </Link>
-          <Link href="#" style={{ color: "rgba(255,255,255,0.8)" }}>
+          <Link href="/web/privacy-policy" style={{ color: "rgba(255,255,255,0.8)" }}>
             Privacy Policy
           </Link>
           <Link href="#" style={{ color: "rgba(255,255,255,0.8)" }}>

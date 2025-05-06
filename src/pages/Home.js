@@ -18,8 +18,10 @@ function Home() {
 
         <Paragraph>
           This website also includes respectful but critical analysis of other belief systems — including Christianity,
-          Hinduism, and Atheism — in light of Islamic theology. Our purpose is not to insult, but to engage in honest
-          comparison and highlight where Islam stands apart.
+          Hinduism, Judaism, Agnostisicsm, Darwinism and Atheism — in light of Islamic theology. Our purpose is not to insult, but to engage in honest
+          comparison and highlight where Islam stands apart. We do not encourage to use the materials provided in this website for trolling purpose or spreading hate towards any specific community.
+          We Truly believe in humble behaviour and living with kindness towards all human beings.
+          Qur'an Ch 60. V.8 - "Allah does not forbid you from dealing kindly and fairly with those who have neither fought nor driven you out of your homes. Surely Allah loves those who are fair."
         </Paragraph>
 
         <Paragraph>
