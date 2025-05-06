@@ -1,5 +1,5 @@
 import React from "react";
-import { Layout, Typography, Space, Button, Card, List } from "antd";
+import { Layout, Typography, Button, Card, List } from "antd";
 import { Link } from "react-router-dom";
 
 const { Content } = Layout;

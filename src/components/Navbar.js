@@ -4,7 +4,6 @@ import { Link } from "react-router-dom";
 import { Layout, Menu, Typography, Grid, Drawer, Button } from "antd";
 import {
   HomeOutlined,
-  InfoCircleOutlined,
   MenuOutlined,
   CloseOutlined,
 } from "@ant-design/icons";
