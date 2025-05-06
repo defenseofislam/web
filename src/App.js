@@ -6,6 +6,7 @@ import Navbar from "./components/Navbar";
 import Home from "./pages/Home";
 import About from "./pages/About";
 import Islam from "./pages/Islam";
+import IslamComponent1 from "./components/Islam/IslamComponent1";
 import Christianity from "./pages/Christianity";
 import Judaism from "./pages/Judaism";
 import Atheism from "./pages/Atheism";
@@ -38,6 +39,7 @@ function App() {
             <Route path="/privacy-policy" element={<PrivacyPolicy />} />
             <Route path="/contact-us" element={<Contact />} />
             <Route path="/terms-of-service" element={<TermsOfService />} />
+            <Route path="/islam/1" element={<IslamComponent1 />} />
             <Route path="*" element={<Home />} />
           </Routes>
         </Content>

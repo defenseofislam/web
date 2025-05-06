@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Table, Typography, Input, Button, Empty } from "antd";
+import { Link } from "react-router-dom";
 import {
   CaretRightOutlined,
   CaretDownOutlined,
@@ -65,12 +66,10 @@ const Islam = () => {
       content: (
         <div>
           <Paragraph>
-            To provide authentic Islamic knowledge and defend Islam against
-            misconceptions through evidence-based responses.
+            1. Is Qur'an word of God? - <Link to="/islam/1">Visit article</Link>
           </Paragraph>
           <Paragraph>
-            We rely on Quranic verses and authentic Hadith to address modern
-            challenges facing Muslims worldwide.
+           2. Second topic - <Link to="/islam/1">Visit article</Link>
           </Paragraph>
         </div>
       ),
