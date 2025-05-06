@@ -1,10 +1,13 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { Layout, Typography, Card, Button } from "antd";
 
 const { Content } = Layout;
 const { Title, Paragraph } = Typography;
 
 function Contact() {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
   const handleSubmitTopic = () => {
     // Check if mobile device
     const isMobile =
