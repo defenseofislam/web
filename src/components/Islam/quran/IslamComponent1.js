@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import { Layout, Typography } from "antd";
 
 const { Content } = Layout;
-const { Title, Paragraph,Text } = Typography;
+const { Title, Paragraph, Text } = Typography;
 
 function IslamComponent1() {
   useEffect(() => {
@@ -134,6 +134,44 @@ function IslamComponent1() {
           existed, none matches the Quran’s depth and structure.
           {"\n\n"}*Muslim scholars argue that if the Quran were man-made, it
           would contain contradictions (Quran 4:82), yet none exist.*
+        </Paragraph>
+
+        <Title level={4}>2. The Age of Aisha and Historical Context</Title>
+        <Paragraph>
+          One of the frequently cited criticisms against the Prophet Muhammad
+          (peace be upon him) involves his marriage to Aisha (may Allah be
+          pleased with her), who is traditionally believed to have been young at
+          the time of marriage. According to most Hadith sources, she was six at
+          the time of the marriage contract and nine when the marriage was
+          consummated.
+        </Paragraph>
+        <Paragraph>
+          <Text strong>Historical context is crucial</Text> in understanding
+          this matter. In 7th-century Arabia, social norms, including age of
+          maturity and marital customs, differed significantly from those of the
+          modern world. Puberty marked the beginning of adulthood, and it was
+          common for marriages to be arranged soon after.
+        </Paragraph>
+        <Paragraph>
+          <Text underline>Islamic scholars</Text> and historians emphasize that
+          this marriage was not considered immoral or inappropriate in that time
+          and culture. Furthermore, Aisha grew up to be one of the most
+          influential scholars of Islam, narrating over 2,000 hadiths and
+          playing a vital role in the preservation of Islamic knowledge.
+        </Paragraph>
+        <Paragraph>
+          Critics often impose <Text italic>modern ethical standards</Text> onto
+          historical events without considering the socio-cultural environment.
+          Many societies throughout history, including in Europe and Asia,
+          practiced similar customs. The focus should be on the moral framework
+          within which the Prophet lived and the profound impact Aisha had on
+          Islamic civilization.
+        </Paragraph>
+        <Paragraph>
+          Ultimately, this discussion underscores the importance of{" "}
+          <Text mark>historical literacy</Text> when interpreting events from
+          ancient societies. Judging ancient figures by contemporary standards
+          can lead to distorted conclusions.
         </Paragraph>
 
         <Title level={4}>7. Conclusion</Title>

@@ -9,10 +9,10 @@ const tableData = [
     content: (
       <div>
         <Paragraph>
-          1. Is Qur'an word of God? - <Link to="/islam/1">Visit article</Link>
+          1. Is Qur'an word of God? - <Link to="/islam/quran/1">Visit article</Link>
         </Paragraph>
         <Paragraph>
-          2. Allegation of Plagiarism - <Link to="/islam/2">Visit article</Link>
+          2. Allegation of Plagiarism - <Link to="/islam/quran/2">Visit article</Link>
         </Paragraph>
       </div>
     ),
@@ -22,7 +22,10 @@ const tableData = [
     title: "Hadiths",
     content: (
       <div>
-        <Paragraph>coming soon..</Paragraph>
+        <Paragraph>
+          1. How Old Was Ayesha (R.A.) at the Time of Her Marriage? A Historical
+          and Theological Analysis - <Link to="/islam/hadith/1">Visit article</Link>
+        </Paragraph>
       </div>
     ),
   },

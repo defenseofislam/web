@@ -6,7 +6,6 @@ import Navbar from "./components/Navbar";
 import Home from "./pages/Home";
 import About from "./pages/About";
 import Islam from "./pages/Islam";
-import IslamComponent1 from "./components/Islam/IslamComponent1";
 import Christianity from "./pages/Christianity";
 import Judaism from "./pages/Judaism";
 import Atheism from "./pages/Atheism";
@@ -17,8 +16,9 @@ import AppFooter from "./components/Footer";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
 import Contact from "./pages/Contact";
 import TermsOfService from "./pages/Tos";
-import IslamComponent2 from "./components/Islam/IslamComponent2";
-
+import IslamComponent1 from "./components/Islam/quran/IslamComponent1";
+import IslamComponent2 from "./components/Islam/quran/IslamComponent2";
+import IslamComponent3 from "./components/Islam/hadith/IslamComponent3";
 const { Content } = Layout;
 
 function App() {
@@ -40,8 +40,9 @@ function App() {
             <Route path="/privacy-policy" element={<PrivacyPolicy />} />
             <Route path="/contact-us" element={<Contact />} />
             <Route path="/terms-of-service" element={<TermsOfService />} />
-            <Route path="/islam/1" element={<IslamComponent1 />} />
-            <Route path="/islam/2" element={<IslamComponent2 />} />
+            <Route path="/islam/quran/1" element={<IslamComponent1 />} />
+            <Route path="/islam/quran/2" element={<IslamComponent2 />} />
+            <Route path="/islam/hadith/1" element={<IslamComponent3 />} />
             <Route path="*" element={<Home />} />
           </Routes>
         </Content>
