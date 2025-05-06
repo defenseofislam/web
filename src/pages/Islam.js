@@ -58,9 +58,9 @@ const Islam = () => {
     }
   };
 
-  // Original table data
-  
-
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
 
   // Process data for search and highlighting
   useEffect(() => {
