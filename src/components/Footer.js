@@ -8,6 +8,7 @@ import {
   YoutubeOutlined,
 } from "@ant-design/icons";
 import { Link } from "react-router-dom";
+import X from "../assets/2fb909b74a854f0715e64dda5825990d.jpg";
 const { Footer } = Layout;
 const { Text } = Typography;
 
@@ -18,7 +19,7 @@ function AppFooter() {
         backgroundColor: "#001529",
         color: "white",
         padding: "24px 0",
-        marginTop:30,
+        marginTop: 30,
         textAlign: "center",
       }}
     >
@@ -39,25 +40,54 @@ function AppFooter() {
         </div>
 
         <Space size="large">
-          <Link href="#" style={{ color: "white" }}>
+          <Link
+            href="#"
+            style={{ color: "white" }}
+            onClick={() => {
+              alert(
+                "We are not on Facebook yet. As soon as we open our facebook page dedicated to Defense of Islam, the link would be working. Till then, Thank you for your patience."
+              );
+            }}
+          >
             <FacebookOutlined style={{ fontSize: "20px" }} />
           </Link>
-          <Link href="#" style={{ color: "white" }}>
-            <TwitterOutlined style={{ fontSize: "20px" }} />
+          <Link
+            href="#"
+            style={{ color: "white" }}
+            onClick={() => {
+              alert(
+                "We are not on X yet. As soon as we open our X page dedicated to Defense of Islam, the link would be working. Till then, Thank you for your patience."
+              );
+            }}
+          >
+            <img src={X} alt="X" style={{ width: 20, height: 20 }} />
           </Link>
-          <Link href="#" style={{ color: "white" }}>
+          <Link
+            href="#"
+            style={{ color: "white" }}
+            onClick={() => {
+              alert(
+                "We are not on Instagram yet. As soon as we open our instagram page dedicated to Defense of Islam, the link would be working. Till then, Thank you for your patience."
+              );
+            }}
+          >
             <InstagramOutlined style={{ fontSize: "20px" }} />
           </Link>
-          <Link href="#" style={{ color: "white" }}>
+          <Link
+            href="#"
+            style={{ color: "white" }}
+            onClick={() => {
+              alert(
+                "We are not on Youtube yet. As soon as we open our youtube channel dedicated to Defense of Islam, the link would be working. Till then, Thank you for your patience."
+              );
+            }}
+          >
             <YoutubeOutlined style={{ fontSize: "20px" }} />
           </Link>
         </Space>
 
         <Space size="large" style={{ marginTop: "8px" }}>
-          <Link
-            to="/about"
-            style={{ color: "rgba(255,255,255,0.8)" }}
-          >
+          <Link to="/about" style={{ color: "rgba(255,255,255,0.8)" }}>
             About Us
           </Link>
           <Link to="/contact-us" style={{ color: "rgba(255,255,255,0.8)" }}>
@@ -66,7 +96,10 @@ function AppFooter() {
           <Link to="/privacy-policy" style={{ color: "rgba(255,255,255,0.8)" }}>
             Privacy Policy
           </Link>
-          <Link to="/terms-of-service" style={{ color: "rgba(255,255,255,0.8)" }}>
+          <Link
+            to="/terms-of-service"
+            style={{ color: "rgba(255,255,255,0.8)" }}
+          >
             Terms of Service
           </Link>
         </Space>
