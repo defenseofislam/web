@@ -28,7 +28,7 @@ function Home() {
           Begin your journey by exploring topics such as the Qur'an, Hadith, or by viewing our refutations and comparative articles.
         </Paragraph>
 
-        <Space direction="horizontal" size="middle">
+        <Space direction="vertical" size="middle">
           <Link to="/islam">
             <Button type="primary">Start with Islam</Button>
           </Link>
@@ -39,6 +39,7 @@ function Home() {
             <Button type="default">See Critique of Atheism</Button>
           </Link>
         </Space>
+        
       </Typography>
     </Content>
   );
