@@ -58,7 +58,9 @@ const CommentBox = (props) => {
   };
 
   return (
-    <Card style={{ maxWidth: 600, margin: "2rem auto",backgroundColor:"#f5f5f5" }}>
+    <Card
+      style={{ maxWidth: 600, margin: "2rem auto", backgroundColor: "#f5f5f5" }}
+    >
       <Title level={4}>Leave a Comment</Title>
       <TextArea
         rows={5}
