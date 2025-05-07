@@ -225,34 +225,50 @@ function IslamComponent1() {
 
         <Title level={4}>4. Linguistic and Literary Uniqueness</Title>
         <Paragraph>
-          The Qur'an's linguistic form has long been regarded by scholars as a
-          singular literary phenomenon. Its eloquence, structure, and stylistic
-          innovation are not merely artistic traits, but central to its claim of
-          divine origin. Classical Arabic scholars, as well as modern linguists,
-          have attested to its unmatched composition, which transcends
-          conventional categories of Arabic prose and poetry.
+          The <Text strong>Qur'an's linguistic form</Text> has long been
+          regarded by scholars as a {" "}
+          <Text type="success">singular literary phenomenon</Text>. Its{" "}
+          <Text strong>eloquence</Text>,<Text strong>{" "}structure</Text>, and{" "}
+          <Text strong>stylistic innovation</Text> are not merely artistic
+          traits, but{" "}
+          <Text underline>central to its claim of divine origin</Text>.
+          Classical Arabic scholars, as well as modern linguists, have attested
+          to its <Text type="warning">unmatched composition</Text>, which
+          transcends conventional categories of Arabic prose and poetry.
           {"\n\n"} - <Text mark>Inimitable Eloquence (I‘jaz al-Qur’an):</Text>{" "}
           The Qur'an challenges humanity to produce a text like it — even a
-          single chapter — a challenge that remains unmet for over fourteen
-          centuries. This challenge is rooted not only in content but in form,
-          rhythm, and precision (*Qur’an 17:88, 2:23*).
+          <Text strong> {" "}SINGLE</Text> chapter — a challenge that remains{" "}
+          <Text type="danger">unmet for over fourteen centuries</Text>. This
+          challenge is rooted not only in <Text strong>content</Text> but in{" "}
+          <Text strong>form</Text>, <Text italic>rhythm</Text>, and
+          <Text strong> {" "}precision</Text> (<Text code>Qur’an 17:88, 2:23</Text>).
           {"\n"} - <Text mark>Unique Literary Form:</Text> Unlike classical
-          Arabic speech that falls into established modes such as saj‘ (rhymed
-          prose) or mursal (free prose), the Qur’an introduces an entirely new
-          genre — neither poetry nor prose — defying categorization and
-          imitation.
+          Arabic speech that falls into established modes such as{" "}
+          <Text code>saj‘</Text> (rhymed prose) or <Text code>mursal</Text>{" "}
+          (free prose), the Qur’an introduces an
+          <Text type="success">{" "}entirely new genre</Text> — neither poetry nor
+          prose —<Text underline>defying categorization and imitation</Text>.
           {"\n"} -{" "}
           <Text mark>Rhythm, Coherence, and Rhetorical Brilliance:</Text> It
-          employs intricate rhetorical devices, internal coherence (nazm),
-          symmetrical structure, and nuanced repetition, all of which contribute
-          to its emotional and cognitive impact.
-          {"\n"} - <Text mark>Lexical and Grammatical Miracles:</Text> The
-          Qur’an often uses rare expressions, precise word choices, and
-          grammatical constructs that were not characteristic of 7th-century
-          Arabia, leading some philologists to argue that its origin lies beyond
-          human capability.
-          {"\n\n"}*"The Qur’an is a revelation that is clear in itself and
-          clearly shows the truth."* — <i>Tafsir Ibn Kathir</i>
+          employs
+          <Text italic>intricate rhetorical devices</Text>,{" "}
+          <Text strong>internal coherence (nazm)</Text>,
+          <Text strong>{" "}symmetrical structure</Text>, and{" "}
+          <Text strong>nuanced repetition</Text>, all of which contribute to its{" "}
+          <Text type="success">emotional and cognitive impact</Text>.{"\n"} -{" "}
+          <Text mark>Lexical and Grammatical Miracles:</Text> The Qur’an often
+          uses
+          <Text italic>rare expressions</Text>,{" "}
+          <Text strong>precise word choices</Text>, and
+          <Text strong>grammatical constructs</Text> that were not
+          characteristic of 7th-century Arabia, leading some{" "}
+          <Text type="warning">philologists</Text> to argue that its origin lies
+          <Text type="danger">{" "}beyond human capability</Text>.{"\n\n"}
+          <Text italic>
+            "The Qur’an is a revelation that is clear in itself and clearly
+            shows the truth."
+          </Text>{" "}
+          — <Text italic>Tafsir Ibn Kathir</Text>
         </Paragraph>
 
         <Title level={4}>5. Historical Preservation & Textual Integrity</Title>
