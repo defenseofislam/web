@@ -388,60 +388,84 @@ function IslamComponent1() {
 
         <Title level={4}>7. Prophetic Accuracy in the Quran</Title>
         <Paragraph>
-          In addition to its linguistic, historical, and scientific features,
-          the Quran also contains numerous prophecies — specific, time-bound
-          predictions that were later fulfilled — lending credence to its claim
-          of divine origin. Unlike vague generalities or post-event editing,
-          many of these prophecies were revealed during periods of crisis or
-          uncertainty, making their fulfillment even more remarkable.
+          In addition to its <Text type="success">linguistic</Text>,{" "}
+          <Text type="success">historical</Text>, and{" "}
+          <Text type="success">scientific</Text> features, the Quran also
+          contains numerous <Text strong>prophecies</Text> — specific,
+          time-bound predictions that were later <Text strong>FULFILLED</Text> —
+          lending credence to its claim of <Text strong>divine origin</Text>.
+          Unlike vague generalities or post-event editing, many of these
+          prophecies were revealed during periods of crisis or uncertainty,
+          making their fulfillment even more remarkable.
           {"\n\n"} - <Text mark>The Roman-Persian Conflict:</Text> One of the
           most famous examples is found in <Text underline>Quran 30:2–4</Text>,
           which predicted the unlikely comeback of the Romans after a
-          humiliating defeat by the Persians. The verse states, "The Romans have
-          been defeated. In the nearest land. But they, after their defeat, will
-          overcome. Within a few years..." (Arabic: *bid‘a sinīn* — 3 to 9
-          years). At the time, Roman recovery seemed impossible, yet within
-          seven years, Emperor Heraclius successfully recaptured lost
+          humiliating defeat by the Persians. The verse states,{" "}
+          <Text italic>
+            “The Romans have been defeated. In the nearest land. But they, after
+            their defeat, will overcome. Within a few years...”
+          </Text>
+          (Arabic: <Text code>bid‘a sinīn</Text> — 3 to 9 years). At the time,
+          Roman recovery seemed impossible, yet within seven years,{" "}
+          <Text strong>Emperor Heraclius</Text> successfully recaptured lost
           territories, fulfilling the prophecy within the predicted timeframe.
           {"\n"} - <Text mark>Victory of Islam:</Text> In early Meccan years,
           when Muslims were weak and persecuted, the Quran predicted their
-          eventual dominance:{" "}
+          eventual dominance:
           <Text underline>
             “They want to extinguish the light of Allah... But Allah will
             perfect His light.”
-          </Text>{" "}
-          (Quran 9:32). This assertion was fulfilled within a few decades, as
-          Islam rapidly expanded beyond Arabia, reaching Persia, the Levant, and
-          North Africa.
+          </Text>
+          (<Text italic>Quran 9:32</Text>). This assertion was fulfilled within
+          a few decades, as Islam rapidly expanded beyond Arabia, reaching
+          Persia, the Levant, and North Africa.
           {"\n"} - <Text mark>Abu Lahab’s Fate:</Text> The Quran singled out a
-          specific individual, Abu Lahab, for condemnation in{" "}
-          <Text underline>Quran 111</Text>, declaring he would never accept
+          specific individual, <Text strong>Abu Lahab</Text>, for condemnation
+          in <Text underline>Quran 111</Text>, declaring he would never accept
           Islam and would die a disbeliever. This prophecy held true until his
           death despite having ample opportunity to disprove it by merely
           pretending to convert — something that would have contradicted the
           Quran’s verse.
           {"\n"} - <Text mark>Protection of the Quran:</Text> The claim that God
           Himself would preserve the Quran from corruption (
-          <Text underline>Quran 15:9</Text>) has stood the test of time, with
-          textual consistency verified across centuries and geographies,
-          including ancient manuscripts like the Topkapi, Sana’a, and Birmingham
-          fragments.
-          {"\n"} - <Text mark>Signs of the End Times:</Text> The Quran,
-          supplemented by Hadith literature, contains descriptions of moral
-          decay, global communication, economic injustice, and widespread
-          immorality that align closely with contemporary social trends. While
-          such predictions are broad, their convergence with modern patterns is
-          considered compelling by many scholars.
-          {"\n\n"}In religious studies, a prophecy is considered strong evidence
-          of divine revelation when it is: 1) specific, 2) made before the
-          event, 3) beyond the capacity of contemporary knowledge or
-          expectation, and 4) fulfilled in verifiable historical contexts. Many
-          Quranic prophecies meet these criteria, thereby challenging the theory
-          of purely human authorship.
-          {"\n\n"}*“The predictive elements in the Quran are clear, bold, and
-          historically verified. Such precision is hard to explain through
-          guesswork or coincidence.”* —{" "}
-          <i>Dr. Hamza Tzortzis, Researcher in Philosophy of Religion</i>
+          <Text underline>Quran 15:9</Text>) has stood the test of time, with{" "}
+          <Text type="success">textual consistency</Text> verified across
+          centuries and geographies, including ancient manuscripts like the{" "}
+          <Text italic>Topkapi, Sana’a, and Birmingham fragments</Text>.{"\n"} -{" "}
+          <Text mark>Signs of the End Times:</Text> The Quran, supplemented by
+          Hadith literature, contains descriptions of{" "}
+          <Text type="warning">moral decay</Text>,{" "}
+          <Text type="warning">global communication</Text>,{" "}
+          <Text type="warning">economic injustice</Text>, and{" "}
+          <Text type="warning">widespread immorality</Text> that align closely
+          with contemporary social trends. While such predictions are broad,
+          their convergence with modern patterns is considered compelling by
+          many scholars.
+          {"\n\n"}In religious studies, a prophecy is considered{" "}
+          <Text strong>strong evidence</Text> of divine revelation when it is:
+          <Text type="success"> 1) specific</Text>,
+          <Text type="success"> 2) made before the event</Text>,
+          <Text type="success">
+            {" "}
+            3) beyond the capacity of contemporary knowledge or expectation
+          </Text>
+          , and
+          <Text type="success">
+            {" "}
+            4) fulfilled in verifiable historical contexts
+          </Text>
+          . Many Quranic prophecies meet these criteria, thereby challenging the
+          theory of purely human authorship.
+          {"\n\n"}
+          <Text italic>
+            “The predictive elements in the Quran are clear, bold, and
+            historically verified. Such precision is hard to explain through
+            guesswork or coincidence.”
+          </Text>{" "}
+          —{" "}
+          <Text italic>
+            Dr. Hamza Tzortzis, Researcher in Philosophy of Religion
+          </Text>
         </Paragraph>
 
         <Title level={4}>8. Counterarguments and Responses</Title>
