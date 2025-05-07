@@ -1,12 +1,14 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { Layout, Typography, Button, Card, List } from "antd";
 import { Link } from "react-router-dom";
 import updates from "../components/Updates";
 const { Content } = Layout;
 const { Title, Paragraph, Text } = Typography;
 
-
 function Home() {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
   return (
     <Content style={{ padding: "24px" }}>
       <Typography>
