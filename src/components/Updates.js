@@ -1,12 +1,12 @@
 const updates = [
   {
     title: "1.Updated article : Allegations of plagiarism against the Quran",
-    date: "Published on 19:42:12 IST May 6, 2025",
+    date: "Published on 09:12:12 IST May 7, 2025",
     link: "/islam/quran/2",
   },
   {
     title: "2. Updated article : Is Qur'an word of God?",
-    date: "Published on 08:57:21 IST May 6, 2025",
+    date: "Published on 08:57:21 IST May 7, 2025",
     link: "/islam/quran/1",
   },
   {
