@@ -81,7 +81,7 @@ function Home() {
           , and <Text code>Atheism</Text> — in light of Islamic theology. Our
           purpose is <Text type="warning">not to insult</Text>, but to engage in{" "}
           <Text italic>honest comparison</Text> and{" "}
-          <Text strong>highlight where Islam stands apart</Text>.
+          <Text strong>highlight where Islam stands apart</Text>.{" "}
           <Text type="danger">We do not encourage</Text> the use of the
           materials provided on this website for <Text delete>trolling</Text> or{" "}
           <Text delete>spreading hate</Text> toward any specific community. We{" "}
