@@ -129,15 +129,19 @@ function IslamComponent1() {
 
         <Title level={4}>2. The Qur'an's Claim of Divine Authorship</Title>
         <Paragraph>
-          The Qur'an asserts its divine authorship unequivocally and repeatedly
-          throughout its text. Unlike other religious scriptures that often
-          present third-person attributions or are seen as compilations of
-          various authors, the Qur'an speaks in the direct and authoritative
-          voice of God — often using the plural of majesty (“We”) to assert
-          divine agency. This linguistic form is not merely stylistic; it
-          reflects the Qur'an’s self-identification as a revelation from the
-          Creator to all of humanity.
-          {"\n\n"} -{" "}
+          The <Text strong>Qur'an</Text> asserts its{" "}
+          <Text strong>divine authorship</Text>{" "}
+          <Text type="success">unequivocally</Text> and
+          <Text strong> {" "}repeatedly</Text> throughout its text. Unlike other
+          religious scriptures that often present
+          <Text italic>third-person attributions</Text> or are seen as{" "}
+          <Text italic>compilations of various authors</Text>, the Qur'an speaks
+          in the <Text strong>direct and authoritative voice of God</Text> —
+          often using the
+          <Text code>plural of majesty (“We”)</Text> to assert <Text strong>divine agency</Text>.
+          This linguistic form is not merely stylistic; it reflects the Qur'an’s{" "}
+          <Text mark>self-identification as a revelation</Text>  from the
+          <Text strong> {" "}Creator to all of humanity</Text>.{"\n\n"} -{" "}
           <Text mark>
             “Indeed, it is We who sent down the Qur'an, and indeed, We will be
             its guardian.”
@@ -150,19 +154,26 @@ function IslamComponent1() {
             witnesses other than Allah, if you should be truthful.”
           </Text>{" "}
           (Qur'an 2:23)
-          {"\n\n"}These verses are not mere theological assertions; they are
-          bold epistemological claims. The Qur'an not only claims divine origin
-          but simultaneously challenges skeptics to verify or falsify this claim
-          through literary, rational, and historical means. Its demand for
-          imitation — even of a single chapter — is unparalleled in ancient
-          literature.
-          {"\n\n"}Unlike the Bible, which comprises historical narratives,
-          parables, genealogies, and letters often attributed to multiple
-          authors, the Qur'an presents itself as{" "}
+          {"\n\n"}These verses are not mere{" "}
+          <Text italic>theological assertions</Text>; they are{" "}
+          <Text strong>bold epistemological claims</Text>. The Qur'an not only
+          claims <Text strong>divine origin</Text> but simultaneously{" "}
+          <Text type="danger">challenges skeptics</Text> to <Text strong>verify</Text> {" "}or <Text strong>falsify</Text>{" "}
+          this claim through{" "}
+          <Text code>literary, rational, and historical means</Text>. Its demand
+          for imitation — even of a single chapter — is{" "}
+          <Text type="warning">unparalleled in ancient literature</Text>.
+          {"\n\n"}Unlike the Bible, which comprises{" "}
+          <Text italic>
+            historical narratives, parables, genealogies, and letters
+          </Text>{" "}
+          often attributed to multiple authors, the Qur'an presents itself as{" "}
           <Text mark>a single, coherent discourse authored by God Himself</Text>
-          . Its consistency, rhetorical sophistication, and unapologetic divine
-          voice serve as central pillars in its claim of being the final
-          revelation to mankind.
+          . Its <Text strong>consistency</Text>,{" "}
+          <Text strong>rhetorical sophistication</Text>, and{" "}
+          <Text strong>unapologetic divine voice</Text>
+          serve as central pillars in its claim of being the{" "}
+          <Text type="success">final revelation to mankind</Text>.
         </Paragraph>
 
         <Title level={4}>3. Qur'an’s Unmatched Challenge</Title>
