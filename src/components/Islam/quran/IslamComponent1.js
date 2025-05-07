@@ -533,31 +533,47 @@ function IslamComponent1() {
 
         <Title level={4}>8. Conclusion</Title>
         <Paragraph>
-          The Quran stands as a text of unparalleled historical, linguistic,
-          theological, and philosophical significance. Its self-referential
-          claims of divine authorship are supported by a constellation of
-          factors: its remarkable preservation through oral and written
-          transmission, its linguistic form that has resisted imitation for over
-          fourteen centuries, its alignment with certain modern scientific
-          insights, and its accurate prophetic declarations. These elements
-          collectively present a challenge not merely to produce a verse like
-          it, but to account for its enduring impact through purely naturalistic
-          or socio-historical models.
-          {"\n\n"} While critics propose theories of human authorship, literary
-          borrowing, or cultural contextualization, these explanations fall
-          short of addressing the Quran’s internal coherence, structural unity,
-          and moral universality. The fact that the Quran was revealed to an
-          unlettered man in 7th-century Arabia — with no access to global
-          knowledge or literary tools — heightens the question of authorship and
-          origins. The burden of proof, therefore, shifts to the skeptic: how
-          could such a multifaceted and transformative text emerge from such
-          conditions if not from a divine source?
-          {"\n\n"} For more than a billion Muslims, the Quran is not simply a
-          historical scripture; it is the{" "}
-          <Text mark>living, unaltered, and eternal Word of God</Text>, offering
-          guidance, clarity, and spiritual depth for all times and peoples. As
-          both a religious text and an intellectual phenomenon, it continues to
-          invite reflection, study, and—ultimately—humility before its message.
+          The Quran stands as a text of unparalleled{" "}
+          <Text strong>historical</Text>, <Text strong>linguistic</Text>,{" "}
+          <Text strong>theological</Text>, and <Text strong>philosophical</Text>{" "}
+          significance. Its self-referential claims of divine authorship are
+          supported by a constellation of factors: its{" "}
+          <Text type="success">remarkable preservation</Text> through oral and
+          written transmission, its{" "}
+          <Text type="warning">linguistic form</Text> that has resisted
+          imitation for over fourteen centuries, its{" "}
+          <Text type="info">
+            alignment with certain modern scientific insights
+          </Text>
+          , and its{" "}
+          <Text type="warning">accurate prophetic declarations</Text>. These
+          elements collectively present a challenge not merely to produce a
+          verse like it, but to account for its enduring impact through purely{" "}
+          <Text italic>naturalistic</Text> or{" "}
+          <Text italic>socio-historical</Text> models.
+          {"\n\n"}While critics propose theories of{" "}
+          <Text italic>human authorship</Text>,{" "}
+          <Text italic>literary borrowing</Text>, or{" "}
+          <Text italic>cultural contextualization</Text>, these explanations
+          fall short of addressing the Quran’s{" "}
+          <Text strong>internal coherence</Text>,{" "}
+          <Text strong>structural unity</Text>, and{" "}
+          <Text strong>moral universality</Text>. The fact that the Quran was
+          revealed to an <Text italic>unlettered man</Text>{" "}
+          in 7th-century Arabia — with no access to global knowledge or literary
+          tools — heightens the question of authorship and origins. The{" "}
+          <Text type="danger">burden of proof</Text>, therefore, shifts to the
+          skeptic: how could such a multifaceted and transformative text emerge
+          from such conditions if not from a{" "}
+          <Text type="warning">divine source</Text>?{"\n\n"}For more than a
+          billion Muslims, the Quran is not simply a historical scripture; it is
+          the{" "}
+          <Text mark>living, unaltered, and eternal Word of God</Text>, offering{" "}
+          <Text strong>guidance</Text>,{" "}<Text strong>clarity</Text>, and{" "}
+          <Text strong>spiritual depth</Text> for all times and peoples. As both
+          a religious text and an intellectual phenomenon, it continues to
+          invite <Text italic>reflection</Text>,{" "}<Text italic>study</Text>, and —
+          ultimately — <Text italic>humility</Text> before its message.
         </Paragraph>
 
         <hr />
