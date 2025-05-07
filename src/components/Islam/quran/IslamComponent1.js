@@ -17,33 +17,51 @@ function IslamComponent1() {
 
         <Title level={4}>Abstract</Title>
         <Paragraph>
-          The question of whether the Quran constitutes the literal and
-          unmediated word of God represents one of the most enduring and
-          consequential debates within theology, religious studies, and
-          comparative scripture.
-          <Text mark>
+          <Text strong>
+            The question of whether the Quran constitutes the literal and
+            unmediated word of God
+          </Text>{" "}
+          represents one of the most{" "}
+          <Text type="warning">enduring and consequential debates</Text> within
+          theology, religious studies, and comparative scripture.
+          {" "}<Text mark>
             Muslims maintain that the Quran is a verbatim, unaltered revelation
             from God (Allah), delivered to the Prophet Muhammad (peace be upon
             him) through the Angel Gabriel over a span of 23 years.
+          </Text>{" "}
+          Opposing perspectives, particularly within{" "}
+          <Text italic>secular and non-Muslim academic frameworks</Text>,
+          suggest the text may have been shaped by prevailing{" "}
+          <Text type="danger">
+            socio-cultural and inter-religious influences
+          </Text>{" "}
+          of 7th-century Arabia.
+          {"\n\n"}
+          This article adopts a <Text strong>multidisciplinary lens</Text> —
+          incorporating <Text code>linguistic analysis</Text>,
+          <Text code>manuscript history</Text>,{" "}
+          <Text code>philosophical inquiry</Text>, and{" "}
+          <Text code>scientific commentary</Text> — to{" "}
+          <Text underline>critically examine</Text> the Quran’s claim to divine
+          authorship. Special attention is given to:
+          {"\n"} - its{" "}
+          <Text type="success">unmatched literary composition</Text>,{"\n"} -{" "}
+          <Text type="success">remarkable preservation</Text>,{"\n"} -{" "}
+          <Text type="success">
+            references aligning with modern scientific understanding
           </Text>
-          Opposing perspectives, particularly within secular and non-Muslim
-          academic frameworks, suggest the text may have been shaped by
-          prevailing socio-cultural and inter-religious influences of
-          7th-century Arabia.
+          , and
+          {"\n"} - <Text type="success">specific fulfilled prophecies</Text>.
           {"\n\n"}
-          This article adopts a multidisciplinary lens—incorporating linguistic
-          analysis, manuscript history, philosophical inquiry, and scientific
-          commentary—to critically examine the Quran’s claim to divine
-          authorship. Special attention is given to its unmatched literary
-          composition, remarkable preservation, references aligning with modern
-          scientific understanding, and specific fulfilled prophecies.
-          Additionally, the study addresses prominent criticisms, including
-          claims of textual borrowing, contextual limitations, and challenges to
-          its inimitability.
+          Additionally, the study addresses prominent criticisms, including:
+          {"\n"} - <Text type="danger">claims of textual borrowing</Text>,{"\n"}{" "}
+          - <Text type="danger">contextual limitations</Text>, and
+          {"\n"} - <Text type="danger">challenges to its inimitability</Text>.
           {"\n\n"}
-          Ultimately, this paper seeks not only to assess the strength of these
-          arguments but also to explore the broader epistemological implications
-          of divine revelation as asserted by the Quran.
+          <Text strong>Ultimately</Text>, this article seeks not only to assess
+          the strength of these arguments but also to explore the broader
+          <Text italic>epistemological implications</Text> of{" "}
+          <Text underline>divine revelation</Text> as asserted by the Quran.
         </Paragraph>
 
         <hr />
