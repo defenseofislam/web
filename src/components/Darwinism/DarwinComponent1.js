@@ -26,57 +26,81 @@ function DarwinComponent1() {
         </Text>
         <Title level={4}>Abstract</Title>
         <Paragraph>
-          The debate between Darwinian evolution and Creationism remains one of
-          the most polarizing subjects in modern science and theology. While
-          proponents of evolution argue it is grounded in empirical evidence,
-          critics highlight philosophical assumptions, data inconsistencies, and
-          unproven mechanisms that underlie evolutionary theory.{" "}
+          <Text italic>
+            The debate between <Text strong>Darwinian evolution</Text> and{" "}
+            <Text strong>Creationism</Text> remains one of the most{" "}
+            <Text type="danger">polarizing subjects</Text> in modern science and
+            theology.
+          </Text>{" "}
+          While proponents of evolution argue it is grounded in{" "}
+          <Text code>empirical evidence</Text>, critics highlight{" "}
+          <Text type="warning">philosophical assumptions</Text>,{" "}
+          <Text type="warning">data inconsistencies</Text>, and{" "}
+          <Text delete>unproven mechanisms</Text> that underlie evolutionary
+          theory.{" "}
           <Text mark>
             Creationism, particularly within the Islamic tradition, offers a
             theocentric explanation of life rooted in divine intent, purpose,
             and design.
           </Text>{" "}
-          This article critically examines the evidence behind Darwinian claims,
-          challenges to its foundational assumptions, and contrasts it with the
-          intellectual coherence and metaphysical grounding of the Creationist
-          worldview.
+          <Text underline>
+            This article critically examines the evidence behind Darwinian
+            claims, challenges to its foundational assumptions, and contrasts it
+            with the intellectual coherence and metaphysical grounding of the
+            Creationist worldview.
+          </Text>
         </Paragraph>
         <hr />
         <Title level={4}>
           1. Critique of Evolutionary Transitional Fossils
         </Title>
         <Paragraph>
-          Many critics of Islamic tradition appeal to evolutionary theory to
-          assert the superiority of secular science over religious narratives.
-          However, even evolutionary "evidence" is not immune to scrutiny.
-          Several famous transitional fossils, often touted in textbooks and
-          media, have been the subject of intense scientific debate and
-          reevaluation:
-          {"\n\n"} - <Text mark>Tiktaalik:</Text> Commonly cited as a
-          fish-to-tetrapod transitional fossil, yet it was fully aquatic and
-          lacked definitive transitional features. More critically, fossilized
-          trackways of fully walking tetrapods found in Poland predate Tiktaalik
-          by 18 million years, undermining its position in the evolutionary
-          sequence. [Reference: Niedźwiedzki et al., Nature, 2010]
-          {"\n\n"} - <Text mark>Archaeopteryx:</Text> Often hailed as the bridge
+          <Text italic>
+            Many critics of Islamic tradition appeal to evolutionary theory to
+            assert the superiority of secular science over religious narratives.
+          </Text>{" "}
+          However, even evolutionary <Text code>"evidence"</Text> is not immune
+          to scrutiny. Several famous transitional fossils, often touted in
+          textbooks and media, have been the subject of{" "}
+          <Text type="danger">intense scientific debate</Text> and reevaluation:
+          {"\n\n"}- <Text mark>Tiktaalik:</Text> Commonly cited as a
+          fish-to-tetrapod transitional fossil, yet it was
+          <Text strong> fully aquatic </Text>and lacked definitive transitional
+          features. <Text underline>More critically</Text>, fossilized trackways
+          of fully walking tetrapods found in Poland{" "}
+          <Text strong>predate Tiktaalik by 18 million years</Text>, undermining
+          its position in the evolutionary sequence.{" "}
+          <Text type="secondary">
+            [Reference: Niedźwiedzki et al., Nature, 2010]
+          </Text>
+          {"\n\n"}- <Text mark>Archaeopteryx:</Text> Often hailed as the bridge
           between dinosaurs and birds, but many paleontologists now consider it
-          a fully formed bird. It had flight feathers, a wishbone, and perching
-          feet like modern birds. Supposed “reptilian” features have been
-          observed in other extinct avian species, challenging its transitional
-          status. [Source: Feduccia, A., *The Origin and Evolution of Birds*]
-          {"\n\n"} - <Text mark>Australopithecus (e.g., Lucy):</Text> Long
+          a <Text strong>fully formed bird</Text>. It had flight feathers, a
+          wishbone, and perching feet like modern birds. Supposed “reptilian”
+          features have been observed in other extinct avian species,
+          challenging its transitional status.{" "}
+          <Text type="secondary">
+            [Source: Feduccia, A., <i>The Origin and Evolution of Birds</i>]
+          </Text>
+          {"\n\n"}- <Text mark>Australopithecus (e.g., Lucy):</Text> Long
           considered a human ancestor, but her gait was distinct from modern
-          humans, and her cranial and manual features fall within the ape range.
-          Experts like Lord Solly Zuckerman and Charles Oxnard argue
-          Australopithecines are not direct ancestors but an extinct side
-          branch. [References: Zuckerman and Oxnard’s anatomical studies]
-          {"\n\n"} - <Text mark>Pakicetus:</Text> Originally reconstructed from
-          limited fossil material (a jawbone), and prematurely presented as a
-          semi-aquatic whale ancestor. Later, more complete fossils revealed it
-          was fully terrestrial and bore little resemblance to whales. The
-          initial portrayal was driven more by evolutionary expectations than
-          actual data. [Reference: Gingerich et al., 2001; criticism by Phillip
-          Johnson]
+          humans, and her cranial and manual features fall within the{" "}
+          <Text underline>ape range</Text>. Experts like{" "}
+          <Text strong>Lord Solly Zuckerman</Text> and{" "}
+          <Text strong>Charles Oxnard</Text> argue Australopithecines are not
+          direct ancestors but an extinct side branch.{" "}
+          <Text type="secondary">
+            [References: Zuckerman and Oxnard’s anatomical studies]
+          </Text>
+          {"\n\n"}- <Text mark>Pakicetus:</Text> Originally reconstructed from
+          limited fossil material (<Text code>a jawbone</Text>), and prematurely
+          presented as a semi-aquatic whale ancestor. Later, more complete
+          fossils revealed it was <Text strong>fully terrestrial</Text> and bore
+          little resemblance to whales. The initial portrayal was driven more by{" "}
+          <Text delete>evolutionary expectations</Text> than actual data.{" "}
+          <Text type="secondary">
+            [Reference: Gingerich et al., 2001; criticism by Phillip Johnson]
+          </Text>
         </Paragraph>
         <Paragraph>
           <Text strong>This raises an important question:</Text> If scientific
