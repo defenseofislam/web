@@ -1,0 +1,21 @@
+to write a small title -> <Title level={4}></Title>
+
+to highlight a text in yellow -> <Text mark></Text>
+
+To bold a text -> <Text strong></Text>
+
+to underline a text -> <Text underline></Text>
+
+to cut through a text -> <Text delete></Text>
+
+to make a text red in color -> <Text type="danger"></Text>
+
+to make a text yellow in color -> <Text type="warning"></Text>
+
+to make a text red in color -> <Text type="success"></Text>
+
+to make a text italic -> <Text italic></Text>
+
+to make a text grey -> <Paragraph type="secondary" italic></Paragraph>
+
+to make a text enclosed in a box -> <Text code></Text>

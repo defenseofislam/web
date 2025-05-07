@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import { Layout, Typography, Button, Card, List,Grid } from "antd";
+import { Layout, Typography, Button, Card, List, Grid } from "antd";
 import { Link } from "react-router-dom";
 import updates from "../components/Updates";
 import DOI from "../assets/android-chrome-512x512.png";
@@ -16,7 +16,11 @@ function Home() {
   return (
     <Content style={{ padding: "24px" }}>
       {isMobile && (
-        <img src={DOI} alt="Icon" style={{ maxWidth: "100%", height: "auto" }} />
+        <img
+          src={DOI}
+          alt="Icon"
+          style={{ maxWidth: "100%", height: "auto" }}
+        />
       )}
 
       <Typography>
@@ -59,28 +63,40 @@ function Home() {
         </Card>
 
         <Paragraph>
-          Here you will find authentic articles and insights about Islam and its
-          beautiful teachings. We aim to present the truth of Islam and correct
-          the many misconceptions and false claims spread by opponents.
+          Here you will find <Text mark>authentic articles</Text> and{" "}
+          <Text strong>insights about Islam</Text> and its{" "}
+          <Text italic>beautiful teachings</Text>. We aim to{" "}
+          <Text underline>present the truth of Islam</Text> and{" "}
+          <Text strong>correct the many misconceptions</Text> and{" "}
+          <Text type="danger">false claims</Text> spread by opponents.
         </Paragraph>
 
         <Paragraph>
-          This website also includes respectful but critical analysis of other
-          belief systems — including Christianity, Hinduism, Judaism,
-          Agnostisicsm, Darwinism and Atheism — in light of Islamic theology.
-          Our purpose is not to insult, but to engage in honest comparison and
-          highlight where Islam stands apart. We do not encourage to use the
-          materials provided in this website for trolling purpose or spreading
-          hate towards any specific community. We Truly believe in humble
-          behaviour and living with kindness towards all human beings. Qur'an Ch
-          60. V.8 - "Allah does not forbid you from dealing kindly and fairly
-          with those who have neither fought nor driven you out of your homes.
-          Surely Allah loves those who are fair."
+          This website also includes{" "}
+          <Text strong>respectful but critical analysis</Text> of other belief
+          systems — including{" "}
+          <Text code>
+            Christianity, Hinduism, Judaism, Agnosticism, Darwinism
+          </Text>
+          , and <Text code>Atheism</Text> — in light of Islamic theology. Our
+          purpose is <Text type="warning">not to insult</Text>, but to engage in{" "}
+          <Text italic>honest comparison</Text> and{" "}
+          <Text strong>highlight where Islam stands apart</Text>.
+          <Text type="danger">We do not encourage</Text> the use of the
+          materials provided on this website for <Text delete>trolling</Text> or{" "}
+          <Text delete>spreading hate</Text> toward any specific community. We{" "}
+          <Text type="success">truly believe</Text> in{" "}
+          <Text strong>humble behaviour</Text> and{" "}
+          <Text italic>living with kindness</Text> toward all human beings.
         </Paragraph>
 
-        <Paragraph>
-          Begin your journey by exploring topics such as the Qur'an, Hadith, or
-          by viewing our refutations and comparative articles.
+        <Paragraph type="secondary" italic>
+          Qur'an Ch. 60, V.8 –{" "}
+          <Text code>
+            "Allah does not forbid you from dealing kindly and fairly with those
+            who have neither fought nor driven you out of your homes. Surely
+            Allah loves those who are fair."
+          </Text>
         </Paragraph>
       </Typography>
     </Content>
