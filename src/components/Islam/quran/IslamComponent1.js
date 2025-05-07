@@ -1,17 +1,15 @@
-import React, { useEffect, useState } from "react";
-import { Layout, Typography, Card, Input, Button, Space } from "antd";
+import React, { useEffect } from "react";
+import { Layout, Typography } from "antd";
 import CommentBox from "../../CommentBox";
 
 const { Content } = Layout;
 const { Title, Paragraph, Text } = Typography;
-const { TextArea } = Input;
 
 function IslamComponent1() {
-  const [text, setText] = useState("");
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
- 
+
   return (
     <Content style={{ padding: "24px" }}>
       <Typography>
@@ -584,7 +582,10 @@ function IslamComponent1() {
         </Paragraph>
       </Typography>
 
-      <CommentBox title={"Is the Quran the Word of God? A Scholarly Examination"} url={"http://defenseofislam.github.io/web/islam/quran/1"}/>
+      <CommentBox
+        title={"Is the Quran the Word of God? A Scholarly Examination"}
+        url={"http://defenseofislam.github.io/web/islam/quran/1"}
+      />
     </Content>
   );
 }
