@@ -74,7 +74,7 @@ function IslamComponent1() {
           verbatim to the Prophet Muhammad (peace be upon him) through the Angel
           Gabriel over a period of 23 years (610–632 CE). Far from being a
           product of <Text italic>human contemplation</Text> or{" "}
-          <Text italic>collective tradition</Text>, the Qur'an asserts its own
+          <Text italic>collective tradition</Text>, the Qur'an asserts its own{" "}
           <Text strong>divine origin</Text>, <Text strong>inimitability</Text>,
           and <Text strong>authority</Text> as the
           <Text type="warning">final and universal revelation</Text> — one that{" "}
@@ -539,16 +539,14 @@ function IslamComponent1() {
           significance. Its self-referential claims of divine authorship are
           supported by a constellation of factors: its{" "}
           <Text type="success">remarkable preservation</Text> through oral and
-          written transmission, its{" "}
-          <Text type="warning">linguistic form</Text> that has resisted
-          imitation for over fourteen centuries, its{" "}
+          written transmission, its <Text type="warning">linguistic form</Text>{" "}
+          that has resisted imitation for over fourteen centuries, its{" "}
           <Text type="info">
             alignment with certain modern scientific insights
           </Text>
-          , and its{" "}
-          <Text type="warning">accurate prophetic declarations</Text>. These
-          elements collectively present a challenge not merely to produce a
-          verse like it, but to account for its enduring impact through purely{" "}
+          , and its <Text type="warning">accurate prophetic declarations</Text>.
+          These elements collectively present a challenge not merely to produce
+          a verse like it, but to account for its enduring impact through purely{" "}
           <Text italic>naturalistic</Text> or{" "}
           <Text italic>socio-historical</Text> models.
           {"\n\n"}While critics propose theories of{" "}
@@ -559,21 +557,20 @@ function IslamComponent1() {
           <Text strong>internal coherence</Text>,{" "}
           <Text strong>structural unity</Text>, and{" "}
           <Text strong>moral universality</Text>. The fact that the Quran was
-          revealed to an <Text italic>unlettered man</Text>{" "}
-          in 7th-century Arabia — with no access to global knowledge or literary
-          tools — heightens the question of authorship and origins. The{" "}
+          revealed to an <Text italic>unlettered man</Text> in 7th-century
+          Arabia — with no access to global knowledge or literary tools —
+          heightens the question of authorship and origins. The{" "}
           <Text type="danger">burden of proof</Text>, therefore, shifts to the
           skeptic: how could such a multifaceted and transformative text emerge
           from such conditions if not from a{" "}
           <Text type="warning">divine source</Text>?{"\n\n"}For more than a
           billion Muslims, the Quran is not simply a historical scripture; it is
-          the{" "}
-          <Text mark>living, unaltered, and eternal Word of God</Text>, offering{" "}
-          <Text strong>guidance</Text>,{" "}<Text strong>clarity</Text>, and{" "}
-          <Text strong>spiritual depth</Text> for all times and peoples. As both
-          a religious text and an intellectual phenomenon, it continues to
-          invite <Text italic>reflection</Text>,{" "}<Text italic>study</Text>, and —
-          ultimately — <Text italic>humility</Text> before its message.
+          the <Text mark>living, unaltered, and eternal Word of God</Text>,
+          offering <Text strong>guidance</Text>, <Text strong>clarity</Text>,
+          and <Text strong>spiritual depth</Text> for all times and peoples. As
+          both a religious text and an intellectual phenomenon, it continues to
+          invite <Text italic>reflection</Text>, <Text italic>study</Text>, and
+          — ultimately — <Text italic>humility</Text> before its message.
         </Paragraph>
 
         <hr />
