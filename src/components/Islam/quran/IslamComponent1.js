@@ -23,8 +23,8 @@ function IslamComponent1() {
           </Text>{" "}
           represents one of the most{" "}
           <Text type="warning">enduring and consequential debates</Text> within
-          theology, religious studies, and comparative scripture.
-          {" "}<Text mark>
+          theology, religious studies, and comparative scripture.{" "}
+          <Text mark>
             Muslims maintain that the Quran is a verbatim, unaltered revelation
             from God (Allah), delivered to the Prophet Muhammad (peace be upon
             him) through the Angel Gabriel over a span of 23 years.
@@ -68,43 +68,63 @@ function IslamComponent1() {
 
         <Title level={4}>1. Introduction</Title>
         <Paragraph>
-          The Qur'an, revered as the central scripture of Islam, presents itself
-          not merely as a spiritual guide but as the{" "}
+          The <Text strong>Qur'an</Text>, revered as the central scripture of
+          Islam, presents itself not merely as a spiritual guide but as the{" "}
           <Text mark>literal, unaltered speech of God (Allah)</Text>, conveyed
           verbatim to the Prophet Muhammad (peace be upon him) through the Angel
           Gabriel over a period of 23 years (610–632 CE). Far from being a
-          product of human contemplation or collective tradition, the Qur'an
-          asserts its own divine origin, inimitability, and authority as the
-          final and universal revelation — one that confirms and supersedes
-          previous scriptures such as the Torah, Psalms, and the Gospel.
-          {"\n\n"}For Muslims, the Qur'an is not simply a religious text but the
-          epistemological foundation of all knowledge, ethics, and law. It
-          speaks in the first person as God, offering moral guidance, legal
-          ordinances, historical narratives, metaphysical truths, and profound
-          rhetorical structure. Its unique linguistic form — neither poetry nor
-          prose — defies categorization, and is considered by Muslim scholars as
-          a miracle (<Text italic>muʿjiza</Text>) accessible to all generations.
-          {"\n\n"}Nonetheless, critics and secular academics have raised various
-          objections to the Qur'an’s divine authorship. Some suggest that it
-          reflects the sociocultural context of 7th-century Arabia or borrowings
-          from Judeo-Christian traditions. Others critique its scientific
-          references, literary claims, or the methodology through which it was
-          transmitted and compiled.
-          {"\n\n"}This article undertakes a comprehensive, interdisciplinary
-          examination of these claims and counterclaims by analyzing:
-          {"\n"} - The Qur'an’s internal assertions of divine origin and
-          literary inimitability.
-          {"\n"} - Its linguistic structure, rhetorical brilliance, and
-          stylistic singularity.
-          {"\n"} - The integrity and rigor of its oral and manuscript
-          transmission across centuries.
-          {"\n"} - Alleged scientific insights and fulfilled prophecies.
-          {"\n"} - Modern critical responses, including historical, textual, and
-          philosophical challenges.
-          {"\n\n"}By engaging with both classical Islamic scholarship and
-          contemporary academic discourse, this study seeks to assess whether
-          the Qur'an stands as a genuinely divine revelation or a remarkable,
-          yet human, artifact of religious literature.
+          product of <Text italic>human contemplation</Text> or{" "}
+          <Text italic>collective tradition</Text>, the Qur'an asserts its own
+          <Text strong>divine origin</Text>, <Text strong>inimitability</Text>,
+          and <Text strong>authority</Text> as the
+          <Text type="warning">final and universal revelation</Text> — one that{" "}
+          <Text underline>confirms and supersedes</Text> previous scriptures
+          such as the Torah, Psalms, and the Gospel.
+          {"\n\n"}For Muslims, the Qur'an is not simply a religious text but the{" "}
+          <Text strong>epistemological foundation</Text> of all
+          <Text italic>knowledge, ethics, and law</Text>. It speaks in the{" "}
+          <Text strong>first person as God</Text>, offering:
+          {"\n"} - <Text code>moral guidance</Text>
+          {"\n"} - <Text code>legal ordinances</Text>
+          {"\n"} - <Text code>historical narratives</Text>
+          {"\n"} - <Text code>metaphysical truths</Text>
+          {"\n"} - and <Text code>profound rhetorical structure</Text>. Its{" "}
+          <Text type="success">unique linguistic form</Text> — neither poetry
+          nor prose — defies categorization, and is considered by Muslim
+          scholars as a <Text italic>miracle</Text> (<Text code>muʿjiza</Text>)
+          accessible to all generations.
+          {"\n\n"}Nonetheless,{" "}
+          <Text type="danger">critics and secular academics</Text> have raised
+          various objections to the Qur'an’s divine authorship. Some suggest
+          that it reflects the{" "}
+          <Text warning>sociocultural context of 7th-century Arabia</Text> or{" "}
+          <Text warning>borrowings from Judeo-Christian traditions</Text>.
+          Others critique its <Text warning>scientific references</Text>,{" "}
+          <Text warning>literary claims</Text>, or the
+          <Text warning>methodology of its transmission and compilation</Text>.
+          {"\n\n"}This article undertakes a{" "}
+          <Text strong>comprehensive, interdisciplinary examination</Text> of
+          these claims and counterclaims by analyzing:
+          {"\n"} - The Qur'an’s <Text strong>internal assertions</Text> of
+          divine origin and literary inimitability.
+          {"\n"} - Its <Text strong>linguistic structure</Text>,{" "}
+          <Text strong>rhetorical brilliance</Text>, and stylistic singularity.
+          {"\n"} - The <Text strong>integrity</Text> and{" "}
+          <Text strong>rigor</Text> of its{" "}
+          <Text code>oral and manuscript transmission</Text> across centuries.
+          {"\n"} - Alleged <Text code>scientific insights</Text> and{" "}
+          <Text code>fulfilled prophecies</Text>.{"\n"} - Modern{" "}
+          <Text type="danger">critical responses</Text>, including{" "}
+          <Text code>historical</Text>, <Text code>textual</Text>, and
+          <Text code>philosophical challenges</Text>.{"\n\n"}By engaging with
+          both <Text strong>classical Islamic scholarship</Text> and{" "}
+          <Text strong>contemporary academic discourse</Text>, this study seeks
+          to assess whether the Qur'an stands as a{" "}
+          <Text type="success">genuinely divine revelation</Text> or a
+          <Text type="warning">
+            remarkable, yet human, artifact of religious literature
+          </Text>
+          .
         </Paragraph>
 
         <Title level={4}>2. The Qur'an's Claim of Divine Authorship</Title>
