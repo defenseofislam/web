@@ -2,6 +2,7 @@ import React, { useEffect } from "react";
 import { Layout, Typography } from "antd";
 import { Tooltip } from "antd";
 import { InfoCircleOutlined } from "@ant-design/icons";
+import CommentBox from "../CommentBox";
 
 const { Content } = Layout;
 const { Title, Paragraph, Text } = Typography;
