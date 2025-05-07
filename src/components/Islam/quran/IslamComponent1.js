@@ -324,50 +324,66 @@ function IslamComponent1() {
 
         <Title level={4}>6. Scientific Accuracy in the Quran</Title>
         <Paragraph>
-          One of the most compelling arguments presented by Muslim scholars for
-          the divine origin of the Quran lies in its numerous references to
-          natural phenomena and scientific facts that align with modern
+          One of the most <Text type="success">compelling arguments</Text>{" "}
+          presented by Muslim scholars for the <Text strong>divine origin</Text>{" "}
+          of the Quran lies in its numerous references to{" "}
+          <Text mark>natural phenomena</Text> and{" "}
+          <Text type="success">scientific facts</Text> that align with modern
           discoveries — despite having been revealed in the 7th century, in a
           society lacking formal scientific knowledge.
           {"\n\n"} - <Text mark>Embryological Development:</Text> The Quran
           provides detailed stages of human embryonic growth in verses such as{" "}
           <Text underline>Quran 23:12–14</Text>, describing the transformation
-          from a drop of fluid to a "clinging clot" (*alaqah*), then a
-          "chewed-like lump" (*mudghah*). Modern embryology, pioneered in part
-          by Prof. Keith Moore, has noted the striking accuracy of these
+          from a <Text type="warning">drop of fluid</Text> to a{" "}
+          <Text code>"clinging clot" (*alaqah*)</Text>, then a
+          <Text code>"chewed-like lump" (*mudghah*)</Text>. Modern embryology,
+          pioneered in part by <Text strong>Prof. Keith Moore</Text>, has noted
+          the <Text type="success">striking accuracy</Text> of these
           descriptions, which mirror stages now visible through microscopes — a
           technology unavailable at the time.
           {"\n"} - <Text mark>Cosmology and the Expanding Universe:</Text> In{" "}
-          <Text underline>Quran 51:47</Text>, the verse “And We are expanding
-          it” is interpreted by many scholars to refer to the continuous
-          expansion of the universe, a concept only confirmed in the 20th
-          century through Edwin Hubble’s redshift observations. This reference
-          predates modern cosmology by over a millennium.
+          <Text underline>Quran 51:47</Text>, the verse{" "}
+          <Text italic>“And We are expanding it”</Text> is interpreted by many
+          scholars to refer to the
+          <Text strong>continuous expansion of the universe</Text>, a concept
+          only confirmed in the 20th century through{" "}
+          <Text strong>Edwin Hubble’s redshift observations</Text>. This
+          reference predates modern cosmology by over a millennium.
           {"\n"} - <Text mark>Origin of the Universe:</Text> The Quran mentions
-          that the heavens and the earth were once a "joined entity" before
-          being split apart (<Text underline>Quran 21:30</Text>), which
-          parallels the widely accepted Big Bang theory — the idea that the
+          that the heavens and the earth were once a
+          <Text italic>"joined entity"</Text> before being split apart (
+          <Text underline>Quran 21:30</Text>), which parallels the widely
+          accepted <Text strong>Big Bang theory</Text> — the idea that the
           universe originated from a singularity and expanded outward.
-          {"\n"} - <Text mark>Oceanography:</Text> The Quran describes internal
-          waves in the deep sea, layered darkness, and the separation between
-          salt and fresh water bodies (<Text underline>Quran 24:40</Text>,{" "}
+          {"\n"} - <Text mark>Oceanography:</Text> The Quran describes{" "}
+          <Text strong>internal waves</Text> in the deep sea,{" "}
+          <Text type="warning">layered darkness</Text>, and the separation
+          between salt and fresh water bodies (
+          <Text underline>Quran 24:40</Text>,{" "}
           <Text underline>Quran 55:19–20</Text>). These phenomena were confirmed
-          only after deep-sea exploration and advanced hydrology research.
+          only after <Text strong>deep-sea exploration</Text> and advanced
+          hydrology research.
           {"\n"} - <Text mark>Mountains and Geological Stability:</Text>{" "}
-          Described metaphorically as pegs or stakes (
-          <Text underline>Quran 78:6–7</Text>), mountains are now understood to
-          stabilize the Earth’s crust via their deep roots, consistent with
-          principles of isostasy in geology.
-          {"\n\n"}While the Quran is not a science textbook, its remarkable
-          correlation with scientific facts — many of which were discovered over
-          1,000 years later — has led various scientists and scholars to
-          reconsider its origins.
-          {"\n\n"}*"The Quranic descriptions are in agreement with modern
-          scientific discoveries, and this consistency is difficult to attribute
-          to human knowledge of the 7th century."* —{" "}
-          <i>
+          Described metaphorically as
+          <Text code>pegs or stakes</Text> (<Text underline>Quran 78:6–7</Text>
+          ), mountains are now understood to{" "}
+          <Text underline>stabilize the Earth’s crust</Text> via their deep
+          roots, consistent with principles of <Text strong>isostasy</Text> in
+          geology.
+          {"\n\n"}While the Quran is not a <Text delete>science textbook</Text>,
+          its <Text type="success">remarkable correlation</Text> with scientific
+          facts — many of which were discovered over 1,000 years later — has led
+          various scientists and scholars to
+          <Text strong>reconsider its origins</Text>.{"\n\n"}
+          <Text italic>
+            "The Quranic descriptions are in agreement with modern scientific
+            discoveries, and this consistency is difficult to attribute to human
+            knowledge of the 7th century."
+          </Text>{" "}
+          —{" "}
+          <Text italic>
             Dr. Maurice Bucaille, Author of "The Bible, The Quran, and Science"
-          </i>
+          </Text>
         </Paragraph>
 
         <Title level={4}>7. Prophetic Accuracy in the Quran</Title>
