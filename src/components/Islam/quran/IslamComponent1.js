@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Layout, Typography, Card, Input, Button, Space } from "antd";
+import CommentBox from "../../CommentBox";
 
 const { Content } = Layout;
 const { Title, Paragraph, Text } = Typography;
@@ -7,59 +8,10 @@ const { TextArea } = Input;
 
 function IslamComponent1() {
   const [text, setText] = useState("");
-  // Check if mobile device
-  const isMobile =
-    /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
-      navigator.userAgent
-    );
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
-  const handleFeedbackSubmit = () => {
-    if (!text.trim()) {
-      alert("Please enter some feedback before submitting.");
-      return;
-    }
-    const subject = `Feedback for Article - abc`;
-    const body = `Assalamu Alaikum,\n\nI would like to provide the following feedback:\n\n${text}`;
-
-    if (isMobile) {
-      // For mobile, use simple mailto link
-      window.location.href = `mailto:defenseofislam.kk@gmail.com?subject=${encodeURIComponent(
-        subject
-      )}&body=${encodeURIComponent(body)}`;
-    } else {
-      // For desktop, try to open Gmail directly
-      const mailtoLink = `https://mail.google.com/mail/?view=cm&fs=1&to=defenseofislam.kk@gmail.com&su=${encodeURIComponent(
-        subject
-      )}&body=${encodeURIComponent(body)}`;
-      window.open(mailtoLink, "_blank", "noopener,noreferrer");
-    }
-    setText(""); // Clear the text
-  };
-
-  const handleReport = () => {
-    if (!text.trim()) {
-      alert("Please enter a reason for reporting.");
-      return;
-    }
-    const subject = `Feedback for Article - abc`;
-    const body = `Assalamu Alaikum,\n\nI would like to report this article:\n\n${text} url-> "gg"}`;
-
-    if (isMobile) {
-      // For mobile, use simple mailto link
-      window.location.href = `mailto:defenseofislam.kk@gmail.com?subject=${encodeURIComponent(
-        subject
-      )}&body=${encodeURIComponent(body)}`;
-    } else {
-      // For desktop, try to open Gmail directly
-      const mailtoLink = `https://mail.google.com/mail/?view=cm&fs=1&to=defenseofislam.kk@gmail.com&su=${encodeURIComponent(
-        subject
-      )}&body=${encodeURIComponent(body)}`;
-      window.open(mailtoLink, "_blank", "noopener,noreferrer");
-    }
-    setText(""); // Clear the text
-  };
+ 
   return (
     <Content style={{ padding: "24px" }}>
       <Typography>
@@ -632,37 +584,7 @@ function IslamComponent1() {
         </Paragraph>
       </Typography>
 
-      <Card
-        style={{
-          maxWidth: 600,
-          margin: "2rem auto",
-          backgroundColor: "#f5f5f5",
-        }}
-      >
-        <Title level={4}>Leave a Comment</Title>
-        <TextArea
-          rows={5}
-          value={text} 
-          onChange={(e) => setText(e.target.value)}
-          placeholder="Share your feedback or concerns. Write your thoughts here and then press on the desired button to submit through email."
-          style={{ marginBottom: "1rem" }}
-        />
-        <div
-          className="submission"
-          style={{
-            display: "flex",
-            flexDirection: isMobile ? "column" : "row",
-            gap:12
-          }}
-        >
-          <Button type="primary" onClick={handleFeedbackSubmit}>
-            Submit Feedback For This Article
-          </Button>
-          <Button danger onClick={handleReport}>
-            Report This Article
-          </Button>
-        </div>
-      </Card>
+      <CommentBox title={"Is the Quran the Word of God? A Scholarly Examination"} url={"http://defenseofislam.github.io/web/islam/quran/1"}/>
     </Content>
   );
 }
