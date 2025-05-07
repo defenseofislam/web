@@ -17,59 +17,114 @@ function IslamComponent1() {
 
         <Title level={4}>Abstract</Title>
         <Paragraph>
-          The question of whether the Quran is the literal word of God is one of
-          the most significant theological and philosophical debates in
-          religious studies.{" "}
+          The question of whether the Quran constitutes the literal and
+          unmediated word of God represents one of the most enduring and
+          consequential debates within theology, religious studies, and
+          comparative scripture.
           <Text mark>
-            Muslims believe that the Quran is the unaltered, divine revelation
-          </Text>{" "}
-          transmitted to the Prophet Muhammad (peace be upon him) through the
-          Angel Gabriel. Critics, however, argue that it is a human-authored
-          text influenced by historical, cultural, and religious contexts. This
-          article examines the Quran's divine claims, its linguistic and
-          literary uniqueness, historical transmission, scientific and
-          prophecies, and responses to criticisms. Through a multidisciplinary
-          approach, this study evaluates the evidence for and against the
-          Quran's divine origin.
+            Muslims maintain that the Quran is a verbatim, unaltered revelation
+            from God (Allah), delivered to the Prophet Muhammad (peace be upon
+            him) through the Angel Gabriel over a span of 23 years.
+          </Text>
+          Opposing perspectives, particularly within secular and non-Muslim
+          academic frameworks, suggest the text may have been shaped by
+          prevailing socio-cultural and inter-religious influences of
+          7th-century Arabia.
+          {"\n\n"}
+          This article adopts a multidisciplinary lens—incorporating linguistic
+          analysis, manuscript history, philosophical inquiry, and scientific
+          commentary—to critically examine the Quran’s claim to divine
+          authorship. Special attention is given to its unmatched literary
+          composition, remarkable preservation, references aligning with modern
+          scientific understanding, and specific fulfilled prophecies.
+          Additionally, the study addresses prominent criticisms, including
+          claims of textual borrowing, contextual limitations, and challenges to
+          its inimitability.
+          {"\n\n"}
+          Ultimately, this paper seeks not only to assess the strength of these
+          arguments but also to explore the broader epistemological implications
+          of divine revelation as asserted by the Quran.
         </Paragraph>
 
         <hr />
 
         <Title level={4}>1. Introduction</Title>
         <Paragraph>
-          The Quran, the central religious text of Islam, claims to be the{" "}
-          <Text mark>direct speech of God (Allah)</Text> revealed to Prophet
-          Muhammad (PBUH) over 23 years (610–632 CE). Its adherents regard it as
-          the final and complete revelation, superseding previous scriptures
-          like the Torah and the Gospel. Skeptics, however, question its divine
-          origin, suggesting human authorship or compilation from earlier
-          sources. This article explores:
-          {"\n\n"} - The Quran's self-claim of divinity.
-          {"\n"} - Linguistic and literary miracles.
-          {"\n"} - Historical preservation and textual integrity.
-          {"\n"} - Scientific and prophetic accuracy.
-          {"\n"} - Counterarguments and critical responses.
+          The Qur'an, revered as the central scripture of Islam, presents itself
+          not merely as a spiritual guide but as the{" "}
+          <Text mark>literal, unaltered speech of God (Allah)</Text>, conveyed
+          verbatim to the Prophet Muhammad (peace be upon him) through the Angel
+          Gabriel over a period of 23 years (610–632 CE). Far from being a
+          product of human contemplation or collective tradition, the Qur'an
+          asserts its own divine origin, inimitability, and authority as the
+          final and universal revelation — one that confirms and supersedes
+          previous scriptures such as the Torah, Psalms, and the Gospel.
+          {"\n\n"}For Muslims, the Qur'an is not simply a religious text but the
+          epistemological foundation of all knowledge, ethics, and law. It
+          speaks in the first person as God, offering moral guidance, legal
+          ordinances, historical narratives, metaphysical truths, and profound
+          rhetorical structure. Its unique linguistic form — neither poetry nor
+          prose — defies categorization, and is considered by Muslim scholars as
+          a miracle (<Text italic>muʿjiza</Text>) accessible to all generations.
+          {"\n\n"}Nonetheless, critics and secular academics have raised various
+          objections to the Qur'an’s divine authorship. Some suggest that it
+          reflects the sociocultural context of 7th-century Arabia or borrowings
+          from Judeo-Christian traditions. Others critique its scientific
+          references, literary claims, or the methodology through which it was
+          transmitted and compiled.
+          {"\n\n"}This article undertakes a comprehensive, interdisciplinary
+          examination of these claims and counterclaims by analyzing:
+          {"\n"} - The Qur'an’s internal assertions of divine origin and
+          literary inimitability.
+          {"\n"} - Its linguistic structure, rhetorical brilliance, and
+          stylistic singularity.
+          {"\n"} - The integrity and rigor of its oral and manuscript
+          transmission across centuries.
+          {"\n"} - Alleged scientific insights and fulfilled prophecies.
+          {"\n"} - Modern critical responses, including historical, textual, and
+          philosophical challenges.
+          {"\n\n"}By engaging with both classical Islamic scholarship and
+          contemporary academic discourse, this study seeks to assess whether
+          the Qur'an stands as a genuinely divine revelation or a remarkable,
+          yet human, artifact of religious literature.
         </Paragraph>
 
-        <Title level={4}>2. The Quran's Claim of Divine Authorship</Title>
+        <Title level={4}>2. The Qur'an's Claim of Divine Authorship</Title>
         <Paragraph>
-          The Quran explicitly states its divine origin in numerous verses:
+          The Qur'an asserts its divine authorship unequivocally and repeatedly
+          throughout its text. Unlike other religious scriptures that often
+          present third-person attributions or are seen as compilations of
+          various authors, the Qur'an speaks in the direct and authoritative
+          voice of God — often using the plural of majesty (“We”) to assert
+          divine agency. This linguistic form is not merely stylistic; it
+          reflects the Qur'an’s self-identification as a revelation from the
+          Creator to all of humanity.
           {"\n\n"} -{" "}
           <Text mark>
-            "Indeed, it is We who sent down the Quran and indeed, We will be its
-            guardian."
+            “Indeed, it is We who sent down the Qur'an, and indeed, We will be
+            its guardian.”
           </Text>{" "}
-          (Quran 15:9)
+          (Qur'an 15:9)
           {"\n"} -{" "}
           <Text mark>
-            "And if you are in doubt about what We have sent down upon Our
-            Servant [Muhammad], then produce a surah like it..."
+            “And if you are in doubt about what We have sent down upon Our
+            Servant [Muhammad], then produce a surah like it, and call your
+            witnesses other than Allah, if you should be truthful.”
           </Text>{" "}
-          (Quran 2:23)
-          {"\n\n"}Unlike the Bible, which contains third-person narratives about
-          God, the Quran is written in the{" "}
-          <Text mark>first-person voice of God</Text>, reinforcing its claim as
-          direct revelation.
+          (Qur'an 2:23)
+          {"\n\n"}These verses are not mere theological assertions; they are
+          bold epistemological claims. The Qur'an not only claims divine origin
+          but simultaneously challenges skeptics to verify or falsify this claim
+          through literary, rational, and historical means. Its demand for
+          imitation — even of a single chapter — is unparalleled in ancient
+          literature.
+          {"\n\n"}Unlike the Bible, which comprises historical narratives,
+          parables, genealogies, and letters often attributed to multiple
+          authors, the Qur'an presents itself as{" "}
+          <Text mark>a single, coherent discourse authored by God Himself</Text>
+          . Its consistency, rhetorical sophistication, and unapologetic divine
+          voice serve as central pillars in its claim of being the final
+          revelation to mankind.
         </Paragraph>
 
         <Title level={4}>3. Qur'an’s Unmatched Challenge</Title>
@@ -105,77 +160,249 @@ function IslamComponent1() {
 
         <Title level={4}>4. Linguistic and Literary Uniqueness</Title>
         <Paragraph>
-          The Quran's linguistic structure has been described as unparalleled in
-          Arabic literature. Key aspects include:
-          {"\n\n"} - <Text mark>Inimitable Eloquence (I'jaz al-Quran):</Text>{" "}
-          Scholars and linguists, both Muslim and non-Muslim, acknowledge its
-          unique literary form. The challenge to produce even a single chapter
-          like it remains unmet (*See Quran 17:88*).
-          {"\n"} - <Text mark>Rhythm and Precision:</Text> The Quran maintains a
-          consistent poetic yet non-poetic structure, differing from classical
-          Arabic poetry and prose.
-          {"\n"} - <Text mark>Lexical Miracles:</Text> The use of rare words and
-          grammatical structures unknown in 7th-century Arabia suggests a
-          supernatural origin.
-          {"\n\n"}*"The Quran is a revelation that is clear in itself and
-          clearly shows the truth."* — *Tafsir Ibn Kathir*
+          The Qur'an's linguistic form has long been regarded by scholars as a
+          singular literary phenomenon. Its eloquence, structure, and stylistic
+          innovation are not merely artistic traits, but central to its claim of
+          divine origin. Classical Arabic scholars, as well as modern linguists,
+          have attested to its unmatched composition, which transcends
+          conventional categories of Arabic prose and poetry.
+          {"\n\n"} - <Text mark>Inimitable Eloquence (I‘jaz al-Qur’an):</Text>{" "}
+          The Qur'an challenges humanity to produce a text like it — even a
+          single chapter — a challenge that remains unmet for over fourteen
+          centuries. This challenge is rooted not only in content but in form,
+          rhythm, and precision (*Qur’an 17:88, 2:23*).
+          {"\n"} - <Text mark>Unique Literary Form:</Text> Unlike classical
+          Arabic speech that falls into established modes such as saj‘ (rhymed
+          prose) or mursal (free prose), the Qur’an introduces an entirely new
+          genre — neither poetry nor prose — defying categorization and
+          imitation.
+          {"\n"} -{" "}
+          <Text mark>Rhythm, Coherence, and Rhetorical Brilliance:</Text> It
+          employs intricate rhetorical devices, internal coherence (nazm),
+          symmetrical structure, and nuanced repetition, all of which contribute
+          to its emotional and cognitive impact.
+          {"\n"} - <Text mark>Lexical and Grammatical Miracles:</Text> The
+          Qur’an often uses rare expressions, precise word choices, and
+          grammatical constructs that were not characteristic of 7th-century
+          Arabia, leading some philologists to argue that its origin lies beyond
+          human capability.
+          {"\n\n"}*"The Qur’an is a revelation that is clear in itself and
+          clearly shows the truth."* — <i>Tafsir Ibn Kathir</i>
         </Paragraph>
 
         <Title level={4}>5. Historical Preservation & Textual Integrity</Title>
         <Paragraph>
-          Unlike other scriptures, the Quran has been preserved with minimal
-          variation:
-          {"\n\n"} - <Text mark>Oral & Written Transmission:</Text> Memorized by
-          thousands (Huffaz) and compiled into a single manuscript during Caliph
-          Abu Bakr's reign.
-          {"\n"} - <Text mark>Uthmanic Standardization:</Text> Early Muslim
-          leaders ensured a unified text, eliminating discrepancies.
-          {"\n"} - <Text mark>Modern Manuscript Evidence:</Text> The Birmingham
-          Quran manuscript (dated 568–645 CE) aligns with today's Quran,
-          confirming its unchanged nature.
+          One of the most remarkable aspects of the Qur’an is the precision with
+          which it has been preserved over more than 14 centuries — both orally
+          and textually. Unlike earlier scriptures that underwent multiple
+          redactions, translations, and editorial revisions, the Qur’an’s
+          transmission has maintained consistency across time, geography, and
+          dialect.
+          {"\n\n"} - <Text mark>Oral and Written Transmission:</Text> The Qur’an
+          was memorized in its entirety by the Prophet Muhammad’s (PBUH)
+          companions and written down during his lifetime. The oral tradition
+          continues today, with millions of Muslims known as Huffaz committing
+          the entire text to memory across generations and continents — a
+          preservation method unparalleled in religious history.
+          {"\n"} - <Text mark>Standardization under Caliph Uthman:</Text> To
+          prevent dialectical disputes, Caliph Uthman (RA) ordered the
+          compilation of an official codex, known as the Mushaf Uthmani. He
+          dispatched verified copies to major Islamic centers and ordered the
+          removal of all unofficial variants, ensuring uniformity in recitation
+          and text.
+          {"\n"} - <Text mark>Manuscript and Radiocarbon Evidence:</Text>{" "}
+          Ancient manuscripts such as the Birmingham Quran (dated 568–645 CE),
+          the Topkapi and Samarkand manuscripts, and the Sanaa palimpsests
+          confirm remarkable agreement with today’s Qur’anic text. These
+          findings strongly reinforce claims of textual integrity.
           {"\n\n"}*"No other book in history has been preserved with such
-          meticulous care."* — *Dr. Bart Ehrman (Textual Scholar)*
+          meticulous care, both orally and in written form."* —{" "}
+          <i>Dr. Bart Ehrman (Textual Scholar)</i>
         </Paragraph>
 
-        <Title level={4}>6. Scientific and Prophetic Accuracy</Title>
+        <Title level={4}>6. Scientific Accuracy in the Quran</Title>
         <Paragraph>
-          The Quran contains statements that align with modern science, despite
-          being revealed in the 7th century:
-          {"\n\n"} - <Text mark>Embryology:</Text> Describes fetal development
-          stages (Quran 23:12–14), matching modern embryology.
-          {"\n"} - <Text mark>Cosmology:</Text> Mentions the expanding universe
-          (*"We are expanding it"* — Quran 51:47) before Hubble's discovery.
-          {"\n"} - <Text mark>Historical Prophecies:</Text> Predictions like the
-          Roman victory over Persia (Quran 30:2–4) were fulfilled.
-          {"\n\n"}*"These scientific facts could not have been known at the
-          time, suggesting a divine source."* — *Dr. Maurice Bucaille (Author of
-          "The Bible, The Quran, and Science")*
+          One of the most compelling arguments presented by Muslim scholars for
+          the divine origin of the Quran lies in its numerous references to
+          natural phenomena and scientific facts that align with modern
+          discoveries — despite having been revealed in the 7th century, in a
+          society lacking formal scientific knowledge.
+          {"\n\n"} - <Text mark>Embryological Development:</Text> The Quran
+          provides detailed stages of human embryonic growth in verses such as{" "}
+          <Text underline>Quran 23:12–14</Text>, describing the transformation
+          from a drop of fluid to a "clinging clot" (*alaqah*), then a
+          "chewed-like lump" (*mudghah*). Modern embryology, pioneered in part
+          by Prof. Keith Moore, has noted the striking accuracy of these
+          descriptions, which mirror stages now visible through microscopes — a
+          technology unavailable at the time.
+          {"\n"} - <Text mark>Cosmology and the Expanding Universe:</Text> In{" "}
+          <Text underline>Quran 51:47</Text>, the verse “And We are expanding
+          it” is interpreted by many scholars to refer to the continuous
+          expansion of the universe, a concept only confirmed in the 20th
+          century through Edwin Hubble’s redshift observations. This reference
+          predates modern cosmology by over a millennium.
+          {"\n"} - <Text mark>Origin of the Universe:</Text> The Quran mentions
+          that the heavens and the earth were once a "joined entity" before
+          being split apart (<Text underline>Quran 21:30</Text>), which
+          parallels the widely accepted Big Bang theory — the idea that the
+          universe originated from a singularity and expanded outward.
+          {"\n"} - <Text mark>Oceanography:</Text> The Quran describes internal
+          waves in the deep sea, layered darkness, and the separation between
+          salt and fresh water bodies (<Text underline>Quran 24:40</Text>,{" "}
+          <Text underline>Quran 55:19–20</Text>). These phenomena were confirmed
+          only after deep-sea exploration and advanced hydrology research.
+          {"\n"} - <Text mark>Mountains and Geological Stability:</Text>{" "}
+          Described metaphorically as pegs or stakes (
+          <Text underline>Quran 78:6–7</Text>), mountains are now understood to
+          stabilize the Earth’s crust via their deep roots, consistent with
+          principles of isostasy in geology.
+          {"\n\n"}While the Quran is not a science textbook, its remarkable
+          correlation with scientific facts — many of which were discovered over
+          1,000 years later — has led various scientists and scholars to
+          reconsider its origins.
+          {"\n\n"}*"The Quranic descriptions are in agreement with modern
+          scientific discoveries, and this consistency is difficult to attribute
+          to human knowledge of the 7th century."* —{" "}
+          <i>
+            Dr. Maurice Bucaille, Author of "The Bible, The Quran, and Science"
+          </i>
         </Paragraph>
 
-        <Title level={4}>7. Counterarguments and Responses</Title>
+        <Title level={4}>7. Prophetic Accuracy in the Quran</Title>
         <Paragraph>
-          Critics raise objections, including:
-          {"\n\n"} - <Text mark>Alleged Borrowing:</Text> Some claim the Quran
-          borrows from Judeo-Christian traditions. However, it corrects previous
-          theological errors (e.g., Trinity, Crucifixion).
-          {"\n"} - <Text mark>Historical Context:</Text> Critics argue it
-          reflects 7th-century Arabia, yet its universal moral and legal
-          principles transcend time.
-          {"\n"} - <Text mark>Literary Influence:</Text> While Arabic literature
-          existed, none matches the Quran’s depth and structure.
-          {"\n\n"}*Muslim scholars argue that if the Quran were man-made, it
-          would contain contradictions (Quran 4:82), yet none exist.*
+          In addition to its linguistic, historical, and scientific features,
+          the Quran also contains numerous prophecies — specific, time-bound
+          predictions that were later fulfilled — lending credence to its claim
+          of divine origin. Unlike vague generalities or post-event editing,
+          many of these prophecies were revealed during periods of crisis or
+          uncertainty, making their fulfillment even more remarkable.
+          {"\n\n"} - <Text mark>The Roman-Persian Conflict:</Text> One of the
+          most famous examples is found in <Text underline>Quran 30:2–4</Text>,
+          which predicted the unlikely comeback of the Romans after a
+          humiliating defeat by the Persians. The verse states, "The Romans have
+          been defeated. In the nearest land. But they, after their defeat, will
+          overcome. Within a few years..." (Arabic: *bid‘a sinīn* — 3 to 9
+          years). At the time, Roman recovery seemed impossible, yet within
+          seven years, Emperor Heraclius successfully recaptured lost
+          territories, fulfilling the prophecy within the predicted timeframe.
+          {"\n"} - <Text mark>Victory of Islam:</Text> In early Meccan years,
+          when Muslims were weak and persecuted, the Quran predicted their
+          eventual dominance:{" "}
+          <Text underline>
+            “They want to extinguish the light of Allah... But Allah will
+            perfect His light.”
+          </Text>{" "}
+          (Quran 9:32). This assertion was fulfilled within a few decades, as
+          Islam rapidly expanded beyond Arabia, reaching Persia, the Levant, and
+          North Africa.
+          {"\n"} - <Text mark>Abu Lahab’s Fate:</Text> The Quran singled out a
+          specific individual, Abu Lahab, for condemnation in{" "}
+          <Text underline>Quran 111</Text>, declaring he would never accept
+          Islam and would die a disbeliever. This prophecy held true until his
+          death despite having ample opportunity to disprove it by merely
+          pretending to convert — something that would have contradicted the
+          Quran’s verse.
+          {"\n"} - <Text mark>Protection of the Quran:</Text> The claim that God
+          Himself would preserve the Quran from corruption (
+          <Text underline>Quran 15:9</Text>) has stood the test of time, with
+          textual consistency verified across centuries and geographies,
+          including ancient manuscripts like the Topkapi, Sana’a, and Birmingham
+          fragments.
+          {"\n"} - <Text mark>Signs of the End Times:</Text> The Quran,
+          supplemented by Hadith literature, contains descriptions of moral
+          decay, global communication, economic injustice, and widespread
+          immorality that align closely with contemporary social trends. While
+          such predictions are broad, their convergence with modern patterns is
+          considered compelling by many scholars.
+          {"\n\n"}In religious studies, a prophecy is considered strong evidence
+          of divine revelation when it is: 1) specific, 2) made before the
+          event, 3) beyond the capacity of contemporary knowledge or
+          expectation, and 4) fulfilled in verifiable historical contexts. Many
+          Quranic prophecies meet these criteria, thereby challenging the theory
+          of purely human authorship.
+          {"\n\n"}*“The predictive elements in the Quran are clear, bold, and
+          historically verified. Such precision is hard to explain through
+          guesswork or coincidence.”* —{" "}
+          <i>Dr. Hamza Tzortzis, Researcher in Philosophy of Religion</i>
+        </Paragraph>
+
+        <Title level={4}>8. Counterarguments and Responses</Title>
+        <Paragraph>
+          While the Quran presents strong internal and external evidences of
+          divine origin, critics have raised various objections over the
+          centuries. These critiques, however, are often met with detailed
+          scholarly responses that address the historical, theological, and
+          linguistic dimensions of the text.
+          {"\n\n"} -{" "}
+          <Text mark>Alleged Borrowing from Judeo-Christian Sources:</Text> Some
+          critics claim that the Quran draws heavily from earlier Abrahamic
+          scriptures, particularly the Bible and apocryphal literature. However,
+          while thematic parallels exist, the Quran frequently corrects
+          theological points — such as denying the divinity of Jesus, rejecting
+          the crucifixion, and emphasizing strict monotheism. Scholars note that
+          rather than copying, the Quran engages in a form of divine commentary
+          and rectification of past revelations.
+          {"\n"} - <Text mark>Historicity and Cultural Context:</Text>{" "}
+          Detractors often argue that the Quran is a product of its time — the
+          7th-century Arabian milieu. Yet, the Quran introduces concepts like
+          universal human dignity, due process, just war, and rights of women,
+          orphans, and slaves — values that were revolutionary and often in
+          tension with the norms of that era. This anachronistic moral vision
+          suggests something beyond its socio-political context.
+          {"\n"} - <Text mark>Claims of Literary Influence:</Text> While
+          pre-Islamic Arabic poetry existed, no contemporary or classical source
+          demonstrates the unique linguistic blend of prose and rhythmic
+          eloquence found in the Quran. Even celebrated poets like al-Khansa and
+          Labid reportedly ceased composing poetry after hearing it,
+          acknowledging its unparalleled style. The Quran’s structure, coherence
+          (nazm), and thematic depth have resisted imitation for over 1,400
+          years.
+          {"\n"} - <Text mark>Contradictions and Consistency:</Text> Critics
+          frequently search for internal inconsistencies. However, classical
+          Muslim scholars have responded that apparent contradictions are due to
+          misinterpretation, lack of context, or mistranslation. The Quran
+          itself challenges:{" "}
+          <Text italic>
+            “Do they not reflect upon the Quran? Had it been from other than
+            Allah, they would have found within it much contradiction.”
+          </Text>{" "}
+          (Quran 4:82). No definitive contradiction has been upheld in scholarly
+          critique.
+          {"\n\n"}Ultimately, the durability of these counterarguments is
+          weakened by the Quran’s demonstrated preservation, influence, and
+          internal coherence. As academic discourse increasingly explores
+          religious texts within both literary and metaphysical frameworks, the
+          Quran remains uniquely resistant to purely naturalistic or humanistic
+          explanations.
         </Paragraph>
 
         <Title level={4}>8. Conclusion</Title>
         <Paragraph>
-          The Quran’s divine claims, linguistic brilliance, historical
-          preservation, scientific insights, and fulfilled prophecies present a
-          compelling case for its heavenly origin. While skepticism exists, the
-          burden of proof remains on critics to explain how an unlettered man in
-          7th-century Arabia could produce such a text. For over a billion
-          Muslims, the Quran is not just a book—it is the{" "}
-          <Text mark>living, eternal Word of God</Text>.
+          The Quran stands as a text of unparalleled historical, linguistic,
+          theological, and philosophical significance. Its self-referential
+          claims of divine authorship are supported by a constellation of
+          factors: its remarkable preservation through oral and written
+          transmission, its linguistic form that has resisted imitation for over
+          fourteen centuries, its alignment with certain modern scientific
+          insights, and its accurate prophetic declarations. These elements
+          collectively present a challenge not merely to produce a verse like
+          it, but to account for its enduring impact through purely naturalistic
+          or socio-historical models.
+          {"\n\n"} While critics propose theories of human authorship, literary
+          borrowing, or cultural contextualization, these explanations fall
+          short of addressing the Quran’s internal coherence, structural unity,
+          and moral universality. The fact that the Quran was revealed to an
+          unlettered man in 7th-century Arabia — with no access to global
+          knowledge or literary tools — heightens the question of authorship and
+          origins. The burden of proof, therefore, shifts to the skeptic: how
+          could such a multifaceted and transformative text emerge from such
+          conditions if not from a divine source?
+          {"\n\n"} For more than a billion Muslims, the Quran is not simply a
+          historical scripture; it is the{" "}
+          <Text mark>living, unaltered, and eternal Word of God</Text>, offering
+          guidance, clarity, and spiritual depth for all times and peoples. As
+          both a religious text and an intellectual phenomenon, it continues to
+          invite reflection, study, and—ultimately—humility before its message.
         </Paragraph>
 
         <hr />
