@@ -226,9 +226,9 @@ function IslamComponent1() {
         <Title level={4}>4. Linguistic and Literary Uniqueness</Title>
         <Paragraph>
           The <Text strong>Qur'an's linguistic form</Text> has long been
-          regarded by scholars as a {" "}
+          regarded by scholars as a{" "}
           <Text type="success">singular literary phenomenon</Text>. Its{" "}
-          <Text strong>eloquence</Text>,<Text strong>{" "}structure</Text>, and{" "}
+          <Text strong>eloquence</Text>,<Text strong> structure</Text>, and{" "}
           <Text strong>stylistic innovation</Text> are not merely artistic
           traits, but{" "}
           <Text underline>central to its claim of divine origin</Text>.
@@ -237,23 +237,23 @@ function IslamComponent1() {
           transcends conventional categories of Arabic prose and poetry.
           {"\n\n"} - <Text mark>Inimitable Eloquence (I‘jaz al-Qur’an):</Text>{" "}
           The Qur'an challenges humanity to produce a text like it — even a
-          <Text strong> {" "}SINGLE</Text> chapter — a challenge that remains{" "}
+          <Text strong> SINGLE</Text> chapter — a challenge that remains{" "}
           <Text type="danger">unmet for over fourteen centuries</Text>. This
           challenge is rooted not only in <Text strong>content</Text> but in{" "}
           <Text strong>form</Text>, <Text italic>rhythm</Text>, and
-          <Text strong> {" "}precision</Text> (<Text code>Qur’an 17:88, 2:23</Text>).
+          <Text strong> precision</Text> (<Text code>Qur’an 17:88, 2:23</Text>).
           {"\n"} - <Text mark>Unique Literary Form:</Text> Unlike classical
           Arabic speech that falls into established modes such as{" "}
           <Text code>saj‘</Text> (rhymed prose) or <Text code>mursal</Text>{" "}
           (free prose), the Qur’an introduces an
-          <Text type="success">{" "}entirely new genre</Text> — neither poetry nor
+          <Text type="success"> entirely new genre</Text> — neither poetry nor
           prose —<Text underline>defying categorization and imitation</Text>.
           {"\n"} -{" "}
           <Text mark>Rhythm, Coherence, and Rhetorical Brilliance:</Text> It
           employs
           <Text italic>intricate rhetorical devices</Text>,{" "}
           <Text strong>internal coherence (nazm)</Text>,
-          <Text strong>{" "}symmetrical structure</Text>, and{" "}
+          <Text strong> symmetrical structure</Text>, and{" "}
           <Text strong>nuanced repetition</Text>, all of which contribute to its{" "}
           <Text type="success">emotional and cognitive impact</Text>.{"\n"} -{" "}
           <Text mark>Lexical and Grammatical Miracles:</Text> The Qur’an often
@@ -263,7 +263,7 @@ function IslamComponent1() {
           <Text strong>grammatical constructs</Text> that were not
           characteristic of 7th-century Arabia, leading some{" "}
           <Text type="warning">philologists</Text> to argue that its origin lies
-          <Text type="danger">{" "}beyond human capability</Text>.{"\n\n"}
+          <Text type="danger"> beyond human capability</Text>.{"\n\n"}
           <Text italic>
             "The Qur’an is a revelation that is clear in itself and clearly
             shows the truth."
@@ -273,32 +273,53 @@ function IslamComponent1() {
 
         <Title level={4}>5. Historical Preservation & Textual Integrity</Title>
         <Paragraph>
-          One of the most remarkable aspects of the Qur’an is the precision with
-          which it has been preserved over more than 14 centuries — both orally
-          and textually. Unlike earlier scriptures that underwent multiple
-          redactions, translations, and editorial revisions, the Qur’an’s
-          transmission has maintained consistency across time, geography, and
-          dialect.
-          {"\n\n"} - <Text mark>Oral and Written Transmission:</Text> The Qur’an
-          was memorized in its entirety by the Prophet Muhammad’s (PBUH)
-          companions and written down during his lifetime. The oral tradition
-          continues today, with millions of Muslims known as Huffaz committing
-          the entire text to memory across generations and continents — a
-          preservation method unparalleled in religious history.
-          {"\n"} - <Text mark>Standardization under Caliph Uthman:</Text> To
-          prevent dialectical disputes, Caliph Uthman (RA) ordered the
-          compilation of an official codex, known as the Mushaf Uthmani. He
-          dispatched verified copies to major Islamic centers and ordered the
-          removal of all unofficial variants, ensuring uniformity in recitation
-          and text.
-          {"\n"} - <Text mark>Manuscript and Radiocarbon Evidence:</Text>{" "}
-          Ancient manuscripts such as the Birmingham Quran (dated 568–645 CE),
-          the Topkapi and Samarkand manuscripts, and the Sanaa palimpsests
-          confirm remarkable agreement with today’s Qur’anic text. These
-          findings strongly reinforce claims of textual integrity.
-          {"\n\n"}*"No other book in history has been preserved with such
-          meticulous care, both orally and in written form."* —{" "}
-          <i>Dr. Bart Ehrman (Textual Scholar)</i>
+          One of the most <Text type="success">remarkable aspects</Text> of the{" "}
+          <Text strong>Qur’an</Text> is the
+          <Text underline>precision with which it has been preserved</Text> over
+          more than
+          <Text strong>14 centuries</Text> — both <Text strong>orally</Text> and{" "}
+          <Text strong>textually</Text>. Unlike earlier scriptures that
+          underwent{" "}
+          <Text type="danger">
+            multiple redactions, translations, and editorial revisions
+          </Text>
+          , the Qur’an’s transmission has maintained{" "}
+          <Text type="success">consistency</Text> across
+          <Text italic>time, geography, and dialect</Text>.{"\n\n"} -{" "}
+          <Text mark>Oral and Written Transmission:</Text> The Qur’an was
+          <Text strong>memorized in its entirety</Text> by the Prophet
+          Muhammad’s (PBUH) companions and
+          <Text strong>written down during his lifetime</Text>. The{" "}
+          <Text underline>oral tradition continues today</Text>, with millions
+          of Muslims known as <Text code>Huffaz</Text> committing the entire
+          text to memory across generations and continents — a{" "}
+          <Text type="warning">
+            preservation method unparalleled in religious history
+          </Text>
+          .{"\n"} - <Text mark>Standardization under Caliph Uthman:</Text> To
+          prevent
+          <Text type="danger">dialectical disputes</Text>, Caliph{" "}
+          <Text code>Uthman (RA)</Text> ordered the compilation of an
+          <Text type="success">official codex</Text>, known as the{" "}
+          <Text italic>Mushaf Uthmani</Text>. He dispatched verified copies to
+          major Islamic centers and ordered the removal of all unofficial
+          variants, ensuring
+          <Text underline>uniformity in recitation and text</Text>.{"\n"} -{" "}
+          <Text mark>Manuscript and Radiocarbon Evidence:</Text> Ancient
+          manuscripts such as the
+          <Text code>Birmingham Quran</Text> (dated{" "}
+          <Text type="warning">568–645 CE</Text>), the
+          <Text code>Topkapi</Text> and <Text code>Samarkand</Text> manuscripts,
+          and the
+          <Text code>Sanaa palimpsests</Text> confirm{" "}
+          <Text strong>remarkable agreement</Text> with today’s Qur’anic text.
+          These findings strongly reinforce claims of{" "}
+          <Text type="success">textual integrity</Text>.{"\n\n"}
+          <Text italic>
+            "No other book in history has been preserved with such meticulous
+            care, both orally and in written form."
+          </Text>{" "}
+          — <Text italic>Dr. Bart Ehrman (Textual Scholar)</Text>
         </Paragraph>
 
         <Title level={4}>6. Scientific Accuracy in the Quran</Title>
