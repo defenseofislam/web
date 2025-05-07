@@ -132,16 +132,17 @@ function IslamComponent1() {
           The <Text strong>Qur'an</Text> asserts its{" "}
           <Text strong>divine authorship</Text>{" "}
           <Text type="success">unequivocally</Text> and
-          <Text strong> {" "}repeatedly</Text> throughout its text. Unlike other
+          <Text strong> repeatedly</Text> throughout its text. Unlike other
           religious scriptures that often present
           <Text italic>third-person attributions</Text> or are seen as{" "}
           <Text italic>compilations of various authors</Text>, the Qur'an speaks
           in the <Text strong>direct and authoritative voice of God</Text> —
           often using the
-          <Text code>plural of majesty (“We”)</Text> to assert <Text strong>divine agency</Text>.
-          This linguistic form is not merely stylistic; it reflects the Qur'an’s{" "}
-          <Text mark>self-identification as a revelation</Text>  from the
-          <Text strong> {" "}Creator to all of humanity</Text>.{"\n\n"} -{" "}
+          <Text code>plural of majesty (“We”)</Text> to assert{" "}
+          <Text strong>divine agency</Text>. This linguistic form is not merely
+          stylistic; it reflects the Qur'an’s{" "}
+          <Text mark>self-identification as a revelation</Text> from the
+          <Text strong> Creator to all of humanity</Text>.{"\n\n"} -{" "}
           <Text mark>
             “Indeed, it is We who sent down the Qur'an, and indeed, We will be
             its guardian.”
@@ -158,10 +159,10 @@ function IslamComponent1() {
           <Text italic>theological assertions</Text>; they are{" "}
           <Text strong>bold epistemological claims</Text>. The Qur'an not only
           claims <Text strong>divine origin</Text> but simultaneously{" "}
-          <Text type="danger">challenges skeptics</Text> to <Text strong>verify</Text> {" "}or <Text strong>falsify</Text>{" "}
-          this claim through{" "}
-          <Text code>literary, rational, and historical means</Text>. Its demand
-          for imitation — even of a single chapter — is{" "}
+          <Text type="danger">challenges skeptics</Text> to{" "}
+          <Text strong>verify</Text> or <Text strong>falsify</Text> this claim
+          through <Text code>literary, rational, and historical means</Text>.
+          Its demand for imitation — even of a single chapter — is{" "}
           <Text type="warning">unparalleled in ancient literature</Text>.
           {"\n\n"}Unlike the Bible, which comprises{" "}
           <Text italic>
@@ -178,33 +179,48 @@ function IslamComponent1() {
 
         <Title level={4}>3. Qur'an’s Unmatched Challenge</Title>
         <Paragraph>
-          The Qur'an boldly issues a challenge unlike any other in religious
-          history:{" "}
+          The <Text strong>Qur'an</Text> boldly issues a challenge unlike any
+          other in religious history:{" "}
           <Text mark>
             “If you are in doubt about what We have revealed to Our servant,
             then produce a chapter like it.” (Qur'an 2:23)
           </Text>{" "}
-          This is not poetic flair — it's a direct intellectual confrontation.
-          For over 1,400 years, critics, linguists, and enemies of Islam have
-          failed to meet this challenge. Despite possessing mastery in Arabic,
-          vast literary resources, and even political motivation to disprove
-          Islam,{" "}
+          This is not <Text italic>poetic flair</Text> — it's a{" "}
+          <Text strong>direct intellectual confrontation</Text>. For over{" "}
+          <Text strong>1,400 years</Text>, critics, linguists, and enemies of
+          Islam have
+          <Text type="danger"> failed to meet this challenge</Text>. Despite
+          possessing <Text code>mastery in Arabic</Text>,{" "}
+          <Text code>vast literary resources</Text>, and even{" "}
+          <Text italic>political motivation</Text> to disprove Islam,{" "}
           <Text strong>
             no one — not a scholar, not an empire — has succeeded in imitating
             its linguistic precision, unparalleled eloquence, prophetic depth,
             and cohesive message.
           </Text>{" "}
-          Orientalists, Arab poets, and modern skeptics have either ignored the
-          challenge or made feeble attempts that collapse under scrutiny.
-          {"\n\n"}This failure is not just poetic—it’s empirical. The Qur’an is
-          not a book born of Muhammad's (PBUH) imagination or human culture; it
-          speaks with a voice that transcends time, politics, and geography.
+          <Text type="warning">
+            Orientalists, Arab poets, and modern skeptics
+          </Text>{" "}
+          have either <Text type="danger">ignored </Text>the challenge or made
+          feeble attempts that collapse under scrutiny.
+          {"\n\n"}This failure is not just <Text italic>poetic</Text> — it’s{" "}
+          <Text strong>empirical</Text>. The Qur’an is not a book born of
+          Muhammad's (PBUH) imagination or human culture; it speaks with a voice
+          that{" "}
+          <Text type="success">transcends time, politics, and geography</Text>.{" "}
           <Text underline>
             If this were man-made, why has no one matched it — even with modern
             AI, literary academies, and centuries of opposition?
           </Text>{" "}
-          The challenge still stands — and their silence is louder than any
-          verse.
+          The challenge still <Text strong>STANDS</Text> — and their{" "}
+          <Text type="danger">
+            silence is{" "}
+            <Text strong type="danger">
+              LOUDER
+            </Text>{" "}
+            than any verse
+          </Text>
+          .
         </Paragraph>
 
         <Title level={4}>4. Linguistic and Literary Uniqueness</Title>
