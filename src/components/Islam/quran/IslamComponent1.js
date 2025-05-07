@@ -470,52 +470,65 @@ function IslamComponent1() {
 
         <Title level={4}>8. Counterarguments and Responses</Title>
         <Paragraph>
-          While the Quran presents strong internal and external evidences of
-          divine origin, critics have raised various objections over the
-          centuries. These critiques, however, are often met with detailed
-          scholarly responses that address the historical, theological, and
-          linguistic dimensions of the text.
+          While the Quran presents strong <Text type="success">internal</Text>{" "}
+          and <Text type="success">external</Text> evidences of divine origin,
+          critics have raised various objections over the centuries. These
+          critiques, however, are often met with detailed scholarly responses
+          that address the <Text strong>historical</Text>,{" "}
+          <Text strong>theological</Text>, and <Text strong>linguistic</Text>{" "}
+          dimensions of the text.
           {"\n\n"} -{" "}
           <Text mark>Alleged Borrowing from Judeo-Christian Sources:</Text> Some
           critics claim that the Quran draws heavily from earlier Abrahamic
           scriptures, particularly the Bible and apocryphal literature. However,
-          while thematic parallels exist, the Quran frequently corrects
-          theological points — such as denying the divinity of Jesus, rejecting
-          the crucifixion, and emphasizing strict monotheism. Scholars note that
-          rather than copying, the Quran engages in a form of divine commentary
-          and rectification of past revelations.
+          while thematic parallels exist, the Quran frequently{" "}
+          <Text strong>corrects theological points</Text> — such as denying the
+          divinity of Jesus, rejecting the crucifixion, and emphasizing{" "}
+          <Text type="warning">strict monotheism</Text>. Scholars note that
+          rather than copying, the Quran engages in a form of{" "}
+          <Text italic>divine commentary</Text> and rectification of past
+          revelations.
           {"\n"} - <Text mark>Historicity and Cultural Context:</Text>{" "}
           Detractors often argue that the Quran is a product of its time — the
-          7th-century Arabian milieu. Yet, the Quran introduces concepts like
-          universal human dignity, due process, just war, and rights of women,
-          orphans, and slaves — values that were revolutionary and often in
-          tension with the norms of that era. This anachronistic moral vision
-          suggests something beyond its socio-political context.
+          7th-century Arabian milieu. Yet, the Quran introduces concepts like{" "}
+          <Text strong>universal human dignity</Text>,
+          <Text strong>due process</Text>, <Text strong>just war</Text>, and
+          rights of <Text strong>women</Text>, <Text strong>orphans</Text>, and{" "}
+          <Text strong>slaves</Text> — values that were revolutionary and often
+          in tension with the norms of that era. This{" "}
+          <Text type="warning">anachronistic moral vision</Text> suggests
+          something beyond its socio-political context.
           {"\n"} - <Text mark>Claims of Literary Influence:</Text> While
           pre-Islamic Arabic poetry existed, no contemporary or classical source
-          demonstrates the unique linguistic blend of prose and rhythmic
-          eloquence found in the Quran. Even celebrated poets like al-Khansa and
-          Labid reportedly ceased composing poetry after hearing it,
-          acknowledging its unparalleled style. The Quran’s structure, coherence
-          (nazm), and thematic depth have resisted imitation for over 1,400
-          years.
+          demonstrates the <Text strong>unique linguistic blend</Text> of prose
+          and rhythmic eloquence found in the Quran. Even celebrated poets like{" "}
+          <Text italic>al-Khansa</Text> and <Text italic>Labid</Text> reportedly
+          ceased composing poetry after hearing it, acknowledging its{" "}
+          <Text type="success">unparalleled style</Text>. The Quran’s structure,
+          coherence (<Text code>nazm</Text>), and thematic depth have resisted
+          imitation for over 1,400 years.
           {"\n"} - <Text mark>Contradictions and Consistency:</Text> Critics
           frequently search for internal inconsistencies. However, classical
-          Muslim scholars have responded that apparent contradictions are due to
-          misinterpretation, lack of context, or mistranslation. The Quran
-          itself challenges:{" "}
+          Muslim scholars have responded that apparent contradictions are due to{" "}
+          <Text type="warning">misinterpretation</Text>,{" "}
+          <Text type="warning">lack of context</Text>, or{" "}
+          <Text type="warning">mistranslation</Text>. The Quran itself
+          challenges:{" "}
           <Text italic>
             “Do they not reflect upon the Quran? Had it been from other than
             Allah, they would have found within it much contradiction.”
           </Text>{" "}
-          (Quran 4:82). No definitive contradiction has been upheld in scholarly
-          critique.
+          (<Text underline>Quran 4:82</Text>). No definitive contradiction has
+          been upheld in scholarly critique.
           {"\n\n"}Ultimately, the durability of these counterarguments is
-          weakened by the Quran’s demonstrated preservation, influence, and
-          internal coherence. As academic discourse increasingly explores
-          religious texts within both literary and metaphysical frameworks, the
-          Quran remains uniquely resistant to purely naturalistic or humanistic
-          explanations.
+          weakened by the Quran’s demonstrated{" "}
+          <Text type="success">preservation</Text>,{" "}
+          <Text type="success">influence</Text>, and{" "}
+          <Text type="success">internal coherence</Text>. As academic discourse
+          increasingly explores religious texts within both{" "}
+          <Text italic>literary</Text> and <Text italic>metaphysical</Text>{" "}
+          frameworks, the Quran remains uniquely resistant to purely
+          naturalistic or humanistic explanations.
         </Paragraph>
 
         <Title level={4}>8. Conclusion</Title>
