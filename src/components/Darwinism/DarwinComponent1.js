@@ -381,9 +381,9 @@ function DarwinComponent1() {
             events
           </Text>
           . Claims about transitions that occurred millions of years ago cannot
-          be directly observed, repeated, or falsified in the lab. Unlike
+          be directly observed, repeated, or falsified in the lab. Unlike{" "}
           <Text type="success">operational science</Text>, which tests
-          hypotheses in real time, evolutionary claims rely on
+          hypotheses in real time, evolutionary claims rely on{" "}
           <Text type="danger">assumptions about the past</Text> that are often
           beyond verification.
         </Paragraph>
@@ -394,10 +394,10 @@ function DarwinComponent1() {
           <Text type="secondary">“vestigial organs”</Text> like the appendix or
           tonsils, once claimed to be useless remnants, are now recognized as
           having <Text type="success">important immune functions</Text>. “Junk
-          DNA,” too, has been shown to contain
+          DNA,” too, has been shown to contain{" "}
           <Text type="success">regulatory elements</Text> crucial to gene
           expression. Initial assumptions of{" "}
-          <Text type="danger">simple cell structure</Text>
+          <Text type="danger">simple cell structure</Text>{" "}
           have been shattered by modern microbiology, which reveals cells as{" "}
           <Text type="success">intricate factories</Text> of interdependent
           processes.
@@ -410,7 +410,7 @@ function DarwinComponent1() {
           they are labeled as{" "}
           <Text type="secondary">“convergent evolution”</Text>— a descriptive
           term that <Text type="danger">lacks mechanistic explanation</Text>.
-          These <Text type="warning">ad hoc adjustments</Text> reflect
+          These <Text type="warning">ad hoc adjustments</Text> reflect{" "}
           <Text type="danger">theory-protection</Text> rather than genuine
           falsifiability.
         </Paragraph>
@@ -428,7 +428,7 @@ function DarwinComponent1() {
           </Text>
           , by contrast, offers a more coherent, predictive, and empirically
           consistent model to account for the{" "}
-          <Text type="success">specified complexity</Text> and
+          <Text type="success">specified complexity</Text> and{" "}
           <Text type="success">informational architecture</Text> observed in
           life.
         </Paragraph>
