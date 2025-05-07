@@ -39,7 +39,7 @@ const CommentBox = (props) => {
       alert("Please enter a reason for reporting.");
       return;
     }
-    const subject = `Feedback for Article - abc`;
+    const subject = `Feedback for Article - ${props.title}`;
     const body = `Assalamu Alaikum,\n\nI would like to report this article url-> ${props.url}:\n\n${text}`;
 
     if (isMobile) {
