@@ -140,7 +140,7 @@ const Islam = () => {
     alert(
       "Thank you for considering to contribute in this website. Please feel free to suggest this topic. May Allah reward you!"
     );
-    const subject = "Topic Suggestion for SR Defense";
+    const subject = "Topic Suggestion for Defense of Islam Website";
     const body = `Assalamu Alaikum,\n\nI would like to suggest the following topic for inclusion on your website:\n\n[Please describe your topic here (You searched for "${searchText}"). Kindly Explain from below this line about this "${searchText}" topic. This topic will be added in future In Sha Allah]\n\nJazakAllah Khair`;
 
     // Check if mobile device
