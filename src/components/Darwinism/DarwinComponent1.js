@@ -126,37 +126,46 @@ function DarwinComponent1() {
           <Text strong>
             "macroevolution is simply microevolution over long periods of time."
           </Text>{" "}
-          While this may appear convincing at first glance, it commits a
-          fundamental equivocation fallacy—using one definition of a word to
-          prove a distinctly different concept.
+          While this may appear convincing at first glance, it commits a{" "}
+          <Text type="danger">fundamental equivocation fallacy</Text>—using one
+          definition of a word to prove a distinctly different concept.
         </Paragraph>
         <Paragraph>
           <Text mark>Microevolution</Text> refers to small, observable changes
           within a species—such as variations in beak size among finches or
-          changes in fur color. These changes are typically the result of gene
-          shuffling, selection, or loss of existing genetic information. They
-          are well-documented and undisputed within both scientific and
-          creationist circles. However, crucially, they do not introduce new
-          functional genetic information, nor do they produce new body plans or
-          organs.
+          changes in fur color. These changes are typically the result of{" "}
+          <Text code>gene shuffling</Text>, selection, or loss of existing
+          genetic information. They are well-documented and undisputed within
+          both scientific and creationist circles. However, crucially,{" "}
+          <Text underline>
+            they do not introduce new functional genetic information
+          </Text>
+          , nor do they produce new body plans or organs.
         </Paragraph>
         <Paragraph>
           <Text mark>Macroevolution,</Text> on the other hand, refers to the
           emergence of entirely new species, organs, and complex biological
-          structures—requiring vast increases in functional genetic information.
-          No known natural process has been empirically observed to produce such
-          innovations. The mechanisms observed in microevolution often lead to
-          specialization or reduction in genetic diversity, not biological
-          novelty. For example, antibiotic resistance in bacteria frequently
+          structures—requiring{" "}
+          <Text strong>vast increases in functional genetic information</Text>.
+          No known natural process has been{" "}
+          <Text type="warning">empirically observed</Text> to produce such
+          innovations. The mechanisms observed in microevolution often lead to{" "}
+          <Text delete>specialization or reduction in genetic diversity</Text>,
+          not biological novelty. For example,{" "}
+          <Text underline>antibiotic resistance in bacteria</Text> frequently
           involves the loss or disabling of a gene (such as a protein pump), not
           the creation of a new one.
         </Paragraph>
         <Paragraph>
           The extrapolation from microevolution to macroevolution is not a
-          conclusion derived from observation—it is a philosophical assumption
-          layered over limited data. The two concepts operate on entirely
-          different scales, both biologically and informationally, and
-          conflating them is scientifically misleading.
+          conclusion derived from observation—it is a{" "}
+          <Text italic>philosophical assumption</Text> layered over limited
+          data. The two concepts operate on entirely different scales, both
+          biologically and informationally, and{" "}
+          <Text type="danger">
+            conflating them is scientifically misleading
+          </Text>
+          .
         </Paragraph>
         <Paragraph>
           <Text italic>
@@ -177,31 +186,45 @@ function DarwinComponent1() {
         </Paragraph>
         <Paragraph>
           - <Text mark>Irreducible Complexity:</Text> Some biological systems
-          exhibit an all-or-nothing architecture, where every component is
-          essential for functionality. The bacterial flagellum, the blood
-          clotting cascade, and ATP synthase are prime examples. If even one
-          part is missing, the system ceases to function. Since intermediate
-          stages would offer no selective advantage, natural selection has no
-          explanatory power in constructing such systems. [Reference: Behe,
-          *Darwin’s Black Box*]
+          exhibit an <Text strong>all-or-nothing architecture</Text>, where
+          every component is essential for functionality.{" "}
+          <Text code>
+            The bacterial flagellum, the blood clotting cascade, and ATP
+            synthase
+          </Text>{" "}
+          are prime examples. If even one part is missing, the system ceases to
+          function. Since intermediate stages would offer no selective
+          advantage, natural selection has no explanatory power in constructing
+          such systems.{" "}
+          <Text italic>
+            [Reference: Behe, <Text underline>Darwin’s Black Box</Text>]
+          </Text>
         </Paragraph>
         <Paragraph>
           - <Text mark>The Information Problem:</Text> DNA stores complex,
           specified information akin to a digital code. According to information
-          theory, random mutations lack the creative capacity to generate the
-          kind of meaningful, ordered information required to build new organs
-          or body plans. The probability of such highly functional code emerging
-          without intelligent input is statistically negligible. [Reference: Dr.
-          Werner Gitt, *In the Beginning Was Information*]
+          theory,{" "}
+          <Text type="danger">random mutations lack the creative capacity</Text>{" "}
+          to generate the kind of meaningful, ordered information required to
+          build new organs or body plans. The probability of such highly
+          functional code emerging without intelligent input is{" "}
+          <Text strong>statistically negligible</Text>.{" "}
+          <Text italic>
+            [Reference: Dr. Werner Gitt,{" "}
+            <Text underline>In the Beginning Was Information</Text>]
+          </Text>
         </Paragraph>
         <Paragraph>
           - <Text mark>Mathematical Improbability:</Text> The likelihood of
           accumulating the specific, coordinated mutations necessary to form
-          complex structures such as wings, eyes, or lungs—within the timeframe
-          allowed by the fossil record—is astronomically low. Mutation and
+          complex structures such as <Text code>wings, eyes, or lungs</Text>
+          —within the timeframe allowed by the fossil record—is{" "}
+          <Text type="warning">astronomically low</Text>. Mutation and
           selection, even when acting over millions of years, appear
-          insufficient when analyzed through realistic probabilistic models.
-          [Reference: Sanford, J.C., *Genetic Entropy*]
+          insufficient when analyzed through realistic probabilistic models.{" "}
+          <Text italic>
+            [Reference: Sanford, J.C., <Text underline>Genetic Entropy</Text>]
+          </Text>
         </Paragraph>
         <Paragraph>
           <Text strong>
@@ -221,29 +244,34 @@ function DarwinComponent1() {
           process. However, history reveals that several high-profile forgeries
           and misinterpretations have not only misled the public but also shaped
           academic discourse for decades. These cases expose a deeper issue:
-          that ideological commitment can, at times, override scientific rigor.
+          that <Text strong>ideological commitment</Text> can, at times,
+          override scientific rigor.
         </Paragraph>
         <Paragraph>
           - <Text mark>Piltdown Man:</Text> Perhaps the most infamous
-          paleoanthropological hoax, Piltdown Man was a fraudulent "missing
-          link" created by combining a medieval human skull with an orangutan
-          jaw. This forgery misled the scientific community for over 40 years
-          and was used to support evolutionary narratives despite early doubts
-          about its authenticity.
+          paleoanthropological hoax, Piltdown Man was a{" "}
+          <Text type="danger">fraudulent "missing link"</Text> created by
+          combining a medieval human skull with an orangutan jaw. This forgery
+          misled the scientific community for over 40 years and was used to
+          support evolutionary narratives despite early doubts about its
+          authenticity.
         </Paragraph>
         <Paragraph>
           - <Text mark>Haeckel’s Embryos:</Text> Ernst Haeckel produced drawings
           of vertebrate embryos that greatly exaggerated their similarities in
-          order to support his theory of recapitulation ("ontogeny recapitulates
-          phylogeny"). Despite being exposed as fraudulent in the 19th century,
+          order to support his theory of recapitulation (
+          <Text italic>"ontogeny recapitulates phylogeny"</Text>). Despite being{" "}
+          <Text type="danger">exposed as fraudulent</Text> in the 19th century,
           these drawings were reproduced in biology textbooks well into the 20th
           century and still persist in some modern educational materials.
         </Paragraph>
         <Paragraph>
-          - <Text mark>Archaeoraptor:</Text> In 1999, *National Geographic*
-          unveiled what it called a "missing link" between dinosaurs and birds.
-          This fossil was later exposed as a composite forgery, cobbled together
-          from parts of different species. It passed through peer review and was
+          - <Text mark>Archaeoraptor:</Text> In 1999,{" "}
+          <Text italic>National Geographic</Text> unveiled what it called a{" "}
+          <Text strong>"missing link"</Text> between dinosaurs and birds. This
+          fossil was later exposed as a{" "}
+          <Text type="warning">composite forgery</Text>, cobbled together from
+          parts of different species. It passed through peer review and was
           celebrated in mainstream media before being debunked.
         </Paragraph>
         <Paragraph>
@@ -262,147 +290,218 @@ function DarwinComponent1() {
           A common argument in support of Darwinian evolution is that we have
           observed many species change over time—horses, whales, birds, even
           humans. However, the core issue is not whether change occurs, but{" "}
-          <Text strong>what kind of change</Text> it is, and in{" "}
-          <Text strong>which direction</Text> it points. The fossil evidence
-          often reveals complexity, ambiguity, and discontinuity rather than the
-          smooth, linear progression suggested by textbooks.
+          <Text strong type="warning">
+            what kind of change
+          </Text>{" "}
+          it is, and in{" "}
+          <Text strong type="warning">
+            which direction
+          </Text>{" "}
+          it points. The fossil evidence often reveals{" "}
+          <Text type="danger">complexity</Text>,{" "}
+          <Text type="danger">ambiguity</Text>, and{" "}
+          <Text type="danger">discontinuity</Text> rather than the smooth,
+          linear progression suggested by textbooks.
         </Paragraph>
         <Paragraph>
-          - <Text mark>Horse Evolution:</Text> Frequently presented as a classic
-          example of linear evolutionary progression, the horse fossil record is
-          far more chaotic. It reveals a mosaic of overlapping species with
-          diverse sizes and traits, lacking a consistent upward trend. The neat
-          sequence from Eohippus to Equus is an oversimplification. [Reference:
-          Heribert Nilsson, *Synthetische Artbildung*]
+          - <Text mark>Horse Evolution:</Text>{" "}
+          <Text type="secondary">
+            Frequently presented as a classic example of linear evolutionary
+            progression
+          </Text>
+          , the horse fossil record is{" "}
+          <Text type="danger">far more chaotic</Text>. It reveals a mosaic of
+          overlapping species with diverse sizes and traits,{" "}
+          <Text type="warning">lacking a consistent upward trend</Text>. The
+          neat sequence from Eohippus to Equus is an{" "}
+          <Text type="danger">oversimplification</Text>. [Reference: Heribert
+          Nilsson, <Text italic>Synthetische Artbildung</Text>]
         </Paragraph>
         <Paragraph>
           - <Text mark>Whale Evolution:</Text> The supposed transition from
-          land-dwelling mammals to fully aquatic whales requires multiple major
-          anatomical transformations: development of blowholes, conversion of
-          limbs to flippers, formation of echolocation, and reconfiguration of
-          reproductive and respiratory systems. The fossil evidence consists of
-          scattered, incomplete specimens and speculative reconstructions—not a
+          land-dwelling mammals to fully aquatic whales requires{" "}
+          <Text type="warning">multiple major anatomical transformations</Text>:
+          development of blowholes, conversion of limbs to flippers, formation
+          of echolocation, and reconfiguration of reproductive and respiratory
+          systems. The fossil evidence consists of{" "}
+          <Text type="danger">scattered, incomplete specimens</Text> and{" "}
+          <Text type="danger">speculative reconstructions</Text>—not a
           step-by-step trail.
         </Paragraph>
         <Paragraph>
           - <Text mark>Human Evolution:</Text> The alleged evolutionary tree
-          leading from Australopithecus to Homo sapiens is highly contested
-          within paleoanthropology itself. New discoveries frequently reshape
-          the tree into a bush—full of dead ends, reversals, and uncertain
-          relationships. There is no universally accepted lineage that clearly
-          bridges the gap from apes to modern humans.
+          leading from Australopithecus to Homo sapiens is{" "}
+          <Text type="warning">highly contested</Text> within paleoanthropology
+          itself. New discoveries frequently reshape the tree into a{" "}
+          <Text type="danger">bush—full of dead ends</Text>,{" "}
+          <Text type="danger">reversals</Text>, and{" "}
+          <Text type="danger">uncertain relationships</Text>. There is{" "}
+          <Text type="danger">no universally accepted lineage</Text> that
+          clearly bridges the gap from apes to modern humans.
         </Paragraph>
         <Paragraph>
-          <Text strong>
+          <Text strong type="danger">
             What we observe is variation within kinds or interpretive
             storytelling applied to ambiguous fossils—not empirical evidence of
             macroevolutionary transitions.
           </Text>{" "}
-          Scientific humility demands we acknowledge the limits of inference and
-          avoid conflating variation with transformation.
+          <Text type="success">Scientific humility</Text> demands we acknowledge
+          the <Text type="warning">limits of inference</Text> and avoid
+          conflating variation with transformation.
         </Paragraph>
         <Title level={4}>
           6. Is Evolution Truly Testable, Predictive, and Self-Correcting?
         </Title>
         <Paragraph>
           Evolutionary proponents often argue that the theory may not be
-          perfect, but it is scientific because it is{" "}
-          <Text strong>testable</Text>, <Text strong>predictive</Text>, and{" "}
-          <Text strong>refined over time.</Text> However, upon closer scrutiny,
-          these claims amount more to narrative reassurance than empirical
+          perfect, but it is{" "}
+          <Text strong type="success">
+            testable
+          </Text>
+          ,{" "}
+          <Text strong type="success">
+            predictive
+          </Text>
+          , and{" "}
+          <Text strong type="success">
+            refined over time
+          </Text>
+          . However, upon closer scrutiny, these claims amount more to{" "}
+          <Text type="warning">narrative reassurance</Text> than empirical
           reality. Evolutionary theory, particularly in its grand claims,
-          operates as a philosophical framework applied to biology—often
-          interpreting evidence rather than being derived from it.
+          operates as a <Text type="danger">philosophical framework</Text>{" "}
+          applied to biology— often interpreting evidence rather than being
+          derived from it.
         </Paragraph>
         <Paragraph>
-          - <Text mark>Testability:</Text> Darwinian evolution deals primarily
-          with unrepeatable historical events. Claims about transitions that
-          occurred millions of years ago cannot be directly observed, repeated,
-          or falsified in the lab. Unlike operational science, which tests
-          hypotheses in real time, evolutionary claims rely on assumptions about
-          the past that are often beyond verification.
+          - <Text mark>Testability:</Text>{" "}
+          <Text type="warning">
+            Darwinian evolution deals primarily with unrepeatable historical
+            events
+          </Text>
+          . Claims about transitions that occurred millions of years ago cannot
+          be directly observed, repeated, or falsified in the lab. Unlike
+          <Text type="success">operational science</Text>, which tests
+          hypotheses in real time, evolutionary claims rely on
+          <Text type="danger">assumptions about the past</Text> that are often
+          beyond verification.
         </Paragraph>
         <Paragraph>
           - <Text mark>Predictive Power:</Text> Many evolutionary predictions
-          have failed or been quietly abandoned. So-called “vestigial organs”
-          like the appendix or tonsils, once claimed to be useless remnants, are
-          now recognized as having important immune functions. “Junk DNA,” too,
-          has been shown to contain regulatory elements crucial to gene
-          expression. Initial assumptions of simple cell structure have been
-          shattered by modern microbiology, which reveals cells as intricate
-          factories of interdependent processes.
+          have <Text type="danger">failed</Text> or been{" "}
+          <Text type="warning">quietly abandoned</Text>. So-called{" "}
+          <Text type="secondary">“vestigial organs”</Text> like the appendix or
+          tonsils, once claimed to be useless remnants, are now recognized as
+          having <Text type="success">important immune functions</Text>. “Junk
+          DNA,” too, has been shown to contain
+          <Text type="success">regulatory elements</Text> crucial to gene
+          expression. Initial assumptions of{" "}
+          <Text type="danger">simple cell structure</Text>
+          have been shattered by modern microbiology, which reveals cells as{" "}
+          <Text type="success">intricate factories</Text> of interdependent
+          processes.
         </Paragraph>
         <Paragraph>
           - <Text mark>Refinement or Rescue?</Text> When fossil evidence
-          contradicts the expected evolutionary timeline, dating methods are
-          revised to preserve the theory. When complex, similar features appear
-          in unrelated species, they are labeled as “convergent evolution”—a
-          descriptive term that lacks mechanistic explanation. These ad hoc
-          adjustments reflect theory-protection rather than genuine
+          contradicts the expected evolutionary timeline,{" "}
+          <Text type="warning">dating methods are revised</Text> to preserve the
+          theory. When complex, similar features appear in unrelated species,
+          they are labeled as{" "}
+          <Text type="secondary">“convergent evolution”</Text>— a descriptive
+          term that <Text type="danger">lacks mechanistic explanation</Text>.
+          These <Text type="warning">ad hoc adjustments</Text> reflect
+          <Text type="danger">theory-protection</Text> rather than genuine
           falsifiability.
         </Paragraph>
         <Paragraph>
-          <Text strong>
+          <Text strong type="danger">
             In essence, evolution is not “science” in the strict empirical
             sense—it functions as a lens through which evidence is interpreted.
             While minor adaptation (microevolution) is observable and testable,
             large-scale macroevolution lacks sufficient fossil, genetic,
             mathematical, and biochemical support.
           </Text>{" "}
-          The <Text underline>design inference</Text>, by contrast, offers a
-          more coherent, predictive, and empirically consistent model to account
-          for the specified complexity and informational architecture observed
-          in life.
+          The{" "}
+          <Text underline type="success">
+            design inference
+          </Text>
+          , by contrast, offers a more coherent, predictive, and empirically
+          consistent model to account for the{" "}
+          <Text type="success">specified complexity</Text> and
+          <Text type="success">informational architecture</Text> observed in
+          life.
         </Paragraph>
         <Title level={4}>
           7. Conclusion: Reassessing the Evolutionary Paradigm
         </Title>
         <Paragraph>
-          The debate between Darwinian evolution and intelligent design is not
-          merely scientific—it is philosophical, ideological, and
-          epistemological. While evolution is often presented as an objective,
-          self-correcting framework, critical examination reveals a system built
-          on extrapolation, reinterpretation, and selective data usage. Its
-          foundational claims—whether about transitional fossils,
-          macroevolution, or predictive power—face serious scientific and
-          logical challenges.
-        </Paragraph>
-        <Paragraph>
-          Historical forgeries, conceptual ambiguities, and reliance on
-          narrative rather than empirical falsifiability expose the
-          vulnerabilities of evolutionary theory as it is commonly taught.
-          Meanwhile, the increasing recognition of biological information,
-          irreducible complexity, and fine-tuned systems in living organisms
-          points toward a more rational and causally adequate explanation:{" "}
-          <Text strong>intelligent design.</Text>
-        </Paragraph>
-        <Paragraph>
-          <Text strong>
-            It is not “anti-science” to question evolution—it is pro-science to
-            demand testability, clarity, and integrity.
-          </Text>{" "}
-          If science is truly about following the evidence wherever it leads,
-          then the design inference deserves fair consideration rather than
-          dismissal through ideological gatekeeping.
-        </Paragraph>
-        <Paragraph>
-          Furthermore, if critics of creationism invoke moral outrage or ethical
-          standards to reject divine explanations, they must also turn their
-          scrutiny toward materialist assumptions that provide no grounding for
-          objective morality, consciousness, or purpose. Why is the focus so
-          disproportionately aimed at theism, while naturalistic dogmas are
-          shielded from equal scrutiny?
-        </Paragraph>
-        <Paragraph>
-          In an age where science is often conflated with scientism, and
-          education sometimes serves ideology more than inquiry, it is essential
-          to restore philosophical balance. Evolution may offer a framework, but
-          it is not the only one—nor is it the most coherent. Creationism and
-          design theory, rooted in both reason and revelation, remain
-          intellectually viable and scientifically relevant alternatives in the
-          modern discourse.
-        </Paragraph>
+  The debate between Darwinian evolution and intelligent design is not merely
+  scientific—it is{" "}
+  <Text type="warning">philosophical</Text>,{" "}
+  <Text type="warning">ideological</Text>, and{" "}
+  <Text type="warning">epistemological</Text>. While evolution is often presented
+  as an <Text type="success">objective, self-correcting framework</Text>, critical
+  examination reveals a system built on{" "}
+  <Text type="danger">extrapolation</Text>,{" "}
+  <Text type="danger">reinterpretation</Text>, and{" "}
+  <Text type="danger">selective data usage</Text>. Its foundational claims—whether
+  about transitional fossils, macroevolution, or predictive power—face serious{" "}
+  <Text type="danger">scientific and logical challenges</Text>.
+</Paragraph>
+
+<Paragraph>
+  Historical forgeries, <Text type="warning">conceptual ambiguities</Text>, and
+  reliance on narrative rather than{" "}
+  <Text type="danger">empirical falsifiability</Text> expose the vulnerabilities of
+  evolutionary theory as it is commonly taught. Meanwhile, the increasing
+  recognition of <Text type="success">biological information</Text>,{" "}
+  <Text type="success">irreducible complexity</Text>, and{" "}
+  <Text type="success">fine-tuned systems</Text> in living organisms points toward
+  a more rational and causally adequate explanation:{" "}
+  <Text strong type="success">intelligent design.</Text>
+</Paragraph>
+
+<Paragraph>
+  <Text strong type="warning">
+    It is not “anti-science” to question evolution—it is pro-science to demand
+    testability, clarity, and integrity.
+  </Text>{" "}
+  If science is truly about following the evidence wherever it leads, then the{" "}
+  <Text underline type="success">design inference</Text> deserves fair consideration
+  rather than dismissal through <Text type="danger">ideological gatekeeping</Text>.
+</Paragraph>
+
+<Paragraph>
+  Furthermore, if critics of creationism invoke{" "}
+  <Text type="warning">moral outrage</Text> or{" "}
+  <Text type="warning">ethical standards</Text> to reject divine explanations, they
+  must also turn their scrutiny toward{" "}
+  <Text type="danger">materialist assumptions</Text> that provide no grounding for{" "}
+  <Text type="danger">objective morality</Text>,{" "}
+  <Text type="danger">consciousness</Text>, or{" "}
+  <Text type="danger">purpose</Text>. Why is the focus so disproportionately aimed
+  at theism, while <Text type="warning">naturalistic dogmas</Text> are shielded
+  from equal scrutiny?
+</Paragraph>
+
+<Paragraph>
+  In an age where science is often conflated with{" "}
+  <Text type="danger">scientism</Text>, and education sometimes serves{" "}
+  <Text type="danger">ideology</Text> more than inquiry, it is essential to restore{" "}
+  <Text type="success">philosophical balance</Text>. Evolution may offer a
+  framework, but it is not the only one—nor is it the most coherent.{" "}
+  <Text type="success">Creationism</Text> and{" "}
+  <Text type="success">design theory</Text>, rooted in both{" "}
+  <Text type="success">reason</Text> and{" "}
+  <Text type="success">revelation</Text>, remain intellectually viable and
+  scientifically relevant alternatives in the modern discourse.
+</Paragraph>
+
       </Typography>
+      <CommentBox
+        title={"Is Darwinian evolution hypothesis better than believing in Creationism?"}
+        url={"http://defenseofislam.github.io/web/darwinism/dn-vs-ct/1"}
+      />
     </Content>
   );
 }
