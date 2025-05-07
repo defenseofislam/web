@@ -1,16 +1,24 @@
 import React, { useEffect } from "react";
-import { Layout, Typography, Button, Card, List } from "antd";
+import { Layout, Typography, Button, Card, List,Grid } from "antd";
 import { Link } from "react-router-dom";
 import updates from "../components/Updates";
+import DOI from "../assets/android-chrome-512x512.png";
 const { Content } = Layout;
 const { Title, Paragraph, Text } = Typography;
+const { useBreakpoint } = Grid;
 
 function Home() {
+  const screens = useBreakpoint();
+  const isMobile = !screens.md;
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
   return (
     <Content style={{ padding: "24px" }}>
+      {isMobile && (
+        <img src={DOI} alt="Icon" style={{ maxWidth: "100%", height: "auto" }} />
+      )}
+
       <Typography>
         <Title level={2}>
           Welcome to our humble website — Defense of Islam
