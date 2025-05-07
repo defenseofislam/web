@@ -274,22 +274,22 @@ function IslamComponent1() {
         <Title level={4}>5. Historical Preservation & Textual Integrity</Title>
         <Paragraph>
           One of the most <Text type="success">remarkable aspects</Text> of the{" "}
-          <Text strong>Qur’an</Text> is the
-          <Text underline>precision with which it has been preserved</Text> over
-          more than
-          <Text strong>14 centuries</Text> — both <Text strong>orally</Text> and{" "}
-          <Text strong>textually</Text>. Unlike earlier scriptures that
+          <Text strong>Qur’an</Text> is the{" "}
+          <Text underline> precision with which it has been preserved</Text>{" "}
+          over more than
+          <Text strong> 14 centuries</Text> — both <Text strong>orally</Text>{" "}
+          and <Text strong>textually</Text>. Unlike earlier scriptures that
           underwent{" "}
           <Text type="danger">
             multiple redactions, translations, and editorial revisions
           </Text>
           , the Qur’an’s transmission has maintained{" "}
-          <Text type="success">consistency</Text> across
+          <Text type="success">consistency</Text> across{" "}
           <Text italic>time, geography, and dialect</Text>.{"\n\n"} -{" "}
           <Text mark>Oral and Written Transmission:</Text> The Qur’an was
           <Text strong>memorized in its entirety</Text> by the Prophet
           Muhammad’s (PBUH) companions and
-          <Text strong>written down during his lifetime</Text>. The{" "}
+          <Text strong> written down during his lifetime</Text>. The{" "}
           <Text underline>oral tradition continues today</Text>, with millions
           of Muslims known as <Text code>Huffaz</Text> committing the entire
           text to memory across generations and continents — a{" "}
@@ -298,12 +298,12 @@ function IslamComponent1() {
           </Text>
           .{"\n"} - <Text mark>Standardization under Caliph Uthman:</Text> To
           prevent
-          <Text type="danger">dialectical disputes</Text>, Caliph{" "}
+          <Text type="danger"> dialectical disputes</Text>, Caliph{" "}
           <Text code>Uthman (RA)</Text> ordered the compilation of an
           <Text type="success">official codex</Text>, known as the{" "}
           <Text italic>Mushaf Uthmani</Text>. He dispatched verified copies to
           major Islamic centers and ordered the removal of all unofficial
-          variants, ensuring
+          variants, ensuring{" "}
           <Text underline>uniformity in recitation and text</Text>.{"\n"} -{" "}
           <Text mark>Manuscript and Radiocarbon Evidence:</Text> Ancient
           manuscripts such as the
