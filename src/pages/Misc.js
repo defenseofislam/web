@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Table, Typography, Input, Button, Empty } from "antd";
-import tableData from "../components/Agnosticism/table/tableData";
+import tableData from "../components/Miscellaneous/table/tableData";
 import {
   CaretRightOutlined,
   CaretDownOutlined,
@@ -47,7 +47,7 @@ const highlightContent = (node, search) => {
   return node;
 };
 
-const Agnosticism = () => {
+const Misc = () => {
   const [expandedRow, setExpandedRow] = useState(null);
   const [searchText, setSearchText] = useState("");
   const [processedData, setProcessedData] = useState([]);
@@ -192,7 +192,7 @@ const Agnosticism = () => {
   return (
     <div style={{ padding: "0 16px" }}>
       <Title level={2} style={{ textAlign: "center", marginBottom: "24px" }}>
-        Criticizing Agnosticism
+        Miscellaneous Topics
       </Title>
 
       <div style={{ marginBottom: 24, maxWidth: 500, margin: "0 auto 24px" }}>
@@ -250,4 +250,4 @@ const Agnosticism = () => {
   );
 };
 
-export default Agnosticism;
+export default Misc;

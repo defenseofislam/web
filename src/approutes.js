@@ -17,6 +17,8 @@ import IslamComponent2 from "./components/Islam/quran/IslamComponent2";
 import IslamComponent3 from "./components/Islam/hadith/IslamComponent3";
 import DarwinComponent1 from "./components/Darwinism/DarwinComponent1";
 import AgnosticComponent1 from "./components/Agnosticism/AgnosticComponent1";
+import Misc from "./pages/Misc";
+import MiscComponent1 from "./components/Miscellaneous/MiscComponent1";
 
 const routes = [
   { path: "/", element: <Home /> },
@@ -31,12 +33,14 @@ const routes = [
   { path: "/hinduism", element: <Hinduism /> },
   { path: "/privacy-policy", element: <PrivacyPolicy /> },
   { path: "/contact-us", element: <Contact /> },
+  { path: "/misc", element: <Misc /> },
   { path: "/terms-of-service", element: <TermsOfService /> },
   { path: "/islam/quran/1", element: <IslamComponent1 /> },
   { path: "/islam/quran/2", element: <IslamComponent2 /> },
   { path: "/islam/hadith/1", element: <IslamComponent3 /> },
   { path: "/agnosticism/as-th-de/1", element: <AgnosticComponent1 /> },
   { path: "/darwinism/dn-vs-ct/1", element: <DarwinComponent1 /> },
+  { path: "/misc/gt/1", element: <MiscComponent1 /> },
   { path: "*", element: <Home /> },
 ];
 
