@@ -19,10 +19,12 @@ import DarwinComponent1 from "./components/Darwinism/DarwinComponent1";
 import AgnosticComponent1 from "./components/Agnosticism/AgnosticComponent1";
 import Misc from "./pages/Misc";
 import MiscComponent1 from "./components/Miscellaneous/MiscComponent1";
+import Articles from "./pages/Articles";
 
 const routes = [
   { path: "/", element: <Home /> },
   { path: "/about", element: <About /> },
+  { path: "/articles", element: <Articles /> },
   { path: "/islam", element: <Islam /> },
   { path: "/christianity", element: <Christianity /> },
   { path: "/judaism", element: <Judaism /> },

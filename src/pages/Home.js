@@ -28,6 +28,12 @@ function Home() {
           Welcome to our humble website — Defense of Islam
         </Title>
 
+        <Link to="/articles">
+          <Button type="link">
+            Explore all our articles - Published Chronologically
+          </Button>
+        </Link>
+
         {/* Notice Board */}
         <Card
           title="📢 Latest Updates"
