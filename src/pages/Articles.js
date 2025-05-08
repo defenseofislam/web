@@ -50,7 +50,7 @@ const Articles = () => {
       key: "action",
       render: (_, record) => (
         <Link to={record.link}>
-          <Button type="primary" icon={<LinkOutlined />} size="small">
+          <Button type="link" icon={<LinkOutlined />} size="small">
             Read
           </Button>
         </Link>
