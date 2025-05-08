@@ -14,6 +14,11 @@ const Articles = () => {
 
   const [visibleData, setVisibleData] = useState(allData.slice(0, 10));
   const [hasMore, setHasMore] = useState(true);
+  // Check if mobile device
+  const isMobile =
+  /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
+    navigator.userAgent
+  );
 
   const fetchMoreData = () => {
     setTimeout(() => {
@@ -64,7 +69,7 @@ const Articles = () => {
       >
         <div
           id="scrollableDiv"
-          style={{ maxHeight: "70vh", overflowY: "auto" }}
+          style={{ maxHeight: !isMobile?"70vh":"50vh", overflowY: "auto" }}
         >
           <Table
             columns={columns}
