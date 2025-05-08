@@ -221,13 +221,13 @@ function IslamComponent2() {
   not confined to traditional poetic conventions. This fusion results in
   a <Text type="warning">rhythm and eloquence</Text> that is unparalleled in classical Arabic
   literature. It conveys <Text strong>profound theological and philosophical messages</Text> in a way that <Text type="success">transcends</Text> 
-  the typical artistic forms of poetry.
+  {" "}the typical artistic forms of poetry.
   <br />• <Text code>Grammatical precision</Text>: The Quranic text
   exhibits <Text type="success">grammatical precision</Text> and complexity that goes beyond the{" "}
   <Text type="warning">liberties usually taken in poetry</Text>. Unlike the flexible grammar of
   traditional Arabic poetry, which allows for <Text italic>deviations</Text> and <Text italic>artistic
   license</Text>, the Quran maintains a <Text strong>linguistic structure</Text> that is both
-  <Text type="success">precise and sophisticated</Text>, adding another layer of complexity that
+  {" "}<Text type="success">precise and sophisticated</Text>, adding another layer of complexity that
   sets it apart from pre-Islamic poetic forms.
   <br />• <Text code>Consistent monotheistic focus</Text>: The thematic
   content of the Quran is also <Text type="success">distinctly different</Text> from pre-Islamic
@@ -261,7 +261,7 @@ function IslamComponent2() {
   <Text strong>Claim:</Text> A common critique is that the <Text strong>Quran's depiction of Paradise and Hell</Text> reflects 
   {" "}<Text type="warning">direct borrowing</Text> from Zoroastrianism. Critics argue that the <Text type="danger">similarities</Text> between these 
   concepts in both traditions suggest that the Quran adopted these ideas from <Text underline>Zoroastrian beliefs</Text>, which were prevalent in 
-  <Text italic>pre-Islamic Persia</Text>.
+  {" "}<Text italic>pre-Islamic Persia</Text>.
   <br />
   <Text strong>Refutation:</Text>
 <br />- While it is true that certain similarities between the Quranic concept of Paradise and Hell and Zoroastrian teachings exist, 
@@ -288,7 +288,7 @@ function IslamComponent2() {
   the <Text underline>Day of Judgment</Text>, and the <Text strong>eternal consequences</Text> of one’s choices.
   <br />
   <Text underline>In conclusion</Text>, while there are some shared cultural motifs between Zoroastrianism and the Quran, the 
-  <Text type="success">conceptual and theological differences</Text> between the two are profound. The Quran's treatment of Paradise and Hell, 
+  {" "}<Text type="success">conceptual and theological differences</Text> between the two are profound. The Quran's treatment of Paradise and Hell, 
   and its broader theological framework, represent a <Text type="success">unique and transformative understanding</Text> that sets it apart from 
   Zoroastrianism and other contemporaneous religious systems.
 </Paragraph>
