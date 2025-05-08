@@ -1,5 +1,6 @@
 import React from "react";
 import { Table, Button } from "antd";
+import { Link } from "react-router-dom";
 import { LinkOutlined } from "@ant-design/icons";
 import InfiniteScroll from "react-infinite-scroll-component";
 import { useState } from "react";
@@ -48,11 +49,11 @@ const Articles = () => {
       title: "Read",
       key: "action",
       render: (_, record) => (
-        <a href={record.link}>
+        <Link to={record.link}>
           <Button type="primary" icon={<LinkOutlined />} size="small">
             Read
           </Button>
-        </a>
+        </Link>
       ),
     },
   ];
