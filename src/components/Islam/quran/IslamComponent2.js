@@ -1,5 +1,6 @@
 import React, { useEffect, useRef } from "react";
 import { Layout, Typography } from "antd";
+import CommentBox from "../../CommentBox";
 
 const { Content } = Layout;
 const { Title, Paragraph, Text } = Typography;
@@ -432,6 +433,7 @@ function IslamComponent2() {
           <Text italic>The Quran and Late Antiquity</Text>
         </Paragraph>
       </Typography>
+      <CommentBox title="Debunking the Claims of Plagiarism Against the Quran" url="https://defenseofislam.github.io/web/islam/quran/2" />
     </Content>
   );
 }

@@ -1,5 +1,6 @@
 import React, { useEffect, useRef } from "react";
 import { Layout, Typography } from "antd";
+import CommentBox from "../CommentBox";
 
 const { Content } = Layout;
 const { Title, Paragraph, Text } = Typography;
@@ -377,6 +378,7 @@ function AgnosticComponent1() {
           <Text code>#PlotTwist</Text> 😄
         </Paragraph>
       </Typography>
+      <CommentBox title={`Understanding the claim "I believe in God but not in any religion" and Raising valid Philosophical , Moral questions on it.`} url="https://defenseofislam.github.io/web/agnosticism/as-th-de/1"/>
     </Content>
   );
 }

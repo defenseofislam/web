@@ -14,6 +14,10 @@ const Articles = () => {
       navigator.userAgent
     );
 
+    useEffect(() => {
+        window.scrollTo(0, 0);
+      }, []);
+
   const fetchMoreData = () => {
     setTimeout(() => {
       const nextData = allData.slice(
