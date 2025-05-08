@@ -61,7 +61,7 @@ const CommentBox = (props) => {
     <Card
       style={{ maxWidth: 600, margin: "2rem auto", backgroundColor: "#f5f5f5" }}
     >
-      <Title level={4}>Leave a Comment</Title>
+      <Title level={4}>Send me your Feedback/Concerns</Title>
       <TextArea
         rows={5}
         placeholder="Share your feedback or concerns. Write your thoughts here and then click on desired button to send me an email."
