@@ -20,6 +20,7 @@ import AgnosticComponent1 from "./components/Agnosticism/AgnosticComponent1";
 import Misc from "./pages/Misc";
 import MiscComponent1 from "./components/Miscellaneous/MiscComponent1";
 import Articles from "./pages/Articles";
+import MiscComponent2 from "./components/Miscellaneous/MiscComponent2";
 
 const routes = [
   { path: "/", element: <Home /> },
@@ -43,6 +44,7 @@ const routes = [
   { path: "/agnosticism/as-th-de/1", element: <AgnosticComponent1 /> },
   { path: "/darwinism/dn-vs-ct/1", element: <DarwinComponent1 /> },
   { path: "/misc/gt/1", element: <MiscComponent1 /> },
+  { path: "/misc/gt/2", element: <MiscComponent2 /> },
   { path: "*", element: <Home /> },
 ];
 

@@ -14,6 +14,17 @@ const tableData = [
       </div>
     ),
   },
+   {
+    key: "2",
+    title: "Terrorism",
+    content: (
+      <div>
+        <Paragraph>
+          1. "Not All Muslims Are Terrorists, But All Terrorists Are Muslims"  - <Link to="/misc/gt/2">Visit article</Link>
+        </Paragraph>
+      </div>
+    ),
+  }
 ];
 
 export default tableData;

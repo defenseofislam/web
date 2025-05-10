@@ -36,6 +36,12 @@ const allData = [
     date: "Published on 10:25:18 IST May 8, 2025",
     link: "/misc/gt/1",
   },
+  {
+    key: 7,
+    name: `7. "Not All Muslims Are Terrorists, But All Terrorists Are Muslims"`,
+    date: "Published on 10:25:18 IST May 8, 2025",
+    link: "/misc/gt/2",
+  },
 ];
 
 export default allData;
