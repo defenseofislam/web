@@ -24,6 +24,17 @@ const tableData = [
         </Paragraph>
       </div>
     ),
+  },
+   {
+    key: "3",
+    title: "Misconceptions on Religion as an ideology",
+    content: (
+      <div>
+        <Paragraph>
+          1. Eradicate Religion because this is the major source of violence - Brutal Refutation  - <Link to="/misc/mri/1">Visit article</Link>
+        </Paragraph>
+      </div>
+    ),
   }
 ];
 

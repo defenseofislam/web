@@ -5,7 +5,7 @@ import CommentBox from "../CommentBox";
 const { Content } = Layout;
 const { Title, Paragraph, Text } = Typography;
 
-function DarwinComponent2() {
+function MiscComponent2() {
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
@@ -256,4 +256,4 @@ function DarwinComponent2() {
   );
 }
 
-export default DarwinComponent2;
+export default MiscComponent2;

@@ -44,9 +44,15 @@ const allData = [
   },
   {
     key: 8,
-    name: `8. "Are women "really" oppressed in Islam and muslim culture?`,
+    name: `8. Are women "really" oppressed in Islam and muslim culture?`,
     date: "Published on 12:20:13 IST May 11, 2025",
     link: "/islam/wmn/1",
+  },
+   {
+    key: 9,
+    name: `9.  Eradicate Religion because this is the major source of violence - Brutal Refutation `,
+    date: "Published on 18:18:13 IST May 11, 2025",
+    link: "/misc/mri/1",
   },
 ];
 
