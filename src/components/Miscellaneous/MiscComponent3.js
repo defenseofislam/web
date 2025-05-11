@@ -75,10 +75,10 @@ function MiscComponent3() {
 <Paragraph>
   <Text strong>Secular humanism</Text>, often proposed as a rational and ethical alternative to religion, <Text type="warning">fails on two critical fronts</Text>:
   <br /><br />
-  <Text mark>1. It cannot ground morality objectively.</Text><br />
+  <Text underline><Text mark>1. It cannot ground morality objectively.</Text></Text><br />
   If morality is merely a human invention, then <Text type="danger">there is no absolute right or wrong</Text>. Acts like genocide, torture, or rape are no longer universally condemned—they become <Text italic>subjective matters</Text>, judged only by cultural norms or changing laws. Without an external, unchanging moral anchor, ethics float on the tides of opinion and power.
   <br /><br />
-  <Text mark>2. It lacks true accountability.</Text><br />
+  <Text underline><Text mark>2. It lacks true accountability.</Text></Text><br />
   In a worldview without a Creator—<Text code>no divine Judge, no eternal justice</Text>—there is no one to hold individuals accountable beyond the imperfect systems of man. <Text italic>Who watches the watchmen?</Text> Without fear of ultimate consequence or hope for divine reward, <Text type="warning">the temptation for tyranny and corruption intensifies</Text>.
   <br /><br />
   <Text strong>Religion, particularly Islam</Text>, offers both <Text underline>objective morality</Text> and <Text underline>cosmic accountability</Text>—foundations essential to building a just and humane society.
