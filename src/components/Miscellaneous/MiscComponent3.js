@@ -209,7 +209,7 @@ We have <Text strong>Real community in masjids</Text>, not <Paragraph type="seco
 
 
 
-<Text underline><Title level={4}>10. Final Blow: The Lion Doesn’t Answer Hyenas
+<Text underline><Title level={4}>10. Final Blow: The Lion Doesn’t Answer to Crippled Dogs
 </Title></Text>
  <Paragraph>
     <Text type="warning" strong>Trolls bark online</Text> with edgy quotes and memes.
