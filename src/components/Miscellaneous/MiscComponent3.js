@@ -273,8 +273,8 @@ We have <Text strong>Real community in masjids</Text>, not <Paragraph type="seco
 
       </Typography>
       <CommentBox
-        title={" Not All Muslims Are Terrorists, But All Terrorists Are Muslims? "}
-        url={"http://defenseofislam.github.io/web/misc/gt/2"}
+        title={" Eradicate Religion because this is the major source of violence - Brutal Refutation "}
+        url={"http://defenseofislam.github.io/web/misc/mri/1"}
       />
     </Content>
   );
