@@ -45,7 +45,7 @@ const allData = [
   {
     key: 8,
     name: `8. "Are women "really" oppressed in Islam and muslim culture?`,
-    date: "Published on 19:06:23 IST May 10, 2025",
+    date: "Published on 12:20:13 IST May 11, 2025",
     link: "/islam/wmn/1",
   },
 ];

@@ -17,78 +17,80 @@ function WomenComponent1() {
         </Title>
 
         <Title level={4}>Abstract</Title>
-        <Paragraph>
-        The narrative that women are oppressed in Islam is one of the most pervasive misconceptions about the religion. Fueled by media portrayals, cultural misunderstandings, and selective outrage, this stereotype paints Islam as inherently anti-woman, stripping away the nuance and historical context of its teachings. Critics often point to practices like the hijab, perceived restrictions on education, or isolated cases of domestic abuse as evidence of systemic oppression. However, a closer examination of Islamic texts, historical practices, and the Prophet Muhammad’s (PBUH) teachings reveals a framework that not only empowers women but was revolutionary for its time. This article dismantles the myth of oppression by addressing key misconceptions and highlighting Islam’s contributions to women’s rights, while acknowledging the cultural distortions that muddy the waters.
+<Paragraph>
+  The widespread belief that <Text mark>women are oppressed in Islam</Text> is one of the most persistent and <Text type="danger">misleading stereotypes</Text> associated with the faith. This perception is often <Text italic>shaped by biased media coverage, cultural misunderstandings,</Text> and the selective amplification of negative cases. 
+  <br />
+  Critics frequently cite examples such as <Text mark>the hijab</Text>, limited access to education, or isolated incidents of abuse as <Text type="warning">proof of systemic oppression</Text>. However, such claims <Text underline>ignore the broader context of Islamic teachings</Text> and often confuse <Text strong>cultural practices</Text> with <Text strong>religious principles</Text>.
+  <br />
+  A closer, more scholarly examination of <Text code>Islamic texts</Text>, the actions of the <Text mark>Prophet Muhammad (PBUH)</Text>, and early Islamic history reveals a different picture—one that highlights a <Text type="success">remarkably progressive stance toward women's rights</Text> for its time. Islam granted women rights to inheritance, education, property ownership, and personal agency long before many other civilizations did.
+  <br />
+  This article seeks to <Text strong>dismantle the myth</Text> of oppression by addressing <Text mark>key misconceptions</Text> and shedding light on the <Text underline>original egalitarian vision of Islam</Text>. At the same time, it recognizes how <Text type="warning">cultural distortions and patriarchal interpretations</Text> have sometimes obscured these rights in practice.
+  <br />
+  <Paragraph type="secondary" italic>
+    Understanding the distinction between <Text strong>Islamic doctrine</Text> and <Text strong>cultural practice</Text> is essential to any honest and informed discussion about women in Islam.
+  </Paragraph>
+</Paragraph>
 
-      </Paragraph>
 
         <hr />
 
-        <Title level={4}>1. Introduction</Title>
-        <Paragraph type="secondary" italic>
-        Among the most frequently discussed historical issues concerning early
-        Islam is the marriage of Ayesha bint Abi Bakr (R.A.) to the Prophet Muhammad (PBUH). In recent times,
-        this subject has drawn attention both from critics and those seeking deeper scholarly understanding.
-        This article aims to bring clarity by examining authentic sources, scholarly opinions, and context.
-      </Paragraph>
-
-      <Paragraph>
-        <Text strong>Ayesha bint Abi Bakr (R.A.)</Text>, the beloved wife of{" "}
-        <Text underline>Prophet Muhammad (PBUH)</Text>, holds a{" "}
-        <Text type="success">revered position</Text> in Islamic history as a{" "}
-        <Text italic>scholar, narrator of Hadith,</Text> and a{" "}
-        <Text italic>key figure in early Islam</Text>. However, her{" "}
-        <Text type="danger">age at marriage</Text> has become a{" "}
-        <Text type="warning">contentious issue</Text> in modern discourse.
-        <br />
-        <br />
-        This article explores:
-        <br />• <Text mark>Primary Hadith sources</Text> on Ayesha’s (R.A.) age.
-        <br />• <Text italic>Historical and cultural context</Text> of 7th-century Arabia.
-        <br />• <Text strong>Scholarly defenses</Text> and{" "}
-        <Text strong>theological justifications</Text>.
-        <br />• <Text type="danger">Modern criticisms</Text> and{" "}
-        <Text type="success">responses</Text>.
-      </Paragraph>
-
-
-      <Title level={4}>2. Historical and Cultural Context</Title>
+        <Title level={4}>1. The Hijab: Choice, Not Chains</Title>
 
 <Paragraph>
-  Understanding Aisha’s (R.A.) age requires examining the realities of 7th-century Arabian society and the broader premodern world:
-  <br /> <br /> - <Text mark>Early Marriages Were Universally Common:</Text> In pre-modern societies—including <Text italic>Greco-Roman, Byzantine, Persian, Indian,</Text> and <Text italic>Jewish</Text> civilizations—marriages at or soon after puberty were standard. <Text type="danger">The idea that childhood ends at 18 is a modern Western invention, not a biological or global norm.</Text> Even in <Text strong>medieval Christian Europe</Text>, marriage under the age of 13 was legally and socially accepted.
-  <br /> - <Text mark>Biological Maturity, Not Arbitrary Age:</Text> In hot, arid climates like Arabia, girls reached puberty much earlier than in colder regions. <Text strong>Puberty</Text>, not a bureaucratic number, was the biological marker of adulthood. <Text type="success">Islamic law only permits consummation of marriage after physical and mental maturity</Text>—a principle that predates modern “age of consent” laws.
-  <br /> - <Text mark>Marriages Were Socio-Political Contracts:</Text> Aisha’s marriage was not random—it strengthened ties between the Prophet (PBUH) and his closest companion, Abu Bakr (R.A.). Such alliances were vital for <Text type="warning">social cohesion</Text> and <Text strong>political unity</Text>, especially in tribal societies where kinship dictated loyalty.
-  <br /> - <Text mark>Historical Consistency:</Text> There is no record—neither from hostile Quraysh enemies nor sympathetic companions—of criticism or objection to the marriage. <Text italic>If this was abnormal or shameful, surely the Prophet’s enemies would have used it as propaganda.</Text> They didn’t—because it was accepted as normal by everyone at the time.
+  One of the most <Text type="warning">visibly recognized</Text> symbols of Islam, the <Text mark>hijab</Text>, is often misinterpreted in mainstream discourse as a sign of <Text type="danger">female subjugation</Text>. Critics claim it is a compulsory imposition that strips women of their autonomy. However, a closer reading of the <Text code>Quranic verse 24:31</Text>—which instructs believing women to “draw their veils over their bosoms”—reveals a focus on <Text strong>modesty</Text> for <Text underline>both men and women</Text>. The language is prescriptive but not punitive, presenting modesty as a <Text italic>personal and spiritual choice</Text>, not a mandate enforced by religious or state authority.
+  <br />
+  <br />
+  It is essential to note that the <Text strong>Quran does not prescribe any worldly punishment</Text> for not wearing the hijab. Across various Islamic legal schools, scholars widely agree that hijab is a matter of <Text mark>personal religious commitment</Text>, shaped by one’s cultural context and level of faith.
+  <br />
+  <br />
+  Historically, the practice of veiling predates Islam. Women in pre-Islamic Byzantine, Persian, Jewish, and early Christian societies also practiced forms of modest dress. Islam adopted and spiritualized this cultural norm by transforming it into a <Text type="success">symbol of dignity, privacy, and identity</Text>. In modern times, countless Muslim women—ranging from academics and professionals to activists—<Text strong>choose to wear the hijab</Text> as an expression of their faith, identity, and empowerment.
+  <br />
+  <br />
+  Conversely, the <Text type="danger">forced imposition of hijab</Text> in certain modern contexts reflects <Text strong>cultural authoritarianism</Text> rather than Islamic doctrine. This conflation of <Text warning>patriarchal traditions</Text> with divine instruction is where much of the confusion arises. 
+  <Paragraph type="secondary" italic>
+    Understanding the hijab as a <Text mark>choice</Text> rather than a <Text delete>burden</Text> is critical to respecting the agency of Muslim women and dismantling orientalist misconceptions.
+  </Paragraph>
 </Paragraph>
 
-<Paragraph>
-  <Text strong>Modern critics display selective memory:</Text> They conveniently ignore the fact that <Text delete>“child marriage”</Text> was the global norm for over <Text code>90%</Text> of human history. It is <Text type="danger">hypocritical</Text> to vilify Islam while Western and Eastern societies alike followed the same practices well into the 19th and even early 20th centuries.
-</Paragraph>
+
+
+      <Title level={4}>2. Education: A Right, Not a Privilege</Title>
 
 <Paragraph>
-  Aisha’s (R.A.) intellect, leadership, and scholarly legacy are proof that she was not a victim of circumstance, but a <Text type="success">chosen partner</Text> in one of the most significant chapters of human history. To judge her through the lens of modern discomfort is to <Text type="warning">distort both her agency and the truth.</Text>
+  One of the most persistent myths surrounding Islam is the belief that it <Text type="danger">denies women access to education</Text>. In truth, this notion is <Text strong>fundamentally incorrect</Text>. The Prophet Muhammad (PBUH) clearly stated, <Text mark>“Seeking knowledge is obligatory upon every Muslim”</Text> (Ibn Majah), making no distinction between male and female. In the 7th century—a time when most societies restricted women to domestic roles—Islam <Text type="success">revolutionized the norm</Text> by declaring education a <Text strong>universal right</Text>.
+  <br />
+  <br />
+  A powerful example lies in the life of <Text code>Aisha (RA)</Text>, the Prophet’s wife, who was not only a scholar but also a <Text strong>teacher of both men and women</Text>. She narrated over 2,000 hadiths and became a central figure in Islamic jurisprudence. Her legacy illustrates that <Text mark>intellectual authority was never gender-exclusive in Islam</Text>.
+  <br />
+  <br />
+  Islamic civilization further proves this truth. <Text mark>Fatima al-Fihri</Text>, a Muslim woman, established the <Text underline>University of Al-Qarawiyyin</Text> in 859 CE in Morocco—<Text type="warning">centuries before Oxford and Cambridge</Text>. This institution is recognized by UNESCO as the world’s oldest existing university.
+  <br />
+  <br />
+  In contrast, European women were largely barred from higher education until the 19th century. Today, in many Muslim-majority countries like <Text code>Qatar</Text> and <Text code>Malaysia</Text>, female literacy rates exceed 95%. In nations such as <Text code>Saudi Arabia</Text>, women actually <Text strong>outnumber men in universities</Text>. These statistics challenge the baseless claim that Islam suppresses female education.
+  <br />
+  <br />
+  <Paragraph type="secondary" italic>
+    Where educational disparities do exist, they are often caused by <Text mark>cultural traditions</Text> or <Text warning>economic inequality</Text>—not by Islamic teachings. Blaming the faith itself is not just inaccurate, it is <Text type="danger">intellectually dishonest</Text>.
+  </Paragraph>
 </Paragraph>
 
-<Paragraph>
-  <Text italic>
-    "Judging past societies by modern Western standards is a form of historical presentism."
-  </Text>{" "}
-  — <Text italic>Dr. Jonathan Brown (Islamic Scholar)</Text>
-</Paragraph>
 
 
         <Title level={4}>
-          3. Scholarly Defenses and Theological Perspectives
+          3. Marriage and Domestic Life: Partnership, Not Subordination
         </Title>
         <Paragraph>
-  Islamic scholars provide several key arguments:
-  <br /> <br /> - <Text mark>Divine Wisdom:</Text> Muslims believe the Prophet’s (PBUH) actions were guided by Allah, and thus beyond reproach. <Text type="danger">To question his morality is, from an Islamic standpoint, to question divine revelation itself.</Text>
-  <br /> - <Text mark>Aisha’s Exceptional Status:</Text> She became one of Islam’s greatest scholars, jurists, and educators—narrating over <Text code>2,000 hadiths</Text>. Her influence on Islamic jurisprudence and theology is <Text type="success">unmatched among women</Text>, demonstrating her intellectual and spiritual maturity.
-  <br /> - <Text mark>No Contemporary Opposition:</Text> There is <Text strong>zero recorded objection</Text> from the Prophet's companions, Aisha’s parents, or the Quraysh enemies—who criticized him often, but never on this marriage. Their silence is <Text underline>historical proof of its normality</Text> in that era.
-  <br /> - <Text mark>Modern Hypocrisy:</Text> Critics apply selective outrage, ignoring that child marriages existed globally—including in <Text italic>Christian Europe</Text>—well into the 19th and even 20th centuries. <Text type="warning">Singling out Islam is a display of intellectual dishonesty and orientalist bias.</Text>
-  <br /> - <Text mark>Biological and Cultural Context:</Text> Puberty was, and still is, the physiological marker of maturity in many societies. <Text type="success">Islamic law requires that consummation only occur when the individual is physically and mentally capable.</Text>
-  <br /> <br /><Text italic>"The Prophet’s marriages were not for pleasure but for societal, political, and religious reasons."</Text> — <Text italic>Shaykh Yusuf al-Qaradawi</Text>
+  The claim that Islam <Text type="danger">endorses domestic abuse</Text> or subjugates women in marriage is both <Text strong>misguided</Text> and rooted in <Text warning>selective interpretations</Text>. The Qur’an describes marriage as a bond of <Text mark>“mutual love and mercy”</Text> (Qur’an 30:21), underscoring a relationship based on <Text strong>emotional equality</Text>, not control. The Prophet Muhammad (PBUH) further reinforced this by stating, <Text mark>“The best of you are those who are best to their wives”</Text> (Bukhari).
+  <br /><br />
+  Islamic jurisprudence grants women several rights that were <Text type="success">revolutionary for their time</Text>: the right to consent to marriage, to initiate divorce through <Text code>khula</Text>, and to maintain independent financial ownership. These principles starkly contrast with the gender norms in many other historical and religious contexts.
+  <br /><br />
+  A recurring controversy centers on Qur’an 4:34, which mentions that a husband may “lightly strike” his wife—but only in extreme, last-resort scenarios following sustained reconciliation efforts. Scholars like <Text code>Ibn Abbas</Text> interpreted this as a <Text italic>non-violent, symbolic gesture</Text> (e.g., with a miswak or toothpick) that causes <Text type="danger">no physical harm</Text>. Most contemporary scholars reject any justification for abuse, citing the Prophet’s own example: <Text mark>he never raised his hand against his wives</Text> and condemned such behavior openly.
+  <br /><br />
+  Commonly misunderstood practices like <Text warning>forced marriage</Text> and <Text type="danger">honor killings</Text> are cultural deviations, not Islamic doctrines. The Qur’an explicitly states: <Text code>“Do not inherit women against their will”</Text> (Qur’an 4:19), affirming a woman's autonomy in choosing her spouse. Honor killings, often mislabeled as “Islamic,” are in direct violation of Islamic law, which requires <Text strong>due process, justice, and accountability</Text>.
+  <br /><br />
+  <Paragraph type="secondary" italic>
+    Conflating cultural violations with religious commands is not just incorrect—it perpetuates harmful stereotypes and blinds the observer to the <Text mark>egalitarian ideals embedded in authentic Islamic teachings</Text>.
+  </Paragraph>
 </Paragraph>
 
 <Paragraph>
@@ -99,21 +101,17 @@ function WomenComponent1() {
   The Prophet Muhammad (PBUH) <Text type="success">elevated the status of women</Text>, banned female infanticide, promoted their education, and respected their agency. Aisha’s life is a shining example—not of victimhood—but of <Text strong>empowerment</Text>. <Text type="warning">To distort her legacy to attack Islam is both historically inaccurate and intellectually dishonest.</Text>
 </Paragraph>
 
-        <Title level={4}>4. Modern Criticisms and Responses</Title>
+        <Title level={4}>4. Inheritance and Economic Rights: Equity, Not Equality</Title>
         <Paragraph>
-  <Text strong>Common objections and their detailed rebuttals:</Text>
+  One of the most debated aspects of Islamic law is its inheritance distribution, particularly the Qur’anic verse (4:11) that assigns <Text type="warning">women half the share of men</Text> in certain scenarios. This is often <Text strong>misrepresented</Text> as discriminatory. However, such critiques ignore a key principle in Islamic jurisprudence: <Text mark>men are financially obligated</Text> to provide for their wives, children, and extended family, whereas <Text strong>women bear no such legal responsibility</Text>. What a woman inherits is hers alone, free from any obligation to contribute to household expenses.
   <br /><br />
-  - <Text mark>"It contradicts modern ethics."</Text><br />
-  <Text mark>Response:</Text> Ethical frameworks are not static—they evolve with culture, economy, and ideology. What is considered "immoral" today was often accepted across civilizations for centuries. <Text type="danger">Imposing modern liberal norms on 7th-century Arabia is not only intellectually lazy but historically ignorant.</Text> If modernity is the only moral yardstick, then nearly all ancient societies must be condemned, including Biblical prophets whose actions would likewise be unacceptable by today's standards.
+  In the context of 7th-century Arabia—<Text type="success">a society where women were often denied inheritance entirely</Text>—this legislation was <Text mark>revolutionary</Text>. It codified a woman’s right to wealth and financial autonomy at a time when such rights were virtually nonexistent.
   <br /><br />
-  - <Text mark>"Hadiths may be unreliable."</Text><br />
-  <Text mark>Response:</Text> This claim is typically made by those unfamiliar with Hadith sciences. The narrations concerning Aisha’s age are from <Text code>Sahih al-Bukhari</Text> and <Text code>Sahih Muslim</Text>—texts universally acknowledged by Muslim scholars for their stringent criteria and chain authentication (isnad). <Text type="warning">Rejecting them based on discomfort rather than academic rigor is confirmation bias and intellectual dishonesty.</Text>
+  Islam further guarantees women the <Text strong>right to own property</Text>, <Text strong>engage in business</Text>, and <Text strong>independently manage finances</Text>. A striking example is <Text code>Khadija (RA)</Text>, the Prophet Muhammad’s (PBUH) first wife—<Text mark>a wealthy and respected merchant</Text> who employed the Prophet before their marriage. This stands in sharp contrast to medieval Europe, where <Text type="danger">women’s property often became their husband’s upon marriage</Text>.
   <br /><br />
-  - <Text mark>"Aisha’s age was recorded incorrectly."</Text><br />
-  <Text mark>Response:</Text> Revisionist claims that Aisha was 15 or 18 are based on flimsy assumptions, contradictory timelines, or weak historical fragments. These theories contradict well-documented hadiths and the consensus of classical scholars. <Text italic>Even Orientalist historians</Text> critical of Islam accepted the age as nine at consummation based on textual evidence—not propaganda.
-  <br /><br />
-  - <Text mark>"It promotes child marriage."</Text><br />
-  <Text mark>Response:</Text> The Prophet’s marriage was based on readiness, not arbitrary age. Islamic law does not encourage child marriage; it requires <Text type="success">physical and mental maturity</Text> before consummation. <Text strong>His example is not a license for abuse</Text>—it reflected the norms of his time and resulted in a lifelong partnership rooted in knowledge and respect.
+  <Paragraph type="secondary" italic>
+    The Islamic economic framework does not reduce women—it <Text underline>uplifts</Text> them. It recognizes different social roles without <Text delete>imposing inequality</Text>, balancing obligations with rights, and protecting <Text mark>women’s financial independence</Text> across all stages of life.
+  </Paragraph>
 </Paragraph>
 
 <Paragraph>
@@ -134,47 +132,56 @@ function WomenComponent1() {
 </Paragraph>
 
 
-        <Title level={4}>5. Conclusion</Title>
+        <Title level={4}>5. Cultural Distortions vs. Islamic Ideals</Title>
         <Paragraph>
-  The age of Aisha (R.A.) at marriage is extensively documented in Islamic tradition and supported by the strongest hadith collections. Rather than being an anomaly, her marriage to the Prophet Muhammad (PBUH) aligned with the cultural, biological, and societal norms of 7th-century Arabia. <Text type="warning">The obsession with this topic by modern critics is not grounded in sincere historical inquiry</Text> but often stems from ideological hostility, cultural superiority complexes, and a refusal to understand Islam on its own terms.
+  The perceived gap between Islam’s values and women’s lived realities is often <Text strong>not due to the religion itself</Text>, but rather the cultural practices that have taken root in certain societies. Harmful customs like <Text type="danger">child marriage</Text>, <Text type="danger">female genital mutilation (FGM)</Text>, or <Text type="danger">restricting women's mobility</Text> are <Text strong>not prescribed by the Quran or Sunnah</Text>. Instead, they are remnants of <Text mark>pre-Islamic tribal traditions</Text> that persist despite clear Islamic teachings to the contrary.
+  <br /><br />
+  For instance, while child marriage was once a global norm, the Quran (4:6) stresses <Text strong>maturity and sound judgment</Text> before marriage can take place. Likewise, FGM has <Text strong>no basis in Islamic scripture</Text> and is widely <Text type="success">condemned by Muslim scholars</Text> as a harmful cultural practice.
+  <br /><br />
+  Contemporary examples—such as <Text type="warning">restrictions on women’s education in Afghanistan</Text>—are the result of <Text code>political ideologies</Text> or <Text type="danger">extremist misinterpretations</Text>, not Islamic theology. Groups like the Taliban distort Islam for control, ignoring the Prophet Muhammad’s (PBUH) command to seek knowledge for both men and women. Their actions <Text type="danger">violate the Quran’s emphasis</Text> on learning, dignity, and equal worth.
+  <br /><br />
+  Meanwhile, in many Muslim-majority societies, <Text mark>women excel in leadership roles</Text>—as <Text strong>judges</Text>, <Text strong>ministers</Text>, <Text strong>CEOs</Text>, and <Text strong>heads of state</Text>. These examples, though underreported, represent the <Text italic>true legacy</Text> of Islam’s empowerment of women.
+  <br /><br />
+  <Paragraph type="secondary" italic>
+    <Text underline>Islam does not oppress women</Text>; <Text type="success">ignorance, patriarchy, and cultural distortion do</Text>. The key lies in returning to authentic teachings and shedding the inherited burdens of misapplied traditions.
+  </Paragraph>
 </Paragraph>
 
+<Title level={4}>6. Marital Rape: Consent as a Core Principle
+</Title>
 <Paragraph>
-  <Text mark>
-    Islamic scholarship affirms that the Prophet’s (PBUH) actions were guided by revelation, not desire.
-  </Text>{" "}
-  His marriage to Aisha (R.A.) was neither exploitative nor deviant—it was divinely sanctioned, socially accepted, and personally empowering for Aisha herself, who emerged as one of the most formidable intellectuals in Islamic history.
+  A widespread but <Text type="danger">deeply inaccurate misconception</Text> is that Islam permits <Text type="danger">marital rape</Text> by denying a woman the right to refuse intimacy. This belief is a <Text strong>gross distortion</Text> of Islamic teachings, which <Text strong>prioritize mutual consent, compassion, and emotional safety</Text> within the marital relationship.
+  <br /><br />
+  The Quran portrays marriage as a source of <Text type="success">“tranquility, love, and mercy”</Text> (30:21), not control or abuse. Prophet Muhammad (PBUH) emphasized respectful intimacy, famously saying: <Text mark>“None of you should fall upon his wife like an animal”</Text> (Ibn Majah), highlighting the importance of emotional sensitivity and human dignity.
+  <br /><br />
+  Across all major Islamic schools of thought, scholars affirm that <Text strong>a wife’s consent is essential</Text>. Any act of forced intimacy not only violates her rights, but also <Text type="danger">contradicts the spiritual ethics of Islam</Text>. The marital bond in Islam is founded on <Text mark>mutual rights and obligations</Text>, where both partners are treated as equals in dignity.
+  <br /><br />
+  Unfortunately, <Text type="warning">cultural misinterpretations</Text> in some communities overshadow this core teaching. These attitudes are rooted in <Text delete>patriarchal norms</Text>, not divine law. Authentic Islamic jurisprudence protects a woman’s bodily autonomy and condemns any form of violence or compulsion.
+  <br /><br />
+  <Paragraph type="secondary" italic>
+    Islam calls for <Text strong>intimacy with honor</Text>, <Text type="success">love without fear</Text>, and <Text mark>marriage without oppression</Text>. Ignoring this principle is not a failure of faith — it is a failure to live it.
+  </Paragraph>
 </Paragraph>
 
+<Title level={4}>7. Conclusion: Stop the Slander
+
+</Title>
 <Paragraph>
-  Yet critics remain <Text type="danger">selectively outraged</Text>. Why is there no equal scrutiny of Biblical patriarchs like Isaac, who married Rebecca when she was a young girl? Or the Catholic Church, which sanctioned child marriages well into the 20th century? Or Hindu texts that describe marriages at even younger ages? <Text strong>If concern for ethics were genuine, these traditions would be held to the same standard.</Text> But they’re not—because the target is not child marriage, it's Islam.
-</Paragraph>
-
-<Paragraph>
-  <Text strong>
-    This is not about protecting children. It’s about demonizing Islam.
-  </Text>{" "}
-  Critics do not seek clarity—they seek to weaponize discomfort and ignorance. <Text type="warning">The real intellectual dishonesty lies in cherry-picking Islamic traditions while giving other religions and cultures a pass.</Text>
-</Paragraph>
-
-<Paragraph>
-  Aisha’s (R.A.) legacy speaks for itself: <Text strong>a scholar, teacher, jurist, and leader</Text> whose influence outlasted empires. Muslims see her not through the lens of modern Western bias, but as a figure of immense wisdom, strength, and piety. <Text type="danger">Those who reduce her to a statistic do injustice not only to her legacy but to the truth itself.</Text>
-</Paragraph>
-
-<Paragraph>
-  <Text italic>
-    “If your outrage is only ever aimed at Islam while you stay silent about similar practices in other traditions, then your problem isn’t with the practice—it’s with the religion.”
-  </Text>
-</Paragraph>
-
-<hr />
-
-<Paragraph italic>
-  References: Sahih al-Bukhari, Sahih Muslim, works of Dr. Jonathan Brown, Dr. Kecia Ali, and classical Islamic scholars.
+  The claim that <Text type="danger">“Islam oppresses women”</Text> is a <Text strong>tired and overused stereotype</Text>, rooted in <Text type="warning">selective readings, cultural ignorance, and political agendas</Text>. Islam did not merely offer women rights 1,400 years ago — it <Text strong>revolutionized their status</Text> in a time when many societies viewed them as property.
+  <br /><br />
+  From the <Text underline>right to education</Text> and <Text underline>ownership of property</Text> to the Quran’s emphasis on <Text mark>consent, equity, and kindness in marriage</Text>, Islamic teachings laid a framework for gender justice that was <Text type="success">centuries ahead</Text> of its time. The hijab, often misunderstood, is <Text strong>not a shackle</Text> but a <Text mark>choice embraced by millions</Text> — a symbol of dignity, identity, and devotion.
+  <br /><br />
+  Yes, <Text type="warning">cultural distortions and extremist misinterpretations</Text> do exist. But they are not Islam — <Text type="danger">they are a betrayal of Islam</Text>. The real problem is not the faith, but the failure to distinguish religion from culture, and headlines from reality.
+  <br /><br />
+  Those who push the oppression narrative often do so with <Text type="danger">intellectual dishonesty</Text>. They cherry-pick verses, ignore context, and silence the lived experiences of Muslim women who <Text type="success">lead, educate, build, and thrive</Text> within the framework of Islam. <Text italic>If they truly cared about Muslim women, they would listen to their voices — not speak over them.</Text>
+  <br /><br />
+  <Paragraph type="secondary" italic>
+    <Text code>If we want to have an honest conversation about women’s rights, we must start with the truth: Islam empowered women when much of the world still debated their humanity.</Text> Anything less is not education — it’s <Text delete>justice</Text> <Text type="danger">propaganda</Text>.
+  </Paragraph>
 </Paragraph>
 
       </Typography>
-      <CommentBox title="How Old Was Ayesha (R.A.) at the Time of Her Marriage? A Historical and Theological Analysis" url="http://defenseofislam.github.io/web/islam/hadith/1" />
+      <CommentBox title={`Are women "really" oppressed in Islam and muslim culture?`} url="http://defenseofislam.github.io/web/islam/wmn/1" />
     </Content>
   );
 }
