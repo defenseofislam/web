@@ -192,7 +192,7 @@ function MiscComponent3() {
   • We have <Text mark>lower crime rates</Text>.<br />
   • <Text strong>Fathers actually stay in the home</Text>.<br />
   • We build <Text underline>real community</Text>—not TikTok clout farms and hookup apps. 
-We have <Text strong>Real community in masjids</Text>, not <Paragraph type="secondary">empty therapy talk</Paragraph>
+We have <Text strong>Real community in masjids</Text>, not <Text type="danger">empty therapy talk</Text>
 <br /><br />
 
   They say we’re violent?<br />
