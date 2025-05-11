@@ -60,8 +60,10 @@ const tableData = [
     key: "6",
     title: "Women in Islam",
     content: (
-      <div>
-        <Paragraph>coming soon..</Paragraph>
+       <div>
+        <Paragraph>
+          1. Are women "really" oppressed in Islam and muslim culture? - <Link to="/islam/wmn/1">Visit article</Link>
+        </Paragraph>
       </div>
     ),
   },

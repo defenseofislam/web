@@ -21,6 +21,7 @@ import Misc from "./pages/Misc";
 import MiscComponent1 from "./components/Miscellaneous/MiscComponent1";
 import Articles from "./pages/Articles";
 import MiscComponent2 from "./components/Miscellaneous/MiscComponent2";
+import WomenComponent1 from "./components/Islam/women/WomenComponent1";
 
 const routes = [
   { path: "/", element: <Home /> },
@@ -41,6 +42,7 @@ const routes = [
   { path: "/islam/quran/1", element: <IslamComponent1 /> },
   { path: "/islam/quran/2", element: <IslamComponent2 /> },
   { path: "/islam/hadith/1", element: <IslamComponent3 /> },
+  { path: "/islam/wmn/1", element: <WomenComponent1 /> },
   { path: "/agnosticism/as-th-de/1", element: <AgnosticComponent1 /> },
   { path: "/darwinism/dn-vs-ct/1", element: <DarwinComponent1 /> },
   { path: "/misc/gt/1", element: <MiscComponent1 /> },
