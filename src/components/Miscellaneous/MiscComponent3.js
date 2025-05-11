@@ -26,6 +26,7 @@ function MiscComponent3() {
     <li><Text code>The moral consequences of ideologies without divine accountability</Text></li>
     <li><Text code>The role of science when divorced from ethical frameworks</Text></li>
   </ul>
+  <Text italic>and lot more spicy arguments........</Text>
   <br />
   Finally, this article will present <Text type="success">Islam</Text> not merely as a religion, but as a <Text mark>comprehensive moral and social system</Text> — one with the capacity to restore justice, balance, and peace in an increasingly fragmented and volatile world.
 </Paragraph>
