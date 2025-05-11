@@ -49,13 +49,13 @@ function MiscComponent3() {
 <Paragraph>
   If religion is to be blamed for violence, then one must <Text strong>equally examine</Text> the legacy of <Text type="danger">atheistic regimes</Text>—many of which rank among the most brutal in human history. Consider the following cases:
   <br /><br />
-  <Text mark>A{" ) "} Joseph Stalin’s Soviet Union:</Text> Over <Text strong>20 million deaths</Text> from purges, gulags, forced famines, and executions. Stalin promoted <Text code>state atheism</Text>, destroyed religious institutions, and executed clergy. 
+  <Text underline><Text mark>A{" ) "} Joseph Stalin’s Soviet Union:</Text></Text> Over <Text strong>20 million deaths</Text> from purges, gulags, forced famines, and executions. Stalin promoted <Text code>state atheism</Text>, destroyed religious institutions, and executed clergy. 
   <br /><br />
-  <Text mark>B{" ) "}Mao Zedong’s China:</Text> An estimated <Text strong>45–70 million people</Text> died during the Great Leap Forward and Cultural Revolution. Religion was suppressed, and science was twisted into ideological dogma.
+  <Text underline><Text mark>B{" ) "}Mao Zedong’s China:</Text></Text> An estimated <Text strong>45–70 million people</Text> died during the Great Leap Forward and Cultural Revolution. Religion was suppressed, and science was twisted into ideological dogma.
   <br /><br />
-  <Text mark>C{" ) "}Pol Pot’s Khmer Rouge:</Text> Nearly <Text strong>2 million people</Text> died under an atheist communist regime that <Text delete>discouraged</Text> <Text underline>banned</Text> religion, demolished temples, and murdered monks.
+  <Text underline><Text mark>C{" ) "}Pol Pot’s Khmer Rouge:</Text></Text> Nearly <Text strong>2 million people</Text> died under an atheist communist regime that <Text delete>discouraged</Text> <Text underline>banned</Text> religion, demolished temples, and murdered monks.
   <br /><br />
-  <Text mark>D{" ) "}North Korea:</Text> A totalitarian atheist regime where <Text type="warning">religion is outlawed</Text> and dissenters are imprisoned, tortured, or killed under a cult of personality.
+  <Text underline><Text mark>D{" ) "}North Korea:</Text></Text> A totalitarian atheist regime where <Text type="warning">religion is outlawed</Text> and dissenters are imprisoned, tortured, or killed under a cult of personality.
   <br /><br />
   The argument doesn’t stop there. Consider the <Text type="danger">deadly consequences of scientific progress</Text> when stripped of ethical or spiritual guidance:
   <ul>
