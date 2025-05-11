@@ -191,7 +191,9 @@ function MiscComponent3() {
   They call Muslims “barbaric,” yet:<br />
   • We have <Text mark>lower crime rates</Text>.<br />
   • <Text strong>Fathers actually stay in the home</Text>.<br />
-  • We build <Text underline>real community</Text>—not TikTok clout farms and hookup apps.<br /><br />
+  • We build <Text underline>real community</Text>—not TikTok clout farms and hookup apps. 
+We have <Text strong>Real community in masjids</Text>, not <Paragraph type="secondary">empty therapy talk</Paragraph>
+<br /><br />
 
   They say we’re violent?<br />
   <Text type="success">No, we’re just not spiritually neutered.</Text><br />
