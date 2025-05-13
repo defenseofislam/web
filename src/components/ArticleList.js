@@ -48,11 +48,17 @@ const allData = [
     date: "Published on 12:20:13 IST May 11, 2025",
     link: "/islam/wmn/1",
   },
-   {
+  {
     key: 9,
     name: `9.  Eradicate Religion because this is the major source of violence - Brutal Refutation `,
     date: "Published on 18:18:13 IST May 11, 2025",
     link: "/misc/mri/1",
+  },
+   {
+    key: 10,
+    name: `10.  "Religious People (Muslims) only worship out of greed[Paradise] or out of fear[Hellfire]" Refutation `,
+    date: "Published on 18:19:50 IST May 13, 2025",
+    link: "/atheism/ara/1",
   },
 ];
 
