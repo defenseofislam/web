@@ -60,6 +60,12 @@ const allData = [
     date: "Published on 18:19:50 IST May 13, 2025",
     link: "/atheism/ara/1",
   },
+  {
+    key: 11,
+    name: `11.  "The Necessity of an Independent Cause for the Universe and the Rational Requirement of Willful Agency" `,
+    date: "Published on 17:47:23 IST May 15, 2025",
+    link: "/atheism/pfg/1",
+  },
 ];
 
 export default allData;
