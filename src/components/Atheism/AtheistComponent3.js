@@ -330,7 +330,7 @@ Introduction: The Sweet Lie of Secular Morality
 
 
 
-<Text underline><Title level={4}>Conclusion: The Atheist Moral Argument is a Hollow Roar disguised as a hissing of a scared insecure feral kitten
+<Text underline><Title level={4}>Conclusion: The Atheist Moral Argument is a hissing of a scared insecure feral kitten
 </Title></Text>
 
   <Paragraph>
