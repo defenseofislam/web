@@ -26,6 +26,7 @@ import MiscComponent3 from "./components/Miscellaneous/MiscComponent3";
 import AtheistComponent1 from "./components/Atheism/AtheistComponent1";
 import AtheistComponent2 from "./components/Atheism/AtheistComponent2";
 import AtheistComponent3 from "./components/Atheism/AtheistComponent3";
+import ChristianComponent1 from "./components/Christianity/ChristianComponent1";
 
 const routes = [
   { path: "/", element: <Home /> },
@@ -51,6 +52,7 @@ const routes = [
   { path: "/atheism/pfg/1", element: <AtheistComponent2 /> },
   { path: "/atheism/mai/1", element: <AtheistComponent3 /> },
   { path: "/agnosticism/as-th-de/1", element: <AgnosticComponent1 /> },
+  { path: "/christianity/tc/1", element: <ChristianComponent1 /> },
   { path: "/darwinism/dn-vs-ct/1", element: <DarwinComponent1 /> },
   { path: "/misc/gt/1", element: <MiscComponent1 /> },
   { path: "/misc/gt/2", element: <MiscComponent2 /> },

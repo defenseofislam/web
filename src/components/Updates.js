@@ -1,4 +1,9 @@
 const updates = [
+   {
+    title: `New article on Christianity : "The Fatal Cracks in Christianity: Why the Trinity and Crucifixion Make No Sense `,
+    date: "Published on 18:11:44 IST May 18, 2025",
+    link: "/christianity/tc/1",
+  },
   {
     title: `New article on Atheism :Can Morality Exist Without Religion? A Brutal Dissection of Atheist Delusions and Secular Moral Bankruptcy`,
     date: "Published on 09:43:44 IST May 16, 2025",
@@ -14,11 +19,7 @@ const updates = [
     date: "Published on 18:19:50 IST May 13, 2025",
     link: "/atheism/ara/1",
   },
-  {
-    title: `New article on Miscellaneous : Eradicate Religion because this is the major source of violence - Brutal Refutation`,
-    date: "Published on 18:18:13 IST May 11, 2025",
-    link: "/misc/mri/1",
-  },
+ 
 
 ];
 

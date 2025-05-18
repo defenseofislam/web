@@ -72,6 +72,12 @@ const allData = [
     date: "Published on 09:43:44 IST May 16, 2025",
     link: "/atheism/mai/1",
   },
+  {
+    key: 13,
+    name: `13.  The Fatal Cracks in Christianity: Why the Trinity and Crucifixion Make No Sense `,
+    date: "Published on 18:11:44 IST May 18, 2025",
+    link: "/christianity/tc/1",
+  },
 ];
 
 export default allData;
