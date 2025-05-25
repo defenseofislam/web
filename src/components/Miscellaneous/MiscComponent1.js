@@ -217,7 +217,7 @@ function DarwinComponent1() {
       </Typography>
       <CommentBox
         title={" Kashmir Belongs to Whom ? India or Pakistan?? "}
-        url={"http://defenseofislam.github.io/web/misc/gt/1"}
+        url={"https://defenseofislam.github.io/web/misc/gt/1"}
       />
     </Content>
   );

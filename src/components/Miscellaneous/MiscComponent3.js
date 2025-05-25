@@ -274,7 +274,7 @@ We have <Text strong>Real community in masjids</Text>, not <Text type="danger">e
       </Typography>
       <CommentBox
         title={" Eradicate Religion because this is the major source of violence - Brutal Refutation "}
-        url={"http://defenseofislam.github.io/web/misc/mri/1"}
+        url={"https://defenseofislam.github.io/web/misc/mri/1"}
       />
     </Content>
   );

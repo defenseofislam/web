@@ -386,7 +386,7 @@ Conclusion: Christianity’s Core is a House of Cards
       </Typography>
       <CommentBox
         title={"The Fatal Cracks in Christianity: Why the Trinity and Crucifixion Make No Sense"}
-        url={"http://defenseofislam.github.io/web/christianity/tc/1"}
+        url={"https://defenseofislam.github.io/web/christianity/tc/1"}
       />
     </Content>
   );

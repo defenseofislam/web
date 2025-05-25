@@ -241,7 +241,7 @@ function AtheistComponent2() {
       </Typography>
       <CommentBox
         title={"The Necessity of an Independent Cause for the Universe and the Rational Requirement of Willful Agency "}
-        url={"http://defenseofislam.github.io/web/atheism/pfg/1"}
+        url={"https://defenseofislam.github.io/web/atheism/pfg/1"}
       />
     </Content>
   );

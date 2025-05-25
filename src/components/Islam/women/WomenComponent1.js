@@ -181,7 +181,7 @@ function WomenComponent1() {
 </Paragraph>
 
       </Typography>
-      <CommentBox title={`Are women "really" oppressed in Islam and muslim culture?`} url="http://defenseofislam.github.io/web/islam/wmn/1" />
+      <CommentBox title={`Are women "really" oppressed in Islam and muslim culture?`} url="https://defenseofislam.github.io/web/islam/wmn/1" />
     </Content>
   );
 }

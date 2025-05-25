@@ -501,7 +501,7 @@ function DarwinComponent1() {
       </Typography>
       <CommentBox
         title={"Is Darwinian evolution hypothesis better than believing in Creationism?"}
-        url={"http://defenseofislam.github.io/web/darwinism/dn-vs-ct/1"}
+        url={"https://defenseofislam.github.io/web/darwinism/dn-vs-ct/1"}
       />
     </Content>
   );

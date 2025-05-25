@@ -404,7 +404,7 @@ Introduction: The Sweet Lie of Secular Morality
       </Typography>
       <CommentBox
         title={"Can Morality Exist Without Religion? A Brutal Dissection of Atheist Delusions and Secular Moral Bankruptcy"}
-        url={"http://defenseofislam.github.io/web/atheism/mai/1"}
+        url={"https://defenseofislam.github.io/web/atheism/mai/1"}
       />
     </Content>
   );

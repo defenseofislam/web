@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import { Layout, Typography } from "antd";
-import CommentBox from "../CommentBox";
+import CommentBox from "../../CommentBox";
 
 const { Content } = Layout;
 const { Title, Paragraph, Text } = Typography;
@@ -12,52 +12,25 @@ function Islamcomponent4() {
   return (
     <Content style={{ padding: "24px" }}>
       <Typography>
-        <Text underline><Title level={2}>The Fatal Cracks in Christianity: Why the Trinity and Crucifixion Make No Sense
-(Read with a seatbelt on. This ride’s got no brakes.)
-
-
-
+        <Text underline><Title level={2}>Blood Ties in Islam: The Sacred Rights of Relatives and How to Handle the Toxic Ones
 </Title></Text>
         <Title level={4}>
 
-Introduction: The Shaky Foundation Beneath Christianity
+Introduction: Family in Islam is Sacred—Not Optional
+
 
 </Title>
 
 <Paragraph>
-  Let’s not sugarcoat it—<Text strong>Christianity stands on two fragile pillars: the Trinity and the Crucifixion</Text>. Knock those down, and the entire religion collapses like a paper house in a storm. Yet, these two beliefs are exactly what millions blindly accept without question, often shouting <Text code>"faith!"</Text> whenever logic starts pressing too hard.
+  In Islam, <Text strong>family</Text> isn’t just a social structure—it’s a <Text type="success">divine bond</Text>. The Prophet Muhammad (peace be upon him) warned us that <Text mark>cutting off ties of kinship severs one from the mercy of Allah</Text>. Blood ties are <Text strong>protected</Text>, <Text strong>honored</Text>, and <Text strong>elevated</Text> in our deen. It’s not about who “deserves” our respect—it’s about <Text code>what Allah commands</Text>.
 </Paragraph>
 
 <Paragraph>
-  But here’s the truth:
+  Whether it’s the <Text italic>smiling aunt</Text>, the <Text italic>nagging uncle</Text>, or the <Text italic>cousin who only calls when they need something</Text>—<Text type="warning">they all have rights</Text>.
 </Paragraph>
 
 <Paragraph>
-  <Text type="danger">The Trinity</Text> is <Text italic>a manmade theological maze</Text>, <Text delete>a contradiction dressed in mystery</Text>.
-</Paragraph>
-
-<Paragraph>
-  <Text type="danger">The Crucifixion</Text> is <Text type="warning">a moral disaster</Text>, where injustice is painted as <Text strong>divine mercy</Text>.
-</Paragraph>
-
-<Paragraph>
-  Worse yet, <Text type="warning">Christian trolls</Text> run around mocking Muslims—<Text delete>accusing us of worshipping out of fear, denying salvation, and not “knowing” Jesus</Text>—while they cling to a religion that has <Text strong>God dying on a cross</Text> and <Text underline>calling Himself His own son</Text>.
-</Paragraph>
-
-<Paragraph type="secondary" italic>
-  This article is not for the weak-hearted.
-</Paragraph>
-
-<Paragraph>
-  It’s for those who <Text strong>dare to question</Text>, who refuse to be <Text delete>spoon-fed contradictions</Text>, and who crave truth without compromise.
-</Paragraph>
-
-<Paragraph>
-  So let’s <Text mark>tear off the mask</Text> and expose the <Text type="danger">broken core of Christian theology</Text>—<Text code>no mercy, no filters, no apologies</Text>.
-</Paragraph>
-
-<Paragraph>
-  <Text type="danger">Let the theological massacre begin.</Text>
+  Let’s break down how <Text strong>Islam guides us</Text> in <Text type="success">loving</Text>, <Text type="success">managing</Text>, and <Text type="success">protecting</Text> the relationships that run through our blood.
 </Paragraph>
 
 
@@ -66,101 +39,72 @@ Introduction: The Shaky Foundation Beneath Christianity
 
 <hr />
 
-<Text underline><Title level={4}>1. Trinity: A Divine Puzzle That No One Understands (Not Even Christians)
+<Text underline><Title level={4}>1. The Rights of Relatives in Islam: More Than Just Being Nice
+
 </Title></Text>
 
 <Paragraph>
-  Let’s be <Text strong>brutally honest</Text>—<Text type="danger">the Trinity is a theological headache</Text>. One God, but three persons? Father, Son, Holy Spirit—<Text italic>all equally God</Text>, but not three gods? Not one person? Not three separate gods, but not one person either? <Text code>What?</Text>
-</Paragraph>
-
-<Paragraph>
-  Even top Christian scholars will admit:
+  <Text strong>Allah commands in the Qur'an:</Text>
 </Paragraph>
 
 <Paragraph type="secondary" italic>
-  “It’s a mystery. Just believe it.”
+  “And give the relative his right, and [also] the poor and the traveler, and do not spend wastefully.” (Surah Al-Isra 17:26)
 </Paragraph>
 
 <Paragraph>
-  <Text strong>Sorry, that doesn’t cut it.</Text>
+  <Text mark>Relatives have rights over us.</Text> These aren’t casual suggestions—they’re part of our <Text type="success">duty to Allah</Text>. These rights include:
 </Paragraph>
 
 <Paragraph>
-  <Text italic>God isn’t a puzzle box.</Text> He created our minds to <Text strong>think, reflect, and submit to truth</Text>—not to blindly nod at contradictions. Christianity wants you to believe that <Text strong>Jesus is God</Text>, but also prayed to God, cried to God, submitted to God, and even said:
+  <Text code>Financial Support</Text> when they’re in need<br/>
+  <Text code>Emotional Presence</Text> and regular connection<br/>
+  <Text code>Defending their honor</Text> when others speak ill<br/>
+  <Text code>Visiting, calling, checking up</Text>, even if you’re busy<br/>
+  <Text code>Praying for them</Text> even in their absence
+</Paragraph>
+
+<Paragraph>
+  Islam doesn’t say <Text italic>“be kind to those who are kind to you.”</Text><br/>
+  Islam says:
 </Paragraph>
 
 <Paragraph type="secondary" italic>
-  “The Father is greater than I.” (John 14:28)<br/>
-  “My God, my God, why have you forsaken me?” (Matthew 27:46)<br/>
-  “The only true God, and Jesus Christ whom You have sent.” (John 17:3)
+  “Uphold the ties of kinship even if they cut you off.” (Sahih Bukhari)
 </Paragraph>
 
 <Paragraph>
-  <Text strong>Jesus made a clear distinction.</Text>
-</Paragraph>
-
-<Paragraph>
-  <Text code>God is someone other than him.</Text><br/>
-  <Text code>God is greater than him.</Text><br/>
-  <Text code>God sent him.</Text>
-</Paragraph>
-
-<Paragraph>
-  <Text type="danger">Game over.</Text> If he was God, who was he praying to? <Text code>Himself?</Text>
-</Paragraph>
-
-<Paragraph>
-  Even logic shouts:<br/>
-  <Text mark>God is not dependent, not born, not crying in a manger, not sweating blood.</Text><br/>
-  You can't say <Text strong>God is unchanging and eternal</Text>—and also say He became a man who grew up, got tired, bled, and died.
+  Because this is about your <Text strong>connection with Allah</Text>, not <Text italic>their behavior</Text>.
 </Paragraph>
 
 
 
+<Text underline><Title level={4}>2. The Prophet’s Example: Love and Forgiveness for Family
 
-
-<Text underline><Title level={4}>2. God Dying? That’s Not Divine. That’s Absurd.
 </Title></Text>
 
 <Paragraph>
-  According to Christianity, the <Text strong>creator of the universe</Text> decided to become human and… <Text type="danger">get crucified by his own creation?</Text>
+  <Text strong>Rasulullah (peace be upon him)</Text> didn’t just preach family values—<Text type="success">he lived them</Text>.
 </Paragraph>
 
 <Paragraph>
-  Let’s break it down like this:
+  When his uncle <Text strong>Abu Talib</Text> died a disbeliever, he still <Text italic>mourned him deeply</Text>.<br/>
+  When <Text strong>Abu Sufyan</Text>, who fought against him, embraced Islam—he was <Text type="success">welcomed with warmth</Text>.<br/>
+  When the Prophet entered Makkah as a victor, he <Text mark>forgave family and tribe members who had tortured Muslims</Text>.
 </Paragraph>
 
 <Paragraph>
-  <Text strong>God is perfect.</Text><br/>
-  <Text type="danger">Humans are sinful.</Text>
+  That’s not <Text delete>weakness</Text>—that’s <Text strong>power</Text>.<br/>
+  <Text italic>Control over ego, and submission to Allah.</Text>
 </Paragraph>
 
 <Paragraph>
-  To “save” humanity, God comes down in flesh (<Text strong>Jesus</Text>), and gets <Text type="warning">tortured</Text>, <Text type="warning">humiliated</Text>, <Text type="warning">spat on</Text>, and <Text type="danger">nailed to a cross</Text>.
+  The Prophet taught that <Text code>silat ar-rahm</Text> (maintaining ties of kinship) <Text type="success">extends your lifespan</Text> and <Text type="success">increases your provision</Text>.<br/>
+  <Text type="secondary" italic>(Sahih Bukhari & Muslim)</Text>
 </Paragraph>
 
 <Paragraph>
-  <Text strong>That’s not divine mercy.</Text> <Text type="danger">That’s divine helplessness.</Text>
-</Paragraph>
-
-<Paragraph>
-  What kind of “savior” gets arrested, beaten, and cries <Text italic>“Eli Eli, why have you forsaken me?”</Text><br/>
-  Is this the Almighty, or a <Text mark>man crushed by Roman soldiers</Text>?
-</Paragraph>
-
-<Paragraph>
-  <Text type="danger">You call that salvation?</Text><br/>
-  <Text type="success">We call that injustice.</Text>
-</Paragraph>
-
-<Paragraph>
-  Why would an innocent man suffer for the crimes of the guilty?<br/>
-  Would you accept it if a judge today said, <Text code>“Let this criminal go free—we’ll punish an innocent child instead”</Text>?<br/>
-  You’d call that judge <Text type="danger">insane</Text>.
-</Paragraph>
-
-<Paragraph>
-  But somehow, Christianity calls that judge <Text delete>“God.”</Text>
+  So when you call your <Text italic>grumpy cousin [whom you might hate for no reason at all]</Text> to ask how he’s doing—you’re not just being nice.<br/>
+  <Text mark>You’re planting seeds of barakah in your life.</Text>
 </Paragraph>
 
 
@@ -171,69 +115,46 @@ Introduction: The Shaky Foundation Beneath Christianity
 
 <Text underline><Title level={4}>
 
-3. Jesus: Cursed in Christianity, Honored in Islam
+3. But What About Toxic Relatives?
+
 
 
 </Title></Text>
 
 <Paragraph>
-  <Text strong>Christian theology says:</Text>
+  <Text strong>Islam is balanced.</Text> It doesn't ask you to become a <Text delete>doormat</Text>.<br/>
+  If a relative is <Text type="danger">abusive</Text>, <Text type="danger">manipulative</Text>, or <Text type="danger">toxic</Text>—you’re <Text mark>not required</Text> to let them walk all over you.
+</Paragraph>
+
+<Paragraph>
+  <Text type="success">Islam teaches boundaries.</Text>
 </Paragraph>
 
 <Paragraph type="secondary" italic>
-  “Christ redeemed us from the curse of the law by becoming a curse for us.” (Galatians 3:13)
+  “Do not repay harm with harm, but you can distance with dignity.”
 </Paragraph>
 
 <Paragraph>
-  So… <Text type="danger">Jesus became a curse?</Text>
+  <Text code>Block their evil</Text>, but <Text code>still pray for their guidance</Text>.<br/>
+  <Text code>Cut off contact temporarily</Text> if it protects your mental health, but <Text italic>don’t carry hate in your heart</Text>.
 </Paragraph>
 
 <Paragraph>
-  They try to explain:
+  And even then… <Text strong>respond to their salaam</Text>, and <Text mark>leave a door open for reconciliation</Text>.
+</Paragraph>
+
+<Paragraph>
+  <Text strong>Allah says in the Qur’an:</Text>
 </Paragraph>
 
 <Paragraph type="secondary" italic>
-  “No no, he just took the curse on himself for our sake.”
+  “Repel evil with that which is better; and thereupon, the one whom between you and him is enmity [will become] as though he was a devoted friend.” (Surah Fussilat 41:34)
 </Paragraph>
 
 <Paragraph>
-  <Text strong>Stop.</Text> <Text type="danger">That’s not noble. That’s twisted.</Text>
+  <Text type="success">Islam doesn’t demand perfection</Text>—but it demands <Text strong>sincerity</Text> and <Text strong>class</Text>.
 </Paragraph>
 
-<Paragraph>
-  You’re saying <Text mark>God’s most beloved servant was turned into a curse</Text>?<br/>
-  You’re saying the <Text strong>Messiah</Text>, born <Text italic>pure and sinless</Text>, was cursed because people thousands of years later would sin?
-</Paragraph>
-
-<Paragraph>
-  <Text strong>Islam says:</Text>
-</Paragraph>
-
-<Paragraph type="secondary" italic>
-  “Indeed, he was honored in this world and the hereafter. He is among those brought near to Allah.” (Qur’an 3:45)
-</Paragraph>
-
-<Paragraph>
-  <Text type="success">We don’t humiliate the Messiah.</Text><br/>
-  <Text type="success">We don’t strip him naked and hang him between criminals.</Text><br/>
-  <Text type="success">We don’t call him cursed.</Text>
-</Paragraph>
-
-<Paragraph>
-  <Text strong>We call him:</Text>
-</Paragraph>
-
-<Paragraph>
-  <Text code>Ruhullah (Spirit from Allah)</Text><br/>
-  <Text code>Kalimatullah (Word of Allah)</Text><br/>
-  <Text code>Isa Ibn Maryam (Jesus, son of Mary)</Text>
-</Paragraph>
-
-<Paragraph>
-  <Text type="danger">Christianity crucifies Jesus physically.</Text><br/>
-  <Text type="danger">Christian theology crucifies him spiritually.</Text><br/>
-  <Text type="success">Islam honors him entirely.</Text>
-</Paragraph>
 
 
 
@@ -242,46 +163,36 @@ Introduction: The Shaky Foundation Beneath Christianity
 
 
 <Text underline><Title level={4}>
-4. “He Took the Sins of the World” — Or So They Claim
+4. Cutting Off Relatives: A Deadly Sin
+
 
 
 
 </Title></Text>
 <Paragraph>
-  One of the most <Text type="danger">bizarre</Text> Christian ideas is that:
+  <Text strong>The Prophet (peace be upon him) said:</Text>
 </Paragraph>
 
 <Paragraph type="secondary" italic>
-  “Jesus died for your sins, so you’re saved.”
+  “The one who cuts off the ties of kinship will not enter Paradise.” (Sahih Muslim)
 </Paragraph>
 
 <Paragraph>
-  Let’s test that logic.
+  <Text mark>Read that again.</Text><br/>
+  <Text code>Not. Enter. Paradise.</Text>
 </Paragraph>
 
 <Paragraph>
-  If I <Text type="warning">steal</Text>, <Text type="warning">kill</Text>, and <Text type="warning">commit evil</Text>—but I believe Jesus died for me, I go to <Text type="success">Heaven</Text>.<br/>
-  But a <Text strong>kind, sincere soul</Text> who worships God but doesn’t accept that Jesus died for him goes to <Text type="danger">Hell</Text>?
+  That’s how <Text type="danger">serious</Text> this is.
 </Paragraph>
 
 <Paragraph>
-  That’s not mercy.<br/>
-  <Text type="danger">That’s moral blackmail.</Text>
+  Even if you <Text code>fast</Text>, <Text code>pray</Text>, <Text code>give zakah</Text>—if you’ve <Text type="danger">deliberately cut ties</Text> with relatives without valid reason, you’re <Text type="warning">risking your akhirah</Text>.
 </Paragraph>
 
 <Paragraph>
-  And why should someone else be punished for your mistakes?
-</Paragraph>
-
-<Paragraph>
-  <Text code>You sin.</Text><br/>
-  <Text code>He suffers.</Text><br/>
-  <Text code>You get Paradise.</Text><br/>
-  <Text code>He gets a cross.</Text>
-</Paragraph>
-
-<Paragraph>
-  That’s not <Text strong>justice</Text>. <Text type="danger">That’s a cosmic scam.</Text>
+  And don’t forget—<Text strong>family isn’t just blood</Text>.<br/>
+  Your <Text italic>stepmother</Text>. Your <Text italic>in-laws</Text>. Your <Text italic>adopted siblings</Text>. Islam gives <Text mark>everyone their due rights</Text>.
 </Paragraph>
 
 
@@ -290,49 +201,34 @@ Introduction: The Shaky Foundation Beneath Christianity
 
 
 
-<Text underline><Title level={4}>5. Islam’s View: Pure, Logical, Unbreakable
+
+<Text underline><Title level={4}>5. When Relatives Are the Test—You Become the Rewarded
+
 
 
 </Title></Text>
 <Paragraph>
-  <Text strong>Islam says:</Text>
+  Sometimes your family can feel like your <Text type="danger">biggest trial</Text>. But maybe… <Text italic>that’s exactly the point</Text>.
+</Paragraph>
+
+<Paragraph>
+  Because <Text strong>Jannah isn’t cheap</Text>.<br/>
+  And Allah tests us through those <Text mark>closest to us</Text>.
 </Paragraph>
 
 <Paragraph type="secondary" italic>
-  “God is One. Not three. Not divided.”
+  “Do people think they will be left alone because they say: ‘We believe,’ and will not be tested?” (Surah Al-Ankabut 29:2)
 </Paragraph>
 
 <Paragraph>
-  <Text mark>God doesn’t become man.</Text> He <Text strong>sends prophets</Text>, not Himself.<br/>
-  <Text strong>Everyone is responsible</Text> for their own actions.<br/>
-  <Text type="success">No one bears the sin of another.</Text><br/>
-  <Text code>Salvation = Faith + Action + God’s Mercy</Text>
+  So when you <Text code>hold your tongue</Text> while your aunt mocks you…<br/>
+  When you <Text code>forgive your brother</Text> for breaking your trust…<br/>
+  When you <Text code>visit a cousin</Text> who never remembers your birthday…
 </Paragraph>
 
 <Paragraph>
-  <Text strong>Islam gives you a direct line to God.</Text><br/>
-  <Text type="danger">No dead man on a stick.</Text><br/>
-  <Text type="danger">No divine suicide.</Text><br/>
-  <Text type="danger">No blood sacrifice.</Text>
-</Paragraph>
-
-<Paragraph>
-  Just <Text code>pure tawheed</Text>. <Text type="success">Absolute justice.</Text> <Text type="success">Absolute mercy.</Text>
-</Paragraph>
-
-<Paragraph>
-  You don’t need a mediator.<br/>
-  You don’t need to believe God died to forgive you.<br/>
-  <Text mark>You just need to turn to Him sincerely.</Text>
-</Paragraph>
-
-<Paragraph>
-  <Text italic>Pray directly. Repent directly. Worship directly.</Text><br/>
-  <Text type="success">Your soul. Your deeds. Your accountability.</Text>
-</Paragraph>
-
-<Paragraph>
-  And the reward? <Text type="success">Jannah (Paradise)</Text>—<Text italic>not bought by blood</Text>, but earned through sincere faith, righteous effort, and divine grace.
+  You’re earning reward that <Text type="warning">angels can’t calculate</Text>.<br/>
+  You’re walking a path that leads straight to <Text type="success">Allah’s pleasure</Text>.
 </Paragraph>
 
 
@@ -341,52 +237,42 @@ Introduction: The Shaky Foundation Beneath Christianity
 
 
 <Text underline><Title level={4}>
-Conclusion: Christianity’s Core is a House of Cards
+Conclusion: Family Ties are a Path to Jannah—or a Rope to Hell
+
 
 
 </Title></Text>
 
 <Paragraph>
-  At its core, <Text strong>Christianity says:</Text>
+  <Text strong>Let’s be clear:</Text>
 </Paragraph>
 
 <Paragraph>
-  <Text code>God became man.</Text><br/>
-  <Text code>He died.</Text><br/>
-  <Text code>He took your sins.</Text><br/>
-  <Text code>Believe in that, and you’re saved.</Text>
+  You can’t <Text code>pray</Text> your way out of <Text type="danger">cutting off your relatives</Text>.<br/>
+  You can’t <Text code>donate</Text> your way around <Text type="danger">disrespecting your kin</Text>.<br/>
+  You can’t <Text code>fast</Text> your way through <Text type="danger">hatred in your heart</Text>.
 </Paragraph>
 
 <Paragraph>
-  <Text type="danger">Sorry</Text>—but the <Text strong>One True God</Text> <Text type="danger">doesn’t die</Text>, <Text type="danger">doesn’t get cursed</Text>, and <Text type="danger">doesn’t base forgiveness on blood rituals</Text>.
+  <Text mark>Family is not a favor. It’s a fardh.</Text><br/>
+  Allah gave you your relatives for a reason. Whether they’re a <Text type="success">comfort</Text> or a <Text type="warning">test</Text>—they’re part of your <Text italic>qadr</Text>.
 </Paragraph>
 
 <Paragraph>
-  <Text type="danger">Christianity is built on confusion, contradictions, and emotional blackmail.</Text>
+  <Text code>Honor the good ones.</Text><br/>
+  <Text code>Be patient with the difficult ones.</Text><br/>
+  <Text code>Protect your soul</Text> by never becoming the one who <Text type="danger">cuts off ties</Text>.
 </Paragraph>
 
 <Paragraph>
-  <Text type="success">Islam is built on clarity, logic, and unshakable truth.</Text>
+  Because in Islam, <Text strong>blood is not just thicker than water</Text>—<Text mark>it’s sacred</Text>.
 </Paragraph>
 
-<Paragraph>
-  You want to know the <Text strong>real Messiah</Text>?<br/>
-  Look to the one who <Text type="success">never sinned</Text>, <Text type="success">never claimed to be God</Text>, and <Text type="success">never asked for worship</Text>—<Text code>Jesus (peace be upon him), the Prophet of Allah</Text>.
-</Paragraph>
 
-<Paragraph>
-  <Text type="danger">Trinity?</Text> <Text strong>Crushed.</Text><br/>
-  <Text type="danger">Crucifixion?</Text> <Text strong>Debunked.</Text><br/>
-  <Text type="danger">Christian trolls?</Text> <Text strong>K.O.</Text>
-</Paragraph>
-
-<Paragraph>
-  <Text mark>Come back when you’re ready for real monotheism.</Text>
-</Paragraph>
       </Typography>
       <CommentBox
-        title={"The Fatal Cracks in Christianity: Why the Trinity and Crucifixion Make No Sense"}
-        url={"http://defenseofislam.github.io/web/islam/kii/1"}
+        title={"Blood Ties in Islam: The Sacred Rights of Relatives and How to Handle the Toxic Ones"}
+        url={"https://defenseofislam.github.io/web/islam/kii/1"}
       />
     </Content>
   );

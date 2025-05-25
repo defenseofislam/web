@@ -584,7 +584,7 @@ function IslamComponent1() {
 
       <CommentBox
         title={"Is the Quran the Word of God? A Scholarly Examination"}
-        url={"http://defenseofislam.github.io/web/islam/quran/1"}
+        url={"https://defenseofislam.github.io/web/islam/quran/1"}
       />
     </Content>
   );

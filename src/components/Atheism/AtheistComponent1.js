@@ -329,7 +329,7 @@ But here’s the difference: <Text type="success">You sell your soul for dopamin
       </Typography>
       <CommentBox
         title={"Religious People (Muslims) only worship out of greed[Paradise] or out of fear[Hellfire] - Brutal Refutation "}
-        url={"http://defenseofislam.github.io/web/atheism/ara/1"}
+        url={"https://defenseofislam.github.io/web/atheism/ara/1"}
       />
     </Content>
   );

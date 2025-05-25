@@ -189,7 +189,7 @@ function IslamComponent3() {
 </Paragraph>
 
       </Typography>
-      <CommentBox title="How Old Was Ayesha (R.A.) at the Time of Her Marriage? A Historical and Theological Analysis" url="http://defenseofislam.github.io/web/islam/hadith/1" />
+      <CommentBox title="How Old Was Ayesha (R.A.) at the Time of Her Marriage? A Historical and Theological Analysis" url="https://defenseofislam.github.io/web/islam/hadith/1" />
     </Content>
   );
 }

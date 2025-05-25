@@ -250,7 +250,7 @@ function MiscComponent2() {
       </Typography>
       <CommentBox
         title={" Not All Muslims Are Terrorists, But All Terrorists Are Muslims? "}
-        url={"http://defenseofislam.github.io/web/misc/gt/2"}
+        url={"https://defenseofislam.github.io/web/misc/gt/2"}
       />
     </Content>
   );
