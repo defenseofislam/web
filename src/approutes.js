@@ -27,6 +27,7 @@ import AtheistComponent1 from "./components/Atheism/AtheistComponent1";
 import AtheistComponent2 from "./components/Atheism/AtheistComponent2";
 import AtheistComponent3 from "./components/Atheism/AtheistComponent3";
 import ChristianComponent1 from "./components/Christianity/ChristianComponent1";
+import Islamcomponent4 from "./components/Islam/kindness/Islamcomponent4";
 
 const routes = [
   { path: "/", element: <Home /> },
@@ -48,6 +49,7 @@ const routes = [
   { path: "/islam/quran/2", element: <IslamComponent2 /> },
   { path: "/islam/hadith/1", element: <IslamComponent3 /> },
   { path: "/islam/wmn/1", element: <WomenComponent1 /> },
+  { path: "/islam/kii/1", element: <Islamcomponent4 /> },
   { path: "/atheism/ara/1", element: <AtheistComponent1 /> },
   { path: "/atheism/pfg/1", element: <AtheistComponent2 /> },
   { path: "/atheism/mai/1", element: <AtheistComponent3 /> },

@@ -78,6 +78,12 @@ const allData = [
     date: "Published on 18:11:44 IST May 18, 2025",
     link: "/christianity/tc/1",
   },
+  {
+    key: 14,
+    name: `14. Blood Ties in Islam: The Sacred Rights of Relatives and How to Handle the Toxic Ones `,
+    date: "Published on 18:22:37 IST May 25, 2025",
+    link: "/islam/kii/1",
+  },
 ];
 
 export default allData;

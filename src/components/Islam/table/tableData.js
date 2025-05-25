@@ -49,10 +49,12 @@ const tableData = [
   },
   {
     key: "5",
-    title: "Islamic Jurisprudence",
+    title: "Kindness in Islam",
     content: (
       <div>
-        <Paragraph>coming soon..</Paragraph>
+        <Paragraph>
+          1. Blood Ties in Islam: The Sacred Rights of Relatives and How to Handle the Toxic Ones - <Link to="/islam/kii/1">Visit article</Link>
+        </Paragraph>
       </div>
     ),
   },
