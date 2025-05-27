@@ -1,6 +1,6 @@
 // src/App.js
 import React from "react";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import { Layout } from "antd";
 import Navbar from "./components/Navbar";
 import AppFooter from "./components/Footer";
@@ -9,7 +9,7 @@ const { Content } = Layout;
 
 function App() {
   return (
-    <Router basename="/web">
+    <Router>
       <Layout style={{ minHeight: "100vh" }}>
         <Navbar />
         <Content>
