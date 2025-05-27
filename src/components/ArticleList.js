@@ -40,7 +40,7 @@ const allData = [
     key: 7,
     name: `7. "Not All Muslims Are Terrorists, But All Terrorists Are Muslims"`,
     date: "Published on 19:06:23 IST May 10, 2025",
-    link: "/misc/gt/2",
+    link: "/misc/ter/1",
   },
   {
     key: 8,
@@ -89,6 +89,12 @@ const allData = [
     name: `15. How Qur'an Corrects the Bible? `,
     date: "Published on 12:47:37 IST May 27, 2025",
     link: "/christianity/bible/1",
+  },
+   {
+    key: 16,
+    name: `16. The Truth About 9/11: A Fabricated Tragedy`,
+    date: "Published on 17:59:17 IST May 27, 2025",
+    link: "/misc/ter/2",
   },
 ];
 

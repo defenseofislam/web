@@ -20,7 +20,10 @@ const tableData = [
     content: (
       <div>
         <Paragraph>
-          1. "Not All Muslims Are Terrorists, But All Terrorists Are Muslims"  - <Link to="/misc/gt/2">Visit article</Link>
+          1. "Not All Muslims Are Terrorists, But All Terrorists Are Muslims"  - <Link to="/misc/ter/1">Visit article</Link>
+        </Paragraph>
+        <Paragraph>
+          2. The Truth About 9/11: A Fabricated Tragedy - <Link to="/misc/ter/2">Visit article</Link>
         </Paragraph>
       </div>
     ),

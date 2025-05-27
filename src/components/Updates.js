@@ -1,4 +1,9 @@
 const updates = [
+  {
+    title: `New article on Miscellaneous: The Truth About 9/11: A Fabricated Tragedy`,
+    date: "Published on 17:59:17 IST May 27, 2025",
+    link: "/misc/ter/2",
+  },
    {
     title: `New article on Christianity : How Qur'an Corrects the Bible? `,
     date: "Published on 12:47:37 IST May 27, 2025",
@@ -14,11 +19,7 @@ const updates = [
     date: "Published on 18:11:44 IST May 18, 2025",
     link: "/christianity/tc/1",
   },
-  {
-    title: `New article on Atheism :Can Morality Exist Without Religion? A Brutal Dissection of Atheist Delusions and Secular Moral Bankruptcy`,
-    date: "Published on 09:43:44 IST May 16, 2025",
-    link: "/atheism/mai/1",
-  },
+
 
 ];
 
