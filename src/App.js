@@ -9,7 +9,7 @@ const { Content } = Layout;
 
 function App() {
   return (
-    <Router basename={import.meta.env.BASE_URL}>
+    <Router basename="/web">
       <Layout style={{ minHeight: "100vh" }}>
         <Navbar />
         <Content>
