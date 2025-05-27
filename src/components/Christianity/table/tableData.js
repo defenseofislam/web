@@ -16,6 +16,18 @@ const tableData = [
       </div>
     ),
   },
+  {
+    key: "2",
+    title: "Bible",
+    content: (
+      <div>
+        <Paragraph>
+          1. How Qur'an Corrects the Bible? - 
+          <Link to="/christianity/bible/1">{" "}Visit article</Link>
+        </Paragraph>
+      </div>
+    ),
+  }
 ];
 
 export default tableData;

@@ -84,6 +84,12 @@ const allData = [
     date: "Published on 18:22:37 IST May 25, 2025",
     link: "/islam/kii/1",
   },
+  {
+    key: 15,
+    name: `15. How Qur'an Corrects the Bible? `,
+    date: "Published on 12:47:37 IST May 27, 2025",
+    link: "/christianity/bible/1",
+  },
 ];
 
 export default allData;

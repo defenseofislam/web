@@ -1,4 +1,9 @@
 const updates = [
+   {
+    title: `New article on Christianity : How Qur'an Corrects the Bible? `,
+    date: "Published on 12:47:37 IST May 27, 2025",
+    link: "/christianity/bible/1",
+  },
   {
     title: `New article on Islam : Blood Ties in Islam: The Sacred Rights of Relatives and How to Handle the Toxic Ones `,
     date: "Published on 18:22:37 IST May 25, 2025",
@@ -14,12 +19,6 @@ const updates = [
     date: "Published on 09:43:44 IST May 16, 2025",
     link: "/atheism/mai/1",
   },
-  {
-    title: `New article on Atheism :"The Necessity of an Independent Cause for the Universe and the Rational Requirement of Willful Agency"`,
-    date: "Published on 17:47:23 IST May 15, 2025",
-    link: "/atheism/pfg/1",
-  },
- 
 
 ];
 
