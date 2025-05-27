@@ -93,7 +93,7 @@ const allData = [
    {
     key: 16,
     name: `16. The Truth About 9/11: A Fabricated Tragedy`,
-    date: "Published on 17:59:17 IST May 27, 2025",
+    date: "Published on 18:36:12 IST May 27, 2025",
     link: "/misc/ter/2",
   },
 ];
