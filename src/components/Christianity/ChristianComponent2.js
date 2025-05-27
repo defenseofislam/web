@@ -12,25 +12,38 @@ function ChristianComponent2() {
   return (
     <Content style={{ padding: "24px" }}>
       <Typography>
-        <Text underline><Title level={2}>Can Morality Exist Without Religion?
-A Brutal Dissection of Atheist Delusions and Secular Moral Bankruptcy
+        <Text underline><Title level={2}>How Qur'an Corrects the Bible? A Critical Examination of History from both Scriptures
 </Title></Text>
+<Text italic type="secondary">
+          Written By Fida Karim
+        </Text>
         <Title level={4}>
-Introduction: The Sweet Lie of Secular Morality
+*The Qur’an: A Voice From Beyond Time*
 </Title>
 
 <Paragraph>
-  Atheists often claim they don't need religion to be moral. They say, <Text italic>“I don’t need a God to tell me that murder is wrong or that kindness is good.”</Text> It sounds noble. <Text type="warning">It makes for a nice tweet.</Text> But it collapses under the first breath of serious scrutiny. 
-
-  <br /><br />
-  This essay will <Text strong>ruthlessly expose</Text> the <Text mark>shallow</Text>, <Text type="danger">borrowed</Text>, and <Text delete>inconsistent</Text> nature of so-called “morality without God.”
-
-  <br /><br />
-  <Text type="success">We’re not here to be polite.</Text> We’re here to <Text code>crush the delusion</Text> that human morality floats in midair, independent of any objective foundation. 
-
-  <br /><br />
-  And if that makes some people uncomfortable—<Text strong>good</Text>. <Text type="danger">Truth isn’t supposed to coddle you.</Text>
+  <Text strong>Imagine this.</Text>
 </Paragraph>
+
+<Paragraph>
+  A man stands in the heart of <Text mark>7th-century Arabia</Text> — <Text italic>unlettered</Text>, <Text italic>untrained</Text>, <Text italic>untouched</Text> by the libraries of Rome, Persia, or Egypt.<br/>
+  No maps. No telescopes. No archaeology.<br/>
+  And yet — out of his mouth comes a <Text type="success">Book</Text>.
+</Paragraph>
+
+<Paragraph>
+  A Book that <Text type="warning">speaks of ancient kings and forgotten cities</Text>, of <Text type="warning">lost dynasties and hidden technologies</Text>.<br/>
+  A Book that <Text type="danger">corrects the historians</Text>, <Text type="danger">confounds the scholars</Text>, and <Text type="danger">predicts the findings of science and archaeology</Text> — over <Text code>*a thousand years*</Text> before anyone else.
+</Paragraph>
+
+<Paragraph>
+  What is this Book? And who could its <Text italic>Author</Text> be?
+</Paragraph>
+
+<Paragraph>
+  <Text mark>Let me show you.</Text>
+</Paragraph>
+
 
 
 
@@ -38,42 +51,52 @@ Introduction: The Sweet Lie of Secular Morality
 
 <hr />
 
-<Text underline><Title level={4}>1. Morality Without God is Just Preference Dressed as Principle</Title></Text>
+<Text underline><Title level={4}>1. The Pharaoh and the King</Title></Text>
 
 <Paragraph>
-  Ask a secular person:<br />
-  <Text code>“Why is murder wrong?”</Text><br />
-  They’ll answer, <Text italic>“Because it harms others.”</Text><br />
-  <Text code>“Why is harming others wrong?”</Text><br />
-  They’ll say, <Text italic>“Because it causes suffering.”</Text><br />
-  <Text code>“And why is suffering bad?”</Text><br />
-  They’ll mumble, <Text italic>“Because it causes pain.”</Text><br />
-  Now they start <Text type="warning">stammering</Text>. They’ve hit the wall.
-
-  <br /><br />
-  But here’s the intellectual wrecking ball: <Text strong>pain is not inherently evil</Text>. In fact, many of the greatest minds have affirmed its necessity.<br />
-  <Text italic>Nietzsche</Text> said, <Text code>“To live is to suffer, to survive is to find some meaning in the suffering.”</Text><br />
-  <Text italic>Kahlil Gibran</Text> wrote, <Text code>“Your pain is the breaking of the shell that encloses your understanding.”</Text><br />
-  Even <Text italic>Jordan Peterson</Text> notes that <Text code>“meaning is found in responsibility, and often in suffering.”</Text><br />
-  <Text type="secondary" italic>So how can something so crucial to growth be the basis of moral judgment?</Text>
-
-  <br /><br />
-  <Text strong>Atheistic morality</Text> always circles back to <Text mark>personal taste</Text>, <Text type="warning">emotion</Text>, or <Text italic>societal agreement</Text>—none of which can ground <Text underline>objective right or wrong</Text>.
-
-  <br /><br />
-  Without a <Text strong>transcendent standard</Text>, there’s no reason to say genocide is <Text strong>objectively</Text> wrong. It’s just <Text code>your tribe vs. another tribe</Text>.
-
-  <br /><br />
-  If morality is just about what humans agree on, then:<br /><br />
-
-  <Text type="danger">Slavery</Text> was moral when society approved it.<br />
-  <Text type="danger">Nazism</Text> was moral in 1930s Germany.<br />
-  <Text type="danger">Pedophilia</Text> is moral if a society legalizes it.
-
-  <br /><br />
-  That’s not morality. <Text strong>That’s mob rule in a tuxedo.</Text>
+  <Text strong>Open any Bible.</Text><br/>
+  The ruler of Joseph’s time is called <Text italic>*Pharaoh*</Text>.<br/>
+  The ruler of Moses’ time? Also <Text italic>*Pharaoh*</Text>.
 </Paragraph>
 
+<Paragraph>
+  But the <Text mark>Qur’an</Text> — without access to any Egyptian record — gets it <Text type="success">exactly right</Text>.
+</Paragraph>
+
+<Paragraph>
+  In the story of <Text italic>*Joseph*</Text>, it calls the ruler:
+</Paragraph>
+
+<Paragraph type="secondary" italic>
+  *“The King”* — <Text code>Malik</Text><br/>
+  (Qur’an 12:43)
+</Paragraph>
+
+<Paragraph>
+  Because modern Egyptology confirms:<br/>
+  The title <Text code>“Pharaoh”</Text> was <Text type="danger">not yet used</Text> during Joseph’s time. It only became a royal title during the <Text italic>18th Dynasty (around 1500 BCE)</Text>.
+</Paragraph>
+
+<Paragraph>
+  Joseph is believed to have lived during the <Text strong>Hyksos period</Text>, when Egypt was ruled by foreign Semitic kings called <Text code>Heqa-Khasut</Text> ("rulers of foreign lands") — <Text delete>not “Pharaohs.”</Text><br/>
+  <Text type="success">The Qur’an aligns with this perfectly.</Text>
+</Paragraph>
+
+<Paragraph>
+  <Text underline>Source:</Text><br/>
+  <Text italic>* “Pharaoh: The History of Egypt’s Rulers from the Early Dynastic Period to the Greco-Roman Era,” by Joyce Tyldesley</Text><br/>
+  <Text italic>* Egyptological consensus (Oxford Encyclopedia of Ancient Egypt)</Text>
+</Paragraph>
+
+<Paragraph>
+  And when we get to <Text italic>*Moses*</Text>, the Qur’an uses <Text code>"Pharaoh"</Text> (<Text code>Fir‘awn</Text>) again and again — as it became the official title during his time under <Text strong>Ramses II</Text>.
+</Paragraph>
+
+<Paragraph>
+  This level of <Text type="warning">historical precision</Text> — <Text italic>not known at the time</Text>, and even <Text delete>contradicted by the Bible</Text> — is <Text mark>nothing short of extraordinary</Text>.
+</Paragraph>
+
+<hr />
 
 
 
