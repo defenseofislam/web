@@ -57,7 +57,6 @@ const routes = [
   { path: "/agnosticism/as-th-de/1", element: <AgnosticComponent1 /> },
   { path: "/christianity/tc/1", element: <ChristianComponent1 /> },
   { path: "/christianity/bible/1", element: <ChristianComponent2 /> },
-  { path: "/web/christianity/bible/1", element: <ChristianComponent2 /> },
   { path: "/darwinism/dn-vs-ct/1", element: <DarwinComponent1 /> },
   { path: "/misc/gt/1", element: <MiscComponent1 /> },
   { path: "/misc/gt/2", element: <MiscComponent2 /> },
