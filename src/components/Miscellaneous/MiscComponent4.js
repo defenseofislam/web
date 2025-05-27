@@ -453,7 +453,7 @@ Introduction
 </Paragraph>
 
 <hr />
-<Paragraph>https://youtu.be/ANzgSJZSJF4?si=bn8S7xOBBU5ryXtB
+<Paragraph>
     <Title level={4} underline>EVIDENCE SUPPORTING THIS ARTICLE:</Title>
     <Paragraph>
   <Text strong>1) Full documentary [PRIMARY SOURCE OF THIS ARTICLE]: Must watch it for further clarity of the article!</Text>{" "}
