@@ -453,9 +453,17 @@ Introduction
 </Paragraph>
 
 <hr />
-<Paragraph>
+<Paragraph>https://youtu.be/ANzgSJZSJF4?si=bn8S7xOBBU5ryXtB
     <Title level={4} underline>EVIDENCE SUPPORTING THIS ARTICLE:</Title>
-  <Text strong>1) Article Discussing Report Against Controlled Demolition Theory:</Text>{" "}
+    <Paragraph>
+  <Text strong>1) Full documentary [PRIMARY SOURCE OF THIS ARTICLE]: Must watch it for further clarity of the article!</Text>{" "}
+  <a href="https://youtu.be/ANzgSJZSJF4?si=bn8S7xOBBU5ryXtB" target="_blank" rel="noreferrer">
+    Watch here
+  </a>
+</Paragraph>
+
+    
+  <Text strong>2) Article Discussing Report Against Controlled Demolition Theory:</Text>{" "}
   <Text underline>“Near-Free-Fall Acceleration”</Text> – this piece attempts to debunk the idea of controlled demolition, yet ironically ends up proving how unnatural the collapse was. A must-read:{" "}
   <a href="https://www.ae911truth.org/evidence/near-free-fall-acceleration" target="_blank" rel="noreferrer">
     https://www.ae911truth.org/evidence/near-free-fall-acceleration
@@ -463,16 +471,16 @@ Introduction
 </Paragraph>
 
 <Paragraph>
-  <Text strong>2) Side-by-Side Demolition Comparison:</Text>{" "}
+  <Text strong>3) Side-by-Side Demolition Comparison:</Text>{" "}
   This <Text type="success">video</Text> compares a building demolition in Germany with the collapse of Tower WTC 7.{" "}
   <Text underline>They fall almost identically.</Text> You decide if that’s coincidence or not.{" "}
-  <a href="https://youtu.be/uRcbylGqwBw?si=n76AgSjo9dsawL-Q" target="_blank" rel="noreferrer">
+  <a href="https://youtu.be/uRcbyIGqwBw?si=wuMK0leOSVds0jPz" target="_blank" rel="noreferrer">
     Watch here
   </a>
 </Paragraph>
 
 <Paragraph>
-  <Text strong>3) NYFD Oral Histories from 9/11 – Collected by The New York Times:</Text>{" "}
+  <Text strong>4) NYFD Oral Histories from 9/11 – Collected by The New York Times:</Text>{" "}
   These are firsthand accounts that <Text type="danger">seriously question</Text> the official story. Full archive:{" "}
   <a href="https://archive.nytimes.com/www.nytimes.com/packages/html/nyregion/20050812_WTC_GRAPHIC/met_WTC_histories_full_01.html" target="_blank" rel="noreferrer">
     NYT Archive – Oral Histories
