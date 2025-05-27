@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import { Layout, Typography,Tooltip } from "antd";
+import { Layout, Typography } from "antd";
 import CommentBox from "../CommentBox";
 
 const { Content } = Layout;
