@@ -457,7 +457,7 @@ Introduction
     <Title level={4} underline>EVIDENCE SUPPORTING THIS ARTICLE:</Title>
   <Text strong>1) Article Discussing Report Against Controlled Demolition Theory:</Text>{" "}
   <Text underline>“Near-Free-Fall Acceleration”</Text> – this piece attempts to debunk the idea of controlled demolition, yet ironically ends up proving how unnatural the collapse was. A must-read:{" "}
-  <a href="https://www.ae911truth.org/evidence/near-free-fall-acceleration" target="_blank">
+  <a href="https://www.ae911truth.org/evidence/near-free-fall-acceleration" target="_blank" rel="noreferrer">
     https://www.ae911truth.org/evidence/near-free-fall-acceleration
   </a>
 </Paragraph>
@@ -466,7 +466,7 @@ Introduction
   <Text strong>2) Side-by-Side Demolition Comparison:</Text>{" "}
   This <Text type="success">video</Text> compares a building demolition in Germany with the collapse of Tower WTC 7.{" "}
   <Text underline>They fall almost identically.</Text> You decide if that’s coincidence or not.{" "}
-  <a href="https://youtu.be/uRcbylGqwBw?si=n76AgSjo9dsawL-Q" target="_blank">
+  <a href="https://youtu.be/uRcbylGqwBw?si=n76AgSjo9dsawL-Q" target="_blank" rel="noreferrer">
     Watch here
   </a>
 </Paragraph>
@@ -474,7 +474,7 @@ Introduction
 <Paragraph>
   <Text strong>3) NYFD Oral Histories from 9/11 – Collected by The New York Times:</Text>{" "}
   These are firsthand accounts that <Text type="danger">seriously question</Text> the official story. Full archive:{" "}
-  <a href="https://archive.nytimes.com/www.nytimes.com/packages/html/nyregion/20050812_WTC_GRAPHIC/met_WTC_histories_full_01.html" target="_blank">
+  <a href="https://archive.nytimes.com/www.nytimes.com/packages/html/nyregion/20050812_WTC_GRAPHIC/met_WTC_histories_full_01.html" target="_blank" rel="noreferrer">
     NYT Archive – Oral Histories
   </a>
 </Paragraph>
