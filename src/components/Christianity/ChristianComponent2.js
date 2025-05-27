@@ -101,34 +101,69 @@ function ChristianComponent2() {
 
 
 
-<Text underline><Title level={4}>2. Secular “Goodness” is Plagiarized from Religion
+<Text underline><Title level={4}>2. Hāmān: A Name No One Should Have Known
 </Title></Text>
 
 <Paragraph>
-  Modern atheists grew up in societies heavily shaped by <Text strong>Judeo-Islamic values</Text>. Their sense of <Text italic>justice</Text>, <Text italic>charity</Text>, <Text italic>equality</Text>, and <Text italic>compassion</Text> are not secular inventions—they're <Text underline>religious inheritances</Text>, echoing centuries of divine command and prophetic example.
-
-  <br /><br />
-  Strip away the historical influence of religion, and you don’t get a <Text code>“moral atheist society”</Text>—you get a <Text type="warning">cold, utilitarian, godless wasteland</Text>. Ask the <Text type="danger">Soviet Union</Text>. Ask <Text type="danger">Maoist China</Text>. Ask <Text type="danger">Pol Pot's Cambodia</Text>. Tens of millions were <Text type="danger">slaughtered</Text> in the name of secular ideology.
-
-  <br /><br />
-  These regimes didn’t kill because they misunderstood atheism.  
-  They killed because they understood atheism perfectly:<br />
-  <Text type="danger">No God. No soul. No afterlife. No ultimate accountability.</Text><br />
-  Just a <Text code>meat machine</Text> called “human” with no more value than a cockroach.
-
-  <br /><br />
-  <Text italic>When you erase the sacred, the human becomes disposable.</Text><br />
-  <Text italic>When you deny transcendence, power becomes the only truth.</Text><br />
-  <Text italic>Without God, morality is just politics.</Text> And in politics, <Text strong>the strongest fist writes the rules</Text>.
-
-  <br /><br />
-  The irony? Atheists enjoy moral vocabulary—<Text code>“rights”</Text>, <Text code>“dignity”</Text>, <Text code>“freedom”</Text>—that their own worldview <Text underline>cannot justify</Text>. They live off the <Text strong>moral capital</Text> of the very religion they reject, like <Text italic>spoiled heirs</Text> mocking the ancestor who built their house.
-
-  <br /><br />
-  <Text strong>Atheism didn’t build the conscience—it borrowed it.</Text>  
-  {" "}And like all theft, <Text type="warning">it comes with a bill.</Text>
+  The <Text mark>Qur’an</Text> mentions a man named <Text italic>*Hāmān*</Text> as a minister of Pharaoh:
 </Paragraph>
 
+<Paragraph type="secondary" italic>
+  *“O Hāmān, build me a tower…”*<br/>
+  *(Qur’an 28:38)*
+</Paragraph>
+
+<Paragraph>
+  Critics scoffed. <Text delete>*“Hāmān? That name is from the Bible — but he was in Babylon, not Egypt!”*</Text>
+</Paragraph>
+
+<Paragraph>
+  Indeed, the Bible’s Book of Esther places <Text italic>Haman</Text> as a <Text type="warning">Persian courtier</Text> under King Xerxes — over <Text code>1,000 years after Pharaoh</Text>.
+</Paragraph>
+
+<Paragraph>
+  <Text strong>But here's the shocker:</Text>
+</Paragraph>
+
+<Paragraph>
+  In <Text code>1782</Text>, the <Text italic>Lexicon of Hieroglyphic Inscriptions</Text> had not yet been deciphered.<br/>
+  But in the <Text strong>1800s</Text>, after the <Text mark>Rosetta Stone</Text> allowed scholars like <Text strong>Champollion</Text> to read hieroglyphs, an <Text type="success">astonishing discovery</Text> was made.
+</Paragraph>
+
+<Paragraph>
+  An inscription in the <Text strong>Hof Museum</Text> in Vienna, from the time of <Text strong>Ramses II</Text>, mentions a man titled <Text code>“Ha-Amen”</Text>, translated as <Text italic>*“the head of the stone quarry workers.”*</Text>
+</Paragraph>
+
+<Paragraph>
+  In ancient Egyptian: <Text code>Ha-Amana</Text> — <Text mark>*exactly pronounced like Hāmān*</Text>.
+</Paragraph>
+
+<Paragraph>
+  He worked <Text strong>under Pharaoh</Text>. In <Text strong>construction</Text>. In <Text strong>stone</Text>.
+</Paragraph>
+
+<Paragraph>
+  <Text type="success">Exactly as the Qur’an says:</Text>
+</Paragraph>
+
+<Paragraph type="secondary" italic>
+  *“Build me a lofty tower, O Hāmān…”*
+</Paragraph>
+
+<Paragraph>
+  <Text type="danger">How could the Prophet Muhammad — peace be upon him — know this?</Text><br/>
+  This information was <Text underline>buried under sand and script for over 2,000 years</Text>.<br/>
+  <Text delete>The Bible got it wrong.</Text> <Text type="success">The Qur’an got it right.</Text>
+</Paragraph>
+
+<Paragraph>
+  <Text underline>Sources:</Text><br/>
+  <Text italic>* Maurice Bucaille, The Bible, the Qur’an and Science</Text><br/>
+  <Text italic>* Egyptian inscriptions in the Hof Museum, Vienna</Text><br/>
+  <Text italic>* Champollion’s deciphering of hieroglyphs post-Rosetta Stone</Text>
+</Paragraph>
+
+<hr />
 
 
 
@@ -136,143 +171,146 @@ function ChristianComponent2() {
 
 
 <Text underline><Title level={4}>
-3. “We Can Be Good Without God” – Good According to What?
+3. The Dead King Who Would Not Drown
 
 </Title></Text>
 
 <Paragraph>
-  When an atheist says <Text code>“be good”</Text>, ask a simple but devastating question: <Text strong>“Define good.”</Text>
-
-  <br /><br />
-  Is <Text italic>“good”</Text> what benefits the most people?<br />
-  Then would you <Text type="danger">harvest organs</Text> from one healthy man to save five sick patients? Welcome to utilitarian horror.
-
-  <br /><br />
-  Is <Text italic>“good”</Text> what makes people happy?<br />
-  Then <Text code>drugs</Text>, <Text code>adultery</Text>, <Text code>porn</Text>, and <Text code>theft</Text> become “moral” as long as no one complains. Pleasure becomes the god, and dignity becomes the casualty.
-
-  <br /><br />
-  Is <Text italic>“good”</Text> just “not harming others”?<br />
-  Then <Text type="warning">abortion</Text> is immoral. <Text italic>Oh wait—</Text>you don’t want to go there, do you?
-
-  <br /><br />
-  The uncomfortable truth is this: <Text strong>Atheists have no objective definition of good.</Text><br />
-  Their “morality” is:
-
-  <ul>
-    <li><Text type="secondary">Situational</Text></li>
-    <li><Text type="secondary">Fluid</Text></li>
-    <li><Text type="secondary">Culturally bound</Text></li>
-    <li><Text type="secondary">Vulnerable to revision</Text> every time society changes mood</li>
-  </ul>
-
-  <Text italic>“Good”</Text> becomes whatever the latest trending hashtag says it is.<br />
-  Yesterday’s truth becomes today’s “phobia.”<br />
-  Virtue is now just <Text type="warning">a costume worn for likes and applause</Text>.
-
-  <br /><br />
-  So don’t be fooled by their posturing. Their moral compass is not grounded in reality—it’s a <Text strong>weather vane</Text> spinning in cultural winds, not a <Text underline>foundation</Text> rooted in eternal truth.
-
-  <br /><br />
-  <Text strong>Without God, there is no “ought.”</Text><br />
-  There’s only <Text code>“I feel like”</Text>—and that’s not morality. That’s mood with a microphone.
+  In the <Text mark>Qur’an</Text>, God declares something astonishing:
 </Paragraph>
 
+<Paragraph type="secondary" italic>
+  *“Today, We will save your body, so that you may be a sign for those who come after you.”*<br/>
+  *(Qur’an 10:92)*
+</Paragraph>
+
+<Paragraph>
+  At the time this was revealed, <Text strong>no one knew</Text> where the Pharaohs’ bodies were, let alone that any had <Text underline>survived drowning</Text>.
+</Paragraph>
+
+<Paragraph>
+  But in <Text code>1898</Text>, the mummified body of <Text strong>Ramses II</Text> (or his son <Text italic>Merneptah</Text>) was discovered in the <Text mark>Valley of the Kings</Text>.
+</Paragraph>
+
+<Paragraph>
+  The body was <Text type="warning">remarkably preserved</Text> — and moved to <Text strong>Cairo’s Royal Mummy Hall</Text>.
+</Paragraph>
+
+<Paragraph>
+  It is displayed in a <Text code>glass case</Text>.<br/>
+  <Text type="success">A corpse. Preserved through centuries.</Text><br/>
+  <Text type="danger">Just as the Qur’an declared.</Text>
+</Paragraph>
+
+<Paragraph>
+  <Text underline>Sources:</Text><br/>
+  <Text italic>* “Mummies of Ancient Egypt,” Smithsonian Institution</Text><br/>
+  <Text italic>* Discovery of Pharaoh Merneptah’s mummy (Cairo Museum)</Text><br/>
+  <Text italic>* “The Pharaoh of the Exodus,” Dr. Maurice Bucaille</Text>
+</Paragraph>
+
+<hr />
 
 
 
 
 
 <Text underline><Title level={4}>
-4. If Morality Can Exist Without Religion, Why Is the World Morally Collapsing the More It Becomes Secular?
+4. The Crucifixion That Shouldn’t Exist
 
 
 </Title></Text>
 <Paragraph>
-  As the world <Text strong>abandons religion</Text>, take a look at the spiritual wreckage left behind:
-
-  <ul>
-    <li><Text type="danger">Families</Text> are <Text italic>breaking down</Text>.</li>
-    <li><Text type="danger">Porn addiction</Text> is <Text italic>skyrocketing</Text>.</li>
-    <li><Text type="danger">Suicide rates</Text> are <Text italic>exploding</Text>.</li>
-    <li><Text type="danger">Depression</Text> is now <Text italic>rampant</Text>.</li>
-    <li><Text type="danger">Gender confusion</Text> is being <Text underline>institutionalized</Text>.</li>
-    <li><Text type="danger">Child grooming</Text> is defended in the name of <Text code>“inclusivity”</Text>.</li>
-  </ul>
-
-  <br />
-  <Text strong>This is not a coincidence.</Text><br />
-  <Text underline>This is the fruit of godless morality.</Text><br />
-  A world without divine boundaries becomes a playground for every delusion, every desire, every darkness.
-
-  <br /><br />
-  <Text strong>Atheist ethics in action:</Text><br />
-  <Text code>“Consent is king.”</Text><br />
-  <Text code>“Truth is subjective.”</Text><br />
-  <Text code>“Do whatever makes you happy.”</Text>
-
-  <br /><br />
-  But when chaos erupts—when children are mutilated in hospitals, when predators claim “identity,” when violence spills into the streets—suddenly, they pretend to be shocked.<br />
-  <Text type="warning">But this is the world they created.</Text>
-
-  <br /><br />
-  You cannot build civilization on <Text code>feelings</Text> and <Text code>hashtags</Text>.<br />
-  You cannot raise generations on <Text type="warning">moral relativism</Text> and expect stability.
-
-  <br /><br />
-  <Text strong>You can’t build a moral society on sand.</Text><br />
-  You need rock. You need Revelation. You need God.
+  When Pharaoh threatens Moses’ followers, the Qur’an quotes him:
 </Paragraph>
 
+<Paragraph type="secondary" italic>
+  *“I will crucify you all.”*<br/>
+  *(Qur’an 7:124)*
+</Paragraph>
+
+<Paragraph>
+  Critics laughed for centuries.<br/>
+  They said: <Text italic>“Crucifixion didn’t exist in Egypt.”</Text><br/>
+  They mocked it as a <Text delete>historical error</Text>.
+</Paragraph>
+
+<Paragraph>
+  But in the <Text code>20th century</Text>, archaeologists discovered <Text mark>Egyptian papyri and inscriptions</Text> describing the punishment of criminals by <Text strong>hanging or impalement on wood</Text> — even during the time of <Text italic>Ramses II</Text>.
+</Paragraph>
+
+<Paragraph>
+  One papyrus from the <Text underline>Anastasi Collection</Text> (<Text code>British Museum</Text>) and another from the <Text underline>Tomb of Horemheb</Text> depict impalement punishments that <Text type="warning">resemble crucifixion</Text>.
+</Paragraph>
+
+<Paragraph>
+  The Qur’an’s word <Text code>"ṣalaba"</Text> fits <Text strong>exactly</Text>.
+</Paragraph>
+
+<Paragraph>
+  <Text underline>Sources:</Text><br/>
+  <Text italic>* “The Tomb of Horemheb” by Geoffrey Thorndike Martin</Text><br/>
+  <Text italic>* Papyrus Anastasi I (British Museum, EA 10247)</Text><br/>
+  <Text italic>* “Bible, Qur’an and Science” by Dr. Maurice Bucaille</Text>
+</Paragraph>
+
+<hr />
 
 
 
 
 
-<Text underline><Title level={4}>5. Without Divine Judgment, Morality is Just a Game of Optics
+
+<Text underline><Title level={4}>5. The Iron of a King
 
 
 </Title></Text>
 <Paragraph>
-  Ask an atheist this:<br />
-  <Text strong>“If someone could commit the perfect crime—no consequences, no guilt, no trace—would it still be wrong?”</Text><br /><br />
-  
-  Their answer <Text italic>depends entirely</Text> on emotion, upbringing, or fear of reputation. No objective anchor. No eternal standard.<br /><br />
-
-  But a Muslim responds with conviction:<br />
-  <Text mark>
-    “Whether I am alone or in public, Allah sees me. I obey not because I fear humans, but because I fear my Lord.”
-  </Text><br /><br />
-
-  <Text strong>In Islam, morality is rooted in:</Text>
-  <ul>
-    <li><Text code>Taqwa</Text> – The awareness of Allah at all times.</li>
-    <li><Text code>Accountability</Text> – Knowing every deed is recorded.</li>
-    <li><Text code>Submission</Text> – To divine law, not societal trends.</li>
-  </ul>
-
-  <br />
-  Islamic ethics are not based on:
-  <ul>
-    <li><Text type="warning">Mood</Text></li>
-    <li><Text type="warning">Majority rule</Text></li>
-    <li><Text type="warning">Legal loopholes</Text></li>
-  </ul>
-
-  <br />
-  <Text underline strong>Taqwa</Text> means you lower your gaze when no one is watching.<br />
-  You speak the truth even if it costs you friends.<br />
-  You return what is not yours even when there’s no camera.<br /><br />
-
-  <Text type="danger">Atheism offers no such shield.</Text> When convenience clashes with conscience, their system folds.<br />
-  It's not moral conviction—it’s <Text italic>moral cosplay</Text>, worn proudly until tested, then quietly discarded.<br /><br />
-
-  <Text strong underline>
-    When morality depends on man, it bends with man.
-  </Text><br />
-  But when morality is from God, it is <Text type="success">unshakable</Text>, <Text type="success">timeless</Text>, and <Text type="success">pure.</Text>
+  In the Qur’an, Allah says:
 </Paragraph>
 
+<Paragraph type="secondary" italic>
+  *“We softened iron for David…”*<br/>
+  *(Qur’an 34:10–11)*
+</Paragraph>
+
+<Paragraph>
+  This was seen as odd — even <Text type="danger">impossible</Text>.<br/>
+  David lived in the Bronze Age, they said. <Text italic>Iron was rare and unusable.</Text>
+</Paragraph>
+
+<Paragraph>
+  But <Text strong>modern archaeology</Text> now confirms:<br/>
+  The <Text mark>Iron Age began exactly around David’s time — 1200 BCE</Text>.
+</Paragraph>
+
+<Paragraph>
+  The earliest usage of iron tools and weapons in <Text code>Canaan</Text> and <Text code>ancient Israel</Text> appears around this period.<br/>
+  The <Text strong>Hittites</Text>, near David’s region, were pioneers in <Text underline>iron smelting</Text> and <Text underline>metallurgy</Text>.
+</Paragraph>
+
+<Paragraph>
+  And what was iron first used for?<br/>
+  <Text type="warning">Weapons. Armor. Chain mail.</Text>
+</Paragraph>
+
+<Paragraph>
+  Just as the Qur’an describes:
+</Paragraph>
+
+<Paragraph type="secondary" italic>
+  *“Make full-length coats of mail, and calculate the links precisely.”*<br/>
+  *(Qur’an 34:11)*
+</Paragraph>
+
+<Paragraph>
+  <Text underline>Sources:</Text><br/>
+  <Text italic>* “The Archaeology of the Israelite Settlement” by Israel Finkelstein</Text><br/>
+  <Text italic>* “Ancient Near Eastern History and Culture” by William H. Stiebing Jr.</Text><br/>
+  <Text italic>* British Museum records on early Iron Age metallurgy</Text>
+</Paragraph>
+
+<hr />
 
 
 
