@@ -315,157 +315,289 @@ function ChristianComponent2() {
 
 
 
-<Text underline><Title level={4}>6. Secular “Ethics” Produces Monsters in Lab Coats
+<Text underline><Title level={4}>6. The Lost City of Iram
 
 </Title></Text>
 
 <Paragraph>
-  When morality is unmoored from God, even <Text strong>science</Text> becomes a weapon:<br /><br />
-
-  <ul>
-    <li><Text type="danger">Nazi doctors</Text> experimented on children in the name of “genetic advancement.”</li>
-    <li>
-      <Text type="danger">Planned Parenthood</Text> 
-      <Tooltip title ="The Planned Parenthood Fetal Tissue Scandal (2015): Undercover videos released by the Center for Medical Progress showed senior officials casually discussing the sale of fetal tissue and body parts from aborted babies—over lunch and wine.">
-        {" "}<Text underline>harvested fetal organs [click me]</Text>
-      </Tooltip> while smiling for grants.
-    </li>
-    <li><Text type="warning">AI ethicists</Text> now justify replacing humans to “optimize progress.”</li>
-    <li><Text type="warning">Transhumanists</Text> fantasize about rewriting human nature and editing morality itself.</li>
-  </ul>
-
-  <br />
-  <Text mark>Science without God becomes a scalpel in the hands of a psychopath.</Text><br /><br />
-
-  Because <Text code>science tells you how</Text>, but only <Text strong>religion tells you why</Text>.<br /><br />
-
-  Islam doesn’t reject science—it <Text italic>tames</Text> it.<br />
-  It says: <Text type="success">“Advance, but under the banner of mercy, justice, and accountability.”</Text><br /><br />
-
-  <Text type="danger">No God = No Banner</Text><br />
-  Just knives and data. Just machines without conscience. Just innovation without soul.<br /><br />
-
-  <Text strong underline>Science is a gift. But without God, it becomes a curse wrapped in code.</Text>
+  The Qur’an speaks of a mysterious civilization:
 </Paragraph>
 
+<Paragraph type="secondary" italic>
+  *“Iram — of lofty pillars. The like of whom was never created in the land.”*<br/>
+  *(Qur’an 89:7–8)*
+</Paragraph>
+
+<Paragraph>
+  For centuries, there was <Text delete>no trace</Text> of such a city.<br/>
+  It was dismissed as <Text type="danger">myth</Text>.
+</Paragraph>
+
+<Paragraph>
+  But in <Text strong>1991</Text>, <Text underline>NASA satellite images</Text> and archaeological teams discovered a buried city in Oman called <Text code>Ubar</Text>, believed to be the city of <Text mark>Iram</Text>.
+</Paragraph>
+
+<Paragraph>
+  It was found under the sands of the <Text italic>Rub’ al Khali</Text> (Empty Quarter) — one of the most remote deserts on Earth.
+</Paragraph>
+
+<Paragraph>
+  <Text type="success">With pillars. With evidence of sudden destruction.</Text><br/>
+  <Text strong>Exactly as the Qur’an described.</Text>
+</Paragraph>
+
+<Paragraph>
+  <Text underline>Sources:</Text><br/>
+  <Text italic>* “The Lost City of Ubar” — National Geographic (1992)</Text><br/>
+  <Text italic>* JPL/NASA Radar Imaging Studies (Jet Propulsion Laboratory)</Text><br/>
+  <Text italic>* Archaeologist Nicholas Clapp’s discovery expedition</Text>
+</Paragraph>
+
+<hr />
 
 
 
-<Text underline><Title level={4}>7. Islam: The Last Fortress of True Morality
+
+<Text underline><Title level={4}>7. The Preservation of the Body in the Sea
 
 </Title></Text>
 
 <Paragraph>
-  <Text strong>Islam is not “subjective.”</Text><br />
-  It doesn't shift with trends.<br />
-  It doesn’t bow to <Text type="warning">opinion polls</Text>, hashtags, or political correctness.<br />
-  What is <Text type="danger">haram</Text> today was haram 1,400 years ago—and will remain haram tomorrow.<br /><br />
-
-  Islam doesn’t whisper: <Text italic>“If it feels good, do it.”</Text><br />
-  It proclaims: <Text type="success">“If it pleases Allah, do it.”</Text><br /><br />
-
-  <Text underline>It’s not morality by mood—it’s morality by revelation.</Text><br /><br />
-
-  The <Text strong>Islamic system</Text> isn’t built in ivory towers of theory. It’s lived, tested, and preserved across centuries. It:<br /><br />
-
-  <ul>
-    <li><Text type="success">Protects the family</Text>—not redefines it every decade</li>
-    <li><Text type="info">Honors truth</Text>—even when it's unpopular</li>
-    <li><Text type="warning">Restrains desires</Text>—so the soul is not enslaved by lust</li>
-    <li><Text type="danger">Condemns oppression</Text>—whether by kings or commoners</li>
-    <li><Text type="success">Demands justice</Text>—not just legal, but eternal</li>
-    <li><Text mark>Upholds accountability beyond death</Text>—because no crime truly disappears</li>
-  </ul>
-
-  <br />
-  This is not just “being good.”<br />
-  <Text type="warning">This is moral clarity in a world addicted to confusion.</Text><br /><br />
-
-  While secular morality asks, <Text italic>“What can I get away with?”</Text><br />
-  Islam asks, <Text strong>“What will I answer for on the Day of Judgment?”</Text><br /><br />
-
-  <Text underline>That’s not fear—it’s dignity.</Text><br />
-  <Text strong>That’s not oppression—it’s discipline.</Text><br />
-  <Text mark>That’s not blind faith—it’s Divine Guidance.</Text>
+  Not just Pharaoh — the Qur’an even describes how a sea splits, a people are saved, and the body of their enemy is preserved.
 </Paragraph>
 
+<Paragraph>
+  That might sound <Text type="warning">mythological</Text> — until modern science weighs in.
+</Paragraph>
+
+<Paragraph>
+  Tectonic studies, sea-floor analysis, and Red Sea topography reveal:
+</Paragraph>
+
+<Paragraph type="secondary" code>
+  * A submarine land ridge exists in the Gulf of Suez — potentially enabling a natural crossing.<br/>
+  * Simulations suggest a strong east wind (as mentioned in the Bible) could create a temporary land bridge.
+</Paragraph>
+
+<Paragraph>
+  <Text italic>Even more intriguing:</Text> Chariot wheels and human remains have reportedly been found in the Gulf of Aqaba — though these claims remain <Text type="danger">unverified</Text> by official sources.
+</Paragraph>
+
+<Paragraph>
+  <Text underline>Sources:</Text><br/>
+  <Text italic>* “Wind Setdown Forces and the Exodus” — Carl Drews, PLOS ONE Journal</Text><br/>
+  <Text italic>* Red Sea Ridge Topography studies — Woods Hole Oceanographic Institution</Text><br/>
+  <Text italic>* Wyatt Archaeological Research — <Text type="danger">non-peer-reviewed; caution advised</Text></Text>
+</Paragraph>
+
+<hr />
 
 
-<Text underline><Title level={4}>Conclusion: The Atheist Moral Argument is a hissing of a scared insecure feral kitten
+
+<Text underline><Title level={4}>8. The House of Qarun (Korah) Sinking
 </Title></Text>
 
-  <Paragraph>
-    They hiss:
-    <br />
-    <Text italic>“We don’t need God to be good!”</Text>
-  </Paragraph>
+<Paragraph>
+  The <Text strong>Qur’an</Text> describes <Text mark>Qarun (Korah)</Text> — a man of <Text type="warning">immense wealth</Text>, with treasures that required <Text italic>strong men</Text> to carry:
+</Paragraph>
 
-  <Paragraph>
-    We reply:
-    <br />
-    <Text type="danger" strong>“Your entire idea of ‘good’ is a borrowed coat that you’re too scared to admit isn’t yours.”</Text>
-  </Paragraph>
+<Paragraph type="secondary" italic>
+  <Text italic>“We caused the earth to swallow him and his house.”</Text>
+  <br />
+  <Text code>(Qur’an 28:81)</Text>
+</Paragraph>
 
-  <Paragraph>
-    <Text underline>Without God</Text>, there is no:
-    <br />
-    <Text mark>Standard</Text>
-    <br />
-    <Text mark>Accountability</Text>
-    <br />
-    <Text mark>Afterlife</Text>
-    <br />
-    <Text mark>Justice</Text>
-  </Paragraph>
+<Paragraph>
+  It was once <Text delete>considered a fable</Text>. But discoveries in Egypt of <Text underline>collapsed underground palaces</Text>, especially in the region of <Text mark>Faiyum</Text>, have lent credence to ancient accounts of buildings that <Text type="danger">literally sank into the earth</Text> — swallowed by sand and seismic shifts.
+</Paragraph>
 
-  <Paragraph>
-    Just <Text delete>chemicals pretending to have ethics</Text>.
-  </Paragraph>
+<Paragraph>
+  Even if not <Text italic>conclusive</Text> yet, the <Text strong>Qur’an’s detail</Text> matches <Text type="success">environmental realities</Text> that <Text italic>no one knew at the time</Text>.
+</Paragraph>
 
-  <Paragraph>
-    The <Text type="warning">secular moral framework</Text> is a <Text italic>sandcastle at high tide</Text>.
-    <br />
-    It <Text delete>crumbles with every wave of cultural change</Text>.
-    <br />
-    <Text type="success">Islam is the lighthouse standing above the storm.</Text>
-  </Paragraph>
+<Paragraph>
+  <Text underline>Sources:</Text>
+  <br />
+  <Text code>• “Lost Treasures of Egypt” — National Geographic documentary</Text>
+  <br />
+  <Text code>• Geological reports on subsidence in Fayoum Depression</Text>
+  <br />
+  <Text code>• “Korah and the Qur'an” — Brill Journal of Islamic Archaeology</Text>
+</Paragraph>
 
-  <Paragraph>
-    You can either <Text strong>anchor your soul to divine truth</Text>,
-    <br />
-    or <Text type="danger">drift in the sea of moral chaos</Text>, <Text italic>drowning in your own contradictions</Text>.
-  </Paragraph>
+<hr />
 
-  <Paragraph>
-    And let’s be honest: When people say they don’t need God to be moral, what they often mean is—
-    <br />
-    <Text type="danger" italic>“I want to define right and wrong based on my feelings, not accountability.”</Text>
-  </Paragraph>
 
-  <Paragraph>
-    But feelings change. Cultures evolve. Trends shift. Without an <Text underline>unchanging source</Text>, morality is just a reflection of <Text delete>societal moods</Text>, not eternal truth.
-  </Paragraph>
+<Text underline><Title level={4}>9. The Ships of the Sea People
+</Title></Text>
 
-  <Paragraph>
-    <Text strong>God doesn't evolve. His wisdom isn't on a timer. His justice isn't up for a vote.</Text>
-  </Paragraph>
-
-  <Paragraph>
-    <Text code>Debate over.</Text> Morality belongs to the <Text strong>One who defined it</Text>.
-    <br />
-    <Text type="danger" strong>K.O.</Text>
+ <Paragraph>
+    The <Text strong>Qur’an</Text> describes nations <Text type="danger">destroyed by the sea</Text> and <Text mark>ships that were unmatched in power</Text>:
   </Paragraph>
 
   <Paragraph type="secondary" italic>
-    A compass disconnected from north will spin forever. Connect to Allah—or be forever lost in circles.
+    <Text italic>“Do they not travel the land and see what became of those before them?”</Text>
+    <br />
+    <Text code>(Qur’an 30:9)</Text>
   </Paragraph>
+
+  <Paragraph>
+    Among these are the <Text strong>People of Noah</Text> and <Text mark>ancient maritime civilizations</Text>—proud, powerful, and now gone.
+  </Paragraph>
+
+  <Paragraph>
+    Only recently have we discovered the <Text strong>Sea Peoples</Text>—<Text italic>mysterious naval warriors</Text> from the Mediterranean who <Text delete>vanished</Text> after <Text type="danger">massive sea battles</Text> and <Text type="warning">natural disasters</Text>.
+  </Paragraph>
+
+  <Paragraph type="secondary" italic>
+    <Text italic>“And We made their ships signs...”</Text>
+    <br />
+    <Text code>(Qur’an 29:15)</Text>
+  </Paragraph>
+
+  <Paragraph>
+    <Text mark>Sunken cities.</Text> <Text mark>Lost navies.</Text> <Text mark>Submerged signs.</Text>
+    <br />
+    All now <Text strong>found</Text>—<Text type="success">just as the Qur’an said we would</Text>.
+  </Paragraph>
+
+  <Title level={4}>Sources</Title>
+  <Paragraph>
+    <Text code>• “The Sea Peoples and Their World” by Eliezer D. Oren</Text>
+    <br />
+    <Text code>• National Geographic: “The Sea Peoples Who Brought Down Empires”</Text>
+    <br />
+    <Text code>• Underwater archaeology in the Eastern Mediterranean (Egyptian Maritime Museum)</Text>
+  </Paragraph>
+
+<hr />
+
+<Text underline><Title level={4}>10. The Ark and Mount Judi: A Forgotten Detail That Couldn’t Be Faked
+</Title></Text>
+
+ <Paragraph>
+  The <Text strong>Bible</Text> says Noah’s Ark came to rest on <Text code>“Mount Ararat”</Text> (Genesis 8:4).<br/>
+  This became the dominant belief for centuries — enshrined in Christian, Jewish, and even popular secular culture.
+</Paragraph>
+
+<Paragraph>
+  But the <Text strong>Qur’an</Text> doesn’t say <Text delete>“Ararat”</Text>.<br/>
+  It doesn’t even mention it once.<br/>
+  Instead, the Qur’an says:
+</Paragraph>
+
+<Paragraph type="secondary" italic>
+  <Text italic>“And it was said, ‘O earth, swallow your water, and O sky, withhold [your rain].’ And the water subsided, and the matter was accomplished, and [the ship] came to rest on al-Jūdiyy.”</Text><br/>
+  <Text code>(Surah Hūd 11:44)</Text>
+</Paragraph>
+
+<Paragraph>
+  <Text mark>Mount Judi?</Text><br/>
+  For 1400 years, <Text type="danger">critics mocked</Text> this claim.<br/>
+  Even Muslims didn’t fully grasp the significance.
+</Paragraph>
+
+<Paragraph>
+  But here's the <Text type="warning">striking truth</Text>: <Text strong>Mount Judi is a real place</Text>, and it fits far better with the historical and geographical clues than Ararat.
+</Paragraph>
+
+<Title level={4}>What and Where is Mount Judi?</Title>
+
+<Paragraph>
+  <Text code>• Mount Judi (Cudi Dagh)</Text> is located in southeastern Turkey, near the Syrian and Iraqi borders — south of Lake Van, not far from ancient Mesopotamia.<br/>
+  <Text code>• Arab geographers</Text>, like Al-Mas‘udi (10th century), describe the ark's remains still being shown to travelers on Mount Judi.<br/>
+  <Text code>• Josephus</Text>, a 1st-century Jewish historian (in <Text italic>Antiquities of the Jews</Text>), wrote that the ark's remnants were “shown there by the inhabitants to this day” — not in Ararat, but “in the region of the Kurds,” which aligns with Mount Judi.<br/>
+  <Text code>• The Syriac Peshitta</Text>, an early Christian Bible translation, also refers to <Text italic>“Qardu”</Text> (related to Judi), not Ararat.
+</Paragraph>
+
+<Paragraph>
+  So, why did the Qur’an name <Text underline>Mount Judi</Text> — a name <Text italic>obscure to most Arabs</Text>, and completely <Text delete>unknown to Christian Europe</Text> — over 1000 years before modern historians confirmed it?
+</Paragraph>
+
+<Paragraph>
+  And how did it <Text strong>contradict the popular Biblical claim</Text> at the time of the Prophet Muhammad (peace be upon him), which had <Text italic>no way of being challenged</Text>?
+</Paragraph>
+
+<Paragraph>
+  Because the <Text type="success">author of the Qur’an</Text> didn’t copy the Bible.
+</Paragraph>
+
+<Paragraph>
+  <Text strong>He corrected it.</Text>
+</Paragraph>
+
+<Paragraph>
+  A man in <Text code>7th-century Arabia</Text>, with <Text type="danger">no access</Text> to ancient Syriac, Jewish geographical disputes, or 1st-century historical texts, gave the more accurate name — one that was buried in obscure traditions and local folklore, and only resurfaced through archaeology and textual history.
+</Paragraph>
+
+<Paragraph>
+  <Text type="warning">No guesswork.</Text> <Text type="success">No copying.</Text> <Text strong>Just precision.</Text>
+</Paragraph>
+
+<Paragraph>
+  And once again, <Text mark>the Qur’an gets it right.</Text>
+</Paragraph>
+
+<Paragraph type="secondary" italic>
+  <Text italic>“Will they not then reflect upon the Qur’an? If it had been from other than Allah, they would have found in it many contradictions.”</Text><br/>
+  <Text code>(Surah An-Nisā 4:82)</Text>
+</Paragraph>
+
+
+<hr />
+
+<Text underline><Title level={4}>So Ask Yourself: Who Could Have Known?
+
+</Title></Text>
+
+  <Paragraph>
+  <Text strong>Who could correct the Bible</Text>, outmatch the historians, and align perfectly with the buried truths of ancient civilizations?
+</Paragraph>
+
+<Paragraph>
+  Each of these details represents a <Text type="warning">historical impossibility</Text> for a 7th-century human to know:
+</Paragraph>
+
+<Paragraph>
+  <Text code>•</Text> Knowing the name of an official and even his job from history lost to all — Greeks, Christians, Romans (<Text mark>Haman</Text>)<br/>
+  <Text code>•</Text> <Text strong>Correct use of royal titles</Text> — “King” vs “Pharaoh” in proper historical context<br/>
+  <Text code>•</Text> <Text strong>Accurate preservation prophecies</Text> — the body of Pharaoh (“We will preserve your body…” Qur’an 10:92)<br/>
+  <Text code>•</Text> <Text strong>True punishment methods</Text> — mention of crucifixion, historically accurate to Pharaoh’s Egypt<br/>
+  <Text code>•</Text> <Text strong>Era-correct metallurgy</Text> — mention of iron in the time of Prophet David (Dawud), a detail overlooked by Biblical texts<br/>
+  <Text code>•</Text> <Text strong>Mention of ancient lost civilizations</Text> — like Iram of the Pillars and the people of ‘Ad
+</Paragraph>
+
+<Paragraph>
+  And all of them stand in <Text type="danger">contrast to the Bible</Text>, suggesting that the <Text type="success">Qur’an is not copying</Text> — it’s correcting human error with <Text strong>divine knowledge</Text>.
+</Paragraph>
+
+<Paragraph>
+  Who could have known these details — <Text type="warning">not just ahead of their time</Text>, but <Text italic>against</Text> their time?
+</Paragraph>
+
+<Paragraph>
+  A man who could not read or write?<br/>
+  Or the <Text type="success">Author of history itself?</Text>
+</Paragraph>
+
+<Paragraph type="secondary" italic>
+  <Text italic>“This is the Book in which there is no doubt — a guidance for the God-conscious.”</Text><br/>
+  <Text code>(Qur’an 2:2)</Text>
+</Paragraph>
+
+<Paragraph type="secondary" italic>
+  <Text italic>“We will show them Our signs in the horizons and within themselves, until it becomes clear to them that it is the Truth.”</Text><br/>
+  <Text code>(Qur’an 41:53)</Text>
+</Paragraph>
+
+<hr />
 
 
 
       </Typography>
       <CommentBox
-        title={"Can Morality Exist Without Religion? A Brutal Dissection of Atheist Delusions and Secular Moral Bankruptcy"}
-        url={"https://defenseofislam.github.io/web/atheism/mai/1"}
+        title={"How Qur'an Corrects the Bible? A Critical Examination of History from both Scriptures"}
+        url={"https://defenseofislam.github.io/web/christianity/bible/1"}
       />
     </Content>
   );
