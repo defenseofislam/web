@@ -33,6 +33,7 @@ import MiscComponent4 from "./components/Miscellaneous/MiscComponent4";
 import ChristianComponent3 from "./components/Christianity/ChristianComponent3";
 import ChristianComponent4 from "./components/Christianity/ChristianComponent4";
 import ChristianComponent5 from "./components/Christianity/ChristianComponent5";
+import ChristianComponent6 from "./components/Christianity/ChristianComponent6";
 
 const routes = [
   { path: "/", element: <Home /> },
@@ -63,7 +64,8 @@ const routes = [
   { path: "/christianity/bible/1", element: <ChristianComponent2 /> },
   { path: "/christianity/jesus/1", element: <ChristianComponent3 /> },
   { path: "/christianity/jesus/2", element: <ChristianComponent4 /> },
-   { path: "/christianity/jesus/3", element: <ChristianComponent5 /> },
+  { path: "/christianity/jesus/3", element: <ChristianComponent5 /> },
+  { path: "/christianity/jesus/4", element: <ChristianComponent6 /> },
   { path: "/darwinism/dn-vs-ct/1", element: <DarwinComponent1 /> },
   { path: "/misc/gt/1", element: <MiscComponent1 /> },
   { path: "/misc/ter/1", element: <MiscComponent2 /> },

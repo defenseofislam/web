@@ -114,6 +114,12 @@ const allData = [
     date: "Published on 11:11:11 IST May 28, 2025",
     link: "/christianity/jesus/3",
   },
+  {
+    key: 20,
+    name: `20. Unpacking John 10:30: Does "I and the Father Are One" Prove the Trinity?`,
+    date: "Published on 17:48:12 IST May 28, 2025",
+    link: "/christianity/jesus/4",
+  },
 ];
 
 export default allData;

@@ -9,15 +9,19 @@ const tableData = [
     content: (
       <div>
         <Paragraph>
-          1. 🌟 The New Covenant: A Universal Call to Believers 🌟  - 
+          1. Unpacking John 10:30: Does "I and the Father Are One" Prove the Trinity?  - 
+          <Link to="/christianity/jesus/4">{" "}Visit article</Link>
+        </Paragraph>
+        <Paragraph>
+          2. 🌟 The New Covenant: A Universal Call to Believers 🌟  - 
           <Link to="/christianity/jesus/1">{" "}Visit article</Link>
         </Paragraph>
         <Paragraph>
-          2. 🌟 Jesus’s True Name and His Miraculous Role   - 
+          3. 🌟 Jesus’s True Name and His Miraculous Role   - 
           <Link to="/christianity/jesus/2">{" "}Visit article</Link>
         </Paragraph>
         <Paragraph>
-          3. Unveiling the True Nature of Jesus: Powerless, a Slave of God, and Dependent on the Almighty   - 
+          4. Unveiling the True Nature of Jesus: Powerless, a Slave of God, and Dependent on the Almighty   - 
           <Link to="/christianity/jesus/3">{" "}Visit article</Link>
         </Paragraph>
       </div>
