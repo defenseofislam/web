@@ -99,8 +99,14 @@ const allData = [
   {
     key: 17,
     name: `17. 🌟 The New Covenant: A Universal Call to Believers 🌟`,
-    date: "Published on 10:31:17 IST May 28, 2025",
+    date: "Published on 10:21:17 IST May 28, 2025",
     link: "/christianity/jesus/1",
+  },
+  {
+    key: 18,
+    name: `18. 🌟 Jesus’s True Name and His Miraculous Role `,
+    date: "Published on 10:41:17 IST May 28, 2025",
+    link: "/christianity/jesus/2",
   },
 ];
 

@@ -12,6 +12,10 @@ const tableData = [
           1. 🌟 The New Covenant: A Universal Call to Believers 🌟  - 
           <Link to="/christianity/jesus/1">{" "}Visit article</Link>
         </Paragraph>
+        <Paragraph>
+          2. 🌟 Jesus’s True Name and His Miraculous Role   - 
+          <Link to="/christianity/jesus/2">{" "}Visit article</Link>
+        </Paragraph>
       </div>
     ),
   },

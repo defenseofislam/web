@@ -141,7 +141,7 @@ function ChristianComponent3() {
 </Text>
 
 <Paragraph>
-  God will give His true believers a <Text strong>new, everlasting name</Text>, distinct from <Text delete>"Jew," "Israel,"</Text> or <Text delete>"Israelite"</Text>, as promised in <Text code>Isaiah 65:15</Text> and <Text code>Isaiah 56:5</Text>.
+  God will give His true believers a <Text strong>new, everlasting name</Text>, distinct from <Text type="danger">"Jew," "Israel,"</Text> or <Text type="danger">"Israelite"</Text>, as promised in <Text code>Isaiah 65:15</Text> and <Text code>Isaiah 56:5</Text>.
 </Paragraph>
 
 <Paragraph type="secondary" italic>
@@ -150,7 +150,7 @@ function ChristianComponent3() {
 </Paragraph>
 
 <Paragraph>
-  <Text code>"Your name… for a curse"</Text>: Labels like <Text delete>"Jew"</Text> or <Text delete>"Israelite"</Text> will no longer define God’s chosen. They will be <Text type="danger">associated with judgment</Text> for those who reject the new covenant.
+  <Text code>"Your name… for a curse"</Text>: Labels like <Text type="danger">"Jew"</Text> or <Text type="danger">"Israelite"</Text> will no longer define God’s chosen. They will be <Text type="danger">associated with judgment</Text> for those who reject the new covenant.
 </Paragraph>
 
 <Paragraph>
@@ -213,7 +213,7 @@ function ChristianComponent3() {
 </Paragraph>
 
 <Paragraph>
-  <Text strong>Eunuchs as a Symbol:</Text> They represent the <Text type="danger">marginalized</Text>, showing that the new covenant includes those previously <Text delete>cast out</Text> by strict Jewish practices.
+  <Text strong>Eunuchs as a Symbol:</Text> They represent the <Text type="danger">marginalized</Text>, showing that the new covenant includes those previously <Text type="danger">cast out</Text> by strict Jewish practices.
 </Paragraph>
 
 <Paragraph>
@@ -235,7 +235,7 @@ function ChristianComponent3() {
 </Paragraph>
 
 <Paragraph>
-  <Text strong>Historical Context:</Text> The term <Text delete>"Christian"</Text> was coined later by <Text type="danger">Byzantine pagans</Text> in Antioch (<Text code>Acts 11:19–26</Text>). The original believers in Palestine were called <Text mark>Muslims</Text> by Jesus, meaning <Text code>those who submit to God</Text>.
+  <Text strong>Historical Context:</Text> The term <Text type="danger">"Christian"</Text> was coined later by <Text type="danger">Byzantine pagans</Text> in Antioch (<Text code>Acts 11:19–26</Text>). The original believers in Palestine were called <Text mark>Muslims</Text> by Jesus, meaning <Text code>those who submit to God</Text>.
 </Paragraph>
 
 <Paragraph>
@@ -253,7 +253,7 @@ function ChristianComponent3() {
 <Paragraph>
   <Text strong>🔍 Additional Context:</Text><br />
   <Text code>"Bar Allahin"</Text> in <Text code>Daniel 3:25–26</Text> means <Text mark>"the chosen one of Allah"</Text>, further linking biblical terminology to Islamic concepts.<br />
-  The future Covenant will belong to <Text type="success">God Almighty</Text>, not the <Text delete>Divine Right</Text>, as Jesus called all believers <Text mark>Muslims</Text> (<Text code>Luke 6:40</Text>).
+  The future Covenant will belong to <Text type="success">God Almighty</Text>, not the <Text type="danger">Divine Right</Text>, as Jesus called all believers <Text mark>Muslims</Text> (<Text code>Luke 6:40</Text>).
 </Paragraph>
 
 <hr />
@@ -267,7 +267,7 @@ function ChristianComponent3() {
 </Text>
 
 <Paragraph>
-  The <Text mark>"sons and daughters of God"</Text> titles are <Text delete>temporary</Text>, unlike the eternal <Text mark>"new name"</Text>:
+  The <Text mark>"sons and daughters of God"</Text> titles are <Text type="danger">temporary</Text>, unlike the eternal <Text mark>"new name"</Text>:
 </Paragraph>
 
 <Paragraph type="secondary" italic>
@@ -279,11 +279,11 @@ function ChristianComponent3() {
 </Paragraph>
 
 <Paragraph>
-  The <Text delete>"sons and daughters of God"</Text> labels, often used in Christian theology, are <Text type="warning">temporary</Text> compared to the <Text strong>everlasting identity</Text> of <Text mark>"Muslim"</Text> (one who submits).
+  The <Text type="danger">"sons and daughters of God"</Text> labels, often used in Christian theology, are <Text type="warning">temporary</Text> compared to the <Text strong>everlasting identity</Text> of <Text mark>"Muslim"</Text> (one who submits).
 </Paragraph>
 
 <Paragraph>
-  <Text strong>Implication:</Text> Christian theology has <Text delete>clung to outdated titles</Text> for 200 years, following <Text type="danger">false pagan churches</Text> and <Text code>doctored scriptures</Text>. The <Text mark>"new name"</Text> prophesied in Isaiah is the <Text type="success">true, eternal identity</Text> for believers, and the day will come when <Text delete>"sons and daughters of God"</Text> titles become <Text type="warning">obsolete</Text>.
+  <Text strong>Implication:</Text> Christian theology has <Text type="danger">clung to outdated titles</Text> for 200 years, following <Text type="danger">false pagan churches</Text> and <Text code>doctored scriptures</Text>. The <Text mark>"new name"</Text> prophesied in Isaiah is the <Text type="success">true, eternal identity</Text> for believers, and the day will come when <Text type="danger">"sons and daughters of God"</Text> titles become <Text type="warning">obsolete</Text>.
 </Paragraph>
 
 <hr />
@@ -293,7 +293,7 @@ function ChristianComponent3() {
 </Text>
 
 <Paragraph>
-  The Torah covenant will be <Text delete>replaced</Text> by the <Text mark>new covenant</Text>, as foretold in <Text code>Jeremiah 31:31–32</Text>:
+  The Torah covenant will be <Text type="danger">replaced</Text> by the <Text mark>new covenant</Text>, as foretold in <Text code>Jeremiah 31:31–32</Text>:
 </Paragraph>
 
 <Paragraph type="secondary" italic>
@@ -310,7 +310,7 @@ function ChristianComponent3() {
 
 <Paragraph>
   <Text strong>Additional Insight:</Text><br />
-  1 day with God = 1,000 earth years (<Text code>Psalm 90:4</Text>). This eternal perspective underscores the <Text delete>temporary nature</Text> of the old covenant.
+  1 day with God = 1,000 earth years (<Text code>Psalm 90:4</Text>). This eternal perspective underscores the <Text type="danger">temporary nature</Text> of the old covenant.
 </Paragraph>
 
 <hr />
@@ -328,7 +328,7 @@ function ChristianComponent3() {
 </Paragraph>
 
 <Paragraph>
-  <Text strong>Distinct Laws:</Text> Unlike the Mosaic laws, which were <Text delete>specific to Israel</Text>, Islam offers a <Text type="success">global framework</Text> for submission to God.
+  <Text strong>Distinct Laws:</Text> Unlike the Mosaic laws, which were <Text type="danger">specific to Israel</Text>, Islam offers a <Text type="success">global framework</Text> for submission to God.
 </Paragraph>
 
 <hr />
@@ -346,7 +346,7 @@ function ChristianComponent3() {
 </Paragraph>
 
 <Paragraph>
-  The temporary <Text delete>"sons and daughters of God"</Text> titles give way to an <Text mark>everlasting identity</Text> that transcends ethnicity and embraces all who devote their lives to God.
+  The temporary <Text type="danger">"sons and daughters of God"</Text> titles give way to an <Text mark>everlasting identity</Text> that transcends ethnicity and embraces all who devote their lives to God.
 </Paragraph>
 
 <Paragraph>

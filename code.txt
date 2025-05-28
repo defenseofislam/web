@@ -6,7 +6,6 @@ To bold a text -> <Text strong></Text>
 
 to underline a text -> <Text underline></Text>
 
-to cut through a text -> <Text delete></Text>
 
 to make a text red in color -> <Text type="danger"></Text>
 
