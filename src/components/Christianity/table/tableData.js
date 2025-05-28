@@ -5,6 +5,18 @@ const { Paragraph } = Typography;
 const tableData = [
   {
     key: "1",
+    title: "Jesus",
+    content: (
+      <div>
+        <Paragraph>
+          1. 🌟 The New Covenant: A Universal Call to Believers 🌟  - 
+          <Link to="/christianity/jesus/1">{" "}Visit article</Link>
+        </Paragraph>
+      </div>
+    ),
+  },
+  {
+    key: "2",
     title: "Trinity & Crucifixion",
     content: (
       <div>
@@ -17,7 +29,7 @@ const tableData = [
     ),
   },
   {
-    key: "2",
+    key: "3",
     title: "Bible",
     content: (
       <div>

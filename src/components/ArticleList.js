@@ -96,6 +96,12 @@ const allData = [
     date: "Published on 18:36:12 IST May 27, 2025",
     link: "/misc/ter/2",
   },
+  {
+    key: 17,
+    name: `17. 🌟 The New Covenant: A Universal Call to Believers 🌟`,
+    date: "Published on 10:31:17 IST May 28, 2025",
+    link: "/christianity/jesus/1",
+  },
 ];
 
 export default allData;
