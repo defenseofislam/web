@@ -15,7 +15,7 @@ function ChristianComponent3() {
         <Text underline><Title level={2}>🌟 The New Covenant: A Universal Call to Believers 🌟
 </Title></Text>
 <Text italic type="secondary">
-          Written By Fida Karim
+          Written By Fida Kareem
         </Text>
        <Text underline><Title level={4}> Introduction
 </Title></Text>

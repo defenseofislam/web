@@ -15,7 +15,7 @@ function ChristianComponent2() {
         <Text underline><Title level={2}>How Qur'an Corrects the Bible? A Critical Examination of History from both Scriptures
 </Title></Text>
 <Text italic type="secondary">
-          Written By Fida Karim
+          Written By Fida Kareem
         </Text>
         <Title level={4}>
 *The Qur’an: A Voice From Beyond Time*

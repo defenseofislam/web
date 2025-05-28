@@ -15,7 +15,7 @@ function ChristianComponent4() {
         <Text underline><Title level={2}>🌟 Jesus’ True Name and His Miraculous Role 🌟
 </Title></Text>
 <Text italic type="secondary">
-          Written By Fida Karim
+          Written By Fida Kareem
         </Text>
        <Text underline><Title level={4}> Introduction
 </Title></Text>

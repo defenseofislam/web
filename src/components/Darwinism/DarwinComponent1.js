@@ -23,7 +23,7 @@ function DarwinComponent1() {
         </Title>
         ----{" "}
         <Text italic type="secondary">
-          Written By Fida Karim[Mbbs Student]
+          Written By Fida Kareem[Mbbs Student]
         </Text>
         <Title level={4}>Abstract</Title>
         <Paragraph>

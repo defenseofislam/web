@@ -15,7 +15,7 @@ function MiscComponent4() {
         <Text underline><Title level={2}>The Truth About 9/11: A Fabricated Tragedy  
 </Title></Text>
 <Text italic type="secondary">
-          Written By Fida Karim
+          Written By Fida Kareem
         </Text>
         <br />
         <Title level={4}>
