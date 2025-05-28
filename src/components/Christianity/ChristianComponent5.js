@@ -17,7 +17,7 @@ function ChristianComponent5() {
 <Text italic type="secondary">
           Written By Fida Kareem
         </Text>
-       <Text underline><Title level={4}>📘 Introduction</Title></Text>
+       <Text underline><Title level={4}>Introduction</Title></Text>
 
 <Paragraph>
   The narrative of Jesus in Christian theology often portrays him as a divine figure, co-equal with God in the doctrine of the Trinity. However, a closer examination of biblical texts reveals a starkly different picture—one where Jesus is <Text strong>powerless</Text>, <Text type="danger">dependent on God</Text>, and described as a <Text mark>slave (abd) of God</Text>, a term used throughout the Old Testament for the servants of the Almighty.
@@ -29,7 +29,7 @@ function ChristianComponent5() {
 
 <hr />
 
-<Text underline><Title level={4}>1.😢 Jesus’ Vulnerability: Crying and Begging God for Lazarus</Title></Text>
+<Text underline><Title level={4}>1.Jesus’ Vulnerability: Crying and Begging God for Lazarus</Title></Text>
 
 <Paragraph>
   The story of Lazarus in <Text code>John 11:38-44</Text> is a profound demonstration of Jesus’ humanity and dependence on God. Multiple translations of <Text code>John 11:38</Text> highlight Jesus’ emotional state as he approaches the tomb of his friend Lazarus:
@@ -67,12 +67,12 @@ function ChristianComponent5() {
 
 
 <Text underline>
-  <Title level={4}>🔗 2. Jesus as the Slave (Abd) of God: A Consistent Old Testament Designation</Title>
+  <Title level={4}>2. Jesus as the Slave (Abd) of God: A Consistent Old Testament Designation</Title>
 </Text>
 
 <Paragraph>
   The second critical insight comes from the consistent use of the term <Text code>*abd*</Text> (slave) to describe Jesus in the Old Testament—a term also applied to prophets and God's servants. In <Text code>Isaiah 52:13</Text>, the Hebrew word <Text code>abd (עֶבֶד)</Text> is used: 
-  <Text mark>“Behold, my servant shall deal prudently, he shall be exalted and extolled, and be very high.”</Text> 🙇‍♂️  
+  <Text mark>“Behold, my servant shall deal prudently, he shall be exalted and extolled, and be very high.”</Text> 
   This verse, applied to Jesus in Christian theology, labels him not just as a servant—but as a <Text strong>slave wholly owned by God</Text>.
 </Paragraph>
 
@@ -89,18 +89,18 @@ function ChristianComponent5() {
 </Paragraph>
 
 <Paragraph>
-  <Text code>Isaiah 11:1-3</Text> echoes this with a prophecy: <Text italic>“The Spirit of the Lord will rest on him—wisdom, understanding, counsel, power...”</Text> 🕊️  
-  It ends with a revealing note: Jesus will have <Text type="warning">“fear of the Lord”</Text>. But a divine being <Text strong>does not fear God</Text>—only a <Text type="danger">slave</Text> or subordinate does. 🔥
+  <Text code>Isaiah 11:1-3</Text> echoes this with a prophecy: <Text italic>“The Spirit of the Lord will rest on him—wisdom, understanding, counsel, power...”</Text> 
+  It ends with a revealing note: Jesus will have <Text type="warning">“fear of the Lord”</Text>. But a divine being <Text strong>does not fear God</Text>—only a <Text type="danger">slave</Text> or subordinate does. 
 </Paragraph>
 
 <hr />
 
 <Text underline>
-  <Title level={4}>⚠️ 3. Jesus’ Admission of Powerlessness: “I Can Do Nothing on My Own”</Title>
+  <Title level={4}>3. Jesus’ Admission of Powerlessness: “I Can Do Nothing on My Own”</Title>
 </Text>
 
 <Paragraph>
-  In <Text code>John 5:30</Text>, Jesus makes a startling confession: <Text mark>“I can do nothing on my own.”</Text> 🛑  
+  In <Text code>John 5:30</Text>, Jesus makes a startling confession: <Text mark>“I can do nothing on my own.”</Text> 
   The Greek roots drive the point deeper: <Text code>dynamai</Text> (ability), <Text code>poiein</Text> (to do), and <Text code>ou dynamai poiein</Text> (I am not able to do). Jesus admits: <Text strong>I lack power</Text>.
 </Paragraph>
 
@@ -110,7 +110,7 @@ function ChristianComponent5() {
 
 <Paragraph>
   His judgment is just <Text italic>“because I do not seek my own will”</Text>, but <Text mark>“the will of Him who sent me”</Text> (<Text code>thelēma tou pempsantos</Text>).  
-  If Jesus were God, he would act freely. Instead, he <Text type="warning">awaits divine instruction</Text>. 📡
+  If Jesus were God, he would act freely. Instead, he <Text type="warning">awaits divine instruction</Text>. 
 </Paragraph>
 
 <Paragraph>
@@ -119,13 +119,13 @@ function ChristianComponent5() {
 
 <Paragraph>
   <Text code>Matthew 7:22-23</Text> warns: <Text mark>“Depart from me, I never knew you…”</Text>—even miracle workers are rejected if they act outside God’s will.  
-  <Text code>Daniel 7:25</Text> also warns of a <Text type="warning">“change in time and the law”</Text>, interpreted by some as the <Text type="danger">distortion of Jesus’ true nature</Text>. 🧩
+  <Text code>Daniel 7:25</Text> also warns of a <Text type="warning">“change in time and the law”</Text>, interpreted by some as the <Text type="danger">distortion of Jesus’ true nature</Text>. 
 </Paragraph>
 
 <hr />
 
 <Text underline>
-  <Title level={4}>🧠 Conclusion: A Call to Reconsider the Trinitarian Doctrine</Title>
+  <Title level={4}> Conclusion: A Call to Reconsider the Trinitarian Doctrine</Title>
 </Text>
 
 <Paragraph>
@@ -144,7 +144,7 @@ function ChristianComponent5() {
 </Paragraph>
 
 <Paragraph>
-  🔍 For further reflection:
+   For further reflection:
   <ul>
     <li><Text code>John 11:38-44</Text> – Jesus’ grief and prayer.</li>
     <li><Text code>Isaiah 52:13</Text>, <Text code>Leviticus 25:44</Text> – Jesus as God's <Text strong>slave</Text>.</li>
@@ -154,7 +154,7 @@ function ChristianComponent5() {
 </Paragraph>
 
 <Paragraph type="secondary" italic>
-  📖 Let us return to the original scriptures with humility, and recognize Jesus not as God, but as the faithful <Text code>abd</Text> of the One True God.
+  Let us return to the original scriptures with humility, and recognize Jesus not as God, but as the faithful <Text code>abd</Text> of the One True God.
 </Paragraph>
 
 <hr />
