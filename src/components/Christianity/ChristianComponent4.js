@@ -95,8 +95,8 @@ function ChristianComponent4() {
 
       </Typography>
       <CommentBox
-        title={"🌟 The New Covenant: A Universal Call to Believers 🌟"}
-        url={"https://defenseofislam.github.io/web/christianity/jesus/1"}
+        title={"🌟 Jesus’ True Name and His Miraculous Role 🌟"}
+        url={"https://defenseofislam.github.io/web/christianity/jesus/2"}
       />
     </Content>
   );
