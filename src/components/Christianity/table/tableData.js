@@ -16,6 +16,10 @@ const tableData = [
           2. 🌟 Jesus’s True Name and His Miraculous Role   - 
           <Link to="/christianity/jesus/2">{" "}Visit article</Link>
         </Paragraph>
+        <Paragraph>
+          3. Unveiling the True Nature of Jesus: Powerless, a Slave of God, and Dependent on the Almighty   - 
+          <Link to="/christianity/jesus/3">{" "}Visit article</Link>
+        </Paragraph>
       </div>
     ),
   },

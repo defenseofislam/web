@@ -108,6 +108,12 @@ const allData = [
     date: "Published on 10:41:17 IST May 28, 2025",
     link: "/christianity/jesus/2",
   },
+  {
+    key: 19,
+    name: `19. Unveiling the True Nature of Jesus: Powerless, a Slave of God, and Dependent on the Almighty `,
+    date: "Published on 11:11:11 IST May 28, 2025",
+    link: "/christianity/jesus/3",
+  },
 ];
 
 export default allData;
