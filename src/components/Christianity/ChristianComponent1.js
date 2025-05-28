@@ -33,7 +33,7 @@ Introduction: The Shaky Foundation Beneath Christianity
 </Paragraph>
 
 <Paragraph>
-  <Text type="danger">The Trinity</Text> is <Text italic>a manmade theological maze</Text>, <Text delete>a contradiction dressed in mystery</Text>.
+  <Text type="danger">The Trinity</Text> is <Text italic>a manmade theological maze</Text>, <Text type="danger">a contradiction dressed in mystery</Text>.
 </Paragraph>
 
 <Paragraph>
@@ -41,7 +41,7 @@ Introduction: The Shaky Foundation Beneath Christianity
 </Paragraph>
 
 <Paragraph>
-  Worse yet, <Text type="warning">Christian trolls</Text> run around mocking Muslims—<Text delete>accusing us of worshipping out of fear, denying salvation, and not “knowing” Jesus</Text>—while they cling to a religion that has <Text strong>God dying on a cross</Text> and <Text underline>calling Himself His own son</Text>.
+  Worse yet, <Text type="warning">Christian trolls</Text> run around mocking Muslims—<Text type="danger">accusing us of worshipping out of fear, denying salvation, and not “knowing” Jesus</Text>—while they cling to a religion that has <Text strong>God dying on a cross</Text> and <Text underline>calling Himself His own son</Text>.
 </Paragraph>
 
 <Paragraph type="secondary" italic>
@@ -49,7 +49,7 @@ Introduction: The Shaky Foundation Beneath Christianity
 </Paragraph>
 
 <Paragraph>
-  It’s for those who <Text strong>dare to question</Text>, who refuse to be <Text delete>spoon-fed contradictions</Text>, and who crave truth without compromise.
+  It’s for those who <Text strong>dare to question</Text>, who refuse to be <Text type="danger">spoon-fed contradictions</Text>, and who crave truth without compromise.
 </Paragraph>
 
 <Paragraph>
@@ -160,7 +160,7 @@ Introduction: The Shaky Foundation Beneath Christianity
 </Paragraph>
 
 <Paragraph>
-  But somehow, Christianity calls that judge <Text delete>“God.”</Text>
+  But somehow, Christianity calls that judge <Text type="danger">“God.”</Text>
 </Paragraph>
 
 

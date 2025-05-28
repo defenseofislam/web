@@ -126,7 +126,7 @@ But here’s the difference: <Text type="success">You sell your soul for dopamin
 
   <br /><br />
 
-  <Text strong>Your life has no meaning unless Allah gives it meaning.</Text> And all your sarcasm and likes and <Text delete>“haha hoors!”</Text> jokes won’t stop your soul from screaming when that Day comes.
+  <Text strong>Your life has no meaning unless Allah gives it meaning.</Text> And all your sarcasm and likes and <Text type="danger">“haha hoors!”</Text> jokes won’t stop your soul from screaming when that Day comes.
 </Paragraph>
 
 
@@ -144,7 +144,7 @@ But here’s the difference: <Text type="success">You sell your soul for dopamin
   <Text type="warning">Threaten consequences for wrongdoing?</Text>
 
   <br /><br />
-  <Text strong>Because fear restrains evil.</Text> Without consequences, humans turn into <Text type="danger">beasts</Text>. Look at any lawless zone—<Text type="danger">people steal, rape, kill.</Text> That’s your <Text delete>"fearless morality"</Text> in action.
+  <Text strong>Because fear restrains evil.</Text> Without consequences, humans turn into <Text type="danger">beasts</Text>. Look at any lawless zone—<Text type="danger">people steal, rape, kill.</Text> That’s your <Text type="danger">"fearless morality"</Text> in action.
 
   <br /><br />
   Atheists claim morality can exist without religion—but <Text italic>can't even agree</Text> on what <Text mark>"good"</Text> is.<br />
@@ -185,7 +185,7 @@ But here’s the difference: <Text type="success">You sell your soul for dopamin
 
   <br /><br />
   They define <Text type="warning">“good” based on feelings.</Text><br />
-  They <Text delete>change morals every decade</Text> and call it “progress.”<br />
+  They <Text type="danger">change morals every decade</Text> and call it “progress.”<br />
   They have <Text mark>no eternal source</Text> for right and wrong—just trends, polls, and Tumblr quotes.
 
   <br /><br />
@@ -194,7 +194,7 @@ But here’s the difference: <Text type="success">You sell your soul for dopamin
   Tomorrow they'll <Text type="danger">cancel you</Text> for something they celebrated yesterday.
 
   <br /><br />
-  <Text strong>Islamic morality is timeless.</Text> What was <Text code>haram</Text> 1400 years ago is <Text code>haram</Text> today—because it’s not built on <Text delete>moods</Text> or <Text delete>memes</Text>. It’s built on <Text strong>Divine Wisdom</Text>.
+  <Text strong>Islamic morality is timeless.</Text> What was <Text code>haram</Text> 1400 years ago is <Text code>haram</Text> today—because it’s not built on <Text type="danger">moods</Text> or <Text type="danger">memes</Text>. It’s built on <Text strong>Divine Wisdom</Text>.
 
   <br /><br />
   <Text type="success">You can’t be “good” if good itself is undefined.</Text><br />
@@ -217,7 +217,7 @@ But here’s the difference: <Text type="success">You sell your soul for dopamin
   <br /><br />
   So when they say, <Text code>“Fear of God is fake morality,”</Text> they’re not just wrong—they’re <Text type="danger">lying</Text>.
   <br /><br />
-  They obey out of fear too. But their fear is <Text delete>cheap</Text>, <Text delete>social</Text>, and <Text delete>temporary</Text>.
+  They obey out of fear too. But their fear is <Text type="danger">cheap</Text>, <Text type="danger">social</Text>, and <Text type="danger">temporary</Text>.
   <br /><br />
   A Muslim fears <Text mark>Allah—the All-Knowing.</Text><br />
   We don’t just behave in public. We fear <Text italic>backbiting</Text> even in <Text italic>whispers</Text>.<br />
@@ -238,7 +238,7 @@ But here’s the difference: <Text type="success">You sell your soul for dopamin
   <Text type="warning">Their parents finding their browser history.</Text>
   <br /><br />
 
-  Their lives are built on fear—but of <Text delete>useless things</Text>.<br />
+  Their lives are built on fear—but of <Text type="danger">useless things</Text>.<br />
   <Text mark>We fear the Creator of Death.</Text> They fear the opinions of <Text italic>strangers on the internet</Text>.
   <br /><br />
 
@@ -247,7 +247,7 @@ But here’s the difference: <Text type="success">You sell your soul for dopamin
   <br /><br />
 
   They mock us while spiraling into <Text italic>panic attacks</Text> over rent and self-worth.<br />
-  <Text underline>We sleep after tahajjud.</Text> <Text delete>They scroll through 3 AM existential dread.</Text>
+  <Text underline>We sleep after tahajjud.</Text> <Text type="danger">They scroll through 3 AM existential dread.</Text>
 </Paragraph>
 
 
@@ -281,9 +281,9 @@ But here’s the difference: <Text type="success">You sell your soul for dopamin
   <Paragraph>
     We don’t just worship for reward.
     <br />
-    We worship because even if there was <Text delete>no Jannah</Text>, <Text strong>He still deserves it</Text>.
+    We worship because even if there was <Text type="danger">no Jannah</Text>, <Text strong>He still deserves it</Text>.
     <br />
-    And if there was <Text delete>no Jahannam</Text>, <Text strong>He still has the right</Text>.
+    And if there was <Text type="danger">no Jahannam</Text>, <Text strong>He still has the right</Text>.
     <br />
     <Text type="warning">We pray because He is Allah. Full stop.</Text>
   </Paragraph>

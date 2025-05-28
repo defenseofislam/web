@@ -216,7 +216,7 @@ function MiscComponent2() {
 
 <Paragraph>
   To reduce over <Text strong>2 billion Muslims</Text> to the actions of a fringe minority is not only 
-  {" "}<Text type="danger">morally reprehensible</Text>, it is <Text delete>intellectually bankrupt</Text> and 
+  {" "}<Text type="danger">morally reprehensible</Text>, it is <Text type="danger">intellectually bankrupt</Text> and 
   {" "}<Text italic>deeply unjust</Text>. It is an affront to truth, and an insult to every Muslim 
   who strives for good in their family, community, and society.
 </Paragraph>

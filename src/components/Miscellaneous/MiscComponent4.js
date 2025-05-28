@@ -45,7 +45,7 @@ Introduction
 
   <Text type="warning">The evidence is overwhelming</Text>, 
   <Text type="danger">the inconsistencies are glaring</Text>, and the official narrative 
-  <Text delete> {" "}crumbles</Text> when you look at the facts.
+  <Text type="danger"> {" "}crumbles</Text> when you look at the facts.
 </Paragraph>
 
 
@@ -61,7 +61,7 @@ Introduction
   </Text> The Joint Chiefs of Staff, led by <Text strong>Lyman Lemnitzer</Text>, proposed staging 
   <Text type="danger">{" "}terrorist attacks</Text> around Guantanamo Bay to justify invading Cuba.<br /><br />
 
-  This wasn’t some <Text delete>conspiracy theory</Text>—it’s a 
+  This wasn’t some <Text type="danger">conspiracy theory</Text>—it’s a 
   <Text mark>{" "}declassified document</Text>.<br /><br />
 
   They planned <Text type="warning">fake attacks</Text>, 

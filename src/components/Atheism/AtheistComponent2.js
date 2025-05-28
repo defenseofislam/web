@@ -17,7 +17,7 @@ function AtheistComponent2() {
 
 <Paragraph>
 
-  This article argues that the existence of the universe necessarily requires an <Text strong>independent, uncaused cause</Text>. More importantly, it demonstrates that this cause must possess <Text mark>will and volition</Text>—disqualifying explanations based on <Text delete>impersonal, random, or mindless processes</Text>. <br /><br />
+  This article argues that the existence of the universe necessarily requires an <Text strong>independent, uncaused cause</Text>. More importantly, it demonstrates that this cause must possess <Text mark>will and volition</Text>—disqualifying explanations based on <Text type="danger">impersonal, random, or mindless processes</Text>. <br /><br />
 
   Through <Text italic>rigorous metaphysical reasoning</Text>, <Text italic>cosmological analysis</Text>, and <Text italic>philosophical rebuttals</Text> to naturalistic objections, this essay establishes that the foundation of all contingent reality must be a <Text type="success">Necessary Being</Text> with <Text underline>intentional power</Text>.<br /><br />
 
@@ -67,7 +67,7 @@ function AtheistComponent2() {
 </Title></Text>
 
 <Paragraph>
-  Some argue—desperately—that maybe there was an <Text mark>infinite series of causes</Text> stretching backward before the universe. But this is not a solution. It's a logical illusion, a philosophical <Text delete>cop-out</Text>. Why?<br /><br />
+  Some argue—desperately—that maybe there was an <Text mark>infinite series of causes</Text> stretching backward before the universe. But this is not a solution. It's a logical illusion, a philosophical <Text type="danger">cop-out</Text>. Why?<br /><br />
 
   • <Text strong>You cannot traverse an actual infinite</Text>. If the past were truly infinite, we would <Text type="danger">never arrive at the present</Text>. Yet—<Text type="success">here we are</Text>.<br />
   
@@ -97,7 +97,7 @@ function AtheistComponent2() {
   
   • <Text type="danger">Randomness presupposes possibility</Text>. But for there to be possibility, there must be <Text underline>something</Text> with the <Text strong>power to permit or actualize it</Text>. Possibility isn’t a force—it’s a condition granted by a willful agent.<br /><br />
 
-  So let’s be clear: <Text type="success">“Random chance”</Text> is not an explanation. It’s an <Text delete>excuse</Text>. A placeholder for ignorance. A denial of mind and will because one fears accountability.<br /><br />
+  So let’s be clear: <Text type="success">“Random chance”</Text> is not an explanation. It’s an <Text type="danger">excuse</Text>. A placeholder for ignorance. A denial of mind and will because one fears accountability.<br /><br />
 
   <Text italic>Design screams intent.</Text> The fine-tuning of universal constants, the precision of cosmic expansion, the order of subatomic particles—<Text type="success">this is not randomness</Text>. It’s <Text strong>intelligent volition</Text> written into the code of reality.<br /><br />
 
@@ -140,7 +140,7 @@ function AtheistComponent2() {
 
 <Paragraph>
   <Text strong>Objection:</Text> “Maybe the universe caused itself.”<br />
-  <Text type="danger">Refutation:</Text> That’s a <Text strong>logical contradiction</Text>. <Text mark>Something cannot exist before it exists to cause itself</Text>. That’s like claiming <Text italic>your birth gave birth to you</Text>. It's <Text delete>not profound</Text>; it's <Text type="warning">nonsense</Text>. A book cannot write itself before being written. <Text code>Cause must precede effect</Text>, not emerge from it.<br /><br />
+  <Text type="danger">Refutation:</Text> That’s a <Text strong>logical contradiction</Text>. <Text mark>Something cannot exist before it exists to cause itself</Text>. That’s like claiming <Text italic>your birth gave birth to you</Text>. It's <Text type="danger">not profound</Text>; it's <Text type="warning">nonsense</Text>. A book cannot write itself before being written. <Text code>Cause must precede effect</Text>, not emerge from it.<br /><br />
 
   <Text strong>Objection:</Text> “Maybe physical laws are eternal and necessary.”<br />
   <Text type="danger">Refutation:</Text> Physical laws are <Text mark>descriptive</Text>, not <Text strong>creative</Text>. They describe how things behave <Text italic>after</Text> they exist—not why they exist in the first place. Saying “gravity is eternal” doesn’t explain where gravity came from or what sustains it. Worse, these laws are <Text type="warning">finely tuned</Text> to such a degree that the smallest variation would make life—and even atoms—impossible. <Text type="success">That’s design, not accident</Text>.<br /><br />
@@ -165,7 +165,7 @@ function AtheistComponent2() {
   <Text code>“Were they created by nothing? Or were they themselves the creators?”</Text> <br />
   <Text italic>(Qur’an 52:35)</Text> <br /><br />
 
-  This <Text mark>single verse</Text> demolishes every atheistic fantasy—<Text type="danger">random emergence</Text>, <Text delete>self-creation</Text>, infinite regress. It is a divine mic drop that has stood unshaken for over 1400 years.
+  This <Text mark>single verse</Text> demolishes every atheistic fantasy—<Text type="danger">random emergence</Text>, <Text type="danger">self-creation</Text>, infinite regress. It is a divine mic drop that has stood unshaken for over 1400 years.
 
   <br /><br />
   Islam doesn’t just claim a creator—it defines the creator with <Text strong>absolute precision</Text>. The Qur’an introduces us to Allah with attributes that align exactly with what metaphysical reasoning demands:
@@ -200,10 +200,10 @@ function AtheistComponent2() {
 <Text underline><Title level={4}>Conclusion: Without a Willful Cause, Existence is a Philosophical Orphan</Title></Text>
 
 <Paragraph>
-  The universe does not bear the marks of <Text type="danger">randomness</Text> or <Text delete>chaotic coincidence</Text>. It exhibits <Text strong>contingency</Text>, <Text strong>finitude</Text>, <Text strong>precision</Text>, and <Text strong>structure</Text>. These qualities scream for a cause—not just any cause, but a <Text type="success">necessary, eternal, and willful origin</Text> that transcends the material limits of space, time, and chance.
+  The universe does not bear the marks of <Text type="danger">randomness</Text> or <Text type="danger">chaotic coincidence</Text>. It exhibits <Text strong>contingency</Text>, <Text strong>finitude</Text>, <Text strong>precision</Text>, and <Text strong>structure</Text>. These qualities scream for a cause—not just any cause, but a <Text type="success">necessary, eternal, and willful origin</Text> that transcends the material limits of space, time, and chance.
 
   <br /><br />
-  The idea that the cosmos simply <Text delete>"popped into existence"</Text> from literal nothingness is not just scientifically empty—it is <Text type="danger">philosophically bankrupt</Text>. “Nothing” is not a thing. It has no potential, no laws, no probabilities. To claim that "nothing" birthed everything is a metaphysical faceplant. It's not intellect. It's <Text mark>intellectual surrender</Text>.
+  The idea that the cosmos simply <Text type="danger">"popped into existence"</Text> from literal nothingness is not just scientifically empty—it is <Text type="danger">philosophically bankrupt</Text>. “Nothing” is not a thing. It has no potential, no laws, no probabilities. To claim that "nothing" birthed everything is a metaphysical faceplant. It's not intellect. It's <Text mark>intellectual surrender</Text>.
 
   <br /><br />
   Likewise, to appeal to an <Text type="warning">infinite regress</Text> of contingent causes is to build castles in the air. An infinite past would mean the present could never arrive. An eternal chain of dominoes, each requiring the last to fall, leads to motionless absurdity. <Text underline>The chain must stop somewhere</Text>. That “somewhere” must be a being <Text type="success">unmoved, uncaused, and unlimited</Text>.
@@ -215,7 +215,7 @@ function AtheistComponent2() {
   Without will, there is no beginning. Without a mind, there is no design. Without intent, there is no meaning. Remove these—and all you are left with is <Text type="danger">nihilism in disguise</Text>.
 
   <br /><br />
-  Atheism offers no coherent account of why anything exists. It replaces explanation with evasion, logic with mockery, and metaphysics with memes. Its gods are <Text delete>nothingness</Text>, <Text delete>chance</Text>, and <Text delete>multiverses</Text>—blind idols with no power to ground even a single atom of meaning.
+  Atheism offers no coherent account of why anything exists. It replaces explanation with evasion, logic with mockery, and metaphysics with memes. Its gods are <Text type="danger">nothingness</Text>, <Text type="danger">chance</Text>, and <Text type="danger">multiverses</Text>—blind idols with no power to ground even a single atom of meaning.
 
   <br /><br />
   By contrast, theism—<Text strong>and Islam in particular</Text>—grounds existence in what reason demands: an eternal, willful, intelligent Creator. A being that does not merely “exist” but <Text code>initiates</Text>, <Text code>designs</Text>, and <Text code>sustains</Text>.

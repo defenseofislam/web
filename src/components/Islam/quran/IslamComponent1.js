@@ -372,7 +372,7 @@ function IslamComponent1() {
           <Text underline>stabilize the Earth’s crust</Text> via their deep
           roots, consistent with principles of <Text strong>isostasy</Text> in
           geology.
-          {"\n\n"}While the Quran is not a <Text delete>science textbook</Text>,
+          {"\n\n"}While the Quran is not a <Text type="danger">science textbook</Text>,
           its <Text type="success">remarkable correlation</Text> with scientific
           facts — many of which were discovered over 1,000 years later — has led
           various scientists and scholars to

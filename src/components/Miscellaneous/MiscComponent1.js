@@ -163,7 +163,7 @@ function DarwinComponent1() {
 </Paragraph>
 
 <Paragraph>
-  Therefore, Pakistan’s claim that Kashmir “should” have joined it due to religion <Text delete>does not hold up</Text> under the laws and agreements of that time. <Text type="warning">Kashmir’s accession to India was not forced</Text>—it was a <Text strong>legal decision by its ruler</Text>, just as other princely states like Junagadh and Hyderabad made their own decisions. Ignoring this legal framework and focusing only on religion is not historically or legally accurate.
+  Therefore, Pakistan’s claim that Kashmir “should” have joined it due to religion <Text type="danger">does not hold up</Text> under the laws and agreements of that time. <Text type="warning">Kashmir’s accession to India was not forced</Text>—it was a <Text strong>legal decision by its ruler</Text>, just as other princely states like Junagadh and Hyderabad made their own decisions. Ignoring this legal framework and focusing only on religion is not historically or legally accurate.
 </Paragraph>
 
 <Title level={4}>Conclusion: Why Kashmir Rightfully Belongs to India</Title>

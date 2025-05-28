@@ -89,8 +89,8 @@ function Home() {
           <Text italic>honest comparison</Text> and{" "}
           <Text strong>highlight where Islam stands apart</Text>.{" "}
           <Text type="danger">We do not encourage</Text> the use of the
-          materials provided on this website for <Text delete>trolling</Text> or{" "}
-          <Text delete>spreading hate</Text> toward any specific community. We{" "}
+          materials provided on this website for <Text type="danger">trolling</Text> or{" "}
+          <Text type="danger">spreading hate</Text> toward any specific community. We{" "}
           <Text type="success">truly believe</Text> in{" "}
           <Text strong>humble behaviour</Text> and{" "}
           <Text italic>living with kindness</Text> toward all human beings.

@@ -23,7 +23,7 @@ Introduction: The Sweet Lie of Secular Morality
   Atheists often claim they don't need religion to be moral. They say, <Text italic>“I don’t need a God to tell me that murder is wrong or that kindness is good.”</Text> It sounds noble. <Text type="warning">It makes for a nice tweet.</Text> But it collapses under the first breath of serious scrutiny. 
 
   <br /><br />
-  This essay will <Text strong>ruthlessly expose</Text> the <Text mark>shallow</Text>, <Text type="danger">borrowed</Text>, and <Text delete>inconsistent</Text> nature of so-called “morality without God.”
+  This essay will <Text strong>ruthlessly expose</Text> the <Text mark>shallow</Text>, <Text type="danger">borrowed</Text>, and <Text type="danger">inconsistent</Text> nature of so-called “morality without God.”
 
   <br /><br />
   <Text type="success">We’re not here to be polite.</Text> We’re here to <Text code>crush the delusion</Text> that human morality floats in midair, independent of any objective foundation. 
@@ -358,13 +358,13 @@ Introduction: The Sweet Lie of Secular Morality
   </Paragraph>
 
   <Paragraph>
-    Just <Text delete>chemicals pretending to have ethics</Text>.
+    Just <Text type="danger">chemicals pretending to have ethics</Text>.
   </Paragraph>
 
   <Paragraph>
     The <Text type="warning">secular moral framework</Text> is a <Text italic>sandcastle at high tide</Text>.
     <br />
-    It <Text delete>crumbles with every wave of cultural change</Text>.
+    It <Text type="danger">crumbles with every wave of cultural change</Text>.
     <br />
     <Text type="success">Islam is the lighthouse standing above the storm.</Text>
   </Paragraph>
@@ -382,7 +382,7 @@ Introduction: The Sweet Lie of Secular Morality
   </Paragraph>
 
   <Paragraph>
-    But feelings change. Cultures evolve. Trends shift. Without an <Text underline>unchanging source</Text>, morality is just a reflection of <Text delete>societal moods</Text>, not eternal truth.
+    But feelings change. Cultures evolve. Trends shift. Without an <Text underline>unchanging source</Text>, morality is just a reflection of <Text type="danger">societal moods</Text>, not eternal truth.
   </Paragraph>
 
   <Paragraph>

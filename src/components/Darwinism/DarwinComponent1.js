@@ -37,7 +37,7 @@ function DarwinComponent1() {
           <Text code>empirical evidence</Text>, critics highlight{" "}
           <Text type="warning">philosophical assumptions</Text>,{" "}
           <Text type="warning">data inconsistencies</Text>, and{" "}
-          <Text delete>unproven mechanisms</Text> that underlie evolutionary
+          <Text type="danger">unproven mechanisms</Text> that underlie evolutionary
           theory.{" "}
           <Text mark>
             Creationism, particularly within the Islamic tradition, offers a
@@ -98,7 +98,7 @@ function DarwinComponent1() {
           presented as a semi-aquatic whale ancestor. Later, more complete
           fossils revealed it was <Text strong>fully terrestrial</Text> and bore
           little resemblance to whales. The initial portrayal was driven more by{" "}
-          <Text delete>evolutionary expectations</Text> than actual data.{" "}
+          <Text type="danger">evolutionary expectations</Text> than actual data.{" "}
           <Text type="secondary">
             [Reference: Gingerich et al., 2001; criticism by Phillip Johnson]
           </Text>
@@ -151,7 +151,7 @@ function DarwinComponent1() {
           No known natural process has been{" "}
           <Text type="warning">empirically observed</Text> to produce such
           innovations. The mechanisms observed in microevolution often lead to{" "}
-          <Text delete>specialization or reduction in genetic diversity</Text>,
+          <Text type="danger">specialization or reduction in genetic diversity</Text>,
           not biological novelty. For example,{" "}
           <Text underline>antibiotic resistance in bacteria</Text> frequently
           involves the loss or disabling of a gene (such as a protein pump), not

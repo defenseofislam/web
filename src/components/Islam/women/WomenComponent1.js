@@ -48,7 +48,7 @@ function WomenComponent1() {
   <br />
   Conversely, the <Text type="danger">forced imposition of hijab</Text> in certain modern contexts reflects <Text strong>cultural authoritarianism</Text> rather than Islamic doctrine. This conflation of <Text warning>patriarchal traditions</Text> with divine instruction is where much of the confusion arises. 
   <Paragraph type="secondary" italic>
-    Understanding the hijab as a <Text mark>choice</Text> rather than a <Text delete>burden</Text> is critical to respecting the agency of Muslim women and dismantling orientalist misconceptions.
+    Understanding the hijab as a <Text mark>choice</Text> rather than a <Text type="danger">burden</Text> is critical to respecting the agency of Muslim women and dismantling orientalist misconceptions.
   </Paragraph>
 </Paragraph>
 
@@ -110,7 +110,7 @@ function WomenComponent1() {
   Islam further guarantees women the <Text strong>right to own property</Text>, <Text strong>engage in business</Text>, and <Text strong>independently manage finances</Text>. A striking example is <Text code>Khadija (RA)</Text>, the Prophet Muhammad’s (PBUH) first wife—<Text mark>a wealthy and respected merchant</Text> who employed the Prophet before their marriage. This stands in sharp contrast to medieval Europe, where <Text type="danger">women’s property often became their husband’s upon marriage</Text>.
   <br /><br />
   <Paragraph type="secondary" italic>
-    The Islamic economic framework does not reduce women—it <Text underline>uplifts</Text> them. It recognizes different social roles without <Text delete>imposing inequality</Text>, balancing obligations with rights, and protecting <Text mark>women’s financial independence</Text> across all stages of life.
+    The Islamic economic framework does not reduce women—it <Text underline>uplifts</Text> them. It recognizes different social roles without <Text type="danger">imposing inequality</Text>, balancing obligations with rights, and protecting <Text mark>women’s financial independence</Text> across all stages of life.
   </Paragraph>
 </Paragraph>
 
@@ -156,7 +156,7 @@ function WomenComponent1() {
   <br /><br />
   Across all major Islamic schools of thought, scholars affirm that <Text strong>a wife’s consent is essential</Text>. Any act of forced intimacy not only violates her rights, but also <Text type="danger">contradicts the spiritual ethics of Islam</Text>. The marital bond in Islam is founded on <Text mark>mutual rights and obligations</Text>, where both partners are treated as equals in dignity.
   <br /><br />
-  Unfortunately, <Text type="warning">cultural misinterpretations</Text> in some communities overshadow this core teaching. These attitudes are rooted in <Text delete>patriarchal norms</Text>, not divine law. Authentic Islamic jurisprudence protects a woman’s bodily autonomy and condemns any form of violence or compulsion.
+  Unfortunately, <Text type="warning">cultural misinterpretations</Text> in some communities overshadow this core teaching. These attitudes are rooted in <Text type="danger">patriarchal norms</Text>, not divine law. Authentic Islamic jurisprudence protects a woman’s bodily autonomy and condemns any form of violence or compulsion.
   <br /><br />
   <Paragraph type="secondary" italic>
     Islam calls for <Text strong>intimacy with honor</Text>, <Text type="success">love without fear</Text>, and <Text mark>marriage without oppression</Text>. Ignoring this principle is not a failure of faith — it is a failure to live it.
@@ -176,7 +176,7 @@ function WomenComponent1() {
   Those who push the oppression narrative often do so with <Text type="danger">intellectual dishonesty</Text>. They cherry-pick verses, ignore context, and silence the lived experiences of Muslim women who <Text type="success">lead, educate, build, and thrive</Text> within the framework of Islam. <Text italic>If they truly cared about Muslim women, they would listen to their voices — not speak over them.</Text>
   <br /><br />
   <Paragraph type="secondary" italic>
-    <Text code>If we want to have an honest conversation about women’s rights, we must start with the truth: Islam empowered women when much of the world still debated their humanity.</Text> Anything less is not education — it’s <Text delete>justice</Text> <Text type="danger">propaganda</Text>.
+    <Text code>If we want to have an honest conversation about women’s rights, we must start with the truth: Islam empowered women when much of the world still debated their humanity.</Text> Anything less is not education — it’s <Text type="danger">justice</Text> <Text type="danger">propaganda</Text>.
   </Paragraph>
 </Paragraph>
 

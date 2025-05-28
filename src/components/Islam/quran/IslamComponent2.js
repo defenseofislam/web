@@ -79,7 +79,7 @@ function IslamComponent2() {
   <Text underline>scholarly</Text> and <Text underline>public discourse</Text>. These
   critiques often stem from the assumption that the{" "}
   <Text strong>Quran</Text>, as a religious and literary work, must be{" "}
-  <Text delete>derivative</Text> in nature and a mere amalgamation of
+  <Text type="danger">derivative</Text> in nature and a mere amalgamation of
   pre-existing ideas. Such claims include the accusation that the Quran contains elements
   borrowed from:
   <br />
@@ -121,7 +121,7 @@ function IslamComponent2() {
   <Text underline>unique</Text> in both <Text italic>content</Text> and{" "}
   <Text italic>form</Text>.
   <br />
-  Rather than engaging in simple <Text delete>textual borrowing</Text>, the Quran{" "}
+  Rather than engaging in simple <Text type="danger">textual borrowing</Text>, the Quran{" "}
   <Text strong>reinterprets</Text>, <Text strong>recontextualizes</Text>, and{" "}
   <Text strong>redefines</Text> earlier stories, prophecies, and themes. It offers a{" "}
   <Text success>new perspective</Text>, one grounded in{" "}
@@ -144,7 +144,7 @@ function IslamComponent2() {
   <Text type="warning">Bible</Text>, particularly the accounts of{" "}
   <Text underline>Noah</Text>, <Text underline>Moses</Text>, and <Text underline>Jesus</Text>. Critics argue
   that the Quran’s retelling of these biblical narratives indicates that
-  it is <Text type="danger">derivative</Text> and <Text delete>lacks originality</Text>.
+  it is <Text type="danger">derivative</Text> and <Text type="danger">lacks originality</Text>.
   <br />
   <Text strong>Refutation:</Text>
   <br />- The Quran itself explicitly clarifies its role in relation to
@@ -280,7 +280,7 @@ function IslamComponent2() {
 <br />• <Text code>Ethical rather than ritual purity</Text> focus:
   Zoroastrianism emphasizes <Text type="warning">ritual purity</Text> and practices such as <Text italic>fire worship</Text> as essential to salvation, while 
   the Quran stresses <Text type="success">ethical conduct</Text>, <Text underline>personal accountability</Text>, and <Text strong>devotion to God</Text> 
-  as the path to Paradise. The focus of the Quranic message is not on <Text delete>ritualistic acts</Text> but on 
+  as the path to Paradise. The focus of the Quranic message is not on <Text type="danger">ritualistic acts</Text> but on 
   <Text type="success">righteousness, justice, and moral integrity</Text>.
 <br />• <Text code>Different eschatological timeline</Text>: The Quran's eschatology—the timeline and events of the afterlife—
   differs <Text type="warning">significantly</Text> from Zoroastrian views. In Zoroastrianism, the afterlife is intertwined with a series 
@@ -302,7 +302,7 @@ function IslamComponent2() {
         <Title level={5}>3.1. The Quran's Unique Revelatory Mode</Title>
         <Paragraph>
   - <Text strong>Oral Revelation:</Text> The Quran was revealed piecemeal over a span of <Text type="warning">23 years</Text>, 
-  a characteristic that <Text type="success">distinguishes it</Text> from other scriptures that were <Text delete>edited and compiled</Text> over time. 
+  a characteristic that <Text type="success">distinguishes it</Text> from other scriptures that were <Text type="danger">edited and compiled</Text> over time. 
   This mode of revelation, often delivered in response to <Text italic>specific events, questions, or circumstances</Text>, 
   reflects the <Text type="success">dynamic nature</Text> of the message. Unlike edited texts, the Quran maintains an 
   <Text type="success">organic flow</Text>, with its verses coming down at various intervals and offering guidance tailored to the 
@@ -320,7 +320,7 @@ function IslamComponent2() {
   {" "}<Text type="success">inimitable masterpiece</Text> (known as <Text mark>I'jaz</Text>). Its <Text italic>unique style, vocabulary, and rhythm</Text> 
   challenged contemporaries and continue to challenge scholars today. The Quran’s unmatched eloquence and 
   {" "}<Text strong>depth of meaning</Text> transcend ordinary linguistic abilities. This inimitability, which has yet to be 
-  {" "}<Text delete>replicated or surpassed</Text> despite centuries of attempts, has been regarded as a 
+  {" "}<Text type="danger">replicated or surpassed</Text> despite centuries of attempts, has been regarded as a 
   {" "}<Text type="success">sign of its divine origin</Text>. The Quranic text is both a <Text code>linguistic and intellectual challenge</Text> to its adversaries, 
   offering an <Text type="warning">unparalleled fusion of clarity, beauty, and depth</Text>. The concept of <Text mark>I'jaz</Text> 
   remains a central aspect of its <Text type="success">miraculous nature</Text>.
@@ -354,7 +354,7 @@ function IslamComponent2() {
   His <Text italic>character and personal history</Text> provide compelling evidence against the possibility of deception 
   or self-interest in claiming authorship of the Quran. The <Text code>challenges and hardships</Text> he endured, as well as the 
   {" "}<Text type="warning">consistency and authenticity</Text> of his message, further reinforce the claim that the Quran could not 
-  have been the product of <Text delete>human invention or manipulation</Text>.
+  have been the product of <Text type="danger">human invention or manipulation</Text>.
 </Paragraph>
 
         <Title level={4}>4. Academic Perspectives on Intertextuality</Title>
@@ -366,7 +366,7 @@ function IslamComponent2() {
   - The Quran’s relationship with earlier Abrahamic scriptures—such as the Torah and the Gospel—
   can be understood as part of a <Text strong>theological conversation</Text>, wherein the Quran 
   {" "}<Text type="success">reinterprets, corrects, and continues</Text> the narrative established in these texts. 
-  This relationship is not one of <Text delete>direct borrowing or plagiarism</Text> but of a 
+  This relationship is not one of <Text type="danger">direct borrowing or plagiarism</Text> but of a 
   {" "}<Text type="warning">transformative theological dialogue</Text>, wherein the Quran positions itself as 
   {" "}<Text mark>a confirmation and a criterion (Furqan)</Text> over previous scriptures, as stated in Quran 5:48.
   <br />

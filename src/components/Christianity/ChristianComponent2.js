@@ -78,7 +78,7 @@ function ChristianComponent2() {
 </Paragraph>
 
 <Paragraph>
-  Joseph is believed to have lived during the <Text strong>Hyksos period</Text>, when Egypt was ruled by foreign Semitic kings called <Text code>Heqa-Khasut</Text> ("rulers of foreign lands") — <Text delete>not “Pharaohs.”</Text><br/>
+  Joseph is believed to have lived during the <Text strong>Hyksos period</Text>, when Egypt was ruled by foreign Semitic kings called <Text code>Heqa-Khasut</Text> ("rulers of foreign lands") — <Text type="danger">not “Pharaohs.”</Text><br/>
   <Text type="success">The Qur’an aligns with this perfectly.</Text>
 </Paragraph>
 
@@ -93,7 +93,7 @@ function ChristianComponent2() {
 </Paragraph>
 
 <Paragraph>
-  This level of <Text type="warning">historical precision</Text> — <Text italic>not known at the time</Text>, and even <Text delete>contradicted by the Bible</Text> — is <Text mark>nothing short of extraordinary</Text>.
+  This level of <Text type="warning">historical precision</Text> — <Text italic>not known at the time</Text>, and even <Text type="danger">contradicted by the Bible</Text> — is <Text mark>nothing short of extraordinary</Text>.
 </Paragraph>
 
 <hr />
@@ -114,7 +114,7 @@ function ChristianComponent2() {
 </Paragraph>
 
 <Paragraph>
-  Critics scoffed. <Text delete>*“Hāmān? That name is from the Bible — but he was in Babylon, not Egypt!”*</Text>
+  Critics scoffed. <Text type="danger">*“Hāmān? That name is from the Bible — but he was in Babylon, not Egypt!”*</Text>
 </Paragraph>
 
 <Paragraph>
@@ -153,7 +153,7 @@ function ChristianComponent2() {
 <Paragraph>
   <Text type="danger">How could the Prophet Muhammad — peace be upon him — know this?</Text><br/>
   This information was <Text underline>buried under sand and script for over 2,000 years</Text>.<br/>
-  <Text delete>The Bible got it wrong.</Text> <Text type="success">The Qur’an got it right.</Text>
+  <Text type="danger">The Bible got it wrong.</Text> <Text type="success">The Qur’an got it right.</Text>
 </Paragraph>
 
 <Paragraph>
@@ -232,7 +232,7 @@ function ChristianComponent2() {
 <Paragraph>
   Critics laughed for centuries.<br/>
   They said: <Text italic>“Crucifixion didn’t exist in Egypt.”</Text><br/>
-  They mocked it as a <Text delete>historical error</Text>.
+  They mocked it as a <Text type="danger">historical error</Text>.
 </Paragraph>
 
 <Paragraph>
@@ -329,7 +329,7 @@ function ChristianComponent2() {
 </Paragraph>
 
 <Paragraph>
-  For centuries, there was <Text delete>no trace</Text> of such a city.<br/>
+  For centuries, there was <Text type="danger">no trace</Text> of such a city.<br/>
   It was dismissed as <Text type="danger">myth</Text>.
 </Paragraph>
 
@@ -408,7 +408,7 @@ function ChristianComponent2() {
 </Paragraph>
 
 <Paragraph>
-  It was once <Text delete>considered a fable</Text>. But discoveries in Egypt of <Text underline>collapsed underground palaces</Text>, especially in the region of <Text mark>Faiyum</Text>, have lent credence to ancient accounts of buildings that <Text type="danger">literally sank into the earth</Text> — swallowed by sand and seismic shifts.
+  It was once <Text type="danger">considered a fable</Text>. But discoveries in Egypt of <Text underline>collapsed underground palaces</Text>, especially in the region of <Text mark>Faiyum</Text>, have lent credence to ancient accounts of buildings that <Text type="danger">literally sank into the earth</Text> — swallowed by sand and seismic shifts.
 </Paragraph>
 
 <Paragraph>
@@ -446,7 +446,7 @@ function ChristianComponent2() {
   </Paragraph>
 
   <Paragraph>
-    Only recently have we discovered the <Text strong>Sea Peoples</Text>—<Text italic>mysterious naval warriors</Text> from the Mediterranean who <Text delete>vanished</Text> after <Text type="danger">massive sea battles</Text> and <Text type="warning">natural disasters</Text>.
+    Only recently have we discovered the <Text strong>Sea Peoples</Text>—<Text italic>mysterious naval warriors</Text> from the Mediterranean who <Text type="danger">vanished</Text> after <Text type="danger">massive sea battles</Text> and <Text type="warning">natural disasters</Text>.
   </Paragraph>
 
   <Paragraph type="secondary" italic>
@@ -481,7 +481,7 @@ function ChristianComponent2() {
 </Paragraph>
 
 <Paragraph>
-  But the <Text strong>Qur’an</Text> doesn’t say <Text delete>“Ararat”</Text>.<br/>
+  But the <Text strong>Qur’an</Text> doesn’t say <Text type="danger">“Ararat”</Text>.<br/>
   It doesn’t even mention it once.<br/>
   Instead, the Qur’an says:
 </Paragraph>
@@ -511,7 +511,7 @@ function ChristianComponent2() {
 </Paragraph>
 
 <Paragraph>
-  So, why did the Qur’an name <Text underline>Mount Judi</Text> — a name <Text italic>obscure to most Arabs</Text>, and completely <Text delete>unknown to Christian Europe</Text> — over 1000 years before modern historians confirmed it?
+  So, why did the Qur’an name <Text underline>Mount Judi</Text> — a name <Text italic>obscure to most Arabs</Text>, and completely <Text type="danger">unknown to Christian Europe</Text> — over 1000 years before modern historians confirmed it?
 </Paragraph>
 
 <Paragraph>

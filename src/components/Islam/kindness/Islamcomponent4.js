@@ -93,7 +93,7 @@ Introduction: Family in Islam is Sacred—Not Optional
 </Paragraph>
 
 <Paragraph>
-  That’s not <Text delete>weakness</Text>—that’s <Text strong>power</Text>.<br/>
+  That’s not <Text type="danger">weakness</Text>—that’s <Text strong>power</Text>.<br/>
   <Text italic>Control over ego, and submission to Allah.</Text>
 </Paragraph>
 
@@ -122,7 +122,7 @@ Introduction: Family in Islam is Sacred—Not Optional
 </Title></Text>
 
 <Paragraph>
-  <Text strong>Islam is balanced.</Text> It doesn't ask you to become a <Text delete>doormat</Text>.<br/>
+  <Text strong>Islam is balanced.</Text> It doesn't ask you to become a <Text type="danger">doormat</Text>.<br/>
   If a relative is <Text type="danger">abusive</Text>, <Text type="danger">manipulative</Text>, or <Text type="danger">toxic</Text>—you’re <Text mark>not required</Text> to let them walk all over you.
 </Paragraph>
 

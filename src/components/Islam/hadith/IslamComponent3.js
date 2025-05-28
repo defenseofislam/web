@@ -78,7 +78,7 @@ function IslamComponent3() {
 </Paragraph>
 
 <Paragraph>
-  <Text strong>Modern critics display selective memory:</Text> They conveniently ignore the fact that <Text delete>“child marriage”</Text> was the global norm for over <Text code>90%</Text> of human history. It is <Text type="danger">hypocritical</Text> to vilify Islam while Western and Eastern societies alike followed the same practices well into the 19th and even early 20th centuries.
+  <Text strong>Modern critics display selective memory:</Text> They conveniently ignore the fact that <Text type="danger">“child marriage”</Text> was the global norm for over <Text code>90%</Text> of human history. It is <Text type="danger">hypocritical</Text> to vilify Islam while Western and Eastern societies alike followed the same practices well into the 19th and even early 20th centuries.
 </Paragraph>
 
 <Paragraph>

@@ -40,7 +40,7 @@ function MiscComponent3() {
   <br /><br />
   Take the <Text code>Thirty Years’ War (1618–1648)</Text>, often cited as a religious clash between Catholics and Protestants. A deeper analysis reveals it was a struggle for <Text underline>territory, influence, and state power</Text> in Europe. Religion was the pretext, not the engine. This pattern repeats across history, where power, not piety, fuels conflict.
   <br /><br />
-  Moreover, the foundational teachings of major world religions—including <Text type="success">Islam</Text>—promote <Text strong>ethical behavior, social harmony, and compassion</Text>. The Quran repeatedly calls for justice, mercy, and peace. When individuals commit violence in the name of religion, it is a <Text type="danger">perversion of sacred texts</Text>, not a faithful application. The blame lies not with the <Text italic>divine message</Text>, but with those who <Text delete>represent</Text> <Text mark>misrepresent</Text> it.
+  Moreover, the foundational teachings of major world religions—including <Text type="success">Islam</Text>—promote <Text strong>ethical behavior, social harmony, and compassion</Text>. The Quran repeatedly calls for justice, mercy, and peace. When individuals commit violence in the name of religion, it is a <Text type="danger">perversion of sacred texts</Text>, not a faithful application. The blame lies not with the <Text italic>divine message</Text>, but with those who <Text type="danger">represent</Text> <Text mark>misrepresent</Text> it.
 </Paragraph>
 
 
@@ -53,7 +53,7 @@ function MiscComponent3() {
   <br /><br />
   <Text underline><Text mark>B{" ) "}Mao Zedong’s China:</Text></Text> An estimated <Text strong>45–70 million people</Text> died during the Great Leap Forward and Cultural Revolution. Religion was suppressed, and science was twisted into ideological dogma.
   <br /><br />
-  <Text underline><Text mark>C{" ) "}Pol Pot’s Khmer Rouge:</Text></Text> Nearly <Text strong>2 million people</Text> died under an atheist communist regime that <Text delete>discouraged</Text> <Text underline>banned</Text> religion, demolished temples, and murdered monks.
+  <Text underline><Text mark>C{" ) "}Pol Pot’s Khmer Rouge:</Text></Text> Nearly <Text strong>2 million people</Text> died under an atheist communist regime that <Text type="danger">discouraged</Text> <Text underline>banned</Text> religion, demolished temples, and murdered monks.
   <br /><br />
   <Text underline><Text mark>D{" ) "}North Korea:</Text></Text> A totalitarian atheist regime where <Text type="warning">religion is outlawed</Text> and dissenters are imprisoned, tortured, or killed under a cult of personality.
   <br /><br />
@@ -128,7 +128,7 @@ function MiscComponent3() {
   <br /><br />
   • <Text type="warning">OnlyFans is glorified</Text>, while <Text strong>teen girls are exploited</Text> and trafficked in record numbers.<br />
   • Porn—now a multibillion-dollar industry—<Text mark>rewires brains, destroys relationships</Text>, and fuels rape culture, yet modesty is the problem?<br />
-  • They <Text delete>mock hijab</Text> as “oppression,” but <Text underline>worship surgically-altered influencers</Text> who live off selling their bodies to strangers for likes and money.<br />
+  • They <Text type="danger">mock hijab</Text> as “oppression,” but <Text underline>worship surgically-altered influencers</Text> who live off selling their bodies to strangers for likes and money.<br />
   • They claim to fight for “women’s rights,” yet <Text type="danger">protect predators in Hollywood, government, and tech</Text> as long as they're “progressive.”<br />
   • They cry “my body, my choice,” yet let <Text italic>capitalism commodify every inch of a woman’s body</Text> for profit.<br /><br />
 
@@ -214,13 +214,13 @@ We have <Text strong>Real community in masjids</Text>, not <Text type="danger">e
  <Paragraph>
     <Text type="warning" strong>Trolls bark online</Text> with edgy quotes and memes.
     <br />
-    But they have <Text delete>no philosophy</Text>. <Text delete>No ethics</Text>. <Text delete>No hope</Text>.
+    But they have <Text type="danger">no philosophy</Text>. <Text type="danger">No ethics</Text>. <Text type="danger">No hope</Text>.
   </Paragraph>
 
   <Paragraph>
     We have the <Text mark>Qur’an</Text>, the <Text mark>Sunnah</Text>, <Text strong>1400 years of legacy</Text>, and a <Text underline>Lord who never sleeps</Text>.
     <br />
-    Let them mock. On the <Text type="danger">Day of Judgment</Text>, <Text delete>laughter dies</Text>, and <Text strong>truth roars</Text>.
+    Let them mock. On the <Text type="danger">Day of Judgment</Text>, <Text type="danger">laughter dies</Text>, and <Text strong>truth roars</Text>.
   </Paragraph>
 
   <Paragraph>
@@ -236,9 +236,9 @@ We have <Text strong>Real community in masjids</Text>, not <Text type="danger">e
   </Paragraph>
 
   <Paragraph>
-    You seek to <Text delete>kill the physician</Text> to cure the disease.
+    You seek to <Text type="danger">kill the physician</Text> to cure the disease.
     <br />
-    You aim to <Text delete>burn the law books</Text> because criminals break the law.
+    You aim to <Text type="danger">burn the law books</Text> because criminals break the law.
     <br />
     <Text type="warning">History has already shown us the bloodbaths</Text> that come when <Text strong>God is removed from the equation</Text>.
   </Paragraph>
@@ -250,7 +250,7 @@ We have <Text strong>Real community in masjids</Text>, not <Text type="danger">e
   <Paragraph>
     And if there is any force today that can rise above <Text underline>race</Text>, <Text underline>nationalism</Text>, and <Text underline>class</Text> to unite hearts under justice—
     <br />
-    it is not <Text delete>atheism</Text>. It is <Text mark>Islam</Text>.
+    it is not <Text type="danger">atheism</Text>. It is <Text mark>Islam</Text>.
   </Paragraph>
 
   <Paragraph>
