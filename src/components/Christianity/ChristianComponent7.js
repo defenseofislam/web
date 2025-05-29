@@ -56,6 +56,33 @@ function ChristianComponent7() {
 </Paragraph>
 
 
+<Paragraph>
+  <Text mark>One of the most powerful biblical affirmations of God’s oneness</Text>{" "}
+  comes directly from Jesus in{" "}
+  <Text code>Mark 12:29</Text>, where he proclaims:{" "}
+  <Text underline>"The most important [commandment] is this: ‘Hear, O Israel: The Lord our God, the Lord is one.’"</Text>{" "}
+  <Text italic>This declaration is unambiguous</Text>{" "}
+  and reflects the monotheistic message at the heart of Jesus' mission.{" "}
+  <Text type="danger">Nowhere does Jesus hint at a dual nature within himself</Text>{" "}
+  or promote the idea of co-equality with God in essence.
+</Paragraph>
+
+<Paragraph>
+  <Text strong>Another foundational statement comes from John 17:3,</Text>{" "}
+  where Jesus addresses God directly:{" "}
+  <Text code>"This is eternal life: that they know you, the only true God, and Jesus Christ, whom you have sent."</Text>{" "}
+  <Text type="success">In this clear distinction, Jesus identifies himself as the one who is sent</Text>{" "}
+  and God as{" "}
+  <Text mark>“the only true God.”</Text>{" "}
+  <Text type="warning">There is no indication of shared divinity or essence.</Text>{" "}
+  Instead, Jesus separates his own role from that of the divine Being he worships.
+</Paragraph>
+
+<Paragraph type="secondary" italic>
+  These verses make it evident that the concept of Jesus having two essences—both divine and human—has no explicit support in the teachings of Jesus himself.
+</Paragraph>
+
+
 <hr />
 
 <Text underline><Title level={4}>2. Implications for the Trinity and Atonement</Title></Text>
