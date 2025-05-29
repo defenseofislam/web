@@ -60,7 +60,7 @@ function Home() {
                 ]}
               >
                 <List.Item.Meta
-                  title={<Text strong>{item.title}</Text>}
+                  title={<Text strong>{item.name}</Text>}
                   description={<Text type="secondary">{item.date}</Text>}
                 />
               </List.Item>

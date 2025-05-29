@@ -120,6 +120,12 @@ const allData = [
     date: "Published on 17:48:12 IST May 28, 2025",
     link: "/christianity/jesus/4",
   },
+  {
+    key: 21,
+    name: `21. Challenge to the Two Essences Doctrine and Islamic Clarity`,
+    date: "Published on 10:38:11 IST May 29, 2025",
+    link: "/christianity/jesus/5",
+  },
 ];
 
 export default allData;
