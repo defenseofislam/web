@@ -129,8 +129,14 @@ const allData = [
   {
     key: 22,
     name: `22. The Best Is Yet to Come: The Promise of Al Mahdi’s Leadership and Army`,
-    date: "Published on 18:38:11 IST May 29, 2025",
+    date: "Published on 18:38:11 IST June 03 2025",
     link: "/islam/hadith/2",
+  },
+  {
+    key: 23,
+    name: `23. Jesus was a Muslim`,
+    date: "Published on 20:12:19 IST June 03 2025",
+    link: "/christianity/jesus/6",
   },
 ];
 

@@ -1,7 +1,12 @@
 const updates = [
   {
+    name: `New article on Christianity : Jesus was a Muslim`,
+    date: "Published on 20:12:19 IST June 03 2025",
+    link: "/christianity/jesus/6",
+  },
+  {
     name: `New Article on Islam: The Best Is Yet to Come: The Promise of Al Mahdi’s Leadership and Army`,
-    date: "Published on 18:38:11 IST May 29, 2025",
+    date: "Published on 18:38:11 IST June 03 2025",
     link: "/islam/hadith/2",
   },
   {
@@ -14,11 +19,7 @@ const updates = [
     date: "Published on 17:48:12 IST May 28, 2025",
     link: "/christianity/jesus/4",
   },
-  {
-    name: `New article on Christianity : Unveiling the True Nature of Jesus: Powerless, a Slave of God, and Dependent on the Almighty `,
-    date: "Published on 11:11:11 IST May 28, 2025",
-    link: "/christianity/jesus/3",
-  },
+  
  
 ];
 

@@ -13,19 +13,23 @@ const tableData = [
           <Link to="/christianity/jesus/4">{" "}Visit article</Link>
         </Paragraph>
         <Paragraph>
-          2. 🌟 The New Covenant: A Universal Call to Believers 🌟  - 
+          2. Jesus was a Muslim  - 
+          <Link to="/christianity/jesus/6">{" "}Visit article</Link>
+        </Paragraph>
+        <Paragraph>
+          3. 🌟 The New Covenant: A Universal Call to Believers 🌟  - 
           <Link to="/christianity/jesus/1">{" "}Visit article</Link>
         </Paragraph>
         <Paragraph>
-          3. 🌟 Jesus’s True Name and His Miraculous Role   - 
+          4. 🌟 Jesus’s True Name and His Miraculous Role   - 
           <Link to="/christianity/jesus/2">{" "}Visit article</Link>
         </Paragraph>
         <Paragraph>
-          4. Unveiling the True Nature of Jesus: Powerless, a Slave of God, and Dependent on the Almighty   - 
+          5. Unveiling the True Nature of Jesus: Powerless, a Slave of God, and Dependent on the Almighty   - 
           <Link to="/christianity/jesus/3">{" "}Visit article</Link>
         </Paragraph>
          <Paragraph>
-          5. Challenge to the Two Essences Doctrine and Islamic Clarity   - 
+          6. Challenge to the Two Essences Doctrine and Islamic Clarity   - 
           <Link to="/christianity/jesus/5">{" "}Visit article</Link>
         </Paragraph>
       </div>
