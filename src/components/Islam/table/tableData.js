@@ -26,7 +26,11 @@ const tableData = [
           1. How Old Was Ayesha (R.A.) at the Time of Her Marriage? A Historical
           and Theological Analysis - <Link to="/islam/hadith/1">Visit article</Link>
         </Paragraph>
+         <Paragraph>
+          2. The Best Is Yet to Come: The Promise of Al Mahdi’s Leadership and Army - <Link to="/islam/hadith/2">Visit article</Link>
+        </Paragraph>
       </div>
+      
     ),
   },
   {

@@ -126,6 +126,12 @@ const allData = [
     date: "Published on 10:38:11 IST May 29, 2025",
     link: "/christianity/jesus/5",
   },
+  {
+    key: 22,
+    name: `22. The Best Is Yet to Come: The Promise of Al Mahdi’s Leadership and Army`,
+    date: "Published on 18:38:11 IST May 29, 2025",
+    link: "/islam/hadith/2",
+  },
 ];
 
 export default allData;

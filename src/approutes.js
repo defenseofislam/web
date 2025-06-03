@@ -15,6 +15,7 @@ import TermsOfService from "./pages/Tos";
 import IslamComponent1 from "./components/Islam/quran/IslamComponent1";
 import IslamComponent2 from "./components/Islam/quran/IslamComponent2";
 import IslamComponent3 from "./components/Islam/hadith/IslamComponent3";
+import IslamComponent5 from "./components/Islam/hadith/IslamComponent5";
 import DarwinComponent1 from "./components/Darwinism/DarwinComponent1";
 import AgnosticComponent1 from "./components/Agnosticism/AgnosticComponent1";
 import Misc from "./pages/Misc";
@@ -55,6 +56,7 @@ const routes = [
   { path: "/islam/quran/1", element: <IslamComponent1 /> },
   { path: "/islam/quran/2", element: <IslamComponent2 /> },
   { path: "/islam/hadith/1", element: <IslamComponent3 /> },
+  { path: "/islam/hadith/2", element: <IslamComponent5 /> },
   { path: "/islam/wmn/1", element: <WomenComponent1 /> },
   { path: "/islam/kii/1", element: <Islamcomponent4 /> },
   { path: "/atheism/ara/1", element: <AtheistComponent1 /> },
