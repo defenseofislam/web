@@ -1,6 +1,11 @@
 const updates = [
   {
-    name: `New article on Christianity : Jesus was a Muslim`,
+    name: `New Article on Hinduism : Why the Concept of Avatar of God(s) is Wrong`,
+    date: "Published on 17:06:16 IST June 04 2025",
+    link: "/hinduism/gods/1",
+  },
+  {
+    name: `New Article on Christianity : Jesus was a Muslim`,
     date: "Published on 20:12:19 IST June 03 2025",
     link: "/christianity/jesus/6",
   },
@@ -10,17 +15,10 @@ const updates = [
     link: "/islam/hadith/2",
   },
   {
-    name: `New article on Christianity : Challenge to the Two Essences Doctrine and Islamic Clarity`,
+    name: `New Article on Christianity : Challenge to the Two Essences Doctrine and Islamic Clarity`,
     date: "Published on 10:38:11 IST May 29, 2025",
     link: "/christianity/jesus/5",
   },
-  {
-    name: `New article on Christianity : Unpacking John 10:30: Does "I and the Father Are One" Prove the Trinity?`,
-    date: "Published on 17:48:12 IST May 28, 2025",
-    link: "/christianity/jesus/4",
-  },
-  
- 
 ];
 
 export default updates;

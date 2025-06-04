@@ -138,6 +138,12 @@ const allData = [
     date: "Published on 20:12:19 IST June 03 2025",
     link: "/christianity/jesus/6",
   },
+  {
+    key: 24,
+    name: `24. Why the Concept of Avatar of God(s) is Wrong`,
+    date: "Published on 17:06:16 IST June 04 2025",
+    link: "/hinduism/gods/1",
+  },
 ];
 
 export default allData;
