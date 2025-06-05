@@ -502,38 +502,145 @@ Let’s <Text strong>destroy these double standards</Text> once and for all. And
 </Paragraph>
 
 
-
-
-
-
-<Text underline><Title level={4}>2. The Prophet’s Example: Love and Forgiveness for Family
+<Text underline><Title level={4}>🔱 2. Refuting Hindu Criticism: Selective Outrage and Idolatrous Standards
 
 </Title></Text>
 
 <Paragraph>
-  <Text strong>Rasulullah (peace be upon him)</Text> didn’t just preach family values—<Text type="success">he lived them</Text>.
+  {" "}
+  <Title level={4}>🪔 Bulls, Beliefs, and Brahmanical Bullying</Title> 
+
+  {" "}
+  <Text type="danger">Some Hindutva voices scream “cow slaughter!” every Eid like it’s the apocalypse.</Text> <br /><br />
+
+  {" "}
+  <Text underline>Let’s be honest:</Text> <br /><br />
+
+  {" "}
+  <Text mark>🔹 India is one of the largest beef exporters in the world — yes, India. Not Pakistan, not Saudi Arabia. India.</Text> <br /><br />
+
+  So either: <br />
+  <Text code>1. All that beef is coming from magic cows who commit suicide, or…</Text><br />
+  <Text code>2. The same hands crying “gau mata” are also busy slaughtering and exporting “mata” for profit.</Text><br /><br />
+
+  {" "}
+  <Text type="warning">Let that hypocrisy sink in.</Text> <br /><br />
+
+  {" "}
+  <Text mark>🔹 Hindu scriptures include animal sacrifice — especially in Durga puja, Kali worship, and Vedic yajnas.</Text> <br /><br />
+
+  {" "}
+  <Text strong>Read the Shatapatha Brahmana, Taittiriya Samhita, and Rigveda.</Text> You’ll find:<br />
+  • <Text italic>Animal sacrifices were common.</Text><br />
+  • <Text italic>Cows, goats, and even horses were used.</Text><br />
+  • <Text italic>Ashvamedha yajna</Text> (horse sacrifice) was done to show kingly dominance.<br />
+  • <Text italic>Gomedha yajna</Text> — literally means cow sacrifice.<br /><br />
+
+  {" "}
+  <Text type="success">So the same texts that are venerated in Hinduism literally record the slaughter of sacred animals — even cows.</Text> <br /><br />
+
+  {" "}
+  <Text mark>🔹 Even Ram and Krishna, the beloved avatars, hunted animals.</Text> <br /><br />
+
+  {" "}
+  <Text code>Yes, Ram was a kshatriya (warrior) and hunted deer in forests — that’s how Sita’s abduction story starts.</Text> <br />
+  In Mahabharata, meat-eating is not only mentioned — it’s discussed as a common warrior diet.<br /><br />
+
+  {" "}
+  <Text code>In Manusmriti (chapter 5, verses 27–44)</Text> — meat-eating is allowed and even considered pleasing to ancestors (pitrus) in yajnas. The verse from <Text code>Manusmriti (5/30)</Text> states: <br />
+  <Text italic>"Eating meat of animals considered eatable is not sinful because Brahma (the creator) has created both the eater and the eaten."</Text> <br /><br />
+
+  {" "}
+  <Text type="success">This perspective suggests that consuming such meat is part of the natural order established by the creator.</Text> <br /><br />
+
+  {" "}
+  Yet, today’s troll squads foam at the mouth when Muslims sacrifice a goat or cow in the name of Allah, with mercy, to feed the hungry? <br /><br />
+
+  <Title level={4}>🐂 Let’s Flip the Analogy</Title>
+
+  {" "}
+  If Hindus say: <br />
+  <Text code>“Cow is our mother, so you can’t kill it.”</Text> <br /><br />
+
+  Then let’s suppose a new religion arises and says: <br />
+  <Text code>“Bull is our father, so Hindus who do bull sacrifices during Jallikattu or Kambala are killing someone else’s holy figure!”</Text> <br /><br />
+
+  {" "}
+  <Text type="danger">Should we storm temples? Riot? Burn homes?</Text> <br /><br />
+
+  {" "}
+  <Text type="success">NO. Because that’s absurd.</Text> <br /><br />
+
+  {" "}
+  <Text strong>Religious belief is personal.</Text> You don’t impose your dietary taboos on others — especially in a pluralistic society. <br /><br />
+
+  {" "}
+  <Text mark>Islam doesn’t expect Hindus to eat beef.</Text><br />
+  <Text mark>Likewise, Hindus have no right to enforce gauraksha (cow protection) on Muslims.</Text> <br /><br />
+
+  {" "}
+  <Text underline>It’s simple:</Text> <br />
+  <Text strong>You think the cow is your mother? Great. Respect her.</Text> <br /><br />
+
+  {" "}
+  <Text type="warning">But don’t try to legally, politically, or violently impose that belief on people whose religion teaches different theology.</Text> <br /><br />
+
+  <Paragraph type="secondary" italic>
+    🕊️ In a diverse society, respect means living your faith — not forcing others to.
+  </Paragraph>
 </Paragraph>
 
 <Paragraph>
-  When his uncle <Text strong>Abu Talib</Text> died a disbeliever, he still <Text italic>mourned him deeply</Text>.<br/>
-  When <Text strong>Abu Sufyan</Text>, who fought against him, embraced Islam—he was <Text type="success">welcomed with warmth</Text>.<br/>
-  When the Prophet entered Makkah as a victor, he <Text mark>forgave family and tribe members who had tortured Muslims</Text>.
+  {" "}
+  <Title level={4}>🩸 Hindu Rituals: Violent, Bloody, and Brutal — But Sanitized in PR</Title>
+
+  {" "}
+  <Text type="danger">Many Hindutva influencers criticize halal slaughter as "barbaric" — but never talk about their own rituals.</Text> <br /><br />
+
+  {" "}
+  <Text strong>In Nepal's Gadhimai Festival</Text>, thousands of buffaloes are slaughtered in a single day in the name of the goddess. <br />
+  No "halal," no "mercy" — just <Text mark>head-chopping with blunt axes</Text> in public. <Text type="danger">Blood rivers.</Text> <br /><br />
+
+  In <Text underline>Durga puja</Text> (especially in Bengal and Assam), goats, ducks, and pigeons are sacrificed before the idol. <br />
+  <Text italic>Children watch. No pain minimization.</Text> <br /><br />
+
+  🔪 Their method? <Text code>“Jhatka” — one big blow to the neck, no blessing, no tranquilizing, no invoking God’s name.</Text> <br /><br />
+
+  <Text type="success">Compare that to Islamic halal:</Text> <br />
+  • Blade must be sharp (no sawing),<br />
+  • Animal must be fed, not stressed,<br />
+  • No animal should see another die,<br />
+  • <Text strong>Bismillah is said</Text> — acknowledging that this life belongs to Allah.<br /><br />
+
+  <Text mark>Islam turns slaughter into a sacred responsibility. Hindu rituals often turn it into a festival of gore.</Text> <br /><br />
+
+  {" "}
+  <Text type="warning">So, who’s more humane?</Text> <br /><br />
+
+  <Title level={4}>🔥 Final Verdict: No More Hypocrisy</Title> <br /><br />
+
+  {" "}
+  <Text type="danger">Here’s the brutal truth:</Text><br />
+  <Text code> You don’t get to accuse others of cruelty when your own scriptures, avatars, and rituals include hunting, sacrifice, and bloodshed.</Text> <br /><br />
+
+  <Text type="warning">Stop pretending Hinduism is a fluffy, vegan-friendly path of compassion.</Text><br /><br />
+
+  • It has <Text strong>violence</Text>.<br />
+  • It has <Text strong>killing</Text>.<br />
+  • It has <Text strong>contradictions</Text>.<br /><br />
+
+  Islam doesn’t force Hindus to eat beef.<br />
+  <Text success>So Hindus need to stop dictating what Muslims eat based on their own idols, beliefs, and cow-worship.</Text> <br /><br />
+
+  <Text underline>Religious pluralism</Text> means coexisting — not colonizing other people’s faith.<br /><br />
+
+  And if your religion says cow is your mother, don’t bring that belief into law or mob violence. Because:<br /><br />
+
+  <Text code> My God is not a cow. My religion is not yours. And your outrage is not justice — it’s bigotry.</Text><br /><br />
+
+  <Paragraph type="secondary" italic>☠ K.O.</Paragraph>
 </Paragraph>
 
-<Paragraph>
-  That’s not <Text type="danger">weakness</Text>—that’s <Text strong>power</Text>.<br/>
-  <Text italic>Control over ego, and submission to Allah.</Text>
-</Paragraph>
-
-<Paragraph>
-  The Prophet taught that <Text code>silat ar-rahm</Text> (maintaining ties of kinship) <Text type="success">extends your lifespan</Text> and <Text type="success">increases your provision</Text>.<br/>
-  <Text type="secondary" italic>(Sahih Bukhari & Muslim)</Text>
-</Paragraph>
-
-<Paragraph>
-  So when you call your <Text italic>grumpy cousin [whom you might hate for no reason at all]</Text> to ask how he’s doing—you’re not just being nice.<br/>
-  <Text mark>You’re planting seeds of barakah in your life.</Text>
-</Paragraph>
 
 
 
