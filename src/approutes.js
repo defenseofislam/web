@@ -38,6 +38,7 @@ import ChristianComponent6 from "./components/Christianity/ChristianComponent6";
 import ChristianComponent7 from "./components/Christianity/ChristianComponent7";
 import ChristianComponent8 from "./components/Christianity/ChristianComponent8";
 import HinduComponent1 from "./components/Hinduism/HinduComponent1";
+import IslamComponent6 from "./components/Islam/kindness/IslamComponent6";
 
 const routes = [
   { path: "/", element: <Home /> },
@@ -61,6 +62,7 @@ const routes = [
   { path: "/islam/hadith/2", element: <IslamComponent5 /> },
   { path: "/islam/wmn/1", element: <WomenComponent1 /> },
   { path: "/islam/kii/1", element: <Islamcomponent4 /> },
+  { path: "/islam/kii/2", element: <IslamComponent6 /> },
   { path: "/atheism/ara/1", element: <AtheistComponent1 /> },
   { path: "/atheism/pfg/1", element: <AtheistComponent2 /> },
   { path: "/atheism/mai/1", element: <AtheistComponent3 /> },

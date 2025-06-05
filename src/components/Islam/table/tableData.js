@@ -59,6 +59,9 @@ const tableData = [
         <Paragraph>
           1. Blood Ties in Islam: The Sacred Rights of Relatives and How to Handle the Toxic Ones - <Link to="/islam/kii/1">Visit article</Link>
         </Paragraph>
+        <Paragraph>
+          2. Refuting All Allegations on Muslims for Doing Eid al-Adha Sacrifice — Once and for All - <Link to="/islam/kii/2">Visit article</Link>
+        </Paragraph>
       </div>
     ),
   },

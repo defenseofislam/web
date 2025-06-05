@@ -144,6 +144,12 @@ const allData = [
     date: "Published on 17:06:16 IST June 04 2025",
     link: "/hinduism/gods/1",
   },
+  {
+    key: 25,
+    name: `25. Refuting All Allegations on Muslims for Doing Eid al-Adha Sacrifice — Once and for All`,
+    date: "Published on 19:04:16 IST June 05 2025",
+    link: "/islam/kii/2",
+  },
 ];
 
 export default allData;
