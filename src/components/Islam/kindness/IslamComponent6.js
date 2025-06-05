@@ -897,37 +897,85 @@ Let’s <Text strong>destroy these double standards</Text> once and for all. And
 
 
 <Text underline><Title level={4}>
-4. Cutting Off Relatives: A Deadly Sin
-
-
-
+💵 4. PETA and Western Double Standards: White Tears, Black Lies
 
 </Title></Text>
-<Paragraph>
-  <Text strong>The Prophet (peace be upon him) said:</Text>
-</Paragraph>
-
-<Paragraph type="secondary" italic>
-  “The one who cuts off the ties of kinship will not enter Paradise.” (Sahih Muslim)
-</Paragraph>
 
 <Paragraph>
-  <Text mark>Read that again.</Text><br/>
-  <Text code>Not. Enter. Paradise.</Text>
+  <Title level={4}>PETA and Other "Animal Rights" Groups: Hypocrisy Exposed</Title><br /><br />
+
+  PETA and other so-called <Text mark>"animal rights"</Text> groups love to weaponize images of Eid sacrifices to stir outrage. But their hypocrisy is staggering. Let’s expose their <Text type="danger">racist, Islamophobic, and selective activism.</Text><br /><br />
+
+  <Title level={4}>🚨 PETA’s Selective Outrage: Islamophobia in Disguise</Title><br /><br />
+
+  <Text mark>1. They Ignore Industrial Torture</Text><br />
+  McDonald’s, KFC, Tyson Foods slaughter billions of animals yearly—electrocuted, debeaked, crushed alive—but PETA stays dead silent.<br /><br />
+  Where are their protests? Nowhere. Because attacking Muslims gets more clicks than challenging corporate meat giants.<br /><br />
+
+  <Text mark>2. They Fear Jewish Backlash (Kosher Slaughter)</Text><br />
+  Kosher slaughter (Shechita) is nearly identical to Halal—yet PETA rarely criticizes it. Why?<br /><br />
+  Because they know Jewish groups will sue them into oblivion for antisemitism. Muslims? Easy targets.<br /><br />
+
+  <Text mark>3. They Romanticize Western Cruelty</Text><br />
+  Hunting? A <Text code>"sport"</Text> where animals are shot, left to bleed out, and mounted as trophies—but PETA shrugs.<br /><br />
+  Fur trade? Animals skinned alive—yet PETA spends more time harassing Muslim butchers than Chanel.<br /><br />
+  Animal testing? Labs torture monkeys, rabbits, and dogs—but PETA’s too busy demonizing Eid.<br /><br />
+
+  <Title level={4}>Halal vs. Western Slaughter: The Stark Contrast in Humanity</Title><br /><br />
+  When it comes to animal slaughter, the difference between Islamic halal methods and Western industrial practices couldn’t be more extreme.<br /><br />
+
+  <Text strong>Halal slaughter requires:</Text><br />
+  <Text type="success">✔ A razor-sharp blade for an instant, painless cut</Text><br />
+  <Text type="success">✔ The animal to be well-fed, calm, and unaware of its fate</Text><br />
+  <Text type="success">✔ No animal may witness another being slaughtered</Text><br />
+  <Text type="success">✔ The name of God (Bismillah) to be invoked, honoring the life taken</Text><br />
+  <Text type="success">✔ Every part of the animal to be used—nothing wasted</Text><br /><br />
+
+  <Text strong>Meanwhile, Western factory farming involves:</Text><br />
+  <Text type="danger">❌ Electrocution, gas chambers, and blunt-force trauma as standard killing methods</Text><br />
+  <Text type="danger">❌ Animals crammed into trucks for days without food/water, screaming in terror</Text><br />
+  <Text type="danger">❌ Mechanical disassembly lines where many animals are still conscious when butchered</Text><br />
+  <Text type="danger">❌ Mass waste—with millions of tons of meat discarded yearly while people starve</Text><br /><br />
+
+  <Text underline>The hypocrisy is glaring:</Text> PETA attacks a sacred, regulated practice that minimizes suffering, while turning a blind eye to corporate slaughterhouses where animals endure hell daily.<br /><br />
+
+  If animal welfare was truly the concern, activists would be:<br />
+  ✔️ Storming Tyson Foods headquarters<br />
+  ✔️ Shutting down KFC suppliers<br />
+  ✔️ Exposing the pork industry’s live-grinding of piglets<br /><br />
+
+  But no—they’d rather target Muslim grandmothers buying goats for Eid than challenge the real mass murderers: <Text type="warning">Wall Street meat monopolies.</Text><br /><br />
+
+  <Text strong>Conclusion:</Text> This was never about animals. It’s about demonizing Muslim traditions while excusing Western cruelty. <Text type="danger">The numbers don’t lie—industrial farming is the true Holocaust of innocents.</Text><br /><br />
+
+  <Title level={4}>🤡 PETA’s Racist Hypocrisy: A Case Study</Title><br /><br />
+  When a Muslim sacrifices a goat: PETA screams <Text type="warning">"barbaric!"</Text> and floods social media with gore.<br /><br />
+  When a Texas rancher shoots deer for fun: PETA posts nothing.<br /><br />
+  When a Hindu sacrifices a buffalo at Gadhimai: PETA looks the other way.<br /><br />
+  When a Jewish slaughterhouse kills thousands of chickens: PETA whispers.<br /><br />
+
+  Why? Because <Text code>brown people’s traditions are "savage," but white people’s cruelty is "culture."</Text><br /><br />
+
+  <Title level={4}>💀 The Ugly Truth: PETA Kills Animals Too</Title><br /><br />
+  PETA’s own shelters euthanize over 80% of pets they "rescue." (Source: VDACS Reports)<br /><br />
+  They’ve stolen and killed people’s pets—then called it "mercy."<br /><br />
+  Yet they lecture Muslims about <Text underline>"compassion"</Text>? The audacity.<br /><br />
+
+  <Title level={4}>🔥 Final Verdict: PETA, Sit Down & Shut Up</Title><br /><br />
+  Before PETA dares to criticize Eid again, they must:<br />
+  <Text strong>• Boycott KFC, McDonald’s, and Walmart—the real animal killers.</Text><br />
+  <Text strong>• Protest Wall Street meat monopolies—not street vendors.</Text><br />
+  <Text strong>• Apologize for euthanizing thousands of pets while pretending to care.</Text><br /><br />
+
+  Until then?<br />
+  <Text type="danger">Stop the fake tears.</Text><br />
+  <Text type="warning">Drop the Islamophobic agenda.</Text><br />
+  <Text type="success">Admit you’re just racist hypocrites.</Text><br /><br />
+
+  <Text underline>Muslims will keep practicing Qurbani—whether PETA likes it or not.</Text><br />
+  <Paragraph type="secondary" italic>Stay mad. ☠️</Paragraph>
 </Paragraph>
 
-<Paragraph>
-  That’s how <Text type="danger">serious</Text> this is.
-</Paragraph>
-
-<Paragraph>
-  Even if you <Text code>fast</Text>, <Text code>pray</Text>, <Text code>give zakah</Text>—if you’ve <Text type="danger">deliberately cut ties</Text> with relatives without valid reason, you’re <Text type="warning">risking your akhirah</Text>.
-</Paragraph>
-
-<Paragraph>
-  And don’t forget—<Text strong>family isn’t just blood</Text>.<br/>
-  Your <Text italic>stepmother</Text>. Your <Text italic>in-laws</Text>. Your <Text italic>adopted siblings</Text>. Islam gives <Text mark>everyone their due rights</Text>.
-</Paragraph>
 
 
 
