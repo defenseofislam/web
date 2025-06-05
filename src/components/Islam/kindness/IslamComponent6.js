@@ -195,6 +195,163 @@ Let’s <Text strong>destroy these double standards</Text> once and for all. And
   {" "}<Text strong>Which is more ethical?</Text>
 </Paragraph>
 
+<Paragraph>
+  {" "}
+  <Title level={4}>🔥 Final Slap of Truth</Title>
+
+  {" "}
+  <Text italic>If you kill animals for:</Text>
+
+  {" "}
+  <Text mark>Chicken wings,</Text>
+
+  {" "}
+  <Text mark>Leather belts,</Text>
+
+  {" "}
+  <Text mark>Dog food,</Text>
+
+  {" "}
+  <Text mark>Makeup testing...</Text>
+
+  {" "}
+  <Text type="danger">Then sit down.</Text> You’ve lost the moral right to <Text underline>lecture Muslims for sacrificing an animal in the name of God, with mercy, to feed the poor.</Text>
+
+  {" "}
+  We follow the path of <Text strong>Prophet Ibrahim, "the father of the prophets", whose submission was pure, Close Friend of Allah, whose legacy remains unbroken.</Text>
+
+  {" "}
+  <Text type="success">Qurbani isn’t cruelty. It’s spiritual clarity.</Text>  
+  <Text type="success">It’s not savagery. It’s sacred.</Text>
+
+  {" "}
+  <Title level={4}>Counter Rebuttals of Possible Rebuttals from Vegans  -&gt;</Title>
+
+  {" "}
+  <Text strong>1. Rebuttal:</Text> <Text type="warning">"Islamic Slaughter is Still Unnecessary Cruelty"</Text>  
+  <br /><Text italic>Vegan Argument:</Text>  
+  <Paragraph type="secondary" italic>
+    Even if Islamic slaughter (dhabihah) is more humane than factory farming, killing animals is unnecessary when plant-based diets are viable. Painless slaughter is still violence when alternatives exist.
+  </Paragraph>
+
+  {" "}
+  <Text underline>Counter-Rebuttal:</Text>
+
+  {" "}
+  <Text strong>Islam considers meat consumption permissible (halal) by divine decree, not just necessity.</Text>
+
+  {" "}
+  <Text type="success">Veganism is a modern privilege;</Text> many global communities rely on animal products for survival.
+
+  {" "}
+  The ethical framework differs: <Text underline>Islam prioritizes divine command, gratitude, and charity</Text> over utilitarian "harm reduction."
+
+  {" "}
+  <br /><br /><Text strong>2. Rebuttal:</Text> <Text type="warning">"Charity Doesn’t Justify Killing"</Text>  
+  <br /><Text italic>Vegan Argument:</Text>  
+  <Paragraph type="secondary" italic>
+    Distributing meat to the poor doesn’t morally offset killing. Charity could be achieved through plant-based food.
+  </Paragraph>
+
+  {" "}
+  <Text underline>Counter-Rebuttal:</Text>
+
+  {" "}
+  <Text strong>Qurbani is a holistic ritual:</Text> <Text italic>spiritual submission + material benefit.</Text> Plant-based charity lacks the same theological significance.
+
+  {" "}
+  <Text type="success">In many impoverished regions, meat is nutrient-dense and culturally valued.</Text>
+
+  {" "}
+  <Text type="danger">Vegans often ignore that crop farming also kills animals</Text> (e.g., rodents, insects) through pesticides and harvesting.
+
+  {" "}
+  <br /><br /><Text strong>3. Rebuttal:</Text> <Text type="warning">"Hypocrisy Doesn’t Invalidate Vegan Ethics"</Text> <br />
+  {" "}
+  <Text italic>Vegan Argument:</Text> <br />
+  {" "}
+  <Paragraph type="secondary" italic>
+    Even if some vegans are hypocritical (e.g., using smartphones), it doesn’t negate the moral case against animal slaughter.
+  </Paragraph>
+  <br />
+  {" "}
+  <Text underline>Counter-Rebuttal:</Text> <br />
+  {" "}
+  <Text strong>The text highlights selective outrage:</Text> why target religious practices while ignoring industrial-scale cruelty? <br />
+  {" "}
+  If <Text mark>consistency is demanded of Muslims</Text> (e.g., "Why kill animals at all?"), <Text type="success">vegans must also reject all animal-derived products</Text> (medicine, clothing, etc.).
+  <br /><br />
+
+  {" "}
+  <Text strong>4. Rebuttal:</Text> <Text type="warning">"Abortion Comparison is False Equivalence"</Text> <br />
+  {" "}
+  <Text italic>Vegan Argument:</Text> <br />
+  {" "}
+  <Paragraph type="secondary" italic>
+    Abortion and animal rights are separate issues. Vegans can oppose both or neither without hypocrisy.
+  </Paragraph>
+  <br />
+  {" "}
+  <Text underline>Counter-Rebuttal:</Text> <br />
+  {" "}
+  The argument critiques <Text mark>moral prioritization:</Text> why condemn Eid sacrifices while supporting abortion (where fetal pain is scientifically documented)? <br />
+  {" "}
+  <Text strong>Both debates hinge on defining "personhood" and "rights,"</Text> exposing inconsistencies in secular ethics.
+  <br /><br />
+
+  {" "}
+  <Text strong>5. Rebuttal:</Text> <Text type="warning">"Industrial Farming is Worse, But Both Are Wrong"</Text> <br />
+  {" "}
+  <Text italic>Vegan Argument:</Text> <br />
+  {" "}
+  <Paragraph type="secondary" italic>
+    Criticizing factory farms doesn’t make Islamic slaughter ethical. Both should be abolished.
+  </Paragraph>
+  <br />
+  {" "}
+  <Text underline>Counter-Rebuttal:</Text> <br />
+  {" "}
+  <Text strong>Islam regulates slaughter as a sacred act;</Text> secular industries commodify suffering. <Text italic>The intent matters.</Text> <br />
+  {" "}
+  <Text type="success">Veganism’s absolutism ignores cultural/religious autonomy.</Text> Islam’s framework mandates mercy, unlike profit-driven systems.
+  <br /><br />
+
+  {" "}
+  <Text strong>6. Rebuttal:</Text> <Text type="warning">"Psychological Stress in Slaughter"</Text> <br />
+  {" "}
+  <Text italic>Vegan Argument:</Text> <br />
+  {" "}
+  <Paragraph type="secondary" italic>
+    Even if the blade is sharp, animals still experience fear seeing/smelling blood.
+  </Paragraph>
+  <br />
+  {" "}
+  <Text underline>Counter-Rebuttal:</Text> <br />
+  {" "}
+  <Text strong>Hadith explicitly forbids sharpening knives in front of animals to avoid distress.</Text> <br />
+  {" "}
+  <Text type="danger">Modern slaughterhouses cause prolonged terror</Text> (e.g., CO₂ chambers). <Text type="success">Islamic methods minimize exposure.</Text>
+  <br /><br />
+
+  {" "}
+  <Text strong>7. Rebuttal:</Text> <Text type="warning">"Animal Testing ≠ Dietary Choice"</Text> <br />
+  {" "}
+  <Text italic>Vegan Argument:</Text> <br />
+  {" "}
+  <Paragraph type="secondary" italic>
+    Comparing lab testing to food consumption conflates unrelated issues.
+  </Paragraph>
+  <br />
+  {" "}
+  <Text underline>Counter-Rebuttal:</Text> <br />
+  {" "}
+  <Text strong>The text critiques selective activism:</Text> why protest Eid but not cosmetics tested on animals? <br />
+  {" "}
+  <Text type="danger">Both involve animal suffering;</Text> consistency demands opposing all exploitation.
+</Paragraph>
+
+
+
 
 
 <Text underline><Title level={4}>2. The Prophet’s Example: Love and Forgiveness for Family
