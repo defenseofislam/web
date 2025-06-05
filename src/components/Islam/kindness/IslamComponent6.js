@@ -640,6 +640,114 @@ Let’s <Text strong>destroy these double standards</Text> once and for all. And
 
   <Paragraph type="secondary" italic>☠ K.O.</Paragraph>
 </Paragraph>
+<Paragraph>
+  <Title level={4}>🧠 Rebuttals & Counter-Rebuttals: Hindu Criticism of Islamic Slaughter</Title><br /><br />
+
+  <Text strong>1. Rebuttal: "Hinduism Has Evolved Beyond Animal Sacrifice"</Text><br />
+  <Text italic>Argument:</Text><br />
+  Modern Hinduism largely rejects animal sacrifice, especially in mainstream Vaishnavism/Shaivism. Scriptural practices ≠ current beliefs.<br /><br />
+
+  <Text underline>Counter:</Text><br />
+  <Text mark>Selective Evolution:</Text> If Hinduism can "update" its practices, why can’t Muslims follow their unchanged divine commands?<br />
+  <Text strong>Active Rituals:</Text> Gadhimai, Durga Puja, and tribal traditions still involve sacrifices. The claim that "all Hindus are pacifist" is false.<br />
+  <Text type="danger">Hypocrisy:</Text> If animal sacrifice is "outdated," why attack Muslims for following their texts while ignoring Hindu texts that explicitly permit it?<br /><br />
+
+  <Text strong>2. Rebuttal: "Beef Export ≠ Hindu Approval"</Text><br />
+  <Text italic>Argument:</Text><br />
+  Beef exports are done by non-Hindus (Muslims/Christians) or corrupt businesses—not representative of Hindu values.<br /><br />
+
+  <Text underline>Counter:</Text><br />
+  <Text mark>Economic Complicity:</Text> If Hindus truly opposed beef, they’d ban all slaughter (like Nepal did after Gadhimai backlash). Instead, India profits from it.<br />
+  <Text strong>Legal Double Standard:</Text> BJP-ruled states ban cow slaughter but allow buffalo exports (which are also considered "gau vansh").<br />
+  <Text type="danger">Silence = Consent:</Text> No mass Hindu protests against beef exports—only against Muslim Qurbani.<br /><br />
+
+  <Text strong>3. Rebuttal: "Ram/Krishna Ate Meat, But We Don’t Anymore"</Text><br />
+  <Text italic>Argument:</Text><br />
+  Avatars lived in a different era; modern Hindus reject meat due to ahimsa (non-violence).<br /><br />
+
+  <Text underline>Counter:</Text><br />
+  <Text mark>Scriptural Authority:</Text> If Ram/Krishna’s actions are irrelevant, why cite them for other issues (e.g., Ram Mandir)?<br />
+  <Text strong>Ahimsa Hypocrisy:</Text> Why is killing for religion (e.g., Jallikattu, Gadhimai) acceptable but halal isn’t?<br />
+  <Text type="warning">Selective Pacifism:</Text> Many Hindus still eat meat (especially in Bengal, Kerala, Northeast).<br /><br />
+
+  <Text strong>4. Rebuttal: "Halal is Crueler Than Jhatka"</Text><br />
+  <Text italic>Argument:</Text><br />
+  Jhatka (instant decapitation) is more humane than halal (throat-cutting).<br /><br />
+
+  <Text underline>Counter:</Text><br />
+  <Text mark>Science Says Otherwise:</Text> Studies show throat-cutting with a sharp blade (halal) causes less pain than blunt-force trauma (Jhatka). (Source: FAO)<br />
+  <Text strong>Islamic Rules &gt; Hindu Rituals:</Text> Halal requires no stress before death, while Gadhimai/Durga Puja involve public terror and blunt weapons.<br />
+  <Text type="danger">Hypocrisy:</Text> If Hindus cared about "painless death," they’d reform their own bloody festivals first.<br /><br />
+
+  <Text strong>5. Rebuttal: "Cow is Sacred, So Ban Its Slaughter"</Text><br />
+  <Text italic>Argument:</Text><br />
+  Since cows are holy to Hindus, Muslims should respect that in India.<br /><br />
+
+  <Text underline>Counter:</Text><br />
+  <Text mark>Religious Freedom:</Text> Muslims don’t demand bans on pig slaughter in Muslim countries for Hindus.<br />
+  <Text strong>Logical Fallacy:</Text> If "sacredness" justifies bans, should Muslims ban alcohol because it’s haram?<br />
+  <Text type="warning">Slippery Slope:</Text> Tomorrow, some sect may declare potatoes sacred—will we ban them too?<br /><br />
+
+  <Text strong>6. Rebuttal: "Hindu Outrage is Against Illegal Slaughter"</Text><br />
+  <Text italic>Argument:</Text><br />
+  Protests are only against cow smuggling and illegal abattoirs, not halal.<br /><br />
+
+  <Text underline>Counter:</Text><br />
+  <Text mark>Lynching Innocents:</Text> Mob attacks target legal transporters and even dairy farmers. (Source: Human Rights Watch)<br />
+  <Text strong>Silence on Buffaloes:</Text> If cows are sacred, why no outrage over buffalo slaughter (same species)?<br />
+  <Text type="danger">Selective Enforcement:</Text> BJP states shut down legal Muslim-run abattoirs while ignoring Hindu-run ones.<br /><br />
+
+  <Text strong>7. Rebuttal: "Hinduism Promotes Vegetarianism"</Text><br />
+  <Text italic>Argument:</Text><br />
+  True Hindus are vegetarian; meat-eating is a "Muslim/invader" influence.<br /><br />
+
+  <Text underline>Counter:</Text><br />
+  <Text mark>Historical Fact:</Text> Aryans ate beef (Rigveda 10.85.13). Brahmins in Kashmir, Bengal, and Kerala still eat meat.<br />
+  <Text strong>Caste Hypocrisy:</Text> Upper-caste Hindus impose vegetarianism on Dalits/OBCs who traditionally ate meat.<br />
+  <Text type="danger">Modern Reality:</Text> India is the world’s 2nd-largest meat consumer (after China).<br /><br />
+
+  <Title level={4}>💥 Final Knockout: The Hindu Extremist Contradiction</Title><br />
+  If Hindutva activists truly believed in:<br />
+  ✔️ Ahimsa — They’d ban all animal slaughter (not just cows).<br />
+  ✔️ Scriptural Purity — They’d revive horse sacrifices (Ashvamedha).<br />
+  ✔️ Consistency — They’d protest buffalo exports as fiercely as cow slaughter.<br /><br />
+
+  But they don’t. Because <Text type="danger">this isn’t about cows—it’s about targeting Muslims.</Text><br /><br />
+
+  <Title level={4}>🕊️ Conclusion: Pluralism or Bigotry?</Title><br />
+  Islam allows Hindus to worship cows. (PROOF -  SURAH AL KAFIROON VERSE 6, SURAH 60 V.8 )<br />
+  Hinduism must allow Muslims to practice halal.<br /><br />
+  Otherwise, <Text underline>it’s not faith—it’s fascism.</Text><br /><br />
+
+  <Title level={4}>🚨 Final Scolding: Exposing Fake Hindu Outrage</Title><br />
+  <Text type="danger">Enough of the crocodile tears and performative grief over cows!</Text><br /><br />
+
+  You don’t care about animals—you care about hating Muslims.<br /><br />
+
+  If you truly believed in <Text code>"gau mata"</Text>, you would:<br />
+  • Shut down <Text strong>ALL</Text> slaughterhouses, not just Muslim ones.<br />
+  • Ban buffalo meat exports, not just cry about cows.<br />
+  • Protest Gadhimai and Durga Puja sacrifices with the same rage you show for Eid.<br /><br />
+
+  But you don’t. Because this isn’t about compassion—it’s about politics, prejudice, and mob mentality.<br /><br />
+
+  <Text mark>You ignore your own scriptures that permit meat.</Text><br />
+  <Text strong>You stay silent when Hindus kill animals for festivals.</Text><br />
+  <Text type="warning">You profit from beef exports while pretending to worship cows.</Text><br /><br />
+
+  <Text type="danger">Stop the hypocrisy.</Text><br />
+  <Text success>Drop the fake drama.</Text><br />
+  <Text strong>Admit the truth:</Text> This was never about the cow—it was always about the Muslim.<br /><br />
+
+  <Text underline>Your selective outrage is exposed.</Text><br />
+  <Text mark>Your double standards are recorded.</Text><br />
+  <Text italic>Your fake emotion is a tired act.</Text><br /><br />
+
+  <Text strong>Grow up. Be honest. Or stay silent.</Text><br /><br />
+
+  <Paragraph type="secondary" italic>🎤🔥 Mic drop. The world sees through you. 🚩</Paragraph>
+</Paragraph>
+
 
 
 
