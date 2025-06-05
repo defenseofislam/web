@@ -146,6 +146,54 @@ Let’s <Text strong>destroy these double standards</Text> once and for all. And
   <Text type="success">Let that sink in:</Text> <Text italic>an act of mercy to a dog — an animal that many societies considered impure — earned a sinner forgiveness from the Most High.</Text>
 </Paragraph>
 
+<Paragraph>
+  <Title level={4}>🛑 Vegan Hypocrisy and the Religion of Emotional Extremism</Title>
+
+  <Text italic>Some vegans and animal rights activists claim the moral high ground.</Text> But let's ask:
+
+  {" "}<Text mark>Do they protest fast food chains with the same energy they attack Muslims?</Text>
+
+  {" "}<Text underline>Do they stop buying iPhones, knowing animal testing and human labor exploitation are involved?</Text>
+
+  {" "}<Text mark>Why don’t they march against the scientific labs that torture animals daily, or designer industries that skin animals alive for fashion?</Text>
+
+  {" "}<Text strong>No. Because this isn’t about animals.</Text>  
+  {" "}It’s about <Text type="warning">virtue signaling, cultural supremacy, and Islamophobia dressed as ethics.</Text>
+
+  {" "}<Text type="danger">They don’t care about the sheep.</Text> They care about <Text underline>demonizing the people who say “Bismillah” before slaughter.</Text>
+
+  <Title level={4}>⚖ Islam vs Secular Ethics: Who Really Cares?</Title>
+
+  <Text italic>Modern secular ethics say:</Text>
+
+  <Text mark>
+    &gt; “As long as it’s efficient, mass-scale animal death is fine.”
+  </Text>
+
+  {" "}<Text strong>Islam says:</Text>
+
+  <Text mark>
+    &gt; “Every single life has sacred value. Even when you slaughter, do it with ihsan (excellence).”
+  </Text>
+
+  {" "}<Text underline>Western meat industries:</Text>
+
+  {" "}<Text type="danger">Mass produce death,</Text>
+
+  {" "}<Text italic>Disassociate consumers from the source of food,</Text>
+
+  {" "}<Text type="danger">And leave behind animal corpses, waste, and suffering.</Text>
+
+  {" "}<Text underline>Islamic Qurbani:</Text>
+
+  {" "}<Text type="success">Involves clean, responsible animal care,</Text>
+
+  {" "}<Text strong>Conscious remembrance of God before the act,</Text>
+
+  {" "}<Text type="success">And meat distribution to the needy — uplifting the poor, not just feeding the rich.</Text>
+
+  {" "}<Text strong>Which is more ethical?</Text>
+</Paragraph>
 
 
 
