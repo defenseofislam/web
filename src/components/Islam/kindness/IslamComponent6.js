@@ -1044,40 +1044,60 @@ Let’s <Text strong>destroy these double standards</Text> once and for all. And
 </Paragraph>
 
 
-
-
-
-
-
-
-<Text underline><Title level={4}>5. When Relatives Are the Test—You Become the Rewarded
+<Text underline><Title level={4}>☠ 5. The World is Killing Animals Daily — Just Without God
 
 
 
 </Title></Text>
 <Paragraph>
-  Sometimes your family can feel like your <Text type="danger">biggest trial</Text>. But maybe… <Text italic>that’s exactly the point</Text>.
+  <Title level={4}>Let’s face it:</Title><br /><br />
+
+  <Text type="danger">Billions of animals are killed every year globally.</Text><br /><br />
+  Most die painfully, unnoticed, and <Text italic>without purpose</Text>.<br /><br />
+  No remembrance of God, no charity, no meaning.<br /><br />
+
+  <Text type="warning">Just profit.</Text><br />
+  <Text type="warning">Just appetite.</Text><br />
+  <Text type="warning">Just waste.</Text><br /><br />
+
+  <Text code>Factories strip animals of dignity.</Text><br />
+  <Text code>Supermarkets turn flesh into faceless products.</Text><br />
+  And consumers <Text underline>never ask why</Text> — or for whom.<br /><br />
+
+  <Text strong>But Eid al-Adha is the opposite:</Text><br /><br />
+
+  <Text mark>Purposeful,</Text><br />
+  <Text mark>Reverent,</Text><br />
+  <Text mark>Generous.</Text><br /><br />
+
+  <Text underline>A life is taken</Text> — but <Text italic>in the name of God</Text>.<br /><br />
+  A portion is given — <Text type="success">to the hungry.</Text><br /><br />
+  A lesson is learned — about submission, sacrifice, and humility.<br /><br />
+
+  For Muslims, it’s <Text strong>not about indulgence</Text>.<br />
+  It’s about Ibrahim’s willingness to give up what he loved — <Text italic>for the sake of the One who gave it to him</Text>.<br /><br />
+
+  <Text underline>That is what the sacrifice symbolizes.</Text><br /><br />
+
+  So if the world can eat meat for taste,<br />
+  <Text strong>Muslims can sacrifice for God and the poor.</Text><br /><br />
+
+  <Text code>One kills for consumption.</Text><br />
+  <Text code>The other gives to remember the Creator, and to uplift the creation.</Text><br /><br />
+
+  <Text type="danger">One forgets the soul.</Text><br />
+  <Text type="success">The other revives it.</Text><br /><br />
+
+  <Title level={4}>Eid al-Adha is not bloodlust —</Title><br />
+  <Text strong>It’s devotion.</Text><br />
+  <Text strong>It’s gratitude.</Text><br />
+  <Text strong>It’s justice for the needy.</Text><br /><br />
+
+  <Paragraph type="secondary" italic>
+    And in a world that kills without thinking, Muslims choose to pause, reflect, and give back — through the very act of taking.
+  </Paragraph>
 </Paragraph>
 
-<Paragraph>
-  Because <Text strong>Jannah isn’t cheap</Text>.<br/>
-  And Allah tests us through those <Text mark>closest to us</Text>.
-</Paragraph>
-
-<Paragraph type="secondary" italic>
-  “Do people think they will be left alone because they say: ‘We believe,’ and will not be tested?” (Surah Al-Ankabut 29:2)
-</Paragraph>
-
-<Paragraph>
-  So when you <Text code>hold your tongue</Text> while your aunt mocks you…<br/>
-  When you <Text code>forgive your brother</Text> for breaking your trust…<br/>
-  When you <Text code>visit a cousin</Text> who never remembers your birthday…
-</Paragraph>
-
-<Paragraph>
-  You’re earning reward that <Text type="warning">angels can’t calculate</Text>.<br/>
-  You’re walking a path that leads straight to <Text type="success">Allah’s pleasure</Text>.
-</Paragraph>
 
 
 
@@ -1085,42 +1105,128 @@ Let’s <Text strong>destroy these double standards</Text> once and for all. And
 
 
 <Text underline><Title level={4}>
-Conclusion: Family Ties are a Path to Jannah—or a Rope to Hell
-
-
-
+🕋 5. The Purpose of Qurbani: Submission and Social Welfare
 </Title></Text>
 
 <Paragraph>
-  <Text strong>Let’s be clear:</Text>
+  <Title level={4}>Eid al-Adha is not about slaughter for pleasure.</Title> It is a divine ritual that embodies:<br /><br />
+
+  <Title level={4}>Commemorating Ibrahim’s Ultimate Submission</Title><br /><br />
+
+  When Allah commanded Prophet Ibrahim (AS) to sacrifice his beloved son, he obeyed without hesitation.<br /><br />
+
+  At the last moment, Allah replaced Ismail (AS) with a ram—<Text type="success">showing that true submission is tested, but divine mercy prevails.</Text><br /><br />
+
+  <Text strong>Qurbani reenacts this test of faith</Text>, reminding Muslims that devotion to Allah comes before all worldly attachments.<br /><br />
+
+  <Title level={4}>Feeding the Poor & Strengthening Community</Title><br /><br />
+
+  <Text strong>One-third of the meat must be given to the needy</Text>—ensuring no one is left hungry on Eid.<br /><br />
+
+  Unlike Western waste (<Text type="danger">where 60% of edible food is trashed</Text>), Qurbani ensures <Text type="success">zero waste</Text>:<br /><br />
+
+  <Text code>Meat is distributed fresh.</Text><br />
+  <Text code>Bones and skin are used for broth, gelatin, or charity projects.</Text><br />
+  <Text code>Even the hooves and horns are repurposed in some cultures.</Text><br /><br />
+
+  In refugee camps, war zones, and impoverished regions, <Text mark>Qurbani meat is often the only protein people eat all year.</Text><br /><br />
+
+  <Title level={4}>A Lesson in Responsibility & Gratitude</Title><br /><br />
+
+  Muslims are commanded to:<br />
+  <Text code>Choose healthy, well-fed animals (no sick or malnourished ones).</Text><br />
+  <Text code>Treat them kindly before slaughter (no stress, no fear).</Text><br />
+  <Text code>Slaughter swiftly (minimizing pain).</Text><br /><br />
+
+  This process forces us to confront where our food comes from—<Text italic>unlike factory-farmed meat, where consumers remain detached from the killing.</Text><br /><br />
+
+  <Title level={4}>Breaking the Chains of Greed</Title><br /><br />
+
+  In a world obsessed with hoarding wealth, Qurbani demands:<br /><br />
+
+  <Text strong>Sacrificing a valuable asset</Text> (a healthy goat, sheep, or cow costs hundreds).<br /><br />
+  <Text strong>Giving it away freely</Text>—not just to family, but to strangers.<br /><br />
+
+  It’s a direct challenge to <Text type="danger">capitalism’s "me-first" mentality.</Text><br /><br />
+
+  <Title level={4}>🌍 Global Impact: Where Qurbani Meat Goes</Title><br /><br />
+
+  <Text underline>Africa:</Text> In Somalia and Sudan, Qurbani feeds famine-stricken families.<br />
+  <Text underline>South Asia:</Text> In Bangladesh and Pakistan, orphanages rely on Eid meat for nutrition.<br />
+  <Text underline>War Zones:</Text> Syrian refugees in camps receive fresh meat only during Eid.<br />
+  <Text underline>Inner Cities:</Text> Western Muslim charities distribute Qurbani meat to homeless shelters.<br /><br />
+
+  <Text mark>This is Islam’s vision of food justice</Text>—not just "no cruelty," but <Text type="success">active compassion</Text>.<br /><br />
+
+  <Title level={4}>💡 Why Anti-Qurbani Critics Fail</Title><br /><br />
+
+  <Text type="warning">They ignore the charity.</Text> (Where’s their outrage at food waste?)<br />
+  <Text type="warning">They pretend Islam invented slaughter.</Text> (The Bible, Vedas, and ancient cultures all sacrificed animals.)<br />
+  <Text type="warning">They demand Muslims abandon faith to please them.</Text> (Never happening.)<br /><br />
+
+  <Title level={4}>🕌 Final Reminder: Qurbani is Sacred, Not Savage</Title><br /><br />
+
+  Allah says:<br />
+  <Text code>"It is neither their meat nor their blood that reaches Allah, but it is piety from you that reaches Him." (Quran 22:37)</Text><br /><br />
+
+  <Text italic>This means:</Text><br /><br />
+
+  <Text strong>The physical slaughter is not the goal</Text>—it’s the spiritual surrender.<br />
+  <Text strong>The meat is not the focus</Text>—it’s the act of giving.<br /><br />
+
+  So to the critics:<br />
+  <Text type="danger">Your fake tears won’t stop Qurbani.</Text><br />
+  <Text type="danger">Your hypocrisy won’t erase its blessings.</Text><br />
+  <Text type="danger">And your ignorance won’t change divine law.</Text><br /><br />
+
+  <Text type="success">Eid Mubarak. The sacrifice continues. 🐑⚔️</Text>
 </Paragraph>
+
+<Text underline><Title level={4}>🕌 Conclusion: Don’t You Dare Shame Us for Worshiping God</Title></Text>
 
 <Paragraph>
-  You can’t <Text code>pray</Text> your way out of <Text type="danger">cutting off your relatives</Text>.<br/>
-  You can’t <Text code>donate</Text> your way around <Text type="danger">disrespecting your kin</Text>.<br/>
-  You can’t <Text code>fast</Text> your way through <Text type="danger">hatred in your heart</Text>.
-</Paragraph>
+  <Title level={4}>The world kills animals for:</Title><br /><br />
 
-<Paragraph>
-  <Text mark>Family is not a favor. It’s a fardh.</Text><br/>
-  Allah gave you your relatives for a reason. Whether they’re a <Text type="success">comfort</Text> or a <Text type="warning">test</Text>—they’re part of your <Text italic>qadr</Text>.
-</Paragraph>
+  <Text code>Profit,</Text><br />
+  <Text code>Taste,</Text><br />
+  <Text code>Fashion,</Text><br />
+  <Text code>Experimentation.</Text><br /><br />
 
-<Paragraph>
-  <Text code>Honor the good ones.</Text><br/>
-  <Text code>Be patient with the difficult ones.</Text><br/>
-  <Text code>Protect your soul</Text> by never becoming the one who <Text type="danger">cuts off ties</Text>.
-</Paragraph>
+  <Title level={4}>We kill animals:</Title><br /><br />
 
-<Paragraph>
-  Because in Islam, <Text strong>blood is not just thicker than water</Text>—<Text mark>it’s sacred</Text>.
-</Paragraph>
+  <Text code>With the name of God,</Text><br />
+  <Text code>With mercy,</Text><br />
+  <Text code>With charity.</Text><br /><br />
 
+  So <Text type="warning">don’t come at Muslims</Text> with your <Text underline>media hysteria</Text>, <Text type="danger">moral double standards</Text>, and <Text italic>anti-Islamic bile.</Text><br /><br />
+
+  <Text strong>We don’t need approval</Text> from PETA, Hindutva mobs, vegan influencers, or Christian missionaries.<br /><br />
+
+  <Text mark>We need the approval of Allah</Text> — and that’s what we seek on Eid al-Adha.<br /><br />
+
+  <Text type="secondary" italic>---</Text><br /><br />
+
+  <Title level={4}>To all the trolls:</Title><br /><br />
+
+  <Text code>&gt; Until you stop killing animals for fries,</Text><br />
+  <Text code>&gt; Don’t dare shame us for sacrificing for the sake of God.</Text><br /><br />
+
+  <Text type="success">Qurbani is worship.</Text><br />
+  <Text type="danger">Your criticism? Just noise.</Text><br /><br />
+
+  <Text italic>If you behave properly with us, we might just bless you with a juicy lamb leg — and a lesson in humility.</Text><br /><br />
+
+  <Text underline>So hush now, keyboard muftis and bacon-brained philosophers.</Text> The adults are worshipping.<br /><br />
+
+  <Text type="success">Happy Eid Al-Adha 2025 & forever till Day of Judgement</Text>, you naughty critics 😘!<br /><br />
+
+  <Text type="warning">K.O.</Text> <Text type="danger">Fatality.</Text> <Text strong>#QurbaniWins</Text> 🐐⚔️
+</Paragraph>
 
       </Typography>
       <CommentBox
-        title={"Blood Ties in Islam: The Sacred Rights of Relatives and How to Handle the Toxic Ones"}
-        url={"https://defenseofislam.github.io/web/islam/kii/1"}
+        title={"🕋 Refuting All Allegations on Muslims for Doing Eid al-Adha Sacrifice — Once and for All"}
+        url={"https://defenseofislam.github.io/web/islam/kii/2"}
       />
     </Content>
   );
