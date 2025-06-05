@@ -976,6 +976,72 @@ Let’s <Text strong>destroy these double standards</Text> once and for all. And
   <Paragraph type="secondary" italic>Stay mad. ☠️</Paragraph>
 </Paragraph>
 
+<Paragraph>
+  <Title level={4}>Rebuttals & Crushing Counter-Arguments: Exposing PETA's Hypocrisy</Title><br /><br />
+
+  <Text strong>1. Rebuttal: "We Focus on Eid Because It’s Public!"</Text><br />
+  <Text italic>PETA Argument:</Text><br />
+  <Text mark>"Halal slaughter happens openly in streets, while factory farms are hidden. We target what people see!"</Text><br /><br />
+
+  <Text underline>Counter:</Text><br /><br />
+  False. PETA intentionally films inside slaughterhouses when it suits them (e.g., releasing undercover footage of farms).<br /><br />
+  Why not expose Tyson or KFC with the same energy? Because Muslim sacrifices are easier to villainize.<br /><br />
+  Hunting season is very public—where are PETA’s protests against rich white men shooting deer for fun?<br /><br />
+
+  <Text strong>2. Rebuttal: "Kosher is Different—It’s Religious Freedom!"</Text><br />
+  <Text italic>PETA Argument:</Text><br />
+  <Text mark>"We respect Jewish practices. Halal is just unnecessary cruelty."</Text><br /><br />
+
+  <Text underline>Counter:</Text><br /><br />
+  <Text type="danger">Liar.</Text> Kosher (Shechita) and Halal are nearly identical—both require throat-cutting without stunning.<br /><br />
+  PETA avoids kosher criticism because:<br />
+  <Text code>Jewish organizations sue aggressively (e.g., PETA lost cases in Europe over kosher attacks).</Text><br />
+  <Text code>Islamophobia sells better to their donor base.</Text><br /><br />
+  <Text type="warning">Hypocrisy:</Text> If "religious freedom" excuses kosher, why not halal?<br /><br />
+
+  <Text strong>3. Rebuttal: "We Do Protest Factory Farms!"</Text><br />
+  <Text italic>PETA Argument:</Text><br />
+  <Text mark>"We expose industrial farming too! Check our website!"</Text><br /><br />
+
+  <Text underline>Counter:</Text><br /><br />
+  Tokenism. PETA’s mainstream campaigns target halal, circuses, and fur—not the billion-animal meat industry.<br /><br />
+  Where’s the viral outrage? Compare:<br /><br />
+  <Text type="success">Eid sacrifice: 100M+ social media impressions.</Text><br />
+  <Text type="danger">McDonald’s suppliers: Buried in a blog post.</Text><br /><br />
+  <Text code>Fact: PETA spends more on anti-Muslim ads than on shutting down slaughterhouses.</Text><br /><br />
+
+  <Text strong>4. Rebuttal: "Halal is Painful—Stunning is Kinder!"</Text><br />
+  <Text italic>PETA Argument:</Text><br />
+  <Text mark>"Stunning makes death painless. Halal is medieval!"</Text><br /><br />
+
+  <Text underline>Counter:</Text><br /><br />
+  Science disagrees. Studies show sharp-blade halal causes less pain than botched stuns (e.g., animals regaining consciousness during slaughter).<br /><br />
+  <Text type="warning">Western "humane" slaughter?</Text><br />
+  <Text type="danger">Pigs gassed scream for minutes.</Text><br />
+  <Text type="danger">Chickens electrocuted often survive the first shock.</Text><br /><br />
+  <Text type="danger">PETA’s silence on these horrors proves their agenda isn’t about pain—it’s anti-Islam.</Text><br /><br />
+
+  <Text strong>5. Rebuttal: "PETA’s Euthanasia is Mercy Killing!"</Text><br />
+  <Text italic>PETA Argument:</Text><br />
+  <Text mark>"We euthanize sick animals to end suffering!"</Text><br /><br />
+
+  <Text underline>Counter:</Text><br /><br />
+  <Text type="danger">80% kill rate (VDACS data)—including healthy pets stolen from porches.</Text><br /><br />
+  <Text code>PETA’s founder said: "We don’t believe in pet ownership."</Text> So they kill instead of adopting out.<br /><br />
+  <Text type="warning">Irony:</Text> They massacre dogs/cats but cry over one Eid goat? Priorities, much?<br /><br />
+
+  <Title level={4}>🔥 Final Scolding: PETA, You’re Done Here</Title><br /><br />
+  <Text type="danger">Admit you’re not an animal rights group—just anti-Muslim propagandists.</Text><br /><br />
+  <Text strong>Stop euthanizing pets before lecturing Muslims about "compassion".</Text><br /><br />
+  <Text strong>Redirect your budget from Islamophobic ads to real cruelty (like factory farms).</Text><br /><br />
+
+  Until then?<br />
+  <Text type="danger">No one believes your tears.</Text><br />
+  <Text type="warning">No one respects your hypocrisy.</Text><br />
+  <Text type="success">And no one will stop Qurbani for your racist tantrums.</Text><br /><br />
+
+  <Paragraph type="secondary" italic>Stay triggered. 🚫🐷</Paragraph>
+</Paragraph>
 
 
 
