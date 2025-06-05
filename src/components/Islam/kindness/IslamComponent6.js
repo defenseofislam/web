@@ -69,29 +69,29 @@ Let’s <Text strong>destroy these double standards</Text> once and for all. And
     &gt; If you eat burgers, wear leather, or enjoy eggs and milk — don’t lecture Muslims about “animal cruelty.”
   </Text>
 
-  <Text strong>Muslims are not suddenly harming animals on Eid.</Text> Islam requires:
+  <Text strong>{" "}Muslims are not suddenly harming animals on Eid.</Text> Islam requires: {" "}
 
-  <Text underline>Animals to be fed, rested, and not mistreated.</Text>
+  <Text underline>Animals to be fed, rested, and not mistreated.</Text>{" "}
 
-  <Text underline>Slaughter to be quick and painless, avoiding torture.</Text>
+  <Text underline>Slaughter to be quick and painless, avoiding torture.</Text>{" "}
 
-  <Text underline>Parts of meat to be distributed to the poor, not wasted.</Text>
+  <Text underline>Parts of meat to be distributed to the poor, not wasted.</Text>{" "}
 
   <Text strong>This isn’t a blood ritual or savagery.</Text> It’s a <Text italic>divine command</Text> rooted in <Text mark>compassion, gratitude, and charity</Text> — a ritual that:
 
-  <Text type="success">Reminds us of our dependence on Allah,</Text>
+  <Text type="success">{" "}Reminds us of our dependence on Allah,</Text>
 
-  <Text type="warning">Breaks the ego of the privileged,</Text>
+  <Text type="warning">{" "}Breaks the ego of the privileged,</Text>
 
-  <Text type="success">And feeds the hungry, not fills freezers for fun.</Text>
+  <Text type="success">{" "}And feeds the hungry, not fills freezers for fun.</Text>
 
   <Title level={4}>Meanwhile:</Title>
 
   <Text type="danger">In the West, industrial meat farming involves electrocuting, confining, and force-feeding animals, stacking them in crates, clipping beaks, snapping bones during transportation, and gassing them in slaughterhouses.</Text>
 
-  <Text mark>Over 150 million animals are killed every single day globally — not for God, not for reflection, not for charity, but just for fast food, greasy profits, and gluttony.</Text>
+  {" "}<Text mark>Over 150 million animals are killed every single day globally — not for God, not for reflection, not for charity, but just for fast food, greasy profits, and gluttony.</Text>
 
-  <Text type="warning">And let’s not ignore the brutal irony:</Text> <Text type="danger">Many vegans loudly support abortion-on-demand, where the unborn feel pain — but they scream about Muslims sacrificing lambs for Eid charity.</Text> <Text strong>That's hypocrisy dipped in soy milk.</Text>
+  <Text type="warning">{" "}And let’s not ignore the brutal irony:</Text> <Text type="danger">Many vegans loudly support abortion-on-demand, where the unborn feel pain — but they scream about Muslims sacrificing lambs for Eid charity.</Text> <Text strong>That's hypocrisy dipped in soy milk.</Text>
 
   <Title level={4}>Qurbani is mercy, not cruelty.</Title>
   <Text strong>It connects the eater to the Creator, and to the animal itself.</Text> It’s not mindless consumption — it’s a ritual of <Text underline>reflection, submission, and responsibility.</Text>
@@ -108,41 +108,41 @@ Let’s <Text strong>destroy these double standards</Text> once and for all. And
 
   <Text mark>
     &gt; “Verily, Allah has prescribed excellence in everything. If you kill, kill well. If you slaughter, slaughter well. Let one of you sharpen his blade and spare suffering to the animal.”  
-    ( Proof - Sahih Muslim 1955)
+    <Text strong>( Proof - Sahih Muslim 1955)</Text>
   </Text>
-
+    <br /> <br />
   <Text strong>This isn't optional. It’s a command.</Text> And it’s centuries ahead of modern animal welfare guidelines.
-
+<br /> <br />
   <Text strong>🔹 Another Hadith:</Text>
 
   <Text mark>
     &gt; “Do not sharpen your knife in front of the animal. Do you want to kill it twice?”  
     (al-Bayhaqi, Shu’ab al-Iman)
   </Text>
-
+<br /> <br />
   <Text italic>Imagine that.</Text> Over 1400 years ago, Islam forbade psychological stress to animals — even for seconds before slaughter. While in today’s meat factories, animals see and hear others dying, screaming in fear before being stunned or sliced by conveyor belts.
-
+<br /> <br />
   <Text strong>🔹 A woman was condemned to Hell because she locked up a cat until it died:</Text>
-
+<br /> <br />
   <Text mark>
     &gt; “The Prophet (ﷺ) said, "A woman entered the (Hell) Fire because of a cat which she had tied, neither giving it food nor setting it free to eat from the vermin of the earth. ".”  
-    ( Proof - Sahih Bukhari 3318 )
+    <Text strong>( Proof - Sahih Bukhari 3318)</Text>
   </Text>
-
+<br /> <br />
   <Text mark>
     &gt; "Nafi’ reported from ‘Abdullah that Allah’s Messenger (may peace be upon him) said: A woman was punished because she had kept a cat tied until it died, and (as a punishment of this offence) she was thrown into the Hell. She had not provided it with food, or drink, and had not freed her so that she could eat the insects of the earth."  
-    ( Proof - Sahih Muslim Book 26, Hadith Number 5570 )
+    <Text strong>( Proof - Sahih Muslim Book 26, Hadith Number 5570 )</Text>
   </Text>
-
+<br /> <br />
   <Text type="danger">This shows that cruelty to even one animal, if done intentionally and without mercy, is enough to risk damnation.</Text>
-
+<br /> <br />
   <Text strong>🔹 Conversely, a Prostitute was forgiven by Allah for giving water to a thirsty dog:</Text>
-
+<br /> <br />
   <Text mark>
     &gt; “Allah's Messenger (ﷺ) said, "A prostitute was forgiven by Allah, because, passing by a panting dog near a well and seeing that the dog was about to die of thirst, she took off her shoe, and tying it with her head-cover she drew out some water for it. So, Allah forgave her because of that."”  
-    ( Proof - Sahih Bukhari 3321)
+    <Text strong>( Proof - Sahih Bukhari 3321)</Text>
   </Text>
-
+<br /> <br />
   <Text type="success">Let that sink in:</Text> <Text italic>an act of mercy to a dog — an animal that many societies considered impure — earned a sinner forgiveness from the Most High.</Text>
 </Paragraph>
 
