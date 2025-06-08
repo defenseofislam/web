@@ -2,9 +2,9 @@ why reincarnation is not correct philosophy? a critical examination
 
 Hey reader! Have you ever heard someone say, “Maybe in your next life, you’ll be a king!” or “That’s just your karma from a past life”? Reincarnation—the idea that after we die, our soul or consciousness pops into a new body—is a big deal in Hinduism and Buddhism. It’s really a beautiful, hopeful idea that promises life goes on, that there’s a reason for everything. But let’s be real for a second: does it actually make sense? Is this a cosmic scam? Is this brainwashing sugarcoating lie?? Is this a method of  manipulation?? I’m going to walk you through why reincarnation might not hold up, using simple logic and some heart-tugging examples that’ll make you think.
 
-This article will explain both hinduism's and buddhism's error on belief in reincarnation. 
+The belief in reincarnation is a core tenet of Hinduism, Buddhism, Jainism, and Sikhism, all of which originated in the Indian subcontinent. These religions share the concept of karma, where actions in one life influence future rebirths. This article will explain the error of believing in reincarnation. 
 
-Killing 2 birds with 1 stone..
+Killing 4 birds with 1 stone..
 
 Ready? Let’s dive in!
 
