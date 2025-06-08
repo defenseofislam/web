@@ -12,25 +12,28 @@ function HinduComponent2() {
   return (
     <Content style={{ padding: "24px" }}>
       <Typography>
-        <Text underline><Title level={2}>Why the Concept of Avatar is Wrong — A Rational and Theological Refutation
+        <Text underline><Title level={2}>Why Reincarnation is not Correct Philosophy/Belief? A Critical Examination
 </Title></Text>
 
-       <Text underline><Title level={4}>Introduction: What is an Avatar?</Title></Text>
+       <Text underline><Title level={4}>Introduction</Title></Text>
 
 <Paragraph> 
-In Hindu theology, an <Text mark>Avatar</Text> (from Sanskrit <Text code>“ava” = down, “tar” = to cross</Text>) refers to the descent of a deity — especially <Text strong>Vishnu</Text> — into a <Text underline>physical, earthly form</Text>. These avatars are said to be <Text type="success">divine incarnations</Text>, taking human or animal form to <Text italic>protect the righteous</Text> and <Text underline>restore dharma</Text> (righteousness) when evil prevails. </Paragraph> <Paragraph type="secondary" italic> Famous examples include: </Paragraph> <Paragraph> <Text type="warning">Rama</Text> in the <Text mark>Ramayana</Text> </Paragraph> <Paragraph> <Text type="warning">Krishna</Text> in the <Text mark>Mahabharata</Text> </Paragraph> <Paragraph> <Text type="danger">Narasimha</Text> (<Text italic>half-man, half-lion</Text>) in the <Text code>18 Maha Puranas</Text> </Paragraph> <Paragraph> Even animals like <Text strong>Matsya</Text> (<Text italic>fish</Text>) and <Text strong>Varaha</Text> (<Text italic>boar</Text>) in the <Text code>18 Maha Puranas</Text> </Paragraph> <Paragraph> The core idea is that the <Text underline>Absolute God</Text> takes <Text mark>limited form</Text> to interact with the world. In this world, he <Text type="danger">borns weak like a human baby</Text>, then slowly grows up doing mischief like normal <Text italic>childrens do</Text>, then gains knowledge, and then spends time either enjoying or <Text underline>lollygagging</Text>, and then one day he sees evil going on, then decides to stop it like a <Text type="success">hero in movie</Text> when he discovers something evil is going on. Then he fights <Text strong>heroically</Text> against the villains and the demons just like in the <Text code>marvel superhero movies</Text>. Also he faces difficulty as the villain twists the path to success. After lots of struggle and drama, when he finally defeates all the demons, he returns back heroically, everyone welcoming him and worshipping him because he <Text type="success">lifted off the evil from the society</Text>. And then dies one day tragically like all humans come to an end finally. </Paragraph> <Paragraph type="secondary" italic> All this concept collapses under: </Paragraph> <Paragraph> <Text type="danger">Logical contradiction</Text> </Paragraph> <Paragraph> <Text type="danger">Theological inconsistency</Text> </Paragraph> <Paragraph> <Text type="danger">Moral and philosophical dilemma</Text> </Paragraph> <Paragraph> Let’s explore why the concept of <Text mark>avatar</Text> is fundamentally flawed, and why <Text underline>pure monotheism</Text> (<Text code>Tawheed</Text>) is the only <Text type="success">intellectually and spiritually coherent belief</Text>. </Paragraph>
+  <Title level={4}>Hey reader!</Title> Have you ever heard someone say, <Text italic>“Maybe in your next life, you’ll be a king!”</Text> or <Text italic>“That’s just your karma from a past life”?</Text> <Text underline>Reincarnation</Text>—the idea that after we die, our soul or consciousness pops into a new body—is a big deal in <Text strong>Hinduism</Text> and <Text strong>Buddhism</Text>.<br /><br />
 
+  It’s really a <Text type="success">beautiful, hopeful idea</Text> that promises life goes on, that there’s a reason for everything.<br /><br />
 
+  But let’s be real for a second: <Text type="warning">does it actually make sense?</Text> <Text type="danger">Is this a cosmic scam?</Text> <Text code>Is this brainwashing sugarcoating lie??</Text> <Text code>Is this a method of  manipulation??</Text><br /><br />
 
-<hr />
+  I’m going to walk you through why reincarnation might not hold up, using <Text mark>simple logic</Text> and some <Text italic>heart-tugging examples</Text> that’ll make you think.<br /><br />
 
-<Text underline><Title level={4}>❌ 1. Logical Contradiction: Infinite Can’t Become Finite</Title></Text>
+  The belief in reincarnation is a <Text strong>core tenet</Text> of <Text code>Hinduism</Text>, <Text code>Buddhism</Text>, <Text code>Jainism</Text>, and <Text code>Sikhism</Text>, all of which originated in the Indian subcontinent. These religions share the concept of <Text underline>karma</Text>, where actions in one life influence future rebirths.<br /><br />
 
-<Paragraph> <Text strong>Claiming that God becomes human</Text> creates a <Text type="danger">contradiction</Text>: How can the <Text type="success">Infinite become limited</Text>, the <Text strong>All-Knowing become ignorant</Text>, the <Text mark>All-Powerful become weak</Text>, and the <Text underline>Immortal be born and die</Text>? </Paragraph> <Paragraph> It’s like saying: <Text code>“An eternal fire turned into ice but remained fire.”</Text> </Paragraph> <Paragraph> ⚠ <Text type="warning">That’s not profound — that’s incoherent.</Text> </Paragraph> <Paragraph> A being cannot be <Text strong>perfect</Text> and <Text type="danger">imperfect</Text> at the same time. Either <Text underline>God is unchanging</Text>, or He becomes subject to change — and the moment you say He changes, you’ve <Text italic>lowered Him to a creature, not a Creator</Text>. </Paragraph> <Paragraph> The <Text strong>Qur’an affirms</Text>: <Text code>“There is nothing like unto Him.” (Surah Ash-Shura 42:11)</Text> </Paragraph> <Paragraph> <Text type="success">Islamic Tawheed</Text> protects the concept of God from contradiction. <Text type="danger">Avatars introduce absurdity and contradictions.</Text> </Paragraph> <Paragraph> Just think about it — <Text italic>why would God ever need to make himself weak and dependent</Text> to ward off evil? Can't He <Text mark>spare all the drama and time waste</Text> and just <Text strong>remove evil by a blink of an eye</Text>? </Paragraph> <Paragraph type="secondary" italic> True power lies in being above weakness — not embracing it. </Paragraph>
+  <Text type="danger">This article will explain the error of believing in reincarnation.</Text><br /><br />
 
+  <Text strong>Killing 4 birds with 1 stone..</Text><br /><br />
 
-
-
+  <Text type="success">Ready?</Text> Let’s dive in!
+</Paragraph>
 
 <hr />
 
