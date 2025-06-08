@@ -150,6 +150,12 @@ const allData = [
     date: "Published on 19:04:16 IST June 05 2025",
     link: "/islam/kii/2",
   },
+  {
+    key: 26,
+    name: `26. Why Reincarnation is Wrong? A Critical Examination`,
+    date: "Published on 17:41:36 IST June 08 2025",
+    link: "/hinduism/rcntn/1",
+  },
 ];
 
 export default allData;

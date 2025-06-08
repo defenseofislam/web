@@ -15,6 +15,18 @@ const tableData = [
       </div>
     ),
   },
+  {
+    key: "2",
+    title: "Reincarnation & Karma",
+    content: (
+      <div>
+        <Paragraph>
+          1. Why Reincarnation is Wrong? A Critical Examination  - 
+          <Link to="/hinduism/rcntn/1">{" "}Visit article</Link>
+        </Paragraph>
+      </div>
+    ),
+  },
   
 ];
 
