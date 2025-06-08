@@ -1,6 +1,12 @@
 why reincarnation is not correct philosophy? a critical examination
 
-Hey reader! Have you ever heard someone say, “Maybe in your next life, you’ll be a king!” or “That’s just your karma from a past life”? Reincarnation—the idea that after we die, our soul or consciousness pops into a new body—is a big deal in Hinduism and Buddhism. It’s really a beautiful, hopeful idea that promises life goes on, that there’s a reason for everything. But let’s be real for a second: does it actually make sense? Is this a cosmic scam? Is this brainwashing sugarcoating lie?? Is this a method of  manipulation?? I’m going to walk you through why reincarnation might not hold up, using simple logic and some heart-tugging examples that’ll make you think. Ready? Let’s dive in!
+Hey reader! Have you ever heard someone say, “Maybe in your next life, you’ll be a king!” or “That’s just your karma from a past life”? Reincarnation—the idea that after we die, our soul or consciousness pops into a new body—is a big deal in Hinduism and Buddhism. It’s really a beautiful, hopeful idea that promises life goes on, that there’s a reason for everything. But let’s be real for a second: does it actually make sense? Is this a cosmic scam? Is this brainwashing sugarcoating lie?? Is this a method of  manipulation?? I’m going to walk you through why reincarnation might not hold up, using simple logic and some heart-tugging examples that’ll make you think.
+
+This article will explain both hinduism's and buddhism's error on belief in reincarnation. 
+
+Killing 2 birds with 1 stone..
+
+Ready? Let’s dive in!
 
 
 Why Do People Believe in Reincarnation?
@@ -84,7 +90,7 @@ Allah doesn’t give only one chance.
 
 He gives you a million — in just this one life:
 
-Every time you wake up, that’s a chance.
+Every day, you wake up, that’s a chance.
 
 Every time you hear the Qur'an, that’s a warning.
 
@@ -101,7 +107,7 @@ Just noise that protects your ego and confirms your illusions.
 You don’t follow truth.
 You follow comfort.
 
-And when your soul burns and begs for another life,
+And when your body will burn in hellfire and begs for another life,
 Allah will say — as He said in the Qur’an:
 
 <Text code>“If they were returned to life, they would do the same things again. They are liars.”</Text>
@@ -111,7 +117,7 @@ Allah will say — as He said in the Qur’an:
 
 <Text mark>This life is your test. This Qur’an is your guide. This warning is your wake-up call.</Text>
 
-And no, you won’t get reborn as a tree or a king or a cow.
+And no, you won’t get reborn as a tree or a king or a cow who might get sacrificed by a mulla in bakrid.
 
 You’ll return to the One who created your soul —
 And He does not forget, and He does not forgive rebellion without repentance.
@@ -172,7 +178,7 @@ Reincarnation, a core belief in Hinduism and Buddhism, has often been misused to
 
 
 So, What Do You Think?
-Reincarnation is a beautiful brainwashing lie myth story, born from our need to understand a messy world. And when you look closely, it’s like a house of cards — pretty, but it falls apart under scrutiny. The rebirth of soul thing doesn’t add up, the population boom is a puzzle, not able to remember past mistakes and purpose of reincarnation demolishes it and it’s not even a global belief. 
+Reincarnation is a beautiful brainwashing lie myth story, born from our need to understand a messy world. And when you look closely, it’s like a house of cards — pretty, but it falls apart under scrutiny. The rebirth of soul thing doesn’t add up, the population boom is a puzzle, not able to remember past mistakes and purpose of reincarnation demolishes it and it’s not even a global belief even though Humanity, specifically anatomically modern Homo sapiens, is estimated to be around 300,000 years old, with the earliest evidence of these humans appearing in Africa scientifically.  
 
 Plus, blaming victims for past-life sins? That’s not fair.
 
