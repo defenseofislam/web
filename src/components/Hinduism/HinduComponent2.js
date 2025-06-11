@@ -339,8 +339,8 @@ function HinduComponent2() {
 <hr />
       </Typography>
       <CommentBox
-        title={`Why the Concept of Avatar is Wrong — A Rational and Theological Refutation`}
-        url={"https://defenseofislam.github.io/web/hinduism/gods/1"}
+        title={`Why Reincarnation is not Correct Philosophy/Belief? A Critical Examination`}
+        url={"https://defenseofislam.github.io/web/#/hinduism/rcntn/1"}
       />
     </Content>
   );
