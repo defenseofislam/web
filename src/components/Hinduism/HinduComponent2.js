@@ -38,44 +38,20 @@ function HinduComponent2() {
 <hr />
 
 <Text underline>
-  <Title level={4}>🛑 2. The Avatar System Implies God Is Dependent</Title>
+  <Title level={4}>Why Do People Believe in Reincarnation?</Title>
 </Text>
 <Paragraph>
-<Text italic>Why would a perfect, all-powerful God need to “descend” into the world to fix things?</Text><br/>
-Why can't He simply command and things happen, like:
+  <Title level={4}>First, let’s talk about why reincarnation is so popular.</Title> In <Text strong>Hinduism</Text>, they believe your soul, called the <Text code>atman</Text>, is like an <Text italic>eternal traveler</Text>, jumping from one body to another. Your actions, or <Text code>karma</Text>, decide if you’re reborn as a rich person, a poor farmer, or even a stray dog. The goal? Break free from this cycle (<Text code>samsara</Text>) and reach <Text underline>moksha</Text>, a state of ultimate peace.<br /><br />
+
+  <Text strong>Buddhism tweaks this a bit.</Text> It says there’s <Text mark>no permanent soul</Text>, just a stream of consciousness that carries your karma to a new life, aiming for <Text underline>nirvana</Text> to escape suffering.<br /><br />
+
+  <Text type="success">Why did this idea catch on?</Text> Imagine living thousands of years ago in ancient India, where life was tough. Babies died young or were born crippled, crops failed, and nobody knew why. <Text type="warning">Reincarnation gave answers.</Text> It said, <Text italic>“Hey, God can't make mistakes. He is also merciful. He won't probably give crippling disability to this baby. If life’s unfair, it’s because of what you did in a past life. So yeah, maybe this baby did something wrong. Oh? was he born without a leg, hmmm... maybe he cut someone's leg unjustly in previous life so that's why he was born in this life without a leg. Ahhhh..got it, Keep being good, and next time will be better.”</Text><br /><br />
+
+  It’s like a cosmic rulebook that <Text mark>makes sense of pain</Text> and <Text type="success">promises hope</Text>. Plus, it’s comforting. Picture a mom who just lost her little boy. A priest tells her, <Text italic>“Don’t worry, his soul is in a new body, maybe playing happily somewhere.”</Text> That idea <Text type="success">soothes the heart</Text>, right?<br /><br />
+
+  <Text type="danger">But here’s the thing: just because something feels good doesn’t mean it’s true.</Text> Let’s break it down and ask some tough questions.
 </Paragraph>
 
-<Paragraph>
-<Text code>“Be! And it is.” (Qur’an 2:117)</Text>
-</Paragraph>
-
-<Paragraph>
-A God who needs to enter the world, fight wars, or suffer, sounds <Text type="danger">needy, limited, and weak</Text>.
-</Paragraph>
-
-<Paragraph>
-Compare this with the <Text type="success">Islamic view</Text>:
-</Paragraph>
-
-<Paragraph>
-<Text strong>Allah never becomes His creation</Text><br/>
-<Text underline>He is above His creation, always in control</Text><br/>
-His mercy and justice do not require becoming flesh
-</Paragraph>
-
-<Paragraph>
-The moment God becomes part of creation, He becomes <Text type="warning">dependent on time, space, and the body</Text> — things He should have created, not be trapped within.
-</Paragraph>
-
-<Paragraph>
-In <Text strong>Hinduism</Text> — we see god in human form — <Text italic>dependent on air, water, food, friends, entertainment, gopis</Text>.  
-{" "}<Text mark>Allah is not dependent on anything at all.</Text>
-</Paragraph>
-
-<Paragraph>
-So sincerely thinking — <Text underline>who fits in the role of God?</Text>  
-{" "}<Text type="success">Allah</Text> or <Text type="danger">Hindu gods?</Text>
-</Paragraph>
 
 
 
@@ -84,60 +60,142 @@ So sincerely thinking — <Text underline>who fits in the role of God?</Text>
 
 
 <Text underline>
-  <Title level={4}>🐒 3. Animal Avatars Degrade and Disrespect the Divine</Title>
+  <Title level={4}>Why Reincarnation Doesn’t Add Up</Title>
 </Text>
 
 <Paragraph>
-Some avatars are said to be <Text type="danger">half-lion, half-human, or even boar or fish</Text>.{" "}This raises serious questions:
+  <Title level={4}>1. Who’s Really “You” in the Next Life?</Title>
+
+  Okay, let’s start with a big one: if you’re reborn, what part of you actually comes back? In <Text strong>Hinduism</Text>, it’s the <Text code>atman</Text>, your eternal soul. But here’s the catch—most people <Text mark>don’t remember their past lives</Text>. If you’re reborn as a new kid with <Text underline>no memory</Text> of who you were, no same personality, no connection to your old life, are you really the same person?
+
+  <Text italic>Think about it:</Text> if I lose all my memories and traits, am I still “me”? It’s like saying a new phone is the same as your old one just because it has a similar chip.
+
+  <Text strong>Buddhism makes it trickier.</Text> They say there’s <Text mark>no fixed soul</Text>, just a flow of consciousness, like a river moving from one place to another. But if it’s all new thoughts and no solid “you,” how is that rebirth? Doesn’t it sound more like a <Text type="warning">totally new person</Text> with a vague link to someone else’s past? What do you think—can you call that “you” coming back?
+
+  <Text italic>Let’s make it real.</Text> Imagine a village where everyone says a little girl is the reincarnation of a kind old teacher who died years ago. She knows weird details, like where the teacher hid her favorite scarf. <Text type="danger">Chills, right?</Text> But what if she heard stories about the teacher and her young brain filled in the gaps? Kids are super impressionable—psychologists say they can “remember” things that never happened if adults talk about them enough. So, is it a soul’s memory or just a kid’s imagination? <Text type="success">What’s more likely?</Text><br /><br />
+
+  <Title level={4}>2. Where Are All the Souls Coming From?</Title>
+
+  Here’s another head-scratcher: the world’s population is exploding. Back in 1800, there were about 1 billion people. <Text strong>Now? Over 8 billion!</Text> If reincarnation is real, <Text underline>where are all these new souls</Text> or consciousness streams coming from?
+
+  Hinduism says souls can come from animals, so maybe a cow’s soul is now a human. But are there enough souls to go around? If souls are infinite, <Text italic>why weren’t there 8 billion people 200 years ago?</Text> Buddhism doesn’t explain how new consciousness streams pop up either.
+
+  Picture a crowded street in Delhi, kids running, vendors shouting. A Hindu guru might say each person’s life—rich or poor—is because of their past karma. But with billions more people now, were all these souls just chilling somewhere, waiting for a body? Or are new ones being made, which <Text type="danger">messes up the whole “eternal cycle” idea</Text>? Doesn’t that feel like a stretch?<br /><br />
+
+  <Title level={4}>3. Karma: A Nice Story, But Can You Prove It?</Title>
+
+  <Text code>Karma</Text> is the heart of reincarnation. It says your actions in one life decide your next one. Sounds fair, right? But here’s the problem: <Text type="danger">you can’t prove it.</Text> Why is one kid born with a disability and another healthy? Karma says it’s because of past-life actions. But how do we know?
+
+  <Text italic>It’s like saying, “You’re sick because you were bad before, and we know you were bad because you’re sick.”</Text> That’s a circle, not an answer.
+
+  <Text type="warning">Worse, karma can lead to some ugly ideas.</Text> Imagine a young girl, maybe 15, who’s been through something horrific, like rape. According to strict reincarnation logic, her suffering could be because she did something bad in a past life. Or maybe the rapist is “settling a score” from a previous life.
+
+  <Text type="danger">Does that sit right with you?</Text> Blaming a victim or justifying a crime because of an unprovable past life feels <Text underline>cruel, not just</Text>. It’s like telling a grieving dad his daughter’s pain was her fault. That’s not justice—it’s a <Text type="danger">cop-out</Text>.<br /><br />
+
+  <Title level={4}>Bonus POV - Teasing the Reincarnation Logic</Title>
+
+  Hindus always cry when <Text code>Bakri Eid</Text> (Eid Al Adha) comes when Muslims sacrifice goats, cows, sheep, and camels. Hindus say, <Text italic>"You monsters, you all will be reincarnated as animals and you would also be sacrificed by the poor animals who will reborn as humans and then you'll understand how it feels!!!"</Text><br /><br />
+
+  An old Hindu man said the same thing to me. So my little naughty brain countered his claim like this: <Text strong>"Uncle, if you truly believe reincarnation is true, then that could also mean that I am myself taking revenge on the animals by sacrificing them, because they sacrificed me in my previous life? This could also be the case right? If yes, then you don't have anything to say at all! Grab popcorn and enjoy the revenge show!"</Text>
+
+  Then the old man smiled and admitted his defeat saying, <Text mark>"Yeah that's also right."</Text><br /><br />
+
+  So? <Text type="success">Nothing is evil if reincarnation comes in!</Text> Reincarnation does not leave room for forgiveness, it leads only to <Text code>“an eye for an eye”</Text>. And as Mahatma Gandhi said, <Text italic>"an eye for an eye, makes the whole world blind."</Text> So, <Text type="warning">the cycle of revenge will keep going on and on and on...</Text>
 </Paragraph>
 
-<Paragraph>
-<Text italic>Why would the supreme divine being choose to manifest in lower life forms?</Text><br/>
-<Text italic>What wisdom is there in taking form as an animal?</Text><br/>
-<Text italic>Is God trying to impress or confuse?</Text>
-</Paragraph>
 
 <Paragraph>
-This <Text type="warning">blurs the line between Creator and creation</Text>, leading to religious confusion and even <Text type="danger">idol worship</Text>.
+  <Title level={4}>4. What is even the purpose of Reincarnation?</Title>
+
+  <Text code>Reincarnation</Text> — the belief that souls are reborn into new bodies after death — is central to <Text strong>Hinduism and Buddhism</Text>. According to these traditions, the soul goes through a cycle of birth, death, and rebirth called <Text code>Samsara</Text>.
+
+  The goal of this cycle varies slightly between religions:
+
+  <Text mark>In Hinduism</Text>, it is to eventually achieve <Text italic>moksha</Text> — liberation from the cycle — by worshipping God(s), doing righteous deeds, and purifying one’s karma.
+
+  <Text mark>In Buddhism</Text>, the aim is to attain <Text italic>nirvana</Text>, the cessation of desire and suffering, by following the Eightfold Path and letting go of attachment and ego.
+
+  But here’s a serious question:
+
+  <Title level={4}>🧩 If You Can’t Remember Your Past Life… What’s the Point?</Title>
+  
+  Let’s assume the theory is true: you made some mistake in a past life, so you're reborn into a new body to try again.
+
+  But if you don’t remember your past life, past sins, or past lessons — <Text underline>how are you supposed to improve?</Text> What exactly are you being punished for? How do you rectify something you have no knowledge of?
+
+ {" "} <Text mark>This is like a teacher giving a student an exam. The student fails.
+  But instead of giving feedback, the teacher erases the student’s memory and hands them the same test again.</Text>
+
+  <Text italic>What do you expect will happen?</Text><br /><br />
+
+  <Text type="danger">The student is likely to fail again — and again — and again.</Text>
 </Paragraph>
 
-<Paragraph>
-<Text strong>Islam puts a strict barrier between God and creation.</Text>{" "}You can love prophets and saints, but you <Text underline>never mix them with God</Text>.
-</Paragraph>
 
 <Paragraph>
-This line was blurred in avatar belief and led to <Text type="danger">mass polytheism and idolatry</Text>.
-</Paragraph>
+  <Title level={4}>🚫 The Lie of “Merciful Rebirth” — Exposed</Title>
 
-<Paragraph>
-Some Hindus argue that <Text mark>you can't put a limit to God</Text>.{" "}He can do whatever he wants.{" "}He doesn't act on your intellect or will.{" "}He can do whatever he wants anytime anywhere.{" "}Who are you to question him.
-</Paragraph>
+  <Text italic>Hindus love to say:</Text><br />
+  <Text underline><Text italic>"At least our gods aren't cruel like Allah — who gives only one life."</Text></Text>
 
-<Paragraph>
-To answer this as a Muslim, <Text strong>Yes, we can't question God about what He does or not.</Text>{" "}The Quran verse that speaks to this topic is <Text mark>Surah 21:23</Text>, which states,{" "}
-<Text code>"He cannot be questioned concerning what He does, but they will be questioned."</Text>{" "}This verse asserts <Text underline>God's sovereignty</Text> and the <Text type="success">ultimate accountability of humans</Text>, not the other way around.
-</Paragraph>
+  But let’s break that delusion.
 
-<Paragraph>
-Now, even if we can't question God's actions — still it doesn't mean that <Text type="warning">whatever He does, we will believe blindly</Text>.{" "}We believe <Text strong>God is holy and pure</Text>, <Text success>God is good</Text>.{" "}Now if a scripture (let's say) says that <Text type="danger">God rapes, God cheats, God lies</Text>.{" "}Sounds absurd right?{" "}Now imagine that the followers of those scriptures parrot the exact same argument that you give:{" "}
-<Text italic>"He can do whatever He wants.{" "}No one can question Him."</Text>
-</Paragraph>
+  <Text strong>What’s the point of infinite lives…</Text><br />
+  <Text mark>If you remember none of them?</Text><br />
+  <Text mark>If you don’t even know what mistake you made in the last life?</Text><br />
+  <Text mark>If you're thrown into a new body with zero memory, zero purpose, zero guidance?</Text>
 
-<Paragraph>
-So does that mean we should accept that God lies, rapes, cheats?{" "}
-<Text strong>No.</Text>{" "}Why?{" "}Because it <Text mark>DOES NOT suit God</Text> to do such things.
-</Paragraph>
+  That’s not mercy — <Text type="danger">that’s torture on loop.</Text><br />
+  <Text strong>An eternal, blindfolded punishment</Text> with no map, no feedback, and no justice.
 
-<Paragraph>
-Imagine a king begging in a street — the king can do whatever he wants — but <Text type="warning">does this action suit him?</Text>{" "}No.{" "}As a king, <Text underline>this is disrespectful</Text>.
-</Paragraph>
+  <Text italic>It’s like a teacher failing you again and again on the same exam —</Text><br />
+  but never telling you what you got wrong,<br />
+  and wiping your memory each time.
 
-<Paragraph>
-Similarly, even if God has the capability to become human — <Text strong>does NOT mean He should become a human</Text>.{" "}Because that <Text type="danger">does NOT suit His nature</Text>.
-</Paragraph>
+  Tell me: <Text underline>what kind of god would design such a cruel joke?</Text>
 
-<Paragraph>
-Here the argument that <Text code>"God can do whatever He wants — you cannot question Him"</Text> — this argument will <Text type="danger">not work</Text>.
+  <Text type="warning">Now listen carefully — you genius Hindus —</Text><br />
+  <Text strong>Allah doesn’t give only one chance.</Text>
+
+  <Text type="success">He gives you a million — in just this one life:</Text>
+
+  <Text code>Every day, you wake up, that’s a chance.</Text><br />
+  <Text code>Every time you hear the Qur'an, that’s a warning.</Text><br />
+  <Text code>Every moment your heart still beats — that’s divine mercy calling you.</Text>
+
+  But what do you do with it?<br />
+
+  <Text mark>You waste it</Text> — scrolling reels,<br />
+  watching <Text italic>babbling sadhus</Text> with fancy Sanskrit chants,<br />
+  who talk for 3 hours and still say nothing.<br />
+  <Text type="warning">Thousands of words — zero substance.</Text><br />
+  Just noise that protects your ego and confirms your illusions.
+
+  You don’t follow truth.<br />
+  You follow <Text underline>comfort</Text>.
+
+  <Text type="danger">And when your body will burn in hellfire and begs for another life…</Text><br />
+  <Text type="success">Allah will say — as He said in the Qur’an:</Text><br /><br />
+
+  <Text code>“If they were returned to life, they would do the same things again. They are liars.”</Text><br />
+  <Text italic>— Qur’an (6:28)</Text><br /><br />
+
+  <Text type="danger">You had your chance. You ignored it. You lied to yourself.</Text><br /><br />
+
+  <Text mark>This life is your test.</Text><br />
+  <Text mark>This Qur’an is your guide.</Text><br />
+  <Text mark>This warning is your wake-up call.</Text><br /><br />
+
+  And no, <Text type="warning">you won’t get reborn as a tree or a king or a cow</Text> who might get sacrificed by a mulla in bakrid.
+
+  <Text strong>You’ll return to the One who created your soul —</Text><br />
+  And <Text underline>He does not forget</Text>, and He does not forgive rebellion without repentance.<br /><br />
+
+  <Paragraph type="secondary" italic>
+    Mercy isn’t in giving you infinite lifetimes of confusion.<br />
+    Mercy is giving you truth — and a heart to accept it.<br />
+    Use it before it’s sealed forever.
+  </Paragraph>
 </Paragraph>
 
 
@@ -146,228 +204,137 @@ Here the argument that <Text code>"God can do whatever He wants — you cannot q
 
 <hr />
 
-<Text underline>
-  <Title level={4}>4. If Concept of Avatar is true - why God stopped taking avatars??</Title>
-</Text>
-
 <Paragraph>
-Currently, in this world, there are even <Text type="danger">lot more evil than Ravana and Kansha</Text>.{" "}The demons depicted in Hindu beliefs are <Text italic>less evil</Text> than the evil that is currently in this world.{" "}
-So if God took avatars to remove evil, <Text strong>why did He stop taking avatars??</Text>
-</Paragraph>
+  <Title level={4}>🔁 An Eternal Cycle Without a Guide</Title>
+  Reincarnation, as taught in Hinduism and Buddhism, creates a cycle of error without clarity, punishment without memory, and tests without answers.{" "}
+  <Text underline>There is no divine feedback, no revelation, no preserved guidance.</Text>
 
-<Paragraph>
-If <Text mark>Vishnu takes avatars</Text> (like Rama, Krishna) to restore dharma, <Text warning>why did he stop appearing?</Text>{" "}Why no avatars in the last <Text underline>2,000 years?</Text>
-</Paragraph>
+  Just karma, fate, and a mysterious hope that somehow, in some life, you’ll finally get it right — even though you’re blind to what you did wrong in the first place.
 
-<Paragraph>
-<Text strong>1st excuse given by a Hindu:</Text> <Text code>"Kalki Avatar is yet to come!"</Text>
-</Paragraph>
+  <Text type="danger">This undermines the very concept of moral accountability.</Text>{" "}
+  <Text strong>What kind of justice is that?</Text>
 
-<Paragraph>
-<Text strong>My reply to that Hindu:</Text>{" "}
-<Text italic>"If Vishnu really cared about humanity, why wait thousands of years while evil spreads?</Text>{" "}
-If Kalki is supposed to come only at the end, then Vishnu is <Text type="danger">deliberately allowing suffering to increase</Text> — does that make him <Text warning>merciful</Text> or <Text type="danger">indifferent</Text>?
-</Paragraph>
+  <Title level={4}>📖 Islam Offers a Better Alternative: One Life. One Test. One Judgment.</Title>
+  In Islam, there is no reincarnation. You live once, you die once, and you are resurrected for judgment.
 
-<Paragraph>
-Lots of children are dying,{" "}lots of women folks getting raped and killed,{" "}
-<Text type="danger">justice is still due</Text>,{" "}many people are not getting their hard-earned money due to <Text mark>corruption</Text>.{" "}
-Mass genocide happening currently in <Text type="danger">Gaza</Text>.{" "}Why is he silent?{" "}
-There were a lot of mass genocides happened previously.{" "}
-Why your god didn't come down and fight against them?
-</Paragraph>
+  <Text code>“Every soul shall taste death. Then to Us you will be returned.”</Text>{" "}
+  <Text italic>— Qur’an (29:57)</Text>
 
-<Paragraph>
-Was he weak?{" "}Didn't he know how to dodge bullets and grenades and bombs and nuclear missiles?{" "}
-Where was he when <Text code>bombs were dropped on Hiroshima and Nagasaki?</Text>{" "}
-Where was he when <Text warning>lots of children were dying in Gaza?</Text>
-</Paragraph>
+  You are held accountable only for what you actually knew and remembered.{" "}
+  <Text mark>And Allah sends:</Text>
 
-<Paragraph>
-Does your god only save Hindus?{" "}
-He doesn't care about other culture and faith people???
-</Paragraph>
+  <Text type="success">Prophets to guide you</Text><br />
+  <Text type="success">Revelation to teach you</Text><br />
+  <Text type="success">Signs in your own life to reflect on</Text>
 
-<Paragraph>
-Also, why your Gods only took avatars in <Text type="success">India</Text> and not other countries like <Text strong>Russia, Netherlands, Spain, France</Text> back then???{" "}
-Were those places <Text italic>paradise</Text> back then or what???
-</Paragraph>
+  There’s no hidden karma, no forgotten sins, and no mystery cycles.{" "}
 
-<Paragraph>
-If he really cares about humanity and wants to remove evil,{" "}
-then <Text underline>he should buy a home permanently here</Text> and stay here until the whole world is destroyed.{" "}
-Because if <Text strong>I was in his place</Text> and I decided to take "avatars",{" "}
-<Text success>I would have done that</Text>.{" "}
-Stayed permanently with my creation and <Text type="warning">fighting against evil</Text> with my <Text mark>divine forces!</Text>
-</Paragraph>
+  <Text strong>And what about those who die without knowing Allah or Islam?</Text>{" "}
+  <Text type="warning">Don't worry, they are not punished.</Text> Allah does not punish anyone wrongly!{" "}
+  <Text italic>Allah will only punish those non-Muslims who, even after knowing Islam, refused to research or took no interest in the truth, or those who knowingly rejected it.</Text>
 
-<Paragraph>
-<Text strong>2nd excuse given by a Hindu:</Text>{" "}
-<Text code>"God only appears when dharma is completely lost. OR Avatars come only when evil fully dominates (like in Ramayana and Mahabharata)."</Text>
-</Paragraph>
+  But your pagan belief?{" "}
+  <Text type="danger">Oh hoo hoo — Even if someone dies without knowing Hinduism or Buddhism — he is still stuck in the merciless cycle of reincarnation.</Text>{" "}
+  <Text strong>An endless suffering!</Text>
 
-<Paragraph>
-<Text strong>My reply to that Hindu:</Text>{" "}
-<Text italic>"Today, corruption, oppression, and false religions (as per Hinduism) are widespread</Text> —{" "}
-<Text warning>why no avatar now?</Text>{" "}
-If Vishnu came for <Text mark>smaller issues in the past</Text> (like <Text code>Vamana avatar for Bali</Text>),{" "}
-why ignore <Text underline>bigger problems today?</Text>
-</Paragraph>
+  <Title level={4}>⚖️ Real Justice Requires Real Memory</Title>
+  <Text mark>If you’re punished for something, you deserve to know what it is.</Text><br />
+  If you’re tested, you deserve to know the subject.<br />
+  If you’re meant to grow, you deserve to be aware of your past.
 
-<Paragraph>
-If <Text type="danger">evil must reach its peak</Text> before God intervenes, then <Text warning>God is allowing evil to grow</Text> —{" "}
-which <Text type="danger">contradicts his role as a sustainer of dharma</Text>.
-</Paragraph>
+  <Text type="success">Only Islam fulfills these criteria.</Text>
 
-<Paragraph>
-Even today, <Text strong>many Hindus are quickly becoming atheists or agnostics</Text>{" "}
-when they see <Text mark>criticism of their dharma online</Text> or in <Text underline>YouTube debates</Text>.{" "}
-Why isn't God coming down?{" "}Is this because He allows it?{" "}
-If yes, then <Text italic>why?</Text>{" "}
-Why does He allow this but not the evil of Ramayana or Mahabharata?
-</Paragraph>
+  <Paragraph type="secondary" italic>
+    Reincarnation offers you a cycle with no closure.{" "}
+    Islam offers you a clear beginning, a purposeful life, and a final reckoning with full awareness.
+  </Paragraph>
 
-<Paragraph>
-It was not even a <Text warning>global evil</Text> but a <Text italic>local regional conflict</Text> and <Text mark>family issues</Text>.
-</Paragraph>
+  <Text type="success">One soul. One life. One judgment. That’s divine justice.</Text>
 
-<Paragraph>
-Hindu political leaders keep screaming <Text code>"Dharma khatre me hai - Hindu khatre me hai"</Text>{" "}(<Text italic>Our religion is under danger - Hindus are under danger</Text>).{" "}
-Did God become <Text type="danger">deaf</Text> or did He become <Text type="success">too busy playing flute</Text>{" "}
-that the <Text strong>cries of Hindus</Text> are not reaching Him?{" "}
-<Text underline>What is it?</Text>
-</Paragraph>
+  <Title level={4}>🌍 Why Only in Some Cultures?</Title>
+  Reincarnation is huge in India, but not so much elsewhere.{" "}
+  Christians, Muslims, and Jews usually believe in one life, then heaven or hell.{" "}
+  <Text strong>If reincarnation is a universal truth, why isn’t it universal?</Text>{" "}
 
-<Paragraph>
-<Text strong>3rd excuse given by a Hindu:</Text>{" "}
-<Text code>"We are in Kali Yuga; God doesn’t descend in this age. Avatars only happen in Satya, Treta, and Dwapara Yugas, not Kali Yuga (except Kalki at the end)."</Text>
-</Paragraph>
+  Why don’t we hear past-life stories from ancient Egypt or Viking Norway?{" "}
+  It seems like reincarnation grew out of India’s way of seeing time as a cycle, not a straight line.
 
-<Paragraph>
-<Text strong>My reply to that Hindu:</Text>{" "}
-<Text italic>"If Vishnu is all-powerful</Text>, why can’t he appear in Kali Yuga?{" "}
-Does <Text mark>time restrict God?</Text>{" "}
-Hinduism claims <Text underline>God is beyond time (Kala Atita)</Text>, yet he is <Text warning>bound by Yugas</Text> —{" "}
-This is an <Text type="danger">undeniable contradiction</Text>.{" "}
-If Kali Yuga is the worst age, shouldn’t God be <Text type="success">more active</Text>, not less?{" "}
-Why should he appear at the end??
-</Paragraph>
+  Imagine a Tibetan kid claiming he’s a monk from 100 years ago, describing old rituals perfectly.{" "}
+  <Text type="warning">Spooky, right?</Text> But you don’t hear those stories in, say, Brazil or Russia.{" "}
+  <Text italic>Why not?</Text>{" "}If reincarnation is real, shouldn’t it show up everywhere?
 
-<Paragraph>
-<Text italic>This is like:</Text>{" "}
-If you are a doctor and you realize a person is suffering with cancer in 1st stage, and you don’t treat him,{" "}
-but <Text warning>wait until stage 4</Text> — and then treat him.{" "}
-If the world knew, would they <Text type="danger">worship you</Text> or <Text underline>curse you</Text>?{" "}
-Yes, you cured the patient, <Text strong>but you let him suffer till the end.</Text>
-</Paragraph>
+  Or is it just a belief that fits certain cultures,{" "}
+  <Text type="danger">like how some people love spicy food and others don’t?</Text>
 
-<Paragraph>
-<Text strong>4th excuse given by a Hindu:</Text>{" "}
-<Text code>"God is present in temples and in our hearts; no need for avatars. Vishnu is worshipped in idols (like Tirupati, Jagannath), so he doesn’t need to take human form."</Text>
-</Paragraph>
+  Also, if you see, very few people claim to remember their past lives while the majority do not!{" "}
+  <Text underline>(99% of population do not remember past lives, while 1% do)</Text>{" "}
+  <Text strong>If your pagan gods wanted us to believe in reincarnation, then why didn’t they allow it for the majority?</Text>
 
-<Paragraph>
-<Text strong>My reply to that Hindu:</Text>{" "}
-If idols are enough, <Text italic>why did he take physical form in the past?</Text>{" "}
-<Text warning>Idols cannot establish dharma</Text>, punish evil, or guide humanity like Rama and Krishna did.{" "}
-If God is <Text underline>"in our hearts"</Text>, why do Hindus still wait for Kalki?{" "}
-An idol <Text type="danger">can't even remove a fly</Text> if it sits on it,{" "}
-and you're talking about <Text strong>restoring dharma?</Text>{" "}
-If I grab a Hindu god’s idol and put it <Text type="danger">upside down</Text>, it <Text italic>can’t even fix its own posture</Text>.{" "}
-And you claim that <Text type="success">idol will remove evil?</Text>{" "}Nice joke!
-</Paragraph>
-
-<Paragraph>
-<Text strong>5th and possibly the final excuse given by a Hindu:</Text>{" "}
-<Text code>"Avatars are symbolic, not real."</Text>
-</Paragraph>
-
-<Paragraph>
-<Text strong>My reply to that Hindu:</Text>{" "}
-If avatars are <Text warning>not real</Text>, then Rama and Krishna never existed.{" "}
-This suggests that Hindu scriptures (<Text code>Puranas, Itihasas</Text>) are just <Text italic>stories for timepass</Text>.{" "}
-And if they are just stories, then <Text danger>Hindu dharma has no divine foundation</Text>.{" "}
-Then why worship imaginary beings instead of the <Text underline><Text type="success">One True God (Allah in Islam)</Text></Text>?
-</Paragraph>
-
-<Paragraph type="secondary" italic>
-Hopefully a sincere Hindu now will think about his shaky belief and how weak its foundation is.
+  Even then, it's totally subjective.{" "}
+  <Text type="warning">We have no way to verify if the subject is speaking true or false.</Text><br />
+  It could have been considered possible only if the majority remembered their past lives.{" "}
+  <Text type="danger">But they don’t — so it’s ruled out!!!</Text>
 </Paragraph>
 
 
 
 <hr />
 
-<Text underline>
-  <Title level={4}>5. Tawheed: The Solution to All Confusion</Title>
-</Text>
+<Paragraph>
+  <Title level={4}>🚷 6. How Reincarnation Was Used as a Tool for Discrimination</Title>
+
+  Reincarnation, a core belief in Hinduism and Buddhism, has often been <Text strong>misused to justify discrimination</Text>, tying a person’s current circumstances to their past-life karma.{" "}
+  
+  In Hinduism, the caste system historically linked social status to karma,{" "}
+  <Text mark>suggesting that those born into lower castes, like the Dalits, deserved their hardships due to past-life sins.</Text>
+
+  For example, in rural India, Dalits have been denied access to temples or forced into degrading jobs like manual scavenging,{" "}
+  <Text type="danger">with some justifying this by saying their low status reflects karmic retribution.</Text>
+
+  In Buddhism, while less focused on caste, karma has been used to explain suffering,{" "}
+  <Text type="warning">sometimes blaming individuals for their misfortunes.</Text>
+
+  Consider a Buddhist woman in Sri Lanka, shunned by her community after surviving an assault,{" "}
+  <Text italic>with elders implying her suffering was karmic payback from a past life.</Text>
+
+  <Text underline>Such interpretations foster victim-blaming and social exclusion, ignoring systemic issues like poverty or violence.</Text>
+
+  By tying inequality to an unprovable past,{" "}
+  <Text type="danger">reincarnation has been twisted to excuse discrimination,</Text>{" "}
+  leaving marginalized groups — like Dalits or victims of trauma — bearing the weight of a cosmic narrative they cannot challenge.
+</Paragraph>
 
 <Paragraph>
+  <Title level={4}>🤔 So, What Do You Think?</Title>
+  
+  <Text strong>Reincarnation is a beautiful brainwashing lie, myth, story</Text>, born from our need to understand a messy world.{" "}
+  And when you look closely,{" "}
+  <Text type="warning">it’s like a house of cards — pretty, but it falls apart under scrutiny.</Text>
 
-<Text underline>Islam solves every problem</Text> that <Text warning>avatar theology</Text> creates:
+  The rebirth of soul thing doesn’t add up,{" "}
+  the population boom is a puzzle,{" "}
+  not being able to remember past mistakes and the purpose of reincarnation{" "}
+  <Text type="danger">demolishes it,</Text>{" "}
+  and it’s not even a global belief — even though{" "}
+  <Text mark>humanity, specifically anatomically modern Homo sapiens, is estimated to be around 300,000 years old,</Text>{" "}
+  with the earliest evidence of these humans appearing in Africa, scientifically.
 
-<Text success>God is One, absolutely unique and unlike creation</Text> — no incarnations, no part-human forms.{" "}
-<Text strong>He sends guidance, not gods in flesh.</Text>{" "}
-He <Text mark>does not suffer, bleed, or die</Text>.{" "}
-He is <Text underline>eternal, sovereign, and perfect</Text>.{" "}
-He’s always in control — <Text strong>never needing to descend or pretend</Text> to be weak.
-
-<Text italic>This belief brings clarity, logic, dignity, and peace.</Text>{" "}
-<Text danger>No man becomes God, and no God becomes man.</Text>
-
-<Text code>“There is nothing whatever like unto Him.” — Qur’an 42:11</Text>
-
-Unlike avatar doctrines that confuse between creation and Creator,{" "}
-Islam places a <Text strong>firm boundary</Text>:{" "}
-You may <Text success>love prophets</Text>, but you <Text danger>never worship them.</Text>{" "}
-
-Islam teaches that <Text underline>the Creator is always above His creation</Text>, not part of it.{" "}
-If He wants to stop evil, <Text strong>He simply commands it — "Be", and it is.</Text>{" "}
-
-<Text code>“His command is only when He intends a thing that He says to it, ‘Be,’ and it is.” — Qur’an 36:82</Text>
-
-<Text italic>No theatrics, no incarnations, no confusion.</Text> Just <Text success>pure monotheism (Tawheed)</Text>.
-
-<Paragraph type="secondary" italic>
-When truth is pure, it doesn’t need drama — it just shines.
+  <Text type="danger">Plus, blaming victims for past-life sins? That’s not fair.</Text>
 </Paragraph>
-</Paragraph>
-
-
-
-
-
-
-<hr />
-
-<Text underline>
-  <Title level={4}>✨ Conclusion: Worship the One Who Never Becomes Anything</Title>
-</Text>
 
 <Paragraph>
+  <Text code>Next time someone says, “It’s just karma,” ask them: “How do you know?”</Text><br />
+  Or when you hear a past-life story, wonder:{" "}
+  <Text italic>“Is this real, or just a good tale?”</Text><br /><br />
+  
+  <Text type="success">Life’s too short to bank on a next one.</Text>{" "}
+  <Text underline>What if this is your only shot?</Text>{" "}
+  <Text strong>What would you do differently today?</Text>
 
-The concept of <Text warning>avatar</Text> is <Text type="danger">not divine</Text> — it is <Text italic>mythical</Text>, born of human imagination trying to make God more <Text underline>"relatable"</Text>.{" "}
-But in doing so, it <Text danger>drags Him down to human level</Text>, making Him <Text mark>limited, confusing, and dependent</Text>.
-
-<Text success>Islam restores the real image of God</Text> — <Text strong>All-Powerful, Ever-Living, Self-Sufficient, above all His creation</Text>.{" "}
-
-<Text code>If God must become like us to be loved or feared, then that’s not God — That’s weakness dressed in robes of glory.</Text>
-
-🔥 <Text strong>Tawheed</Text> is the <Text code>sword</Text> that cuts through all idol worship and fantasy.{" "}
-
-<Text underline>Worship the One who created avatars, not the avatars themselves.</Text>
-
-<Paragraph type="secondary" italic>
-Let the Creator be exalted, not reduced — that is true reverence.
+  <Paragraph type="secondary" italic>
+    Let’s make it count.
+  </Paragraph>
 </Paragraph>
-
-</Paragraph>
-
-
-
-
-
-
 
 <hr />
       </Typography>
